@@ -1,5 +1,7 @@
 # articulate-decks
 
+<br>
+
 #### Each deck follows this schema:
 
 ```json
@@ -24,4 +26,11 @@
 
 ### ⚠️ **Important:**
 
-### You must register all new `packs/<deck>.json` files in `decks-index.json`. Missing files will not appear for user download.
+#### You must register all new `packs/<deck>.json` files in `decks-index.json`. Missing files will not appear for user download.
+
+<br>
+<br>
+
+## Related Projects
+
+- Core Game Engine: Check out the main multiplayer word game repository at [fran-mg/articulate-game](https://github.com).
