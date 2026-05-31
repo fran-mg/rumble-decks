@@ -21,3 +21,7 @@
   ]
 }
 ```
+
+### ⚠️ **Important:**
+
+### You must register all new `packs/<deck>.json` files in `decks-index.json`. Missing files will not appear for user download.
