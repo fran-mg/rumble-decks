@@ -1,0 +1,114 @@
+{
+  "decks": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "category": "Nature",
+      "description": "From household pets to wild beasts — guess the creature!",
+      "icon": "PawPrint",
+      "color": "#22C55E",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/animals.json",
+      "cardCount": 60
+    },
+    {
+      "id": "famous-people",
+      "name": "Famous People",
+      "category": "People",
+      "description": "Actors, athletes, politicians, and legends — who are they?",
+      "icon": "Star",
+      "color": "#F59E0B",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-people.json",
+      "cardCount": 60
+    },
+    {
+      "id": "food-and-drink",
+      "name": "Food & Drink",
+      "category": "Lifestyle",
+      "description": "Dishes, ingredients, cuisines, and beverages from around the world.",
+      "icon": "UtensilsCrossed",
+      "color": "#EF4444",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/food-and-drink.json",
+      "cardCount": 60
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "category": "Education",
+      "description": "Events, figures, and moments that shaped the world.",
+      "icon": "Landmark",
+      "color": "#A16207",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/history.json",
+      "cardCount": 60
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "category": "Entertainment",
+      "description": "Iconic films from every genre and era — lights, camera, guess!",
+      "icon": "Film",
+      "color": "#EAB308",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/movies.json",
+      "cardCount": 60
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "category": "Entertainment",
+      "description": "Artists, bands, songs, and genres spanning decades of music.",
+      "icon": "Music",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/music.json",
+      "cardCount": 60
+    },
+    {
+      "id": "places",
+      "name": "Places",
+      "category": "Geography",
+      "description": "Cities, countries, landmarks, and destinations across the globe.",
+      "icon": "MapPin",
+      "color": "#06B6D4",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/places.json",
+      "cardCount": 60
+    },
+    {
+      "id": "pop-culture-2000s",
+      "name": "Pop Culture 2000s",
+      "category": "Entertainment",
+      "description": "Trends, celebs, shows, and moments that defined the 2000s.",
+      "icon": "Tv",
+      "color": "#EC4899",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/pop-culture-2000s.json",
+      "cardCount": 60
+    },
+    {
+      "id": "science-and-technology",
+      "name": "Science & Technology",
+      "category": "Education",
+      "description": "Inventions, discoveries, concepts, and tech that changed the world.",
+      "icon": "FlaskConical",
+      "color": "#3B82F6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/science-and-technology.json",
+      "cardCount": 60
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "category": "Sports",
+      "description": "Athletes, teams, sports, and legendary moments in sporting history.",
+      "icon": "Trophy",
+      "color": "#F97316",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/sports.json",
+      "cardCount": 60
+    },
+    {
+      "id": "tv-shows",
+      "name": "TV Shows",
+      "category": "Entertainment",
+      "description": "Classic and modern television series everyone has watched.",
+      "icon": "MonitorPlay",
+      "color": "#14B8A6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/tv-shows.json",
+      "cardCount": 38
+    }
+  ]
+}

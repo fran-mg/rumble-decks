@@ -1,0 +1,355 @@
+{
+  "id": "tv-shows",
+  "name": "TV Shows",
+  "category": "Entertainment",
+  "description": "Iconic television series and moments",
+  "difficulty": "Medium",
+  "tags": ["TV", "television", "entertainment", "streaming", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "tv-001",
+      "word": "BREAKING BAD",
+      "tabooWords": [
+        "Walter White",
+        "Heisenberg",
+        "meth",
+        "chemistry",
+        "Bryan Cranston"
+      ],
+      "charadesHint": "cook blue crystals in a hazmat suit in the desert",
+      "passwordHint": "Heisenberg"
+    },
+    {
+      "id": "tv-002",
+      "word": "GAME OF THRONES",
+      "tabooWords": [
+        "Westeros",
+        "dragons",
+        "iron throne",
+        "winter",
+        "Jon Snow"
+      ],
+      "charadesHint": "sit on a throne of swords menacingly",
+      "passwordHint": "winter"
+    },
+    {
+      "id": "tv-003",
+      "word": "FRIENDS",
+      "tabooWords": ["Central Perk", "Rachel", "Ross", "sofa", "New York"],
+      "charadesHint": "sit on a coffee shop sofa and clap to the theme tune",
+      "passwordHint": "coffee"
+    },
+    {
+      "id": "tv-004",
+      "word": "THE SIMPSONS",
+      "tabooWords": ["Homer", "Springfield", "yellow", "Bart", "donut"],
+      "charadesHint": "strangle a yellow child shouting D'oh",
+      "passwordHint": "donut"
+    },
+    {
+      "id": "tv-005",
+      "word": "STRANGER THINGS",
+      "tabooWords": [
+        "Eleven",
+        "Upside Down",
+        "Netflix",
+        "Hawkins",
+        "Demogorgon"
+      ],
+      "charadesHint": "flip lights and communicate through the wall",
+      "passwordHint": "Upside Down"
+    },
+    {
+      "id": "tv-006",
+      "word": "THE CROWN",
+      "tabooWords": [
+        "Queen Elizabeth",
+        "Royal Family",
+        "Netflix",
+        "palace",
+        "Britain"
+      ],
+      "charadesHint": "sit rigid in a palace giving a stiff formal speech",
+      "passwordHint": "palace"
+    },
+    {
+      "id": "tv-007",
+      "word": "SUCCESSION",
+      "tabooWords": ["Roy family", "media", "power", "HBO", "Logan"],
+      "charadesHint": "backstab your own family for a media empire",
+      "passwordHint": "Logan"
+    },
+    {
+      "id": "tv-008",
+      "word": "SQUID GAME",
+      "tabooWords": ["Korean", "games", "Netflix", "death", "Green Light"],
+      "charadesHint": "freeze as a giant doll turns around",
+      "passwordHint": "Green Light"
+    },
+    {
+      "id": "tv-009",
+      "word": "THE OFFICE US",
+      "tabooWords": ["Michael Scott", "Scranton", "Dwight", "NBC", "paper"],
+      "charadesHint": "declare yourself the world's best boss awkwardly",
+      "passwordHint": "Scranton"
+    },
+    {
+      "id": "tv-010",
+      "word": "THE WIRE",
+      "tabooWords": ["Baltimore", "police", "drugs", "HBO", "street"],
+      "charadesHint": "surveil a drug operation from a wire tap van",
+      "passwordHint": "Baltimore"
+    },
+    {
+      "id": "tv-011",
+      "word": "PEAKY BLINDERS",
+      "tabooWords": ["Tommy Shelby", "Birmingham", "gang", "cap", "British"],
+      "charadesHint": "flip a flat cap and stare menacingly",
+      "passwordHint": "Shelby"
+    },
+    {
+      "id": "tv-012",
+      "word": "DOWNTON ABBEY",
+      "tabooWords": ["aristocracy", "servants", "English", "Crawley", "WWI"],
+      "charadesHint": "argue about dinner seating in a grand English estate",
+      "passwordHint": "aristocracy"
+    },
+    {
+      "id": "tv-013",
+      "word": "DOCTOR WHO",
+      "tabooWords": ["TARDIS", "Dalek", "time travel", "British", "regenerate"],
+      "charadesHint": "step out of a police box in time and space",
+      "passwordHint": "TARDIS"
+    },
+    {
+      "id": "tv-014",
+      "word": "GREY'S ANATOMY",
+      "tabooWords": ["surgery", "Seattle", "hospital", "drama", "Meredith"],
+      "charadesHint": "fall in love during an intense surgery",
+      "passwordHint": "surgery"
+    },
+    {
+      "id": "tv-015",
+      "word": "SHERLOCK",
+      "tabooWords": ["Holmes", "Watson", "detective", "BBC", "deduction"],
+      "charadesHint": "scan a person and deduce their entire life in seconds",
+      "passwordHint": "deduction"
+    },
+    {
+      "id": "tv-016",
+      "word": "THE SOPRANOS",
+      "tabooWords": ["Tony", "mafia", "New Jersey", "therapy", "HBO"],
+      "charadesHint": "go to therapy about your mafia problems",
+      "passwordHint": "Tony"
+    },
+    {
+      "id": "tv-017",
+      "word": "BRIDGERTON",
+      "tabooWords": [
+        "regency",
+        "romance",
+        "Netflix",
+        "Lady Whistledown",
+        "London"
+      ],
+      "charadesHint": "debut in Regency society as a gorgeous eligible suitor",
+      "passwordHint": "regency"
+    },
+    {
+      "id": "tv-018",
+      "word": "SEX AND THE CITY",
+      "tabooWords": ["Carrie", "New York", "fashion", "love", "Manolo Blahnik"],
+      "charadesHint": "carry designer shoes down Fifth Avenue with three friends",
+      "passwordHint": "Carrie"
+    },
+    {
+      "id": "tv-019",
+      "word": "BLACK MIRROR",
+      "tabooWords": ["technology", "dark", "future", "Netflix", "screen"],
+      "charadesHint": "discover technology has created a terrifying dystopia",
+      "passwordHint": "technology"
+    },
+    {
+      "id": "tv-020",
+      "word": "DEXTER",
+      "tabooWords": [
+        "serial killer",
+        "blood",
+        "Miami",
+        "wrap",
+        "dark passenger"
+      ],
+      "charadesHint": "carefully wrap a victim in plastic sheeting",
+      "passwordHint": "blood"
+    },
+    {
+      "id": "tv-021",
+      "word": "ARRESTED DEVELOPMENT",
+      "tabooWords": ["Bluth", "dysfunctional", "comedy", "Fox", "banana"],
+      "charadesHint": "run a dysfunctional banana stand with a terrible family",
+      "passwordHint": "banana stand"
+    },
+    {
+      "id": "tv-022",
+      "word": "NARCOS",
+      "tabooWords": ["Pablo Escobar", "Colombia", "drugs", "cartel", "Netflix"],
+      "charadesHint": "count enormous stacks of cash in a jungle hideout",
+      "passwordHint": "cartel"
+    },
+    {
+      "id": "tv-023",
+      "word": "THE HANDMAID'S TALE",
+      "tabooWords": ["Atwood", "red cloak", "Gilead", "dystopia", "Offred"],
+      "charadesHint": "walk in silence in a red robe and white bonnet",
+      "passwordHint": "red cloak"
+    },
+    {
+      "id": "tv-024",
+      "word": "LOST",
+      "tabooWords": [
+        "island",
+        "polar bear",
+        "plane crash",
+        "smoke monster",
+        "flash"
+      ],
+      "charadesHint": "emerge dazed from a plane crash on a mysterious island",
+      "passwordHint": "island"
+    },
+    {
+      "id": "tv-025",
+      "word": "OZARK",
+      "tabooWords": [
+        "money laundering",
+        "Netflix",
+        "Marty",
+        "Missouri",
+        "cartel"
+      ],
+      "charadesHint": "move to a quiet lake town and launder cartel money",
+      "passwordHint": "laundering"
+    },
+    {
+      "id": "tv-026",
+      "word": "FLEABAG",
+      "tabooWords": [
+        "Phoebe Waller-Bridge",
+        "fourth wall",
+        "priest",
+        "BBC",
+        "comedy"
+      ],
+      "charadesHint": "look directly at the camera sharing an embarrassing secret",
+      "passwordHint": "fourth wall"
+    },
+    {
+      "id": "tv-027",
+      "word": "THE MANDALORIAN",
+      "tabooWords": [
+        "Baby Yoda",
+        "Star Wars",
+        "bounty hunter",
+        "Disney",
+        "Grogu"
+      ],
+      "charadesHint": "cradle a tiny big-eared creature in your arms",
+      "passwordHint": "Grogu"
+    },
+    {
+      "id": "tv-028",
+      "word": "MONEY HEIST",
+      "tabooWords": [
+        "La Casa de Papel",
+        "Spanish",
+        "red jumpsuit",
+        "dali mask",
+        "robbery"
+      ],
+      "charadesHint": "rob the Spanish mint in a red jumpsuit and Dali mask",
+      "passwordHint": "Dali"
+    },
+    {
+      "id": "tv-029",
+      "word": "THE LAST OF US",
+      "tabooWords": ["zombie", "Joel", "Ellie", "fungus", "HBO"],
+      "charadesHint": "protect a girl through a post-apocalyptic fungus world",
+      "passwordHint": "fungus"
+    },
+    {
+      "id": "tv-030",
+      "word": "EUPHORIA",
+      "tabooWords": ["Zendaya", "drugs", "high school", "makeup", "HBO"],
+      "charadesHint": "apply impossibly glittery makeup in a dark high school",
+      "passwordHint": "glitter"
+    },
+    {
+      "id": "tv-031",
+      "word": "CHERNOBYL HBO",
+      "tabooWords": ["nuclear", "Soviet", "reactor", "disaster", "radiation"],
+      "charadesHint": "stand near an exposed reactor in the dead of night",
+      "passwordHint": "reactor"
+    },
+    {
+      "id": "tv-032",
+      "word": "TIGER KING",
+      "tabooWords": ["Joe Exotic", "tigers", "Netflix", "murder", "zoo"],
+      "charadesHint": "wear a mullet and sequins while feeding tigers",
+      "passwordHint": "Joe Exotic"
+    },
+    {
+      "id": "tv-033",
+      "word": "TWIN PEAKS",
+      "tabooWords": ["David Lynch", "Laura Palmer", "FBI", "coffee", "pie"],
+      "charadesHint": "investigate a murder over cherry pie and damn good coffee",
+      "passwordHint": "pie"
+    },
+    {
+      "id": "tv-034",
+      "word": "HOUSE OF CARDS",
+      "tabooWords": [
+        "Frank Underwood",
+        "power",
+        "Washington",
+        "scheming",
+        "political"
+      ],
+      "charadesHint": "plot political schemes from the shadows of power",
+      "passwordHint": "scheme"
+    },
+    {
+      "id": "tv-035",
+      "word": "WESTWORLD",
+      "tabooWords": ["robots", "park", "cowboys", "HBO", "conscious"],
+      "charadesHint": "become a robot in a cowboy theme park and wake up",
+      "passwordHint": "robot"
+    },
+    {
+      "id": "tv-036",
+      "word": "SCHITT'S CREEK",
+      "tabooWords": ["Canadian", "Rose family", "comedy", "town", "rich"],
+      "charadesHint": "adjust to small-town life after losing everything",
+      "passwordHint": "roses"
+    },
+    {
+      "id": "tv-037",
+      "word": "MINDHUNTER",
+      "tabooWords": [
+        "FBI",
+        "serial killer",
+        "psychology",
+        "interview",
+        "profiling"
+      ],
+      "charadesHint": "interview the world's most dangerous killers",
+      "passwordHint": "profiling"
+    },
+    {
+      "id": "tv-038",
+      "word": "THE GOOD PLACE",
+      "tabooWords": ["afterlife", "philosophy", "comedy", "Michael", "Eleanor"],
+      "charadesHint": "navigate the afterlife with a group of misfits",
+      "passwordHint": "afterlife"
+    }
+  ]
+}

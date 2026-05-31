@@ -1,0 +1,462 @@
+{
+  "id": "history",
+  "name": "History",
+  "category": "Knowledge",
+  "description": "Key events, figures, and moments from world history",
+  "difficulty": "Hard",
+  "tags": ["history", "knowledge", "education", "world events"],
+  "cardCount": 55,
+  "cards": [
+    {
+      "id": "hist-001",
+      "word": "FRENCH REVOLUTION",
+      "tabooWords": [
+        "guillotine",
+        "France",
+        "Bastille",
+        "Marie Antoinette",
+        "1789"
+      ],
+      "charadesHint": "storm a prison and march to the guillotine",
+      "passwordHint": "guillotine"
+    },
+    {
+      "id": "hist-002",
+      "word": "WORLD WAR TWO",
+      "tabooWords": ["Hitler", "Nazi", "1939", "bomb", "Churchill"],
+      "charadesHint": "duck in a bomb shelter during an air raid",
+      "passwordHint": "Hitler"
+    },
+    {
+      "id": "hist-003",
+      "word": "MOON LANDING",
+      "tabooWords": ["NASA", "1969", "Neil Armstrong", "Apollo", "footprint"],
+      "charadesHint": "plant a flag in slow-motion lunar gravity",
+      "passwordHint": "1969"
+    },
+    {
+      "id": "hist-004",
+      "word": "BLACK PLAGUE",
+      "tabooWords": ["rats", "disease", "medieval", "Europe", "death"],
+      "charadesHint": "wear a beak mask and cart away bodies",
+      "passwordHint": "rats"
+    },
+    {
+      "id": "hist-005",
+      "word": "AMERICAN CIVIL WAR",
+      "tabooWords": ["Lincoln", "slavery", "North", "South", "Gettysburg"],
+      "charadesHint": "charge across a battlefield waving a blue or grey flag",
+      "passwordHint": "Gettysburg"
+    },
+    {
+      "id": "hist-006",
+      "word": "BERLIN WALL FALLING",
+      "tabooWords": ["Germany", "communism", "freedom", "1989", "East"],
+      "charadesHint": "hammer at a concrete wall until it crumbles",
+      "passwordHint": "1989"
+    },
+    {
+      "id": "hist-007",
+      "word": "THE HOLOCAUST",
+      "tabooWords": [
+        "Nazi",
+        "Jewish",
+        "genocide",
+        "concentration camp",
+        "WWII"
+      ],
+      "charadesHint": "wear a yellow star in a world of terrifying darkness",
+      "passwordHint": "genocide"
+    },
+    {
+      "id": "hist-008",
+      "word": "VIKING AGE",
+      "tabooWords": [
+        "Norse",
+        "raid",
+        "longship",
+        "Scandinavia",
+        "horned helmet"
+      ],
+      "charadesHint": "row a longship toward a village swinging an axe",
+      "passwordHint": "longship"
+    },
+    {
+      "id": "hist-009",
+      "word": "ANCIENT EGYPT",
+      "tabooWords": ["pharaoh", "pyramid", "mummy", "Nile", "hieroglyphics"],
+      "charadesHint": "wrap yourself in bandages and lie in a sarcophagus",
+      "passwordHint": "mummy"
+    },
+    {
+      "id": "hist-010",
+      "word": "TITANIC SINKING",
+      "tabooWords": ["ship", "iceberg", "ocean", "1912", "lifeboat"],
+      "charadesHint": "cling to a floating door as a ship goes down",
+      "passwordHint": "iceberg"
+    },
+    {
+      "id": "hist-011",
+      "word": "COLD WAR",
+      "tabooWords": ["USSR", "USA", "nuclear", "spy", "Cuba"],
+      "charadesHint": "stare across a wall with a briefcase and nuclear codes",
+      "passwordHint": "nuclear"
+    },
+    {
+      "id": "hist-012",
+      "word": "MAGNA CARTA",
+      "tabooWords": ["England", "rights", "King John", "document", "1215"],
+      "charadesHint": "force a reluctant king to sign a charter of rights",
+      "passwordHint": "charter"
+    },
+    {
+      "id": "hist-013",
+      "word": "CUBAN MISSILE CRISIS",
+      "tabooWords": ["Cuba", "missiles", "Kennedy", "USSR", "nuclear"],
+      "charadesHint": "have a tense standoff inches from nuclear war",
+      "passwordHint": "missiles"
+    },
+    {
+      "id": "hist-014",
+      "word": "SUFFRAGETTES",
+      "tabooWords": ["vote", "women", "Emmeline", "rights", "England"],
+      "charadesHint": "chain yourself to railings demanding the right to vote",
+      "passwordHint": "vote"
+    },
+    {
+      "id": "hist-015",
+      "word": "HIROSHIMA BOMBING",
+      "tabooWords": ["atomic", "Japan", "WWII", "bomb", "1945"],
+      "charadesHint": "shield your eyes from an enormous mushroom cloud",
+      "passwordHint": "atomic"
+    },
+    {
+      "id": "hist-016",
+      "word": "STONE AGE",
+      "tabooWords": ["cave", "flint", "fire", "prehistoric", "hunter"],
+      "charadesHint": "chip flint into a tool and hunt a mammoth",
+      "passwordHint": "flint"
+    },
+    {
+      "id": "hist-017",
+      "word": "ROMAN EMPIRE",
+      "tabooWords": ["Caesar", "gladiator", "Italy", "Latin", "toga"],
+      "charadesHint": "march in formation behind an eagle standard",
+      "passwordHint": "Caesar"
+    },
+    {
+      "id": "hist-018",
+      "word": "APOLLO 13",
+      "tabooWords": ["Houston", "problem", "explosion", "NASA", "moon"],
+      "charadesHint": "report a major problem calmly from a stricken spacecraft",
+      "passwordHint": "Houston"
+    },
+    {
+      "id": "hist-019",
+      "word": "BATTLE OF WATERLOO",
+      "tabooWords": ["Napoleon", "Wellington", "Belgium", "defeat", "1815"],
+      "charadesHint": "watch Napoleon's final defeat from a hillside",
+      "passwordHint": "Napoleon"
+    },
+    {
+      "id": "hist-020",
+      "word": "BOSTON TEA PARTY",
+      "tabooWords": ["America", "tax", "British", "tea", "1773"],
+      "charadesHint": "dump chests of tea from a ship into a harbor",
+      "passwordHint": "tea"
+    },
+    {
+      "id": "hist-021",
+      "word": "THE CRUSADES",
+      "tabooWords": [
+        "Holy Land",
+        "Jerusalem",
+        "Christian",
+        "Muslim",
+        "medieval"
+      ],
+      "charadesHint": "march in armour toward Jerusalem under a cross",
+      "passwordHint": "Jerusalem"
+    },
+    {
+      "id": "hist-022",
+      "word": "GUNPOWDER PLOT",
+      "tabooWords": ["Guy Fawkes", "parliament", "bomb", "England", "1605"],
+      "charadesHint": "hide barrels in a cellar under parliament",
+      "passwordHint": "Fawkes"
+    },
+    {
+      "id": "hist-023",
+      "word": "RENAISSANCE",
+      "tabooWords": ["Da Vinci", "Italy", "art", "rebirth", "Michelangelo"],
+      "charadesHint": "paint a masterpiece on a cathedral ceiling",
+      "passwordHint": "rebirth"
+    },
+    {
+      "id": "hist-024",
+      "word": "CIVIL RIGHTS MOVEMENT",
+      "tabooWords": ["MLK", "Rosa Parks", "march", "segregation", "America"],
+      "charadesHint": "march arm in arm toward a better future",
+      "passwordHint": "march"
+    },
+    {
+      "id": "hist-025",
+      "word": "INDUSTRIAL REVOLUTION",
+      "tabooWords": ["factory", "steam", "England", "machines", "coal"],
+      "charadesHint": "tend a massive coal-powered steam machine",
+      "passwordHint": "steam"
+    },
+    {
+      "id": "hist-026",
+      "word": "TROJAN HORSE",
+      "tabooWords": ["Troy", "Greek", "wooden", "trick", "gift"],
+      "charadesHint": "sneak soldiers inside a giant wooden gift",
+      "passwordHint": "wooden"
+    },
+    {
+      "id": "hist-027",
+      "word": "THE SILK ROAD",
+      "tabooWords": ["trade", "China", "spices", "camel", "route"],
+      "charadesHint": "ride a camel carrying silk across vast deserts",
+      "passwordHint": "silk"
+    },
+    {
+      "id": "hist-028",
+      "word": "SPACE RACE",
+      "tabooWords": ["USSR", "USA", "Sputnik", "NASA", "moon"],
+      "charadesHint": "frantically build rockets to beat the other superpower",
+      "passwordHint": "Sputnik"
+    },
+    {
+      "id": "hist-029",
+      "word": "AZTEC EMPIRE",
+      "tabooWords": [
+        "Mexico",
+        "Tenochtitlan",
+        "sacrifice",
+        "pyramid",
+        "conquistador"
+      ],
+      "charadesHint": "climb a stepped pyramid for a ritual sacrifice",
+      "passwordHint": "sacrifice"
+    },
+    {
+      "id": "hist-030",
+      "word": "SLAVERY IN AMERICA",
+      "tabooWords": [
+        "cotton",
+        "plantation",
+        "Civil War",
+        "abolition",
+        "Lincoln"
+      ],
+      "charadesHint": "toil in a field under brutal oppression",
+      "passwordHint": "abolition"
+    },
+    {
+      "id": "hist-031",
+      "word": "APARTHEID",
+      "tabooWords": [
+        "South Africa",
+        "Mandela",
+        "segregation",
+        "race",
+        "township"
+      ],
+      "charadesHint": "live under brutal racial separation laws",
+      "passwordHint": "Mandela"
+    },
+    {
+      "id": "hist-032",
+      "word": "OLYMPIC GAMES",
+      "tabooWords": ["Greece", "ancient", "Athens", "torch", "modern"],
+      "charadesHint": "run a torch through ancient Greece and compete",
+      "passwordHint": "torch"
+    },
+    {
+      "id": "hist-033",
+      "word": "ELIZABETHAN ERA",
+      "tabooWords": ["Shakespeare", "Elizabeth I", "England", "ruff", "Tudor"],
+      "charadesHint": "wear an enormous ruff collar at court",
+      "passwordHint": "Tudor"
+    },
+    {
+      "id": "hist-034",
+      "word": "GREAT DEPRESSION",
+      "tabooWords": ["1929", "economy", "crash", "poverty", "unemployment"],
+      "charadesHint": "wait in a bread line in tattered clothes",
+      "passwordHint": "crash"
+    },
+    {
+      "id": "hist-035",
+      "word": "GOLD RUSH",
+      "tabooWords": ["California", "1849", "mine", "prospector", "fortune"],
+      "charadesHint": "pan river water frantically searching for gold flakes",
+      "passwordHint": "pan"
+    },
+    {
+      "id": "hist-036",
+      "word": "FRENCH REVOLUTION",
+      "tabooWords": [
+        "Bastille",
+        "liberty",
+        "Napoleon",
+        "reign of terror",
+        "guillotine"
+      ],
+      "charadesHint": "march through Paris crying liberty, equality, fraternity",
+      "passwordHint": "liberty"
+    },
+    {
+      "id": "hist-037",
+      "word": "GENGHIS KHAN",
+      "tabooWords": ["Mongolia", "empire", "conquest", "horseman", "largest"],
+      "charadesHint": "gallop across a steppe conquering everything in sight",
+      "passwordHint": "Mongolia"
+    },
+    {
+      "id": "hist-038",
+      "word": "WATERGATE",
+      "tabooWords": ["Nixon", "scandal", "cover-up", "tape", "resign"],
+      "charadesHint": "destroy tapes and be forced to resign",
+      "passwordHint": "Nixon"
+    },
+    {
+      "id": "hist-039",
+      "word": "D-DAY",
+      "tabooWords": ["Normandy", "WWII", "beach", "1944", "landing"],
+      "charadesHint": "storm a fortified beach under heavy fire",
+      "passwordHint": "Normandy"
+    },
+    {
+      "id": "hist-040",
+      "word": "ASSASSINATION OF JFK",
+      "tabooWords": ["Kennedy", "Dallas", "Oswald", "motorcade", "conspiracy"],
+      "charadesHint": "ride in a motorcade through Dallas and duck too late",
+      "passwordHint": "Dallas"
+    },
+    {
+      "id": "hist-041",
+      "word": "CHINESE CULTURAL REVOLUTION",
+      "tabooWords": ["Mao", "China", "Red Guard", "communism", "purge"],
+      "charadesHint": "wave a little red book",
+      "passwordHint": "Mao"
+    },
+    {
+      "id": "hist-042",
+      "word": "9/11",
+      "tabooWords": ["Twin Towers", "New York", "terrorism", "plane", "2001"],
+      "charadesHint": "watch in horror as two towers disappear from the skyline",
+      "passwordHint": "Twin Towers"
+    },
+    {
+      "id": "hist-043",
+      "word": "CHERNOBYL",
+      "tabooWords": ["nuclear", "reactor", "Ukraine", "explosion", "radiation"],
+      "charadesHint": "flee a nuclear plant as a reactor explodes",
+      "passwordHint": "reactor"
+    },
+    {
+      "id": "hist-044",
+      "word": "ROARING TWENTIES",
+      "tabooWords": ["jazz", "flapper", "prohibition", "1920s", "USA"],
+      "charadesHint": "Charleston dance at a speakeasy in a fringe dress",
+      "passwordHint": "Charleston"
+    },
+    {
+      "id": "hist-045",
+      "word": "BATTLE OF THERMOPYLAE",
+      "tabooWords": ["Sparta", "300", "Persian", "pass", "Greece"],
+      "charadesHint": "hold a narrow mountain pass with just 300 warriors",
+      "passwordHint": "Sparta"
+    },
+    {
+      "id": "hist-046",
+      "word": "COLONIALISM",
+      "tabooWords": ["empire", "Africa", "Britain", "exploit", "subjugate"],
+      "charadesHint": "plant a flag and claim everything you see for your empire",
+      "passwordHint": "empire"
+    },
+    {
+      "id": "hist-047",
+      "word": "FALL OF ROME",
+      "tabooWords": [
+        "Roman Empire",
+        "barbarian",
+        "476 AD",
+        "collapse",
+        "decline"
+      ],
+      "charadesHint": "watch the greatest empire collapse from within",
+      "passwordHint": "barbarian"
+    },
+    {
+      "id": "hist-048",
+      "word": "MANHATTAN PROJECT",
+      "tabooWords": ["nuclear", "bomb", "Oppenheimer", "secret", "WWII"],
+      "charadesHint": "work in secret to build the world's most destructive weapon",
+      "passwordHint": "Oppenheimer"
+    },
+    {
+      "id": "hist-049",
+      "word": "ARAB SPRING",
+      "tabooWords": [
+        "revolution",
+        "Middle East",
+        "protest",
+        "democracy",
+        "2011"
+      ],
+      "charadesHint": "lead a street revolution for democracy",
+      "passwordHint": "revolution"
+    },
+    {
+      "id": "hist-050",
+      "word": "THE GREAT FIRE OF LONDON",
+      "tabooWords": ["1666", "fire", "bakery", "Pudding Lane", "England"],
+      "charadesHint": "run from a bakery fire spreading through a city",
+      "passwordHint": "bakery"
+    },
+    {
+      "id": "hist-051",
+      "word": "JOAN OF ARC",
+      "tabooWords": ["France", "warrior", "burn", "visions", "trial"],
+      "charadesHint": "lead an army as a teenage girl following divine visions",
+      "passwordHint": "visions"
+    },
+    {
+      "id": "hist-052",
+      "word": "DECLARATION OF INDEPENDENCE",
+      "tabooWords": ["America", "1776", "freedom", "Jefferson", "British"],
+      "charadesHint": "sign a scroll declaring freedom from colonial rule",
+      "passwordHint": "Jefferson"
+    },
+    {
+      "id": "hist-053",
+      "word": "BERLIN AIRLIFT",
+      "tabooWords": [
+        "Cold War",
+        "planes",
+        "supplies",
+        "blockade",
+        "West Berlin"
+      ],
+      "charadesHint": "fly constant supply drops into a blockaded city",
+      "passwordHint": "blockade"
+    },
+    {
+      "id": "hist-054",
+      "word": "PARTITION OF INDIA",
+      "tabooWords": ["1947", "Pakistan", "independence", "violence", "borders"],
+      "charadesHint": "flee across newly drawn borders with everything you own",
+      "passwordHint": "partition"
+    },
+    {
+      "id": "hist-055",
+      "word": "SPACE SHUTTLE CHALLENGER",
+      "tabooWords": ["NASA", "explosion", "1986", "teacher", "tragic"],
+      "charadesHint": "watch in horror as a spacecraft explodes on launch",
+      "passwordHint": "explosion"
+    }
+  ]
+}

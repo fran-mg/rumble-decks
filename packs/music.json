@@ -1,0 +1,473 @@
+{
+  "id": "music",
+  "name": "Music",
+  "category": "Entertainment",
+  "description": "Bands, artists, genres, and iconic songs",
+  "difficulty": "Medium",
+  "tags": ["music", "bands", "artists", "songs", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "music-001",
+      "word": "HEAVY METAL",
+      "tabooWords": ["guitar", "loud", "rock", "headbang", "screaming"],
+      "charadesHint": "headbang and shred an air guitar aggressively",
+      "passwordHint": "headbang"
+    },
+    {
+      "id": "music-002",
+      "word": "OPERA",
+      "tabooWords": ["sing", "classical", "soprano", "Italian", "theatre"],
+      "charadesHint": "belt a dramatic aria with arms outstretched",
+      "passwordHint": "soprano"
+    },
+    {
+      "id": "music-003",
+      "word": "BREAKDANCING",
+      "tabooWords": ["spin", "floor", "hip hop", "freeze", "headpin"],
+      "charadesHint": "spin on your head and freeze in a power move",
+      "passwordHint": "spin"
+    },
+    {
+      "id": "music-004",
+      "word": "ORCHESTRA",
+      "tabooWords": [
+        "conductor",
+        "classical",
+        "instruments",
+        "baton",
+        "symphony"
+      ],
+      "charadesHint": "conduct an orchestra with a baton",
+      "passwordHint": "conductor"
+    },
+    {
+      "id": "music-005",
+      "word": "KARAOKE",
+      "tabooWords": ["sing", "Japanese", "microphone", "bar", "lyrics"],
+      "charadesHint": "hold a mic and sing badly to lyrics on a screen",
+      "passwordHint": "microphone"
+    },
+    {
+      "id": "music-006",
+      "word": "DJ",
+      "tabooWords": ["scratch", "turntable", "mix", "club", "headphones"],
+      "charadesHint": "scratch records and drop the bass",
+      "passwordHint": "scratch"
+    },
+    {
+      "id": "music-007",
+      "word": "GUITAR SOLO",
+      "tabooWords": ["rock", "shred", "electric", "string", "stage"],
+      "charadesHint": "play a blistering lead guitar solo on stage",
+      "passwordHint": "shred"
+    },
+    {
+      "id": "music-008",
+      "word": "JAZZ",
+      "tabooWords": ["improvise", "swing", "saxophone", "New Orleans", "blues"],
+      "charadesHint": "sway and improvise on a saxophone in a smoky club",
+      "passwordHint": "improvise"
+    },
+    {
+      "id": "music-009",
+      "word": "FLAMENCO",
+      "tabooWords": ["Spanish", "dance", "guitar", "stomp", "passion"],
+      "charadesHint": "stomp and clap with fierce intensity",
+      "passwordHint": "stomp"
+    },
+    {
+      "id": "music-010",
+      "word": "RAP BATTLE",
+      "tabooWords": ["freestyle", "rhyme", "beat", "diss", "hip hop"],
+      "charadesHint": "face off and spit rapid-fire rhymes at an opponent",
+      "passwordHint": "rhyme"
+    },
+    {
+      "id": "music-011",
+      "word": "THE BEATLES",
+      "tabooWords": ["John", "Paul", "George", "Ringo", "Liverpool"],
+      "charadesHint": "cross Abbey Road in a line of four",
+      "passwordHint": "Liverpool"
+    },
+    {
+      "id": "music-012",
+      "word": "WOODSTOCK",
+      "tabooWords": ["festival", "hippie", "1969", "peace", "music"],
+      "charadesHint": "play guitar in the mud with half a million people",
+      "passwordHint": "hippie"
+    },
+    {
+      "id": "music-013",
+      "word": "DRUM SOLO",
+      "tabooWords": ["beat", "drum kit", "sticks", "rhythm", "rock"],
+      "charadesHint": "hammer a drum kit in a frenzy",
+      "passwordHint": "sticks"
+    },
+    {
+      "id": "music-014",
+      "word": "MOSH PIT",
+      "tabooWords": ["slam", "crowd", "concert", "metal", "push"],
+      "charadesHint": "slam into people wildly at a concert",
+      "passwordHint": "slam"
+    },
+    {
+      "id": "music-015",
+      "word": "VINYL RECORD",
+      "tabooWords": ["LP", "turntable", "groove", "needle", "analogue"],
+      "charadesHint": "carefully lower a needle onto a spinning black disc",
+      "passwordHint": "needle"
+    },
+    {
+      "id": "music-016",
+      "word": "MUSIC VIDEO",
+      "tabooWords": ["MTV", "film", "artist", "performance", "visual"],
+      "charadesHint": "dramatically perform a choreographed video scene",
+      "passwordHint": "MTV"
+    },
+    {
+      "id": "music-017",
+      "word": "CHOIR",
+      "tabooWords": ["sing", "harmony", "church", "group", "choral"],
+      "charadesHint": "stand in robes and harmonize in perfect rows",
+      "passwordHint": "harmony"
+    },
+    {
+      "id": "music-018",
+      "word": "GRAMMY AWARD",
+      "tabooWords": ["music", "award", "trophy", "ceremony", "American"],
+      "charadesHint": "accept a golden gramophone and give a tearful speech",
+      "passwordHint": "gramophone"
+    },
+    {
+      "id": "music-019",
+      "word": "AIR GUITAR",
+      "tabooWords": ["pretend", "invisible", "rock", "mime", "play"],
+      "charadesHint": "shred an imaginary guitar with full commitment",
+      "passwordHint": "invisible"
+    },
+    {
+      "id": "music-020",
+      "word": "LULLABY",
+      "tabooWords": ["sleep", "baby", "soft", "soothe", "night"],
+      "charadesHint": "rock a baby and hum softly",
+      "passwordHint": "sleep"
+    },
+    {
+      "id": "music-021",
+      "word": "STREAMING",
+      "tabooWords": ["Spotify", "online", "internet", "listen", "digital"],
+      "charadesHint": "put on headphones and scroll through infinite playlists",
+      "passwordHint": "Spotify"
+    },
+    {
+      "id": "music-022",
+      "word": "COLDPLAY",
+      "tabooWords": [
+        "Chris Martin",
+        "Yellow",
+        "British",
+        "wristband",
+        "stadium"
+      ],
+      "charadesHint": "wave a glowing wristband at a stadium concert",
+      "passwordHint": "wristband"
+    },
+    {
+      "id": "music-023",
+      "word": "ROLLING STONES",
+      "tabooWords": [
+        "Mick Jagger",
+        "Satisfaction",
+        "British",
+        "tongue",
+        "rock"
+      ],
+      "charadesHint": "strut with giant lips logo tongue out",
+      "passwordHint": "tongue"
+    },
+    {
+      "id": "music-024",
+      "word": "MUSICAL THEATRE",
+      "tabooWords": ["Broadway", "singing", "dancing", "West End", "show"],
+      "charadesHint": "break into spontaneous song and dance mid-conversation",
+      "passwordHint": "Broadway"
+    },
+    {
+      "id": "music-025",
+      "word": "PIANO",
+      "tabooWords": ["keys", "classical", "play", "ivory", "concert"],
+      "charadesHint": "play sweeping runs on a grand piano",
+      "passwordHint": "keys"
+    },
+    {
+      "id": "music-026",
+      "word": "ADELE",
+      "tabooWords": [
+        "Hello",
+        "Someone Like You",
+        "British",
+        "soulful",
+        "ballad"
+      ],
+      "charadesHint": "stand motionless in a spotlight belting a ballad",
+      "passwordHint": "Hello"
+    },
+    {
+      "id": "music-027",
+      "word": "ELECTRIC SLIDE",
+      "tabooWords": ["line dance", "party", "step", "disco", "group"],
+      "charadesHint": "step-slide in a line with a group at a party",
+      "passwordHint": "line dance"
+    },
+    {
+      "id": "music-028",
+      "word": "STADIUM CONCERT",
+      "tabooWords": ["arena", "thousands", "stage", "screen", "crowd"],
+      "charadesHint": "perform on a massive stage with pyrotechnics",
+      "passwordHint": "arena"
+    },
+    {
+      "id": "music-029",
+      "word": "BUSKING",
+      "tabooWords": ["street", "musician", "hat", "coins", "perform"],
+      "charadesHint": "play guitar on a street corner for coins",
+      "passwordHint": "street"
+    },
+    {
+      "id": "music-030",
+      "word": "TECHNO",
+      "tabooWords": ["electronic", "rave", "Berlin", "beat", "club"],
+      "charadesHint": "dance robotically to pounding electronic beats",
+      "passwordHint": "rave"
+    },
+    {
+      "id": "music-031",
+      "word": "COUNTRY MUSIC",
+      "tabooWords": ["Nashville", "guitar", "twang", "cowboy", "banjo"],
+      "charadesHint": "strum a banjo in boots and a cowboy hat",
+      "passwordHint": "Nashville"
+    },
+    {
+      "id": "music-032",
+      "word": "BASS DROP",
+      "tabooWords": ["EDM", "build", "release", "electronic", "dance"],
+      "charadesHint": "build tension then explode when the bass hits",
+      "passwordHint": "drop"
+    },
+    {
+      "id": "music-033",
+      "word": "JAZZ HANDS",
+      "tabooWords": ["jazz", "spirit fingers", "theatre", "sparkle", "jazz"],
+      "charadesHint": "spread fingers wide and waggle them theatrically",
+      "passwordHint": "spirit fingers"
+    },
+    {
+      "id": "music-034",
+      "word": "POP STAR",
+      "tabooWords": ["celebrity", "famous", "singer", "dancer", "chart"],
+      "charadesHint": "pose for paparazzi on a red carpet in full glam",
+      "passwordHint": "celebrity"
+    },
+    {
+      "id": "music-035",
+      "word": "VIOLIN",
+      "tabooWords": ["bow", "string", "classical", "fiddle", "orchestra"],
+      "charadesHint": "draw a bow across strings with precise posture",
+      "passwordHint": "bow"
+    },
+    {
+      "id": "music-036",
+      "word": "BEYONCÉ",
+      "tabooWords": [
+        "Lemonade",
+        "Formation",
+        "Destiny's Child",
+        "Queen",
+        "Bey"
+      ],
+      "charadesHint": "command a massive formation of dancers on stage",
+      "passwordHint": "formation"
+    },
+    {
+      "id": "music-037",
+      "word": "PUNK ROCK",
+      "tabooWords": ["mohawk", "safety pin", "rebellion", "fast", "loud"],
+      "charadesHint": "spike your hair into a mohawk and snarl",
+      "passwordHint": "mohawk"
+    },
+    {
+      "id": "music-038",
+      "word": "SERENADE",
+      "tabooWords": ["romantic", "sing", "window", "love", "balcony"],
+      "charadesHint": "stand under a balcony singing with a guitar",
+      "passwordHint": "balcony"
+    },
+    {
+      "id": "music-039",
+      "word": "REGGAE",
+      "tabooWords": ["Jamaica", "dreadlocks", "Bob Marley", "rhythm", "cool"],
+      "charadesHint": "sway to a laid-back rhythmic groove",
+      "passwordHint": "Jamaica"
+    },
+    {
+      "id": "music-040",
+      "word": "ANTHEM",
+      "tabooWords": ["national", "pride", "crowd", "sing", "stadium"],
+      "charadesHint": "place hand on heart and sing with a crowd",
+      "passwordHint": "national"
+    },
+    {
+      "id": "music-041",
+      "word": "FRANK SINATRA",
+      "tabooWords": ["Rat Pack", "swing", "Ol' Blue Eyes", "New York", "hat"],
+      "charadesHint": "tip a fedora and croon to a New York audience",
+      "passwordHint": "crooner"
+    },
+    {
+      "id": "music-042",
+      "word": "BAND AID",
+      "tabooWords": [
+        "charity",
+        "Do They Know It's Christmas",
+        "Africa",
+        "1984",
+        "fundraiser"
+      ],
+      "charadesHint": "gather massive group of celebrities to record a charity song",
+      "passwordHint": "charity"
+    },
+    {
+      "id": "music-043",
+      "word": "MACARENA",
+      "tabooWords": ["Spanish", "dance", "90s", "group", "arms"],
+      "charadesHint": "do the Macarena arm sequence and hip swivel",
+      "passwordHint": "arms"
+    },
+    {
+      "id": "music-044",
+      "word": "TWERKING",
+      "tabooWords": ["dance", "Miley", "bounce", "bottom", "provocative"],
+      "charadesHint": "bounce hips rapidly to a beat",
+      "passwordHint": "bounce"
+    },
+    {
+      "id": "music-045",
+      "word": "MUSIC FESTIVAL",
+      "tabooWords": ["outdoor", "camping", "Glastonbury", "stage", "crowd"],
+      "charadesHint": "camp in mud watching bands on a giant stage",
+      "passwordHint": "Glastonbury"
+    },
+    {
+      "id": "music-046",
+      "word": "BACH",
+      "tabooWords": ["classical", "composer", "German", "baroque", "fugue"],
+      "charadesHint": "compose intricate fugues in a powdered wig",
+      "passwordHint": "baroque"
+    },
+    {
+      "id": "music-047",
+      "word": "AUTOTUNE",
+      "tabooWords": ["pitch", "correct", "T-Pain", "effect", "voice"],
+      "charadesHint": "sing flat then magically sound perfect",
+      "passwordHint": "pitch"
+    },
+    {
+      "id": "music-048",
+      "word": "GOSPEL",
+      "tabooWords": ["church", "praise", "choir", "American", "soul"],
+      "charadesHint": "clap and sway with a joyful church choir",
+      "passwordHint": "praise"
+    },
+    {
+      "id": "music-049",
+      "word": "ROCK AND ROLL",
+      "tabooWords": ["Elvis", "guitar", "50s", "revolution", "energy"],
+      "charadesHint": "play guitar and swing hips in a 50s frenzy",
+      "passwordHint": "revolution"
+    },
+    {
+      "id": "music-050",
+      "word": "BEETHOVEN",
+      "tabooWords": ["classical", "deaf", "symphony", "German", "composer"],
+      "charadesHint": "compose a symphony while unable to hear it",
+      "passwordHint": "deaf"
+    },
+    {
+      "id": "music-051",
+      "word": "UKULELE",
+      "tabooWords": [
+        "small",
+        "Hawaii",
+        "four strings",
+        "cheerful",
+        "instrument"
+      ],
+      "charadesHint": "strum a tiny four-stringed instrument cheerfully",
+      "passwordHint": "Hawaii"
+    },
+    {
+      "id": "music-052",
+      "word": "BHANGRA",
+      "tabooWords": ["Punjabi", "India", "dance", "dhol", "energetic"],
+      "charadesHint": "dance energetically with arms above your head",
+      "passwordHint": "Punjabi"
+    },
+    {
+      "id": "music-053",
+      "word": "METALLICA",
+      "tabooWords": ["metal", "Enter Sandman", "Lars", "James", "thrash"],
+      "charadesHint": "thrash a guitar while long hair flies everywhere",
+      "passwordHint": "thrash"
+    },
+    {
+      "id": "music-054",
+      "word": "SOUND CHECK",
+      "tabooWords": ["microphone", "test", "concert", "one two", "technician"],
+      "charadesHint": "tap mic and say 'one two one two' into the silence",
+      "passwordHint": "mic test"
+    },
+    {
+      "id": "music-055",
+      "word": "CLASSICAL MUSIC",
+      "tabooWords": ["symphony", "Mozart", "orchestra", "formal", "composed"],
+      "charadesHint": "conduct an orchestra in a tuxedo",
+      "passwordHint": "symphony"
+    },
+    {
+      "id": "music-056",
+      "word": "ELECTRIC GUITAR",
+      "tabooWords": ["amplifier", "rock", "strings", "plug in", "riff"],
+      "charadesHint": "plug in and play a face-melting riff",
+      "passwordHint": "amplifier"
+    },
+    {
+      "id": "music-057",
+      "word": "K-POP",
+      "tabooWords": ["Korean", "BTS", "idol", "dance", "fan"],
+      "charadesHint": "perform precise synchronized dance moves as a K-Pop idol",
+      "passwordHint": "BTS"
+    },
+    {
+      "id": "music-058",
+      "word": "TRAP MUSIC",
+      "tabooWords": ["Atlanta", "808", "hi-hat", "rapper", "bass"],
+      "charadesHint": "bob your head to rolling hi-hats and booming 808s",
+      "passwordHint": "808"
+    },
+    {
+      "id": "music-059",
+      "word": "ACOUSTIC",
+      "tabooWords": ["unplugged", "natural", "guitar", "no amp", "intimate"],
+      "charadesHint": "play a raw unplugged set in a tiny intimate venue",
+      "passwordHint": "unplugged"
+    },
+    {
+      "id": "music-060",
+      "word": "SAMPLING",
+      "tabooWords": ["take", "loop", "hip hop", "original", "remix"],
+      "charadesHint": "cut a piece of an old record and loop it into a new song",
+      "passwordHint": "loop"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "id": "movies",
+  "name": "Movies",
+  "category": "Entertainment",
+  "description": "Blockbusters, classics, and cult favorites",
+  "difficulty": "Medium",
+  "tags": ["movies", "film", "entertainment", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "movies-001",
+      "word": "TITANIC",
+      "tabooWords": ["ship", "iceberg", "sink", "DiCaprio", "ocean"],
+      "charadesHint": "stand on a bow with arms spread wide",
+      "passwordHint": "iceberg"
+    },
+    {
+      "id": "movies-002",
+      "word": "THE LION KING",
+      "tabooWords": ["Simba", "lion", "Pride", "Africa", "Mufasa"],
+      "charadesHint": "hold a baby animal up to the sky dramatically",
+      "passwordHint": "Simba"
+    },
+    {
+      "id": "movies-003",
+      "word": "JURASSIC PARK",
+      "tabooWords": ["dinosaur", "T-Rex", "island", "DNA", "theme"],
+      "charadesHint": "stomp as a T-Rex with tiny arms",
+      "passwordHint": "dinosaurs"
+    },
+    {
+      "id": "movies-004",
+      "word": "HOME ALONE",
+      "tabooWords": ["Kevin", "burglars", "Christmas", "booby", "traps"],
+      "charadesHint": "slap cheeks with hands and scream in horror",
+      "passwordHint": "scream"
+    },
+    {
+      "id": "movies-005",
+      "word": "THE MATRIX",
+      "tabooWords": ["Neo", "pill", "bullet", "time", "computer"],
+      "charadesHint": "dodge bullets in super slow motion",
+      "passwordHint": "simulation"
+    },
+    {
+      "id": "movies-006",
+      "word": "FORREST GUMP",
+      "tabooWords": ["run", "shrimp", "box", "chocolates", "Alabama"],
+      "charadesHint": "run in slow motion across America",
+      "passwordHint": "run"
+    },
+    {
+      "id": "movies-007",
+      "word": "FROZEN",
+      "tabooWords": ["Elsa", "ice", "Anna", "snow", "Olaf"],
+      "charadesHint": "shoot ice from your hands and build a palace",
+      "passwordHint": "ice"
+    },
+    {
+      "id": "movies-008",
+      "word": "THE AVENGERS",
+      "tabooWords": ["Marvel", "superhero", "Iron Man", "Thor", "team"],
+      "charadesHint": "assemble various superhero poses",
+      "passwordHint": "assemble"
+    },
+    {
+      "id": "movies-009",
+      "word": "GLADIATOR",
+      "tabooWords": ["Rome", "fight", "arena", "Russell", "sword"],
+      "charadesHint": "fight with sword in a Roman arena",
+      "passwordHint": "arena"
+    },
+    {
+      "id": "movies-010",
+      "word": "GREASE",
+      "tabooWords": ["Sandy", "Danny", "musical", "50s", "dance"],
+      "charadesHint": "slick back hair and do the hand jive",
+      "passwordHint": "greaser"
+    },
+    {
+      "id": "movies-011",
+      "word": "STAR WARS",
+      "tabooWords": ["Luke", "Force", "lightsaber", "Vader", "space"],
+      "charadesHint": "wield a lightsaber and use the Force",
+      "passwordHint": "lightsaber"
+    },
+    {
+      "id": "movies-012",
+      "word": "HARRY POTTER",
+      "tabooWords": ["wand", "wizard", "Hogwarts", "magic", "spell"],
+      "charadesHint": "wave wand and shout a spell",
+      "passwordHint": "Hogwarts"
+    },
+    {
+      "id": "movies-013",
+      "word": "THE GODFATHER",
+      "tabooWords": ["mafia", "offer", "refuse", "Don", "Corleone"],
+      "charadesHint": "stroke a cat and speak in a raspy whisper",
+      "passwordHint": "offer"
+    },
+    {
+      "id": "movies-014",
+      "word": "JAWS",
+      "tabooWords": ["shark", "ocean", "attack", "beach", "bite"],
+      "charadesHint": "emerge from water chomping as a shark",
+      "passwordHint": "shark"
+    },
+    {
+      "id": "movies-015",
+      "word": "E.T.",
+      "tabooWords": ["alien", "phone", "home", "bicycle", "Elliott"],
+      "charadesHint": "point glowing finger at the sky",
+      "passwordHint": "phone"
+    },
+    {
+      "id": "movies-016",
+      "word": "DIRTY DANCING",
+      "tabooWords": ["Patrick", "dance", "lift", "summer", "resort"],
+      "charadesHint": "do the famous lift with a partner",
+      "passwordHint": "lift"
+    },
+    {
+      "id": "movies-017",
+      "word": "THE SHINING",
+      "tabooWords": ["Jack", "hotel", "axe", "twins", "overlook"],
+      "charadesHint": "chop through a door grinning maniacally",
+      "passwordHint": "redrum"
+    },
+    {
+      "id": "movies-018",
+      "word": "TOY STORY",
+      "tabooWords": ["Woody", "Buzz", "toys", "Pixar", "Andy"],
+      "charadesHint": "freeze like a toy when a human walks in",
+      "passwordHint": "infinity"
+    },
+    {
+      "id": "movies-019",
+      "word": "BATMAN",
+      "tabooWords": ["Bruce", "Wayne", "Gotham", "cape", "villain"],
+      "charadesHint": "spread cape dramatically on a rooftop",
+      "passwordHint": "Gotham"
+    },
+    {
+      "id": "movies-020",
+      "word": "THE WIZARD OF OZ",
+      "tabooWords": ["Dorothy", "yellow", "brick", "road", "Kansas"],
+      "charadesHint": "skip down a yellow road clicking your heels",
+      "passwordHint": "ruby"
+    },
+    {
+      "id": "movies-021",
+      "word": "INCEPTION",
+      "tabooWords": ["dream", "layers", "spin", "top", "DiCaprio"],
+      "charadesHint": "spin a top and watch reality fold",
+      "passwordHint": "dream"
+    },
+    {
+      "id": "movies-022",
+      "word": "FINDING NEMO",
+      "tabooWords": ["fish", "ocean", "clownfish", "coral", "Pixar"],
+      "charadesHint": "swim through the ocean searching desperately",
+      "passwordHint": "clownfish"
+    },
+    {
+      "id": "movies-023",
+      "word": "BACK TO THE FUTURE",
+      "tabooWords": ["DeLorean", "time", "Doc", "Marty", "1985"],
+      "charadesHint": "drive a car and hit 88 miles per hour",
+      "passwordHint": "DeLorean"
+    },
+    {
+      "id": "movies-024",
+      "word": "PULP FICTION",
+      "tabooWords": ["Tarantino", "diner", "briefcase", "dance", "crime"],
+      "charadesHint": "do the twist at a 50s diner",
+      "passwordHint": "briefcase"
+    },
+    {
+      "id": "movies-025",
+      "word": "THE NOTEBOOK",
+      "tabooWords": ["Ryan", "Rachel", "rain", "romance", "letter"],
+      "charadesHint": "stand in pouring rain kissing passionately",
+      "passwordHint": "rain"
+    },
+    {
+      "id": "movies-026",
+      "word": "SHREK",
+      "tabooWords": ["ogre", "swamp", "Donkey", "Fiona", "fairy"],
+      "charadesHint": "stomp through a swamp roaring",
+      "passwordHint": "swamp"
+    },
+    {
+      "id": "movies-027",
+      "word": "ROCKY",
+      "tabooWords": [
+        "boxing",
+        "Philadelphia",
+        "stairs",
+        "training",
+        "Stallone"
+      ],
+      "charadesHint": "run up stairs punching the air triumphantly",
+      "passwordHint": "stairs"
+    },
+    {
+      "id": "movies-028",
+      "word": "GHOSTBUSTERS",
+      "tabooWords": ["ghost", "proton", "Slimer", "busters", "New York"],
+      "charadesHint": "aim proton packs at a floating ghost",
+      "passwordHint": "proton"
+    },
+    {
+      "id": "movies-029",
+      "word": "PRETTY WOMAN",
+      "tabooWords": ["Julia", "Richard", "shopping", "Hollywood", "escort"],
+      "charadesHint": "shop extravagantly on Rodeo Drive",
+      "passwordHint": "Rodeo"
+    },
+    {
+      "id": "movies-030",
+      "word": "THE DARK KNIGHT",
+      "tabooWords": ["Joker", "Batman", "Gotham", "chaos", "Nolan"],
+      "charadesHint": "do a Joker smile and ask why so serious",
+      "passwordHint": "Joker"
+    },
+    {
+      "id": "movies-031",
+      "word": "AVATAR",
+      "tabooWords": ["Pandora", "blue", "Na'vi", "James Cameron", "alien"],
+      "charadesHint": "become a tall blue alien in a jungle",
+      "passwordHint": "Pandora"
+    },
+    {
+      "id": "movies-032",
+      "word": "CLUELESS",
+      "tabooWords": ["valley", "girl", "fashion", "school", "Alicia"],
+      "charadesHint": "flip hair and debate outfit choices dramatically",
+      "passwordHint": "whatever"
+    },
+    {
+      "id": "movies-033",
+      "word": "SCHINDLER'S LIST",
+      "tabooWords": ["Holocaust", "war", "list", "factory", "Spielberg"],
+      "charadesHint": "write a desperate list with trembling hands",
+      "passwordHint": "list"
+    },
+    {
+      "id": "movies-034",
+      "word": "MEAN GIRLS",
+      "tabooWords": ["Cady", "Regina", "Plastics", "high school", "burn"],
+      "charadesHint": "sit at the coolest lunch table and gossip",
+      "passwordHint": "Plastics"
+    },
+    {
+      "id": "movies-035",
+      "word": "THE REVENANT",
+      "tabooWords": ["bear", "survive", "wilderness", "Leo", "fur"],
+      "charadesHint": "crawl through snow after a bear attack",
+      "passwordHint": "bear"
+    },
+    {
+      "id": "movies-036",
+      "word": "MAMMA MIA",
+      "tabooWords": ["ABBA", "Greece", "musical", "wedding", "singing"],
+      "charadesHint": "dance on a Greek island singing ABBA",
+      "passwordHint": "ABBA"
+    },
+    {
+      "id": "movies-037",
+      "word": "FIGHT CLUB",
+      "tabooWords": ["Tyler", "soap", "rules", "underground", "fight"],
+      "charadesHint": "throw punches in a basement with no shirt",
+      "passwordHint": "soap"
+    },
+    {
+      "id": "movies-038",
+      "word": "PRINCESS DIARIES",
+      "tabooWords": ["Mia", "princess", "Genovia", "Anne Hathaway", "makeover"],
+      "charadesHint": "get a royal makeover and learn to walk with grace",
+      "passwordHint": "princess"
+    },
+    {
+      "id": "movies-039",
+      "word": "INTERSTELLAR",
+      "tabooWords": ["space", "black hole", "wormhole", "Nolan", "time"],
+      "charadesHint": "float through a black hole into another dimension",
+      "passwordHint": "wormhole"
+    },
+    {
+      "id": "movies-040",
+      "word": "THE LION WITCH AND WARDROBE",
+      "tabooWords": ["Narnia", "Aslan", "wardrobe", "snow", "witch"],
+      "charadesHint": "step through a wardrobe into a snowy world",
+      "passwordHint": "Narnia"
+    },
+    {
+      "id": "movies-041",
+      "word": "WHIPLASH",
+      "tabooWords": ["drum", "music", "teacher", "jazz", "intense"],
+      "charadesHint": "drum furiously until your hands bleed",
+      "passwordHint": "tempo"
+    },
+    {
+      "id": "movies-042",
+      "word": "BRIDESMAIDS",
+      "tabooWords": ["wedding", "funny", "Kristen", "dress", "bachelorette"],
+      "charadesHint": "try on a hideous bridesmaid dress",
+      "passwordHint": "wedding"
+    },
+    {
+      "id": "movies-043",
+      "word": "THE HUNGER GAMES",
+      "tabooWords": ["Katniss", "arena", "bow", "Panem", "tribute"],
+      "charadesHint": "volunteer as tribute and draw a bow",
+      "passwordHint": "tribute"
+    },
+    {
+      "id": "movies-044",
+      "word": "GOODFELLAS",
+      "tabooWords": ["mob", "Henry", "gangster", "Scorsese", "mafia"],
+      "charadesHint": "walk through a busy restaurant like you own it",
+      "passwordHint": "mob"
+    },
+    {
+      "id": "movies-045",
+      "word": "BOHEMIAN RHAPSODY",
+      "tabooWords": ["Freddie", "Mercury", "Queen", "music", "concert"],
+      "charadesHint": "perform an epic rock concert as Freddie Mercury",
+      "passwordHint": "Freddie"
+    },
+    {
+      "id": "movies-046",
+      "word": "PARASITE",
+      "tabooWords": ["Korea", "rich", "poor", "basement", "class"],
+      "charadesHint": "sneak into a wealthy family's home",
+      "passwordHint": "class"
+    },
+    {
+      "id": "movies-047",
+      "word": "THE GRAND BUDAPEST HOTEL",
+      "tabooWords": ["Wes", "Anderson", "concierge", "hotel", "art"],
+      "charadesHint": "serve guests with perfect symmetrical precision",
+      "passwordHint": "concierge"
+    },
+    {
+      "id": "movies-048",
+      "word": "AMÉLIE",
+      "tabooWords": ["French", "Paris", "quirky", "help", "café"],
+      "charadesHint": "secretly arrange wonderful surprises for strangers",
+      "passwordHint": "Paris"
+    },
+    {
+      "id": "movies-049",
+      "word": "THE TRUMAN SHOW",
+      "tabooWords": ["television", "Jim", "Carrey", "reality", "fake"],
+      "charadesHint": "live your whole life unaware cameras watch you",
+      "passwordHint": "television"
+    },
+    {
+      "id": "movies-050",
+      "word": "COCO",
+      "tabooWords": ["Mexico", "Day of Dead", "music", "family", "Pixar"],
+      "charadesHint": "strum guitar in the land of the dead",
+      "passwordHint": "ancestors"
+    },
+    {
+      "id": "movies-051",
+      "word": "HEREDITARY",
+      "tabooWords": ["horror", "family", "grief", "demon", "Aster"],
+      "charadesHint": "look up with terror at something on the ceiling",
+      "passwordHint": "hereditary"
+    },
+    {
+      "id": "movies-052",
+      "word": "DUNE",
+      "tabooWords": ["spice", "desert", "worm", "Paul", "Arrakis"],
+      "charadesHint": "ride a giant sandworm across a desert",
+      "passwordHint": "spice"
+    },
+    {
+      "id": "movies-053",
+      "word": "EVERYTHING EVERYWHERE ALL AT ONCE",
+      "tabooWords": ["multiverse", "Michelle", "taxes", "googly", "laundromat"],
+      "charadesHint": "switch between multiple universe versions of yourself",
+      "passwordHint": "multiverse"
+    },
+    {
+      "id": "movies-054",
+      "word": "OPPENHEIMER",
+      "tabooWords": ["bomb", "atomic", "nuclear", "Nolan", "Manhattan"],
+      "charadesHint": "witness a colossal explosion in the desert",
+      "passwordHint": "atomic"
+    },
+    {
+      "id": "movies-055",
+      "word": "BARBIEHEIMER",
+      "tabooWords": ["Barbie", "Oppenheimer", "pink", "bomb", "2023"],
+      "charadesHint": "switch between pink glam and nuclear devastation",
+      "passwordHint": "pink"
+    },
+    {
+      "id": "movies-056",
+      "word": "GET OUT",
+      "tabooWords": ["Jordan", "race", "sunken", "hypnosis", "horror"],
+      "charadesHint": "be trapped in a sunken place unable to move",
+      "passwordHint": "sunken"
+    },
+    {
+      "id": "movies-057",
+      "word": "KNIVES OUT",
+      "tabooWords": ["mystery", "detective", "family", "inheritance", "murder"],
+      "charadesHint": "sit at center of a murder mystery web",
+      "passwordHint": "mystery"
+    },
+    {
+      "id": "movies-058",
+      "word": "SPIDER-MAN",
+      "tabooWords": ["Peter", "Parker", "web", "New York", "Marvel"],
+      "charadesHint": "shoot webs from wrists and swing between buildings",
+      "passwordHint": "web"
+    },
+    {
+      "id": "movies-059",
+      "word": "BLACK PANTHER",
+      "tabooWords": ["Wakanda", "vibranium", "Africa", "Marvel", "T'Challa"],
+      "charadesHint": "cross arms over chest in Wakandan salute",
+      "passwordHint": "Wakanda"
+    },
+    {
+      "id": "movies-060",
+      "word": "ARRIVAL",
+      "tabooWords": ["alien", "language", "time", "Amy Adams", "linguistics"],
+      "charadesHint": "decipher circular alien symbols floating in mist",
+      "passwordHint": "language"
+    }
+  ]
+}

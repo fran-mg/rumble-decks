@@ -1,0 +1,509 @@
+{
+  "id": "famous-people",
+  "name": "Famous People",
+  "category": "People",
+  "description": "Celebrities, historical figures, and icons",
+  "difficulty": "Medium",
+  "tags": ["celebrities", "history", "famous", "people"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "people-001",
+      "word": "ALBERT EINSTEIN",
+      "tabooWords": ["physics", "relativity", "genius", "theory", "German"],
+      "charadesHint": "wild hair, scribble equations on a chalkboard",
+      "passwordHint": "relativity"
+    },
+    {
+      "id": "people-002",
+      "word": "CLEOPATRA",
+      "tabooWords": ["Egypt", "queen", "pharaoh", "Nile", "ancient"],
+      "charadesHint": "wear a headdress and apply kohl eyeliner",
+      "passwordHint": "Egypt"
+    },
+    {
+      "id": "people-003",
+      "word": "MICHAEL JACKSON",
+      "tabooWords": ["moonwalk", "pop", "glove", "Thriller", "singer"],
+      "charadesHint": "moonwalk and grab your hat brim",
+      "passwordHint": "moonwalk"
+    },
+    {
+      "id": "people-004",
+      "word": "NAPOLEON BONAPARTE",
+      "tabooWords": ["France", "short", "emperor", "hand", "military"],
+      "charadesHint": "tuck hand in jacket and survey a battlefield",
+      "passwordHint": "emperor"
+    },
+    {
+      "id": "people-005",
+      "word": "QUEEN ELIZABETH II",
+      "tabooWords": ["crown", "British", "wave", "corgi", "monarch"],
+      "charadesHint": "give a stiff royal wave holding a purse",
+      "passwordHint": "corgi"
+    },
+    {
+      "id": "people-006",
+      "word": "MARILYN MONROE",
+      "tabooWords": ["blonde", "dress", "subway", "grate", "actress"],
+      "charadesHint": "hold a white dress down as wind blows it up",
+      "passwordHint": "blonde"
+    },
+    {
+      "id": "people-007",
+      "word": "NELSON MANDELA",
+      "tabooWords": [
+        "South Africa",
+        "apartheid",
+        "prison",
+        "president",
+        "peace"
+      ],
+      "charadesHint": "raise a fist in triumph after decades of struggle",
+      "passwordHint": "freedom"
+    },
+    {
+      "id": "people-008",
+      "word": "LEONARDO DA VINCI",
+      "tabooWords": [
+        "painter",
+        "Mona Lisa",
+        "Italian",
+        "inventor",
+        "Renaissance"
+      ],
+      "charadesHint": "paint on a canvas then sketch flying machines",
+      "passwordHint": "Renaissance"
+    },
+    {
+      "id": "people-009",
+      "word": "ELVIS PRESLEY",
+      "tabooWords": ["King", "rock", "hips", "Las Vegas", "sideburns"],
+      "charadesHint": "swivel hips and curl your lip singing rock",
+      "passwordHint": "hips"
+    },
+    {
+      "id": "people-010",
+      "word": "FLORENCE NIGHTINGALE",
+      "tabooWords": ["nurse", "lamp", "hospital", "Victorian", "war"],
+      "charadesHint": "carry a lantern through dark hospital wards",
+      "passwordHint": "lamp"
+    },
+    {
+      "id": "people-011",
+      "word": "ELON MUSK",
+      "tabooWords": ["Tesla", "SpaceX", "rocket", "Twitter", "electric"],
+      "charadesHint": "launch a rocket and buy a social network",
+      "passwordHint": "rocket"
+    },
+    {
+      "id": "people-012",
+      "word": "FRIDA KAHLO",
+      "tabooWords": [
+        "unibrow",
+        "Mexican",
+        "painter",
+        "self-portrait",
+        "artist"
+      ],
+      "charadesHint": "paint a self-portrait with flowers in your hair",
+      "passwordHint": "unibrow"
+    },
+    {
+      "id": "people-013",
+      "word": "STEPHEN HAWKING",
+      "tabooWords": [
+        "wheelchair",
+        "physics",
+        "black hole",
+        "voice",
+        "Cambridge"
+      ],
+      "charadesHint": "type on a device and speak in a robotic voice",
+      "passwordHint": "black hole"
+    },
+    {
+      "id": "people-014",
+      "word": "BEYONCÉ",
+      "tabooWords": ["Halo", "Lemonade", "Queen", "Destiny's Child", "singer"],
+      "charadesHint": "perform a fierce concert formation",
+      "passwordHint": "Queen"
+    },
+    {
+      "id": "people-015",
+      "word": "WINSTON CHURCHILL",
+      "tabooWords": ["Britain", "cigar", "Prime Minister", "war", "speech"],
+      "charadesHint": "raise cigar in V for Victory sign",
+      "passwordHint": "cigar"
+    },
+    {
+      "id": "people-016",
+      "word": "AMELIA EARHART",
+      "tabooWords": ["pilot", "fly", "aviator", "disappear", "woman"],
+      "charadesHint": "wear goggles and fly a small plane",
+      "passwordHint": "aviator"
+    },
+    {
+      "id": "people-017",
+      "word": "STEVE JOBS",
+      "tabooWords": ["Apple", "iPhone", "turtleneck", "Mac", "Silicon Valley"],
+      "charadesHint": "hold up a shiny device in a black turtleneck",
+      "passwordHint": "Apple"
+    },
+    {
+      "id": "people-018",
+      "word": "MARIE CURIE",
+      "tabooWords": ["radium", "Nobel", "scientist", "Polish", "radioactive"],
+      "charadesHint": "work in a lab with glowing radioactive elements",
+      "passwordHint": "radium"
+    },
+    {
+      "id": "people-019",
+      "word": "SHAKESPEARE",
+      "tabooWords": ["playwright", "Hamlet", "globe", "England", "poem"],
+      "charadesHint": "write with a quill and recite to a theatre",
+      "passwordHint": "Hamlet"
+    },
+    {
+      "id": "people-020",
+      "word": "OPRAH WINFREY",
+      "tabooWords": ["talk show", "book club", "gifts", "television", "media"],
+      "charadesHint": "point at audience and yell 'You get a car!'",
+      "passwordHint": "television"
+    },
+    {
+      "id": "people-021",
+      "word": "USAIN BOLT",
+      "tabooWords": ["sprint", "Jamaica", "100m", "lightning", "fastest"],
+      "charadesHint": "point to the sky mid-sprint after breaking a record",
+      "passwordHint": "sprint"
+    },
+    {
+      "id": "people-022",
+      "word": "MARTIN LUTHER KING JR",
+      "tabooWords": ["dream", "civil rights", "march", "speech", "America"],
+      "charadesHint": "deliver a powerful speech to a massive crowd",
+      "passwordHint": "dream"
+    },
+    {
+      "id": "people-023",
+      "word": "TAYLOR SWIFT",
+      "tabooWords": ["Eras Tour", "Swift", "cats", "country", "pop"],
+      "charadesHint": "perform a three-hour stadium set in sequins",
+      "passwordHint": "Eras"
+    },
+    {
+      "id": "people-024",
+      "word": "CHARLES DARWIN",
+      "tabooWords": [
+        "evolution",
+        "Galapagos",
+        "natural selection",
+        "theory",
+        "species"
+      ],
+      "charadesHint": "study finches on different islands and theorize",
+      "passwordHint": "evolution"
+    },
+    {
+      "id": "people-025",
+      "word": "PRINCESS DIANA",
+      "tabooWords": ["Charles", "Wales", "paparazzi", "charity", "crown"],
+      "charadesHint": "smile shyly in a tiara at a charity event",
+      "passwordHint": "Diana"
+    },
+    {
+      "id": "people-026",
+      "word": "MUHAMMAD ALI",
+      "tabooWords": ["boxing", "float", "butterfly", "sting", "champion"],
+      "charadesHint": "float and dance while throwing fast jabs",
+      "passwordHint": "butterfly"
+    },
+    {
+      "id": "people-027",
+      "word": "MALALA YOUSAFZAI",
+      "tabooWords": ["Pakistan", "education", "Nobel", "girl", "Taliban"],
+      "charadesHint": "bravely hold up a schoolbook and speak up",
+      "passwordHint": "education"
+    },
+    {
+      "id": "people-028",
+      "word": "GANDHI",
+      "tabooWords": [
+        "India",
+        "peace",
+        "independence",
+        "hunger strike",
+        "British"
+      ],
+      "charadesHint": "march peacefully in simple white cloth",
+      "passwordHint": "peaceful"
+    },
+    {
+      "id": "people-029",
+      "word": "ANNE FRANK",
+      "tabooWords": ["diary", "hiding", "Holocaust", "Amsterdam", "Jewish"],
+      "charadesHint": "write secretly in a diary hidden in an attic",
+      "passwordHint": "diary"
+    },
+    {
+      "id": "people-030",
+      "word": "NEIL ARMSTRONG",
+      "tabooWords": ["moon", "astronaut", "NASA", "step", "Apollo"],
+      "charadesHint": "bounce in zero gravity on a grey dusty surface",
+      "passwordHint": "moon"
+    },
+    {
+      "id": "people-031",
+      "word": "VINCENT VAN GOGH",
+      "tabooWords": ["ear", "sunflowers", "Dutch", "Starry Night", "painter"],
+      "charadesHint": "paint thick swirling stars with an ear bandaged",
+      "passwordHint": "ear"
+    },
+    {
+      "id": "people-032",
+      "word": "SERENA WILLIAMS",
+      "tabooWords": ["tennis", "Grand Slam", "Williams", "racket", "champion"],
+      "charadesHint": "serve powerfully and pump your fist at the crowd",
+      "passwordHint": "Grand Slam"
+    },
+    {
+      "id": "people-033",
+      "word": "NIKOLA TESLA",
+      "tabooWords": ["electricity", "inventor", "AC", "lightning", "Serbian"],
+      "charadesHint": "stand in a cage of lightning conducting electricity",
+      "passwordHint": "lightning"
+    },
+    {
+      "id": "people-034",
+      "word": "DOLLY PARTON",
+      "tabooWords": [
+        "country",
+        "blonde",
+        "Nashville",
+        "Nine to Five",
+        "big hair"
+      ],
+      "charadesHint": "pat big hair and strum a glittery guitar",
+      "passwordHint": "Nashville"
+    },
+    {
+      "id": "people-035",
+      "word": "ALAN TURING",
+      "tabooWords": ["computer", "code", "Enigma", "mathematician", "WWII"],
+      "charadesHint": "decode complex messages on a machine",
+      "passwordHint": "code"
+    },
+    {
+      "id": "people-036",
+      "word": "BILLIE EILISH",
+      "tabooWords": ["green hair", "whisper", "Bad Guy", "young", "pop"],
+      "charadesHint": "whisper-sing with neon hair and oversized clothes",
+      "passwordHint": "whisper"
+    },
+    {
+      "id": "people-037",
+      "word": "ISAAC NEWTON",
+      "tabooWords": ["apple", "gravity", "mathematics", "laws", "physics"],
+      "charadesHint": "sit under a tree as an apple bonks your head",
+      "passwordHint": "apple"
+    },
+    {
+      "id": "people-038",
+      "word": "JACKIE CHAN",
+      "tabooWords": ["martial arts", "stunt", "comedy", "Hong Kong", "action"],
+      "charadesHint": "use a stepladder as a weapon while doing acrobatics",
+      "passwordHint": "stunt"
+    },
+    {
+      "id": "people-039",
+      "word": "DAVID BOWIE",
+      "tabooWords": ["Ziggy", "Stardust", "glam", "rock", "alter ego"],
+      "charadesHint": "strike a glam pose with a lightning bolt face",
+      "passwordHint": "Ziggy"
+    },
+    {
+      "id": "people-040",
+      "word": "MALALA YOUSAFZAI",
+      "tabooWords": ["Pakistan", "education", "Nobel", "activist", "shooting"],
+      "charadesHint": "hold a book up defiantly against all odds",
+      "passwordHint": "activist"
+    },
+    {
+      "id": "people-041",
+      "word": "CRISTIANO RONALDO",
+      "tabooWords": ["football", "Portugal", "goal", "CR7", "Real Madrid"],
+      "charadesHint": "celebrate a goal with the iconic SIUUU jump",
+      "passwordHint": "SIUUU"
+    },
+    {
+      "id": "people-042",
+      "word": "AUDREY HEPBURN",
+      "tabooWords": [
+        "Breakfast at Tiffany's",
+        "elegant",
+        "actress",
+        "tiara",
+        "black dress"
+      ],
+      "charadesHint": "wear pearls and pose elegantly with a cigarette holder",
+      "passwordHint": "elegant"
+    },
+    {
+      "id": "people-043",
+      "word": "BILL GATES",
+      "tabooWords": [
+        "Microsoft",
+        "Windows",
+        "computer",
+        "billionaire",
+        "charity"
+      ],
+      "charadesHint": "obsessively clean dishes while running the world's biggest charity",
+      "passwordHint": "Windows"
+    },
+    {
+      "id": "people-044",
+      "word": "RIHANNA",
+      "tabooWords": ["Barbados", "Fenty", "Umbrella", "singer", "fashion"],
+      "charadesHint": "perform at a Super Bowl halftime show",
+      "passwordHint": "Fenty"
+    },
+    {
+      "id": "people-045",
+      "word": "SIGMUND FREUD",
+      "tabooWords": [
+        "psychoanalysis",
+        "dream",
+        "couch",
+        "cigar",
+        "subconscious"
+      ],
+      "charadesHint": "lie on a couch and interpret your dreams",
+      "passwordHint": "subconscious"
+    },
+    {
+      "id": "people-046",
+      "word": "LIONEL MESSI",
+      "tabooWords": [
+        "Argentina",
+        "football",
+        "World Cup",
+        "Barcelona",
+        "dribble"
+      ],
+      "charadesHint": "dribble past five defenders and score with ease",
+      "passwordHint": "Argentina"
+    },
+    {
+      "id": "people-047",
+      "word": "AUNG SAN SUU KYI",
+      "tabooWords": ["Myanmar", "democracy", "Nobel", "house arrest", "Burma"],
+      "charadesHint": "be confined indoors yet continue to inspire freedom",
+      "passwordHint": "democracy"
+    },
+    {
+      "id": "people-048",
+      "word": "LADY GAGA",
+      "tabooWords": [
+        "Little Monsters",
+        "meat dress",
+        "pop",
+        "Born This Way",
+        "outrageous"
+      ],
+      "charadesHint": "wear a dress made of raw meat to an awards show",
+      "passwordHint": "meat dress"
+    },
+    {
+      "id": "people-049",
+      "word": "STEPHEN FRY",
+      "tabooWords": ["British", "actor", "writer", "Jeeves", "comedy"],
+      "charadesHint": "deliver a witty monologue with perfect English diction",
+      "passwordHint": "wit"
+    },
+    {
+      "id": "people-050",
+      "word": "GRETA THUNBERG",
+      "tabooWords": ["climate", "activist", "Sweden", "youth", "Friday"],
+      "charadesHint": "hold a school strike sign for climate outside parliament",
+      "passwordHint": "climate"
+    },
+    {
+      "id": "people-051",
+      "word": "DAVID ATTENBOROUGH",
+      "tabooWords": ["nature", "documentary", "BBC", "wildlife", "narrate"],
+      "charadesHint": "whisper in awe while giant animals pass by",
+      "passwordHint": "wildlife"
+    },
+    {
+      "id": "people-052",
+      "word": "ROSA PARKS",
+      "tabooWords": ["bus", "Montgomery", "civil rights", "seat", "refuse"],
+      "charadesHint": "sit firmly in a bus seat refusing to move",
+      "passwordHint": "bus"
+    },
+    {
+      "id": "people-053",
+      "word": "MARK ZUCKERBERG",
+      "tabooWords": [
+        "Facebook",
+        "Meta",
+        "social network",
+        "Harvard",
+        "founder"
+      ],
+      "charadesHint": "code in a dorm room and accidentally connect everyone",
+      "passwordHint": "Meta"
+    },
+    {
+      "id": "people-054",
+      "word": "ADELE",
+      "tabooWords": ["Hello", "British", "singer", "soulful", "ballad"],
+      "charadesHint": "belt an emotional ballad from the heart",
+      "passwordHint": "Hello"
+    },
+    {
+      "id": "people-055",
+      "word": "CHARLES CHAPLIN",
+      "tabooWords": ["silent", "mustache", "cane", "tramp", "comedy"],
+      "charadesHint": "wobble with a cane as the Little Tramp",
+      "passwordHint": "Tramp"
+    },
+    {
+      "id": "people-056",
+      "word": "JEFF BEZOS",
+      "tabooWords": ["Amazon", "billionaire", "package", "Prime", "bald"],
+      "charadesHint": "show off a massive bald head while boxes fly everywhere",
+      "passwordHint": "Amazon"
+    },
+    {
+      "id": "people-057",
+      "word": "MOTHER TERESA",
+      "tabooWords": ["sari", "Nobel", "Calcutta", "charity", "saint"],
+      "charadesHint": "hold the sick and poor in a white sari with blue trim",
+      "passwordHint": "charity"
+    },
+    {
+      "id": "people-058",
+      "word": "SHAQUILLE O'NEAL",
+      "tabooWords": ["basketball", "giant", "Lakers", "Shaq", "dunks"],
+      "charadesHint": "tower over everyone and dunk with one hand",
+      "passwordHint": "giant"
+    },
+    {
+      "id": "people-059",
+      "word": "KATIE PRICE",
+      "tabooWords": ["model", "glamour", "British", "tabloid", "Jordan"],
+      "charadesHint": "pose in a pink convertible surrounded by cameras",
+      "passwordHint": "glamour"
+    },
+    {
+      "id": "people-060",
+      "word": "EINSTIEN",
+      "tabooWords": ["physics", "genius", "E=mc2", "atom", "Nobel"],
+      "charadesHint": "scrawl the most famous equation in history",
+      "passwordHint": "E=mc2"
+    }
+  ]
+}

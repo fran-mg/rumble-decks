@@ -1,0 +1,455 @@
+{
+  "id": "science-and-technology",
+  "name": "Science & Technology",
+  "category": "Knowledge",
+  "description": "Discoveries, inventions, and scientific concepts",
+  "difficulty": "Hard",
+  "tags": ["science", "technology", "knowledge", "STEM", "quiz"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "sci-001",
+      "word": "BLACK HOLE",
+      "tabooWords": ["space", "gravity", "suck", "Einstein", "light"],
+      "charadesHint": "be irresistibly pulled into a single point",
+      "passwordHint": "gravity"
+    },
+    {
+      "id": "sci-002",
+      "word": "CRISPR",
+      "tabooWords": ["DNA", "edit", "gene", "cut", "biology"],
+      "charadesHint": "precisely snip and edit a long strand",
+      "passwordHint": "edit"
+    },
+    {
+      "id": "sci-003",
+      "word": "ARTIFICIAL INTELLIGENCE",
+      "tabooWords": ["machine", "learn", "robot", "computer", "AI"],
+      "charadesHint": "think mechanically but produce human-like answers",
+      "passwordHint": "machine learning"
+    },
+    {
+      "id": "sci-004",
+      "word": "QUANTUM ENTANGLEMENT",
+      "tabooWords": ["quantum", "connected", "physics", "Einstein", "particle"],
+      "charadesHint": "mirror your partner's actions from across the room",
+      "passwordHint": "spooky"
+    },
+    {
+      "id": "sci-005",
+      "word": "VACCINATION",
+      "tabooWords": ["needle", "immune", "disease", "prevent", "shot"],
+      "charadesHint": "give an injection that trains the immune system",
+      "passwordHint": "immune"
+    },
+    {
+      "id": "sci-006",
+      "word": "PHOTOSYNTHESIS",
+      "tabooWords": ["plant", "sun", "oxygen", "chlorophyll", "energy"],
+      "charadesHint": "absorb sunlight and breathe out oxygen",
+      "passwordHint": "sunlight"
+    },
+    {
+      "id": "sci-007",
+      "word": "BLUETOOTH",
+      "tabooWords": ["wireless", "connect", "phone", "pair", "headphone"],
+      "charadesHint": "invisibly link two devices without wires",
+      "passwordHint": "wireless"
+    },
+    {
+      "id": "sci-008",
+      "word": "CLONING",
+      "tabooWords": ["copy", "DNA", "identical", "Dolly", "genetic"],
+      "charadesHint": "create an exact identical copy of yourself",
+      "passwordHint": "copy"
+    },
+    {
+      "id": "sci-009",
+      "word": "NUCLEAR FUSION",
+      "tabooWords": ["atom", "sun", "energy", "hydrogen", "combine"],
+      "charadesHint": "smash two tiny things together and release enormous energy",
+      "passwordHint": "sun"
+    },
+    {
+      "id": "sci-010",
+      "word": "ALGORITHM",
+      "tabooWords": ["code", "steps", "computer", "solve", "process"],
+      "charadesHint": "follow a strict set of rules to solve a problem",
+      "passwordHint": "steps"
+    },
+    {
+      "id": "sci-011",
+      "word": "RELATIVITY",
+      "tabooWords": ["Einstein", "time", "space", "speed", "theory"],
+      "charadesHint": "travel near the speed of light and age more slowly",
+      "passwordHint": "Einstein"
+    },
+    {
+      "id": "sci-012",
+      "word": "BLOCKCHAIN",
+      "tabooWords": ["crypto", "Bitcoin", "decentralized", "ledger", "chain"],
+      "charadesHint": "add a verified block to an unbreakable chain",
+      "passwordHint": "ledger"
+    },
+    {
+      "id": "sci-013",
+      "word": "GRAVITY",
+      "tabooWords": ["Newton", "apple", "fall", "weight", "force"],
+      "charadesHint": "drop something and watch it fall",
+      "passwordHint": "fall"
+    },
+    {
+      "id": "sci-014",
+      "word": "3D PRINTING",
+      "tabooWords": ["layer", "plastic", "manufacture", "print", "object"],
+      "charadesHint": "slowly build a solid object layer by layer from nothing",
+      "passwordHint": "layer"
+    },
+    {
+      "id": "sci-015",
+      "word": "SOLAR PANEL",
+      "tabooWords": ["sun", "electricity", "renewable", "roof", "energy"],
+      "charadesHint": "tilt panels toward the sun and charge a battery",
+      "passwordHint": "renewable"
+    },
+    {
+      "id": "sci-016",
+      "word": "SUPERNOVA",
+      "tabooWords": ["star", "explosion", "space", "massive", "bright"],
+      "charadesHint": "expand to massive size then explode in a flash",
+      "passwordHint": "explosion"
+    },
+    {
+      "id": "sci-017",
+      "word": "DNA",
+      "tabooWords": ["helix", "gene", "double", "biology", "genetic"],
+      "charadesHint": "twist into a double helix",
+      "passwordHint": "helix"
+    },
+    {
+      "id": "sci-018",
+      "word": "VIRTUAL REALITY",
+      "tabooWords": ["headset", "immersive", "game", "goggles", "simulation"],
+      "charadesHint": "put on a headset and react to things that aren't there",
+      "passwordHint": "headset"
+    },
+    {
+      "id": "sci-019",
+      "word": "INTERNET",
+      "tabooWords": ["web", "online", "global", "network", "connect"],
+      "charadesHint": "connect everyone on Earth simultaneously",
+      "passwordHint": "web"
+    },
+    {
+      "id": "sci-020",
+      "word": "MAGNETISM",
+      "tabooWords": ["attract", "repel", "north", "south", "force"],
+      "charadesHint": "attract metal objects without touching them",
+      "passwordHint": "attract"
+    },
+    {
+      "id": "sci-021",
+      "word": "MICROSCOPE",
+      "tabooWords": ["tiny", "lens", "magnify", "biology", "cell"],
+      "charadesHint": "peer through eyepiece at an invisible world",
+      "passwordHint": "magnify"
+    },
+    {
+      "id": "sci-022",
+      "word": "EVOLUTION",
+      "tabooWords": ["Darwin", "species", "adapt", "survival", "mutation"],
+      "charadesHint": "slowly transform from ape to upright human",
+      "passwordHint": "adapt"
+    },
+    {
+      "id": "sci-023",
+      "word": "TELESCOPE",
+      "tabooWords": ["star", "space", "lens", "Hubble", "observe"],
+      "charadesHint": "peer through a long tube at distant stars",
+      "passwordHint": "Hubble"
+    },
+    {
+      "id": "sci-024",
+      "word": "ELECTRIC CAR",
+      "tabooWords": ["Tesla", "battery", "plug", "green", "charge"],
+      "charadesHint": "charge your car overnight and drive silently",
+      "passwordHint": "Tesla"
+    },
+    {
+      "id": "sci-025",
+      "word": "ANTIBIOTICS",
+      "tabooWords": ["bacteria", "medicine", "penicillin", "infection", "pill"],
+      "charadesHint": "take a pill that kills invading bacteria",
+      "passwordHint": "penicillin"
+    },
+    {
+      "id": "sci-026",
+      "word": "NANOTECHNOLOGY",
+      "tabooWords": ["tiny", "nano", "molecular", "engineering", "scale"],
+      "charadesHint": "build machines too small to see",
+      "passwordHint": "tiny"
+    },
+    {
+      "id": "sci-027",
+      "word": "CRYPTOCURRENCY",
+      "tabooWords": ["Bitcoin", "digital", "blockchain", "wallet", "invest"],
+      "charadesHint": "mine invisible coins with a powerful computer",
+      "passwordHint": "Bitcoin"
+    },
+    {
+      "id": "sci-028",
+      "word": "SPACE STATION",
+      "tabooWords": ["ISS", "orbit", "astronaut", "microgravity", "module"],
+      "charadesHint": "float weightlessly in a tin can orbiting Earth",
+      "passwordHint": "orbit"
+    },
+    {
+      "id": "sci-029",
+      "word": "PLATE TECTONICS",
+      "tabooWords": ["earthquake", "continent", "move", "geology", "drift"],
+      "charadesHint": "slowly slide giant pieces of Earth's crust together",
+      "passwordHint": "drift"
+    },
+    {
+      "id": "sci-030",
+      "word": "WIRELESS CHARGING",
+      "tabooWords": ["pad", "inductive", "phone", "no cable", "qi"],
+      "charadesHint": "set a phone down and watch it charge with no wires",
+      "passwordHint": "inductive"
+    },
+    {
+      "id": "sci-031",
+      "word": "GENE THERAPY",
+      "tabooWords": ["DNA", "disease", "correct", "treatment", "biology"],
+      "charadesHint": "inject corrective DNA to fix a broken gene",
+      "passwordHint": "correct"
+    },
+    {
+      "id": "sci-032",
+      "word": "AUTONOMOUS VEHICLE",
+      "tabooWords": ["self-driving", "car", "AI", "sensor", "Tesla"],
+      "charadesHint": "sit in a car with hands off the wheel while it drives itself",
+      "passwordHint": "self-driving"
+    },
+    {
+      "id": "sci-033",
+      "word": "MARS",
+      "tabooWords": ["planet", "red", "NASA", "SpaceX", "astronaut"],
+      "charadesHint": "plant a flag on a red rocky planet",
+      "passwordHint": "red planet"
+    },
+    {
+      "id": "sci-034",
+      "word": "DEEP LEARNING",
+      "tabooWords": ["neural", "network", "AI", "train", "machine"],
+      "charadesHint": "feed millions of examples into a layered network",
+      "passwordHint": "neural network"
+    },
+    {
+      "id": "sci-035",
+      "word": "CARBON CAPTURE",
+      "tabooWords": ["CO2", "climate", "filter", "air", "greenhouse"],
+      "charadesHint": "suck carbon dioxide from the air and store it underground",
+      "passwordHint": "CO2"
+    },
+    {
+      "id": "sci-036",
+      "word": "STEM CELL",
+      "tabooWords": ["blank", "differentiate", "medical", "grow", "therapy"],
+      "charadesHint": "become any type of cell the body needs",
+      "passwordHint": "blank"
+    },
+    {
+      "id": "sci-037",
+      "word": "WORMHOLE",
+      "tabooWords": ["space", "shortcut", "Einstein", "tunnel", "theoretical"],
+      "charadesHint": "create a tunnel through space-time to another galaxy",
+      "passwordHint": "shortcut"
+    },
+    {
+      "id": "sci-038",
+      "word": "AUGMENTED REALITY",
+      "tabooWords": ["AR", "overlay", "real world", "glasses", "digital"],
+      "charadesHint": "see real world with digital information overlaid",
+      "passwordHint": "overlay"
+    },
+    {
+      "id": "sci-039",
+      "word": "TECTONIC PLATES",
+      "tabooWords": ["earth", "crust", "geology", "move", "earthquake"],
+      "charadesHint": "push two massive invisible plates together",
+      "passwordHint": "crust"
+    },
+    {
+      "id": "sci-040",
+      "word": "PERIODIC TABLE",
+      "tabooWords": ["elements", "chemistry", "Mendeleev", "atoms", "table"],
+      "charadesHint": "arrange all known elements in rows and columns",
+      "passwordHint": "elements"
+    },
+    {
+      "id": "sci-041",
+      "word": "DARK MATTER",
+      "tabooWords": ["invisible", "universe", "mass", "physics", "unknown"],
+      "charadesHint": "point at something invisible that holds galaxies together",
+      "passwordHint": "invisible"
+    },
+    {
+      "id": "sci-042",
+      "word": "SMARTPHONE",
+      "tabooWords": [
+        "iPhone",
+        "Android",
+        "touchscreen",
+        "app",
+        "pocket computer"
+      ],
+      "charadesHint": "hold a device containing all human knowledge in your palm",
+      "passwordHint": "touchscreen"
+    },
+    {
+      "id": "sci-043",
+      "word": "SUPERCONDUCTOR",
+      "tabooWords": [
+        "zero resistance",
+        "electricity",
+        "cold",
+        "magnetic",
+        "levitate"
+      ],
+      "charadesHint": "levitate a magnet above a disc at extreme cold",
+      "passwordHint": "levitate"
+    },
+    {
+      "id": "sci-044",
+      "word": "GENOME",
+      "tabooWords": ["DNA", "complete", "sequence", "life", "code"],
+      "charadesHint": "read the complete instruction manual for building a life form",
+      "passwordHint": "sequence"
+    },
+    {
+      "id": "sci-045",
+      "word": "EXOPLANET",
+      "tabooWords": [
+        "planet",
+        "solar system",
+        "outside",
+        "orbit",
+        "other star"
+      ],
+      "charadesHint": "discover a planet orbiting a distant star",
+      "passwordHint": "distant"
+    },
+    {
+      "id": "sci-046",
+      "word": "FIREWALL",
+      "tabooWords": ["security", "block", "network", "hacker", "protect"],
+      "charadesHint": "stand as an invisible barrier blocking attackers",
+      "passwordHint": "security"
+    },
+    {
+      "id": "sci-047",
+      "word": "HYPERLOOP",
+      "tabooWords": ["tube", "fast", "Musk", "travel", "vacuum"],
+      "charadesHint": "shoot through a vacuum tube at incredible speed",
+      "passwordHint": "vacuum tube"
+    },
+    {
+      "id": "sci-048",
+      "word": "BIOLUMINESCENCE",
+      "tabooWords": ["glow", "living", "ocean", "chemical", "firefly"],
+      "charadesHint": "glow blue in a dark ocean from within",
+      "passwordHint": "glow"
+    },
+    {
+      "id": "sci-049",
+      "word": "WIFI",
+      "tabooWords": ["wireless", "internet", "router", "signal", "connect"],
+      "charadesHint": "stretch invisible waves from a box to your device",
+      "passwordHint": "router"
+    },
+    {
+      "id": "sci-050",
+      "word": "CHAT GPT",
+      "tabooWords": ["AI", "language model", "OpenAI", "chatbot", "answer"],
+      "charadesHint": "answer any question instantly and fluently",
+      "passwordHint": "chatbot"
+    },
+    {
+      "id": "sci-051",
+      "word": "ELECTRIC EEL",
+      "tabooWords": ["voltage", "shock", "river", "biology", "charge"],
+      "charadesHint": "generate and discharge electricity from your body",
+      "passwordHint": "voltage"
+    },
+    {
+      "id": "sci-052",
+      "word": "SATELLITE",
+      "tabooWords": ["orbit", "space", "GPS", "communication", "signal"],
+      "charadesHint": "orbit Earth transmitting signals below",
+      "passwordHint": "orbit"
+    },
+    {
+      "id": "sci-053",
+      "word": "ROBOT",
+      "tabooWords": ["machine", "program", "metal", "automatic", "humanoid"],
+      "charadesHint": "move in stiff mechanical motions",
+      "passwordHint": "mechanical"
+    },
+    {
+      "id": "sci-054",
+      "word": "ECOSYSTEM",
+      "tabooWords": [
+        "environment",
+        "nature",
+        "species",
+        "interdependent",
+        "food web"
+      ],
+      "charadesHint": "connect every living thing in a balanced web",
+      "passwordHint": "balance"
+    },
+    {
+      "id": "sci-055",
+      "word": "LIGHTNING",
+      "tabooWords": ["thunder", "storm", "electricity", "bolt", "sky"],
+      "charadesHint": "strike as a bolt from sky to ground",
+      "passwordHint": "bolt"
+    },
+    {
+      "id": "sci-056",
+      "word": "SONAR",
+      "tabooWords": ["sound", "submarine", "echo", "detect", "dolphin"],
+      "charadesHint": "send a ping and detect objects from the echo",
+      "passwordHint": "echo"
+    },
+    {
+      "id": "sci-057",
+      "word": "GEOTHERMAL",
+      "tabooWords": ["heat", "earth", "Iceland", "energy", "volcanic"],
+      "charadesHint": "tap heat rising from deep within the Earth",
+      "passwordHint": "heat"
+    },
+    {
+      "id": "sci-058",
+      "word": "TIDAL WAVE",
+      "tabooWords": ["tsunami", "earthquake", "ocean", "wave", "disaster"],
+      "charadesHint": "grow from a ripple to an enormous wall of water",
+      "passwordHint": "tsunami"
+    },
+    {
+      "id": "sci-059",
+      "word": "MOON LANDING",
+      "tabooWords": ["1969", "Apollo", "Armstrong", "NASA", "footprint"],
+      "charadesHint": "plant a flag and take giant leaps in low gravity",
+      "passwordHint": "Apollo"
+    },
+    {
+      "id": "sci-060",
+      "word": "MEMORY FOAM",
+      "tabooWords": ["mattress", "NASA", "pressure", "mold", "sleep"],
+      "charadesHint": "press your hand in and watch it slowly spring back",
+      "passwordHint": "mattress"
+    }
+  ]
+}

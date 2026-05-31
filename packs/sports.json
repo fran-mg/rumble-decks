@@ -1,0 +1,431 @@
+{
+  "id": "sports",
+  "name": "Sports",
+  "category": "Sports",
+  "description": "Athletes, games, and sporting moments",
+  "difficulty": "Medium",
+  "tags": ["sports", "athletes", "games", "competition"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "sports-001",
+      "word": "GYMNASTICS",
+      "tabooWords": ["flip", "balance", "beam", "tumble", "Olympic"],
+      "charadesHint": "do a cartwheel and balance on a beam",
+      "passwordHint": "flip"
+    },
+    {
+      "id": "sports-002",
+      "word": "SURFING",
+      "tabooWords": ["wave", "board", "ocean", "balance", "Hawaii"],
+      "charadesHint": "balance on a board riding a huge wave",
+      "passwordHint": "wave"
+    },
+    {
+      "id": "sports-003",
+      "word": "FENCING",
+      "tabooWords": ["sword", "mask", "lunge", "épée", "parry"],
+      "charadesHint": "lunge forward with a sword and parry",
+      "passwordHint": "lunge"
+    },
+    {
+      "id": "sports-004",
+      "word": "POLE VAULT",
+      "tabooWords": ["pole", "jump", "height", "bar", "athletics"],
+      "charadesHint": "plant a pole and catapult over a high bar",
+      "passwordHint": "pole"
+    },
+    {
+      "id": "sports-005",
+      "word": "CURLING",
+      "tabooWords": ["ice", "broom", "stone", "sweep", "Scotland"],
+      "charadesHint": "slide a heavy stone and furiously sweep ice",
+      "passwordHint": "sweep"
+    },
+    {
+      "id": "sports-006",
+      "word": "SHOT PUT",
+      "tabooWords": ["throw", "heavy", "circle", "metal", "ball"],
+      "charadesHint": "spin and hurl a heavy metal ball",
+      "passwordHint": "hurl"
+    },
+    {
+      "id": "sports-007",
+      "word": "SYNCHRONIZED SWIMMING",
+      "tabooWords": ["water", "team", "routine", "nose clip", "upside"],
+      "charadesHint": "spin your legs perfectly mirroring your partner",
+      "passwordHint": "synchronized"
+    },
+    {
+      "id": "sports-008",
+      "word": "WEIGHTLIFTING",
+      "tabooWords": ["barbell", "heavy", "press", "Olympic", "snatch"],
+      "charadesHint": "heave a massive barbell over your head",
+      "passwordHint": "barbell"
+    },
+    {
+      "id": "sports-009",
+      "word": "BOBSLED",
+      "tabooWords": ["sled", "ice", "track", "push", "Jamaica"],
+      "charadesHint": "push a sled then jump in and hurtle down ice",
+      "passwordHint": "ice track"
+    },
+    {
+      "id": "sports-010",
+      "word": "ARCHERY",
+      "tabooWords": ["bow", "arrow", "target", "aim", "bull"],
+      "charadesHint": "draw a bow and release an arrow at a target",
+      "passwordHint": "bullseye"
+    },
+    {
+      "id": "sports-011",
+      "word": "MARATHON",
+      "tabooWords": ["run", "26", "miles", "endurance", "race"],
+      "charadesHint": "run for hours looking increasingly exhausted",
+      "passwordHint": "endurance"
+    },
+    {
+      "id": "sports-012",
+      "word": "WATER POLO",
+      "tabooWords": ["swim", "ball", "goal", "pool", "throw"],
+      "charadesHint": "tread water and throw a ball into a net",
+      "passwordHint": "pool"
+    },
+    {
+      "id": "sports-013",
+      "word": "SKEET SHOOTING",
+      "tabooWords": ["clay", "gun", "shoot", "flying", "aim"],
+      "charadesHint": "aim a shotgun at flying clay discs",
+      "passwordHint": "clay"
+    },
+    {
+      "id": "sports-014",
+      "word": "DECATHLON",
+      "tabooWords": ["ten", "events", "Olympic", "track", "field"],
+      "charadesHint": "frantically switch between ten different sports",
+      "passwordHint": "ten"
+    },
+    {
+      "id": "sports-015",
+      "word": "SUMO WRESTLING",
+      "tabooWords": ["Japan", "large", "push", "ring", "belt"],
+      "charadesHint": "assume wide stance and shove opponent from ring",
+      "passwordHint": "ring"
+    },
+    {
+      "id": "sports-016",
+      "word": "CRICKET",
+      "tabooWords": ["bat", "wicket", "England", "bowl", "innings"],
+      "charadesHint": "stand at the crease and bat a ball",
+      "passwordHint": "wicket"
+    },
+    {
+      "id": "sports-017",
+      "word": "RUGBY",
+      "tabooWords": ["tackle", "scrum", "oval", "England", "try"],
+      "charadesHint": "charge forward and dive for a try",
+      "passwordHint": "scrum"
+    },
+    {
+      "id": "sports-018",
+      "word": "LACROSSE",
+      "tabooWords": ["stick", "net", "Indigenous", "ball", "cradle"],
+      "charadesHint": "cradle a ball in a net-stick and sprint",
+      "passwordHint": "stick"
+    },
+    {
+      "id": "sports-019",
+      "word": "FIGURE SKATING",
+      "tabooWords": ["ice", "spin", "jump", "blade", "artistic"],
+      "charadesHint": "spin into a triple axel on ice",
+      "passwordHint": "spin"
+    },
+    {
+      "id": "sports-020",
+      "word": "ROCK CLIMBING",
+      "tabooWords": ["wall", "grip", "rope", "bouldering", "ascent"],
+      "charadesHint": "feel your way up a vertical wall for handholds",
+      "passwordHint": "grip"
+    },
+    {
+      "id": "sports-021",
+      "word": "AMERICAN FOOTBALL",
+      "tabooWords": ["quarterback", "touchdown", "NFL", "tackle", "helmet"],
+      "charadesHint": "throw a spiral and spike the ball after scoring",
+      "passwordHint": "touchdown"
+    },
+    {
+      "id": "sports-022",
+      "word": "BASEBALL",
+      "tabooWords": ["bat", "home run", "pitcher", "diamond", "catch"],
+      "charadesHint": "wind up and swing for a home run",
+      "passwordHint": "diamond"
+    },
+    {
+      "id": "sports-023",
+      "word": "BASKETBALL",
+      "tabooWords": ["hoop", "dribble", "NBA", "dunk", "court"],
+      "charadesHint": "dribble and slam dunk a ball",
+      "passwordHint": "dunk"
+    },
+    {
+      "id": "sports-024",
+      "word": "TENNIS",
+      "tabooWords": ["racket", "serve", "net", "Wimbledon", "court"],
+      "charadesHint": "toss the ball up and smash a serve",
+      "passwordHint": "serve"
+    },
+    {
+      "id": "sports-025",
+      "word": "GOLF",
+      "tabooWords": ["club", "hole", "putt", "course", "swing"],
+      "charadesHint": "line up a putt and follow through",
+      "passwordHint": "putt"
+    },
+    {
+      "id": "sports-026",
+      "word": "SWIMMING",
+      "tabooWords": ["pool", "stroke", "lane", "backstroke", "freestyle"],
+      "charadesHint": "perform a freestyle stroke down a lap lane",
+      "passwordHint": "stroke"
+    },
+    {
+      "id": "sports-027",
+      "word": "CYCLING",
+      "tabooWords": ["bike", "pedal", "Tour de France", "wheel", "race"],
+      "charadesHint": "pedal furiously up a mountain",
+      "passwordHint": "pedal"
+    },
+    {
+      "id": "sports-028",
+      "word": "BOXING",
+      "tabooWords": ["punch", "ring", "gloves", "knockout", "jab"],
+      "charadesHint": "jab and weave in a boxing ring",
+      "passwordHint": "jab"
+    },
+    {
+      "id": "sports-029",
+      "word": "SKATEBOARDING",
+      "tabooWords": ["board", "trick", "halfpipe", "kickflip", "park"],
+      "charadesHint": "kickflip a skateboard over a ramp",
+      "passwordHint": "kickflip"
+    },
+    {
+      "id": "sports-030",
+      "word": "SNOWBOARDING",
+      "tabooWords": ["mountain", "slope", "halfpipe", "grind", "trick"],
+      "charadesHint": "carve down a mountain sideways on a board",
+      "passwordHint": "carve"
+    },
+    {
+      "id": "sports-031",
+      "word": "HORSE RACING",
+      "tabooWords": ["jockey", "horse", "track", "bet", "Derby"],
+      "charadesHint": "crouch as a jockey bouncing on a galloping horse",
+      "passwordHint": "jockey"
+    },
+    {
+      "id": "sports-032",
+      "word": "SAILING",
+      "tabooWords": ["boat", "wind", "sail", "tack", "ocean"],
+      "charadesHint": "pull ropes and tack into the wind",
+      "passwordHint": "tack"
+    },
+    {
+      "id": "sports-033",
+      "word": "HANDBALL",
+      "tabooWords": ["ball", "goal", "throw", "team", "court"],
+      "charadesHint": "jump and hurl a ball into a net",
+      "passwordHint": "throw"
+    },
+    {
+      "id": "sports-034",
+      "word": "TABLE TENNIS",
+      "tabooWords": ["ping pong", "table", "paddle", "small", "fast"],
+      "charadesHint": "bat a tiny ball back and forth very fast",
+      "passwordHint": "ping pong"
+    },
+    {
+      "id": "sports-035",
+      "word": "BADMINTON",
+      "tabooWords": ["shuttlecock", "racket", "net", "smash", "feather"],
+      "charadesHint": "smash a feathered shuttlecock over a net",
+      "passwordHint": "shuttlecock"
+    },
+    {
+      "id": "sports-036",
+      "word": "JUDO",
+      "tabooWords": ["throw", "Japanese", "belt", "mat", "grip"],
+      "charadesHint": "grip and flip an opponent onto a mat",
+      "passwordHint": "throw"
+    },
+    {
+      "id": "sports-037",
+      "word": "TRIATHLON",
+      "tabooWords": ["swim", "bike", "run", "endurance", "three"],
+      "charadesHint": "swim, then bike, then run utterly exhausted",
+      "passwordHint": "three"
+    },
+    {
+      "id": "sports-038",
+      "word": "SKYDIVING",
+      "tabooWords": ["parachute", "plane", "fall", "freefall", "jump"],
+      "charadesHint": "jump from a plane and freefall with arms spread",
+      "passwordHint": "freefall"
+    },
+    {
+      "id": "sports-039",
+      "word": "ROWING",
+      "tabooWords": ["oar", "boat", "crew", "river", "stroke"],
+      "charadesHint": "pull oars in perfect synchrony down a river",
+      "passwordHint": "oar"
+    },
+    {
+      "id": "sports-040",
+      "word": "MOTOCROSS",
+      "tabooWords": ["motorcycle", "dirt", "jump", "mud", "race"],
+      "charadesHint": "rev a motorbike and launch off a dirt ramp",
+      "passwordHint": "dirt"
+    },
+    {
+      "id": "sports-041",
+      "word": "VOLLEYBALL",
+      "tabooWords": ["spike", "net", "beach", "serve", "block"],
+      "charadesHint": "leap and spike a ball over a net",
+      "passwordHint": "spike"
+    },
+    {
+      "id": "sports-042",
+      "word": "CROSS-COUNTRY SKIING",
+      "tabooWords": ["Nordic", "snow", "poles", "glide", "endurance"],
+      "charadesHint": "glide across flat snowy terrain with poles",
+      "passwordHint": "Nordic"
+    },
+    {
+      "id": "sports-043",
+      "word": "WRESTLING",
+      "tabooWords": ["grapple", "mat", "pin", "takedown", "weight class"],
+      "charadesHint": "grapple and pin an opponent to the mat",
+      "passwordHint": "pin"
+    },
+    {
+      "id": "sports-044",
+      "word": "BIATHLON",
+      "tabooWords": ["ski", "shoot", "rifle", "winter", "Nordic"],
+      "charadesHint": "ski then drop to the ground to shoot targets",
+      "passwordHint": "rifle"
+    },
+    {
+      "id": "sports-045",
+      "word": "WINDSURFING",
+      "tabooWords": ["sail", "board", "wind", "ocean", "balance"],
+      "charadesHint": "balance on a board steering a sail in the wind",
+      "passwordHint": "sail"
+    },
+    {
+      "id": "sports-046",
+      "word": "DISCUS THROW",
+      "tabooWords": ["spin", "circle", "throw", "disc", "Olympics"],
+      "charadesHint": "spin in a circle and release a flying disc",
+      "passwordHint": "spin"
+    },
+    {
+      "id": "sports-047",
+      "word": "LONG JUMP",
+      "tabooWords": ["sprint", "board", "leap", "sand", "distance"],
+      "charadesHint": "sprint toward a board and leap as far as possible",
+      "passwordHint": "leap"
+    },
+    {
+      "id": "sports-048",
+      "word": "WHEELCHAIR RACING",
+      "tabooWords": ["Paralympic", "wheelchair", "push", "track", "speed"],
+      "charadesHint": "push wheelchair wheels powerfully around a track",
+      "passwordHint": "Paralympic"
+    },
+    {
+      "id": "sports-049",
+      "word": "HURDLES",
+      "tabooWords": ["jump", "track", "sprint", "barrier", "leap"],
+      "charadesHint": "sprint and leap cleanly over successive barriers",
+      "passwordHint": "barrier"
+    },
+    {
+      "id": "sports-050",
+      "word": "EQUESTRIAN DRESSAGE",
+      "tabooWords": ["horse", "dance", "elegant", "training", "arena"],
+      "charadesHint": "prance in perfect patterns on an elegant horse",
+      "passwordHint": "prance"
+    },
+    {
+      "id": "sports-051",
+      "word": "STOCK CAR RACING",
+      "tabooWords": ["NASCAR", "oval", "speed", "car", "pit stop"],
+      "charadesHint": "zoom around an oval track with a fast pit stop",
+      "passwordHint": "NASCAR"
+    },
+    {
+      "id": "sports-052",
+      "word": "CANOE SLALOM",
+      "tabooWords": ["kayak", "gates", "river", "paddle", "rapids"],
+      "charadesHint": "navigate through gates in churning white water",
+      "passwordHint": "rapids"
+    },
+    {
+      "id": "sports-053",
+      "word": "TAEKWONDO",
+      "tabooWords": ["kick", "Korean", "belt", "spin", "martial arts"],
+      "charadesHint": "leap and deliver a spinning head kick",
+      "passwordHint": "kick"
+    },
+    {
+      "id": "sports-054",
+      "word": "TRAMPOLINING",
+      "tabooWords": ["bounce", "aerial", "flip", "spring", "gymnastics"],
+      "charadesHint": "bounce to incredible heights doing aerial flips",
+      "passwordHint": "bounce"
+    },
+    {
+      "id": "sports-055",
+      "word": "BMX",
+      "tabooWords": ["bike", "trick", "ramp", "dirt", "jump"],
+      "charadesHint": "launch off a ramp on a small bike doing tricks",
+      "passwordHint": "trick"
+    },
+    {
+      "id": "sports-056",
+      "word": "LUGE",
+      "tabooWords": ["sled", "ice", "feet first", "speed", "Winter Olympics"],
+      "charadesHint": "lie flat on a tiny sled shooting down an ice track",
+      "passwordHint": "sled"
+    },
+    {
+      "id": "sports-057",
+      "word": "POWERLIFTING",
+      "tabooWords": ["bench", "squat", "deadlift", "strong", "weight"],
+      "charadesHint": "perform a massive deadlift then drop the weights",
+      "passwordHint": "deadlift"
+    },
+    {
+      "id": "sports-058",
+      "word": "ARTISTIC SWIMMING",
+      "tabooWords": ["water", "routine", "synchronized", "float", "spin"],
+      "charadesHint": "spin upside down in water with perfect grace",
+      "passwordHint": "routine"
+    },
+    {
+      "id": "sports-059",
+      "word": "ORIENTEERING",
+      "tabooWords": ["map", "compass", "forest", "navigate", "run"],
+      "charadesHint": "dash through forest checking compass and map",
+      "passwordHint": "compass"
+    },
+    {
+      "id": "sports-060",
+      "word": "KABADDI",
+      "tabooWords": ["India", "tag", "breath", "raid", "team"],
+      "charadesHint": "chant kabaddi while raiding and tagging opponents",
+      "passwordHint": "raid"
+    }
+  ]
+}

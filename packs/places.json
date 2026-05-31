@@ -1,0 +1,467 @@
+{
+  "id": "places",
+  "name": "Places & Landmarks",
+  "category": "Geography",
+  "description": "Famous cities, countries, and iconic landmarks",
+  "difficulty": "Medium",
+  "tags": ["geography", "travel", "landmarks", "world"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "places-001",
+      "word": "EIFFEL TOWER",
+      "tabooWords": ["Paris", "France", "iron", "tall", "tourist"],
+      "charadesHint": "make a triangle shape above your head",
+      "passwordHint": "Paris"
+    },
+    {
+      "id": "places-002",
+      "word": "GREAT WALL OF CHINA",
+      "tabooWords": ["China", "wall", "long", "stone", "ancient"],
+      "charadesHint": "walk along a winding wall across mountains",
+      "passwordHint": "China"
+    },
+    {
+      "id": "places-003",
+      "word": "AMAZON RAINFOREST",
+      "tabooWords": ["Brazil", "jungle", "river", "green", "lungs"],
+      "charadesHint": "hack through dense jungle hearing exotic birds",
+      "passwordHint": "jungle"
+    },
+    {
+      "id": "places-004",
+      "word": "MOUNT EVEREST",
+      "tabooWords": ["tallest", "Nepal", "summit", "climb", "Himalaya"],
+      "charadesHint": "plant a flag on the top of the world exhausted",
+      "passwordHint": "summit"
+    },
+    {
+      "id": "places-005",
+      "word": "SAHARA DESERT",
+      "tabooWords": ["sand", "Africa", "hot", "dunes", "largest"],
+      "charadesHint": "trudge through endless sand dunes under scorching sun",
+      "passwordHint": "dunes"
+    },
+    {
+      "id": "places-006",
+      "word": "VENICE",
+      "tabooWords": ["canal", "gondola", "Italy", "mask", "flood"],
+      "charadesHint": "row a gondola through narrow canals",
+      "passwordHint": "gondola"
+    },
+    {
+      "id": "places-007",
+      "word": "MACHU PICCHU",
+      "tabooWords": ["Peru", "Inca", "mountain", "ruins", "ancient"],
+      "charadesHint": "emerge from cloud mist to ancient stone ruins",
+      "passwordHint": "Inca"
+    },
+    {
+      "id": "places-008",
+      "word": "GRAND CANYON",
+      "tabooWords": ["Arizona", "canyon", "river", "deep", "Colorado"],
+      "charadesHint": "peer over a dizzying edge into a vast chasm",
+      "passwordHint": "Colorado"
+    },
+    {
+      "id": "places-009",
+      "word": "COLOSSEUM",
+      "tabooWords": ["Rome", "gladiator", "ancient", "arena", "Italy"],
+      "charadesHint": "fight as a gladiator in an ancient ruined arena",
+      "passwordHint": "Rome"
+    },
+    {
+      "id": "places-010",
+      "word": "NIAGARA FALLS",
+      "tabooWords": ["waterfall", "Canada", "America", "mist", "power"],
+      "charadesHint": "stand in spray of a massive thundering waterfall",
+      "passwordHint": "waterfall"
+    },
+    {
+      "id": "places-011",
+      "word": "TOKYO",
+      "tabooWords": ["Japan", "neon", "busy", "technology", "city"],
+      "charadesHint": "navigate a dazzlingly bright neon city street",
+      "passwordHint": "neon"
+    },
+    {
+      "id": "places-012",
+      "word": "ANTARCTICA",
+      "tabooWords": ["ice", "south pole", "cold", "penguins", "continent"],
+      "charadesHint": "shiver among penguins on frozen ice",
+      "passwordHint": "penguins"
+    },
+    {
+      "id": "places-013",
+      "word": "GREAT BARRIER REEF",
+      "tabooWords": ["coral", "Australia", "snorkel", "fish", "ocean"],
+      "charadesHint": "snorkel among colorful coral and tropical fish",
+      "passwordHint": "coral"
+    },
+    {
+      "id": "places-014",
+      "word": "TAJ MAHAL",
+      "tabooWords": ["India", "white", "marble", "love", "mausoleum"],
+      "charadesHint": "stand before a gleaming white marble monument to love",
+      "passwordHint": "marble"
+    },
+    {
+      "id": "places-015",
+      "word": "STONEHENGE",
+      "tabooWords": ["England", "rocks", "circle", "druid", "mystery"],
+      "charadesHint": "stand among giant standing stones in morning mist",
+      "passwordHint": "druid"
+    },
+    {
+      "id": "places-016",
+      "word": "DUBAI",
+      "tabooWords": ["UAE", "tall", "gold", "Burj", "luxury"],
+      "charadesHint": "look up at the world's tallest building",
+      "passwordHint": "Burj"
+    },
+    {
+      "id": "places-017",
+      "word": "PARIS",
+      "tabooWords": ["France", "romantic", "Eiffel", "croissant", "fashion"],
+      "charadesHint": "sit in a cafe eating a croissant by a river",
+      "passwordHint": "romance"
+    },
+    {
+      "id": "places-018",
+      "word": "ICELAND",
+      "tabooWords": [
+        "Northern Lights",
+        "geysers",
+        "volcanic",
+        "Nordic",
+        "cold"
+      ],
+      "charadesHint": "watch the Northern Lights while standing in a hot spring",
+      "passwordHint": "aurora"
+    },
+    {
+      "id": "places-019",
+      "word": "NEW YORK CITY",
+      "tabooWords": [
+        "Manhattan",
+        "Times Square",
+        "taxi",
+        "skyscraper",
+        "America"
+      ],
+      "charadesHint": "hail a yellow cab under massive skyscrapers",
+      "passwordHint": "Manhattan"
+    },
+    {
+      "id": "places-020",
+      "word": "AMAZON RIVER",
+      "tabooWords": ["river", "Brazil", "piranha", "long", "jungle"],
+      "charadesHint": "paddle downstream wary of piranhas",
+      "passwordHint": "piranha"
+    },
+    {
+      "id": "places-021",
+      "word": "SYDNEY OPERA HOUSE",
+      "tabooWords": ["Australia", "shell", "harbour", "performance", "iconic"],
+      "charadesHint": "make shell-shaped roof gestures over the water",
+      "passwordHint": "shell"
+    },
+    {
+      "id": "places-022",
+      "word": "SAHARA",
+      "tabooWords": ["desert", "Africa", "sand", "hot", "camel"],
+      "charadesHint": "ride a camel across endless golden sand",
+      "passwordHint": "camel"
+    },
+    {
+      "id": "places-023",
+      "word": "MALDIVES",
+      "tabooWords": ["island", "ocean", "bungalow", "tropical", "luxury"],
+      "charadesHint": "lounge in a water bungalow over turquoise sea",
+      "passwordHint": "bungalow"
+    },
+    {
+      "id": "places-024",
+      "word": "SERENGETI",
+      "tabooWords": ["Tanzania", "safari", "migration", "lions", "plain"],
+      "charadesHint": "watch a million wildebeest stampede across a plain",
+      "passwordHint": "migration"
+    },
+    {
+      "id": "places-025",
+      "word": "POMPEII",
+      "tabooWords": ["volcano", "Vesuvius", "ash", "Roman", "Italy"],
+      "charadesHint": "flee as volcanic ash buries an entire city",
+      "passwordHint": "Vesuvius"
+    },
+    {
+      "id": "places-026",
+      "word": "SILICON VALLEY",
+      "tabooWords": ["tech", "California", "startup", "Google", "innovation"],
+      "charadesHint": "code in a garage and launch a billion dollar company",
+      "passwordHint": "startup"
+    },
+    {
+      "id": "places-027",
+      "word": "ANGKOR WAT",
+      "tabooWords": ["Cambodia", "temple", "jungle", "ancient", "Khmer"],
+      "charadesHint": "explore vine-covered ancient temple towers",
+      "passwordHint": "temple"
+    },
+    {
+      "id": "places-028",
+      "word": "DEAD SEA",
+      "tabooWords": ["salt", "float", "Israel", "Jordan", "mineral"],
+      "charadesHint": "float effortlessly while reading a newspaper",
+      "passwordHint": "salt"
+    },
+    {
+      "id": "places-029",
+      "word": "CHICHEN ITZA",
+      "tabooWords": ["Mexico", "Maya", "pyramid", "temple", "equinox"],
+      "charadesHint": "climb a stepped pyramid at a Mexican ruin",
+      "passwordHint": "Maya"
+    },
+    {
+      "id": "places-030",
+      "word": "BALI",
+      "tabooWords": [
+        "Indonesia",
+        "temple",
+        "rice terrace",
+        "surf",
+        "spiritual"
+      ],
+      "charadesHint": "meditate in a jungle temple surrounded by offerings",
+      "passwordHint": "temple"
+    },
+    {
+      "id": "places-031",
+      "word": "GALAPAGOS ISLANDS",
+      "tabooWords": ["Darwin", "tortoise", "Ecuador", "evolution", "unique"],
+      "charadesHint": "encounter a giant tortoise and blue-footed booby",
+      "passwordHint": "Darwin"
+    },
+    {
+      "id": "places-032",
+      "word": "VERSAILLES",
+      "tabooWords": ["France", "palace", "Louis", "gardens", "gold"],
+      "charadesHint": "stroll through enormous mirrored halls dripping in gold",
+      "passwordHint": "Louis"
+    },
+    {
+      "id": "places-033",
+      "word": "PATAGONIA",
+      "tabooWords": ["Argentina", "Chile", "hiking", "glaciers", "wild"],
+      "charadesHint": "trek across jagged peaks and vast glaciers",
+      "passwordHint": "glaciers"
+    },
+    {
+      "id": "places-034",
+      "word": "NORWAY FJORDS",
+      "tabooWords": ["Norway", "water", "cliff", "stunning", "Viking"],
+      "charadesHint": "sail between towering cliff walls into the sea",
+      "passwordHint": "Viking"
+    },
+    {
+      "id": "places-035",
+      "word": "ROME",
+      "tabooWords": ["Italy", "Vatican", "ancient", "pasta", "gladiator"],
+      "charadesHint": "throw a coin into a fountain and visit ruins",
+      "passwordHint": "Vatican"
+    },
+    {
+      "id": "places-036",
+      "word": "MARRAKECH",
+      "tabooWords": ["Morocco", "souk", "spice", "riad", "Africa"],
+      "charadesHint": "navigate a labyrinthine spice market",
+      "passwordHint": "souk"
+    },
+    {
+      "id": "places-037",
+      "word": "MOUNT FUJI",
+      "tabooWords": ["Japan", "volcano", "snow cap", "climb", "iconic"],
+      "charadesHint": "look across cherry blossoms at a perfect cone volcano",
+      "passwordHint": "volcano"
+    },
+    {
+      "id": "places-038",
+      "word": "PETRA",
+      "tabooWords": ["Jordan", "rose city", "carved", "rock", "Indiana Jones"],
+      "charadesHint": "ride a horse through a narrow gorge to a rose-red city",
+      "passwordHint": "rose"
+    },
+    {
+      "id": "places-039",
+      "word": "HAVANA",
+      "tabooWords": ["Cuba", "cars", "salsa", "cigar", "communism"],
+      "charadesHint": "dance salsa past vintage American cars",
+      "passwordHint": "Cuba"
+    },
+    {
+      "id": "places-040",
+      "word": "ALASKA",
+      "tabooWords": ["USA", "wild", "bears", "ice", "Denali"],
+      "charadesHint": "fish alongside grizzly bears in salmon-rich rivers",
+      "passwordHint": "bears"
+    },
+    {
+      "id": "places-041",
+      "word": "SANTORINI",
+      "tabooWords": ["Greece", "blue dome", "white", "island", "sunset"],
+      "charadesHint": "watch the sunset from white-domed cliffside buildings",
+      "passwordHint": "dome"
+    },
+    {
+      "id": "places-042",
+      "word": "LONDON",
+      "tabooWords": ["England", "Big Ben", "red bus", "tea", "queen"],
+      "charadesHint": "ride a red double-decker bus past Big Ben",
+      "passwordHint": "Big Ben"
+    },
+    {
+      "id": "places-043",
+      "word": "AMAZON RAINFOREST",
+      "tabooWords": ["Brazil", "trees", "oxygen", "wildlife", "vast"],
+      "charadesHint": "swing through the densest canopy on Earth",
+      "passwordHint": "oxygen"
+    },
+    {
+      "id": "places-044",
+      "word": "GREAT SPHINX",
+      "tabooWords": ["Egypt", "limestone", "Giza", "pyramid", "ancient"],
+      "charadesHint": "sit majestically with a human head and lion body",
+      "passwordHint": "Giza"
+    },
+    {
+      "id": "places-045",
+      "word": "BARRIER REEF",
+      "tabooWords": ["Australia", "coral", "ocean", "snorkel", "ecosystem"],
+      "charadesHint": "dive and marvel at a living underwater cathedral",
+      "passwordHint": "Australia"
+    },
+    {
+      "id": "places-046",
+      "word": "CAPE TOWN",
+      "tabooWords": [
+        "South Africa",
+        "Table Mountain",
+        "coast",
+        "apartheid",
+        "wine"
+      ],
+      "charadesHint": "look up at a flat-topped mountain by the sea",
+      "passwordHint": "Table Mountain"
+    },
+    {
+      "id": "places-047",
+      "word": "KYOTO",
+      "tabooWords": ["Japan", "geisha", "temple", "bamboo", "traditional"],
+      "charadesHint": "walk through a bamboo grove to an ancient temple",
+      "passwordHint": "geisha"
+    },
+    {
+      "id": "places-048",
+      "word": "BUDAPEST",
+      "tabooWords": [
+        "Hungary",
+        "thermal bath",
+        "Danube",
+        "parliament",
+        "Europe"
+      ],
+      "charadesHint": "soak in a thermal bath inside a grand ornate building",
+      "passwordHint": "thermal"
+    },
+    {
+      "id": "places-049",
+      "word": "LADAKH",
+      "tabooWords": ["India", "Himalayas", "Buddhist", "desert", "altitude"],
+      "charadesHint": "navigate a mountain desert dotted with monasteries",
+      "passwordHint": "monastery"
+    },
+    {
+      "id": "places-050",
+      "word": "MONACO",
+      "tabooWords": ["tiny", "rich", "casino", "Formula 1", "prince"],
+      "charadesHint": "watch Formula 1 race through tight casino-lined streets",
+      "passwordHint": "casino"
+    },
+    {
+      "id": "places-051",
+      "word": "ULURU",
+      "tabooWords": [
+        "Australia",
+        "red rock",
+        "Aboriginal",
+        "sacred",
+        "outback"
+      ],
+      "charadesHint": "circle a massive glowing red rock at sunset",
+      "passwordHint": "sacred"
+    },
+    {
+      "id": "places-052",
+      "word": "AMSTERDAM",
+      "tabooWords": ["Netherlands", "canal", "bicycle", "tulips", "Anne Frank"],
+      "charadesHint": "cycle along canals beside fields of tulips",
+      "passwordHint": "bicycle"
+    },
+    {
+      "id": "places-053",
+      "word": "PYRAMIDS OF GIZA",
+      "tabooWords": ["Egypt", "ancient", "pharaoh", "mummy", "desert"],
+      "charadesHint": "stand in awe before three perfect triangular monuments",
+      "passwordHint": "pharaoh"
+    },
+    {
+      "id": "places-054",
+      "word": "YELLOWSTONE",
+      "tabooWords": ["USA", "geyser", "volcano", "buffalo", "park"],
+      "charadesHint": "jump back as boiling water erupts from the ground",
+      "passwordHint": "geyser"
+    },
+    {
+      "id": "places-055",
+      "word": "VICTORIA FALLS",
+      "tabooWords": ["Africa", "waterfall", "Zambia", "Zimbabwe", "smoke"],
+      "charadesHint": "watch mist rise like smoke from a thundering waterfall",
+      "passwordHint": "mist"
+    },
+    {
+      "id": "places-056",
+      "word": "MOSCOW",
+      "tabooWords": ["Russia", "Red Square", "Kremlin", "cold", "Soviet"],
+      "charadesHint": "march across Red Square past onion-domed buildings",
+      "passwordHint": "Kremlin"
+    },
+    {
+      "id": "places-057",
+      "word": "NEW ZEALAND",
+      "tabooWords": ["Hobbit", "rugby", "sheep", "Maori", "Lord of the Rings"],
+      "charadesHint": "haka dance then find a hobbit hole in rolling hills",
+      "passwordHint": "Hobbit"
+    },
+    {
+      "id": "places-058",
+      "word": "HAWAII",
+      "tabooWords": ["USA", "surf", "hula", "volcano", "island"],
+      "charadesHint": "hula dance on a beach with a volcano behind you",
+      "passwordHint": "hula"
+    },
+    {
+      "id": "places-059",
+      "word": "ISTANBUL",
+      "tabooWords": ["Turkey", "mosque", "bazaar", "Europe", "Asia"],
+      "charadesHint": "stand where East meets West under minarets",
+      "passwordHint": "minaret"
+    },
+    {
+      "id": "places-060",
+      "word": "ANTARCTICA",
+      "tabooWords": ["south", "ice", "penguins", "cold", "research"],
+      "charadesHint": "trudge across endless ice with scientists and penguins",
+      "passwordHint": "south pole"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": "pop-culture-2000s",
+  "name": "2000s Pop Culture",
+  "category": "Pop Culture",
+  "description": "Nostalgia trip through the noughties",
+  "difficulty": "Medium",
+  "tags": ["2000s", "nostalgia", "pop-culture", "millennials"],
+  "cardCount": 55,
+  "cards": [
+    {
+      "id": "2000s-001",
+      "word": "IPOD",
+      "tabooWords": ["Apple", "music", "earbuds", "iTunes", "wheel"],
+      "charadesHint": "scroll a wheel and bob to music in white earbuds",
+      "passwordHint": "wheel"
+    },
+    {
+      "id": "2000s-002",
+      "word": "MYSPACE",
+      "tabooWords": [
+        "social media",
+        "Tom",
+        "profile",
+        "music",
+        "early internet"
+      ],
+      "charadesHint": "customize your profile page with auto-playing music",
+      "passwordHint": "Tom"
+    },
+    {
+      "id": "2000s-003",
+      "word": "LOW RISE JEANS",
+      "tabooWords": ["fashion", "hip", "Y2K", "celebrity", "Paris Hilton"],
+      "charadesHint": "tug jeans dangerously low with a tiny belt",
+      "passwordHint": "hip"
+    },
+    {
+      "id": "2000s-004",
+      "word": "BEBO",
+      "tabooWords": ["social network", "Ireland", "profile", "early", "teen"],
+      "charadesHint": "decorate a social profile page with sparkles",
+      "passwordHint": "social"
+    },
+    {
+      "id": "2000s-005",
+      "word": "FLIP PHONE",
+      "tabooWords": ["Nokia", "motorola", "fold", "mobile", "old"],
+      "charadesHint": "dramatically flip open a phone to answer",
+      "passwordHint": "flip"
+    },
+    {
+      "id": "2000s-006",
+      "word": "PARIS HILTON",
+      "tabooWords": ["socialite", "hotel", "blonde", "That's Hot", "reality"],
+      "charadesHint": "carry a tiny dog and sneer 'That's hot'",
+      "passwordHint": "hot"
+    },
+    {
+      "id": "2000s-007",
+      "word": "JUICY COUTURE",
+      "tabooWords": ["tracksuit", "velvet", "Hilton", "Spears", "brand"],
+      "charadesHint": "wear a velour tracksuit with brand across the bottom",
+      "passwordHint": "tracksuit"
+    },
+    {
+      "id": "2000s-008",
+      "word": "MSN MESSENGER",
+      "tabooWords": ["chat", "nudge", "online", "status", "wink"],
+      "charadesHint": "wait for someone to come online and nudge them",
+      "passwordHint": "nudge"
+    },
+    {
+      "id": "2000s-009",
+      "word": "AMERICAN IDOL",
+      "tabooWords": [
+        "Simon Cowell",
+        "audition",
+        "singing",
+        "vote",
+        "competition"
+      ],
+      "charadesHint": "be brutally judged then triumphantly voted through",
+      "passwordHint": "Simon"
+    },
+    {
+      "id": "2000s-010",
+      "word": "BRITNEY SPEARS",
+      "tabooWords": ["Oops", "pop star", "shaved", "head", "comeback"],
+      "charadesHint": "dance in a school uniform then shave your head",
+      "passwordHint": "Oops"
+    },
+    {
+      "id": "2000s-011",
+      "word": "THE SIMS",
+      "tabooWords": ["game", "virtual", "build", "needs", "Maxis"],
+      "charadesHint": "control a tiny person's every need with a mouse",
+      "passwordHint": "virtual people"
+    },
+    {
+      "id": "2000s-012",
+      "word": "BLOCKBUSTER",
+      "tabooWords": ["DVD", "rent", "store", "late fee", "video"],
+      "charadesHint": "browse DVD aisles and dread a late return fee",
+      "passwordHint": "late fee"
+    },
+    {
+      "id": "2000s-013",
+      "word": "EMO",
+      "tabooWords": [
+        "black",
+        "fringe",
+        "mascara",
+        "My Chemical Romance",
+        "teen"
+      ],
+      "charadesHint": "sweep black hair over one eye and look misunderstood",
+      "passwordHint": "fringe"
+    },
+    {
+      "id": "2000s-014",
+      "word": "BRITPOP",
+      "tabooWords": ["Oasis", "Blur", "Gallagher", "90s", "UK"],
+      "charadesHint": "swagger with Union Jack guitar and lad attitude",
+      "passwordHint": "Oasis"
+    },
+    {
+      "id": "2000s-015",
+      "word": "Y2K BUG",
+      "tabooWords": ["millennium", "computer", "crash", "2000", "fear"],
+      "charadesHint": "countdown to midnight terrified all computers will fail",
+      "passwordHint": "millennium"
+    },
+    {
+      "id": "2000s-016",
+      "word": "RINGTONE",
+      "tabooWords": ["polyphonic", "download", "mobile", "alert", "Nokia"],
+      "charadesHint": "pay to download a beeping version of a pop song",
+      "passwordHint": "polyphonic"
+    },
+    {
+      "id": "2000s-017",
+      "word": "LIMEWIRE",
+      "tabooWords": ["download", "illegal", "file sharing", "virus", "music"],
+      "charadesHint": "illegally download music and immediately get a virus",
+      "passwordHint": "illegal"
+    },
+    {
+      "id": "2000s-018",
+      "word": "DRAGON BALL Z",
+      "tabooWords": ["anime", "Goku", "power level", "Super Saiyan", "fight"],
+      "charadesHint": "power up to Super Saiyan with hair spiking out",
+      "passwordHint": "Saiyan"
+    },
+    {
+      "id": "2000s-019",
+      "word": "HEELYS",
+      "tabooWords": ["shoes", "wheel", "glide", "kids", "roll"],
+      "charadesHint": "walk normally then suddenly glide on shoe wheels",
+      "passwordHint": "wheel shoes"
+    },
+    {
+      "id": "2000s-020",
+      "word": "REALITY TV",
+      "tabooWords": ["Big Brother", "camera", "drama", "vote", "contestant"],
+      "charadesHint": "live your life on camera for a voting audience",
+      "passwordHint": "vote"
+    },
+    {
+      "id": "2000s-021",
+      "word": "TAMAGOTCHI",
+      "tabooWords": ["pet", "digital", "feed", "Japanese", "egg"],
+      "charadesHint": "frantically feed and clean an egg-shaped digital pet",
+      "passwordHint": "digital pet"
+    },
+    {
+      "id": "2000s-022",
+      "word": "SOUTH PARK",
+      "tabooWords": ["cartoon", "adult", "Colorado", "Kenny", "crude"],
+      "charadesHint": "shout 'Oh my God they killed Kenny!'",
+      "passwordHint": "Kenny"
+    },
+    {
+      "id": "2000s-023",
+      "word": "GOSSIP GIRL",
+      "tabooWords": ["Blair", "Serena", "New York", "Upper East Side", "XOXO"],
+      "charadesHint": "whisper secrets about Manhattan's elite teens",
+      "passwordHint": "XOXO"
+    },
+    {
+      "id": "2000s-024",
+      "word": "HIGH SCHOOL MUSICAL",
+      "tabooWords": ["Troy", "Gabriella", "Wildcats", "sing", "Disney"],
+      "charadesHint": "burst into song in a school hallway",
+      "passwordHint": "Wildcats"
+    },
+    {
+      "id": "2000s-025",
+      "word": "PIRATES OF THE CARIBBEAN",
+      "tabooWords": ["Jack Sparrow", "sword", "rum", "depp", "pirate"],
+      "charadesHint": "stagger drunkenly holding a sword and bottle of rum",
+      "passwordHint": "rum"
+    },
+    {
+      "id": "2000s-026",
+      "word": "HARRY POTTER",
+      "tabooWords": ["wizard", "wand", "Hogwarts", "Voldemort", "magic"],
+      "charadesHint": "chase a golden flying ball on a broomstick",
+      "passwordHint": "broomstick"
+    },
+    {
+      "id": "2000s-027",
+      "word": "FACEBOOK",
+      "tabooWords": ["Zuckerberg", "social media", "like", "blue", "network"],
+      "charadesHint": "post photos and wait anxiously for likes",
+      "passwordHint": "like"
+    },
+    {
+      "id": "2000s-028",
+      "word": "OFFICE SPACE",
+      "tabooWords": ["cubicle", "TPS reports", "boss", "printer", "cult"],
+      "charadesHint": "smash a printer in a field in slow motion",
+      "passwordHint": "printer"
+    },
+    {
+      "id": "2000s-029",
+      "word": "HANNAH MONTANA",
+      "tabooWords": ["Miley", "secret", "wig", "singer", "Disney"],
+      "charadesHint": "put on a blonde wig and become a secret pop star",
+      "passwordHint": "wig"
+    },
+    {
+      "id": "2000s-030",
+      "word": "CROCS",
+      "tabooWords": ["shoes", "rubber", "holes", "garden", "polarizing"],
+      "charadesHint": "proudly display holey rubber clogs",
+      "passwordHint": "holes"
+    },
+    {
+      "id": "2000s-031",
+      "word": "TWILIGHT",
+      "tabooWords": ["vampire", "Edward", "Bella", "werewolf", "sparkle"],
+      "charadesHint": "sparkle in sunlight as a romantic vampire",
+      "passwordHint": "sparkle"
+    },
+    {
+      "id": "2000s-032",
+      "word": "DAFT PUNK",
+      "tabooWords": [
+        "robot",
+        "helmet",
+        "French",
+        "electronic",
+        "Around the World"
+      ],
+      "charadesHint": "dance in a robot helmet to electronic music",
+      "passwordHint": "helmet"
+    },
+    {
+      "id": "2000s-033",
+      "word": "THE OFFICE",
+      "tabooWords": [
+        "Dwight",
+        "Michael Scott",
+        "Dunder Mifflin",
+        "documentary",
+        "cringe"
+      ],
+      "charadesHint": "stare blankly at the camera during an awkward work moment",
+      "passwordHint": "Dunder Mifflin"
+    },
+    {
+      "id": "2000s-034",
+      "word": "FIDGET SPINNER",
+      "tabooWords": ["spin", "toy", "trend", "ADHD", "finger"],
+      "charadesHint": "balance a three-pronged spinner on one finger",
+      "passwordHint": "spin"
+    },
+    {
+      "id": "2000s-035",
+      "word": "FURBY",
+      "tabooWords": ["toy", "talking", "owl", "robotic", "creepy"],
+      "charadesHint": "blink huge eyes and randomly say things in the dark",
+      "passwordHint": "creepy toy"
+    },
+    {
+      "id": "2000s-036",
+      "word": "NYAN CAT",
+      "tabooWords": ["meme", "rainbow", "internet", "cat", "loop"],
+      "charadesHint": "fly through space leaving a rainbow pop-tart trail",
+      "passwordHint": "rainbow"
+    },
+    {
+      "id": "2000s-037",
+      "word": "PLANKING",
+      "tabooWords": ["trend", "flat", "internet", "photo", "rigid"],
+      "charadesHint": "lie absolutely rigid in an unexpected public place",
+      "passwordHint": "rigid"
+    },
+    {
+      "id": "2000s-038",
+      "word": "GANG NAM STYLE",
+      "tabooWords": ["PSY", "Korean", "horse dance", "viral", "Youtube"],
+      "charadesHint": "do the horse-riding dance move",
+      "passwordHint": "horse dance"
+    },
+    {
+      "id": "2000s-039",
+      "word": "CLUB PENGUIN",
+      "tabooWords": ["online", "game", "penguin", "igloo", "children"],
+      "charadesHint": "waddle around an icy world in a penguin costume",
+      "passwordHint": "igloo"
+    },
+    {
+      "id": "2000s-040",
+      "word": "MINECRAFT",
+      "tabooWords": ["blocks", "build", "creeper", "mine", "sandbox"],
+      "charadesHint": "build a house from cubes and fear a green creeper",
+      "passwordHint": "creeper"
+    },
+    {
+      "id": "2000s-041",
+      "word": "HARLEM SHAKE",
+      "tabooWords": ["dance", "video", "meme", "random", "2013"],
+      "charadesHint": "stand alone then everyone suddenly goes crazy",
+      "passwordHint": "suddenly"
+    },
+    {
+      "id": "2000s-042",
+      "word": "PLANKING",
+      "tabooWords": ["flat", "board", "trend", "pose", "horizontal"],
+      "charadesHint": "become a human board over a public object",
+      "passwordHint": "horizontal"
+    },
+    {
+      "id": "2000s-043",
+      "word": "BIG BROTHER",
+      "tabooWords": ["house", "evict", "cameras", "vote", "housemates"],
+      "charadesHint": "wave to cameras in every corner of a house",
+      "passwordHint": "eviction"
+    },
+    {
+      "id": "2000s-044",
+      "word": "ICEBUCKET CHALLENGE",
+      "tabooWords": ["ALS", "pour", "charity", "cold", "viral"],
+      "charadesHint": "pour a bucket of ice water over your head",
+      "passwordHint": "ALS"
+    },
+    {
+      "id": "2000s-045",
+      "word": "SELFIE STICK",
+      "tabooWords": ["tourist", "camera", "extend", "photo", "arms"],
+      "charadesHint": "extend a stick with a phone at the end for a photo",
+      "passwordHint": "extend"
+    },
+    {
+      "id": "2000s-046",
+      "word": "FYRE FESTIVAL",
+      "tabooWords": [
+        "disaster",
+        "fraud",
+        "island",
+        "influencer",
+        "cheese sandwich"
+      ],
+      "charadesHint": "arrive at a luxury festival to find a soggy cheese sandwich",
+      "passwordHint": "fraud"
+    },
+    {
+      "id": "2000s-047",
+      "word": "BOTTLE CAP CHALLENGE",
+      "tabooWords": ["roundhouse", "kick", "cap", "viral", "spin"],
+      "charadesHint": "roundhouse kick a spinning bottle cap off precisely",
+      "passwordHint": "roundhouse"
+    },
+    {
+      "id": "2000s-048",
+      "word": "BLING",
+      "tabooWords": ["gold", "jewellery", "flashy", "rapper", "chain"],
+      "charadesHint": "drape yourself in gold chains and diamond rings",
+      "passwordHint": "gold"
+    },
+    {
+      "id": "2000s-049",
+      "word": "YOUTUBE",
+      "tabooWords": ["video", "subscribe", "viral", "channel", "creator"],
+      "charadesHint": "point at camera and ask people to subscribe",
+      "passwordHint": "subscribe"
+    },
+    {
+      "id": "2000s-050",
+      "word": "JERSEY SHORE",
+      "tabooWords": ["GTL", "Snooki", "MTV", "Italian", "tan"],
+      "charadesHint": "fist pump in a club looking very tanned",
+      "passwordHint": "fist pump"
+    },
+    {
+      "id": "2000s-051",
+      "word": "VINE",
+      "tabooWords": ["six seconds", "video", "app", "loop", "meme"],
+      "charadesHint": "perform the most random thing in exactly six seconds",
+      "passwordHint": "six seconds"
+    },
+    {
+      "id": "2000s-052",
+      "word": "CALL OF DUTY",
+      "tabooWords": ["game", "shooter", "military", "online", "kill streak"],
+      "charadesHint": "call out kill streaks and rage quit online",
+      "passwordHint": "kill streak"
+    },
+    {
+      "id": "2000s-053",
+      "word": "IPHONE",
+      "tabooWords": [
+        "Apple",
+        "Steve Jobs",
+        "touchscreen",
+        "App Store",
+        "smartphone"
+      ],
+      "charadesHint": "unveil a magical touchscreen device to a gasping crowd",
+      "passwordHint": "touchscreen"
+    },
+    {
+      "id": "2000s-054",
+      "word": "TWITTER",
+      "tabooWords": ["tweet", "bird", "hashtag", "Musk", "character"],
+      "charadesHint": "type furiously in 140 characters or less",
+      "passwordHint": "tweet"
+    },
+    {
+      "id": "2000s-055",
+      "word": "NETFLIX AND CHILL",
+      "tabooWords": ["streaming", "euphemism", "movie", "sofa", "cozy"],
+      "charadesHint": "suggest watching a movie with a very different intention",
+      "passwordHint": "euphemism"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": "animals",
+  "name": "Animals",
+  "category": "Nature",
+  "description": "Wild creatures from around the planet",
+  "difficulty": "Easy",
+  "tags": ["nature", "animals", "family-friendly", "kids"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "animals-001",
+      "word": "ELEPHANT",
+      "tabooWords": ["trunk", "big", "grey", "Africa", "tusks"],
+      "charadesHint": "mime swinging a trunk and big ears",
+      "passwordHint": "trunk"
+    },
+    {
+      "id": "animals-002",
+      "word": "GIRAFFE",
+      "tabooWords": ["neck", "tall", "spots", "Africa", "long"],
+      "charadesHint": "stretch your neck way up high",
+      "passwordHint": "neck"
+    },
+    {
+      "id": "animals-003",
+      "word": "PENGUIN",
+      "tabooWords": ["Antarctica", "waddle", "black", "white", "bird"],
+      "charadesHint": "waddle side to side with arms out",
+      "passwordHint": "waddle"
+    },
+    {
+      "id": "animals-004",
+      "word": "KANGAROO",
+      "tabooWords": ["pouch", "jump", "Australia", "hop", "joey"],
+      "charadesHint": "hop with arms bent like front paws",
+      "passwordHint": "pouch"
+    },
+    {
+      "id": "animals-005",
+      "word": "CHEETAH",
+      "tabooWords": ["fast", "spots", "Africa", "cat", "speed"],
+      "charadesHint": "sprint very fast on all fours",
+      "passwordHint": "fastest"
+    },
+    {
+      "id": "animals-006",
+      "word": "DOLPHIN",
+      "tabooWords": ["swim", "ocean", "smart", "flipper", "marine"],
+      "charadesHint": "dive and leap with hands together",
+      "passwordHint": "echo"
+    },
+    {
+      "id": "animals-007",
+      "word": "GORILLA",
+      "tabooWords": ["ape", "chest", "jungle", "strong", "primate"],
+      "charadesHint": "beat your chest and walk hunched",
+      "passwordHint": "chest"
+    },
+    {
+      "id": "animals-008",
+      "word": "FLAMINGO",
+      "tabooWords": ["pink", "stand", "leg", "bird", "wading"],
+      "charadesHint": "stand on one leg with neck curved",
+      "passwordHint": "pink"
+    },
+    {
+      "id": "animals-009",
+      "word": "CROCODILE",
+      "tabooWords": ["snap", "river", "teeth", "green", "reptile"],
+      "charadesHint": "open and snap arms like giant jaws",
+      "passwordHint": "snap"
+    },
+    {
+      "id": "animals-010",
+      "word": "OWL",
+      "tabooWords": ["hoot", "wise", "night", "bird", "feathers"],
+      "charadesHint": "rotate your head and make big eyes",
+      "passwordHint": "hoot"
+    },
+    {
+      "id": "animals-011",
+      "word": "SHARK",
+      "tabooWords": ["fin", "bite", "ocean", "teeth", "fish"],
+      "charadesHint": "put hand on head as dorsal fin and swim",
+      "passwordHint": "fin"
+    },
+    {
+      "id": "animals-012",
+      "word": "CHAMELEON",
+      "tabooWords": ["color", "change", "lizard", "camouflage", "tongue"],
+      "charadesHint": "flick a long tongue and change colors",
+      "passwordHint": "camouflage"
+    },
+    {
+      "id": "animals-013",
+      "word": "PARROT",
+      "tabooWords": ["repeat", "talk", "colorful", "bird", "pirate"],
+      "charadesHint": "perch on shoulder and repeat words",
+      "passwordHint": "mimic"
+    },
+    {
+      "id": "animals-014",
+      "word": "PANDA",
+      "tabooWords": ["black", "white", "bamboo", "China", "bear"],
+      "charadesHint": "sit and pretend to munch bamboo",
+      "passwordHint": "bamboo"
+    },
+    {
+      "id": "animals-015",
+      "word": "SLOTH",
+      "tabooWords": ["slow", "hang", "tree", "lazy", "claws"],
+      "charadesHint": "move in extremely slow motion",
+      "passwordHint": "slow"
+    },
+    {
+      "id": "animals-016",
+      "word": "OCTOPUS",
+      "tabooWords": ["eight", "arms", "tentacles", "ink", "sea"],
+      "charadesHint": "wave eight arms in all directions",
+      "passwordHint": "tentacles"
+    },
+    {
+      "id": "animals-017",
+      "word": "ZEBRA",
+      "tabooWords": ["stripes", "horse", "Africa", "black", "white"],
+      "charadesHint": "gallop and point to your stripes",
+      "passwordHint": "stripes"
+    },
+    {
+      "id": "animals-018",
+      "word": "POLAR BEAR",
+      "tabooWords": ["Arctic", "white", "bear", "ice", "cold"],
+      "charadesHint": "lumber heavily in frozen tundra",
+      "passwordHint": "Arctic"
+    },
+    {
+      "id": "animals-019",
+      "word": "HUMMINGBIRD",
+      "tabooWords": ["fast", "wings", "tiny", "flower", "hover"],
+      "charadesHint": "flutter hands super fast and hover",
+      "passwordHint": "hover"
+    },
+    {
+      "id": "animals-020",
+      "word": "RHINOCEROS",
+      "tabooWords": ["horn", "grey", "Africa", "big", "charge"],
+      "charadesHint": "charge forward with finger on nose",
+      "passwordHint": "horn"
+    },
+    {
+      "id": "animals-021",
+      "word": "MEERKAT",
+      "tabooWords": ["stand", "Africa", "desert", "lookout", "colony"],
+      "charadesHint": "stand bolt upright and scan the horizon",
+      "passwordHint": "sentinel"
+    },
+    {
+      "id": "animals-022",
+      "word": "PLATYPUS",
+      "tabooWords": ["duck", "beaver", "Australia", "bill", "mammal"],
+      "charadesHint": "waddle flat with a duck bill face",
+      "passwordHint": "bill"
+    },
+    {
+      "id": "animals-023",
+      "word": "COBRA",
+      "tabooWords": ["snake", "hood", "venom", "sway", "India"],
+      "charadesHint": "rise and sway like a charmed snake",
+      "passwordHint": "hood"
+    },
+    {
+      "id": "animals-024",
+      "word": "JELLYFISH",
+      "tabooWords": ["sting", "ocean", "transparent", "float", "tentacles"],
+      "charadesHint": "float arms up and down like pulsing bell",
+      "passwordHint": "sting"
+    },
+    {
+      "id": "animals-025",
+      "word": "CHIMPANZEE",
+      "tabooWords": ["ape", "monkey", "smart", "primate", "Africa"],
+      "charadesHint": "scratch armpits and swing arms",
+      "passwordHint": "primate"
+    },
+    {
+      "id": "animals-026",
+      "word": "PEACOCK",
+      "tabooWords": ["feathers", "tail", "colorful", "display", "bird"],
+      "charadesHint": "fan out arms behind you like a tail",
+      "passwordHint": "display"
+    },
+    {
+      "id": "animals-027",
+      "word": "WOLF",
+      "tabooWords": ["howl", "pack", "forest", "dog", "wild"],
+      "charadesHint": "throw head back and howl at moon",
+      "passwordHint": "howl"
+    },
+    {
+      "id": "animals-028",
+      "word": "CAMEL",
+      "tabooWords": ["hump", "desert", "water", "sand", "ride"],
+      "charadesHint": "arch your back for a hump and plod",
+      "passwordHint": "hump"
+    },
+    {
+      "id": "animals-029",
+      "word": "FROG",
+      "tabooWords": ["jump", "lily", "pond", "croak", "green"],
+      "charadesHint": "squat and leap with tongue flicking",
+      "passwordHint": "leap"
+    },
+    {
+      "id": "animals-030",
+      "word": "BALD EAGLE",
+      "tabooWords": ["America", "bird", "beak", "fly", "symbol"],
+      "charadesHint": "soar with arms spread wide",
+      "passwordHint": "soar"
+    },
+    {
+      "id": "animals-031",
+      "word": "HAMSTER",
+      "tabooWords": ["wheel", "pet", "cheeks", "small", "rodent"],
+      "charadesHint": "puff cheeks and run on a wheel",
+      "passwordHint": "wheel"
+    },
+    {
+      "id": "animals-032",
+      "word": "MANTIS SHRIMP",
+      "tabooWords": ["punch", "colorful", "ocean", "strike", "crustacean"],
+      "charadesHint": "throw a lightning-fast punch",
+      "passwordHint": "punch"
+    },
+    {
+      "id": "animals-033",
+      "word": "HEDGEHOG",
+      "tabooWords": ["spines", "roll", "small", "prickly", "nocturnal"],
+      "charadesHint": "curl into a tight ball",
+      "passwordHint": "spiny"
+    },
+    {
+      "id": "animals-034",
+      "word": "TOUCAN",
+      "tabooWords": ["beak", "colorful", "tropical", "bird", "large"],
+      "charadesHint": "tap an enormous beak",
+      "passwordHint": "beak"
+    },
+    {
+      "id": "animals-035",
+      "word": "SCORPION",
+      "tabooWords": ["sting", "tail", "desert", "claws", "venom"],
+      "charadesHint": "raise curved tail and snap claws",
+      "passwordHint": "sting"
+    },
+    {
+      "id": "animals-036",
+      "word": "NARWHAL",
+      "tabooWords": ["horn", "whale", "Arctic", "tusk", "unicorn"],
+      "charadesHint": "swim with a finger pointing from forehead",
+      "passwordHint": "tusk"
+    },
+    {
+      "id": "animals-037",
+      "word": "TARANTULA",
+      "tabooWords": ["spider", "hairy", "eight", "legs", "venom"],
+      "charadesHint": "creep on eight hairy legs",
+      "passwordHint": "hairy"
+    },
+    {
+      "id": "animals-038",
+      "word": "SEAHORSE",
+      "tabooWords": ["ocean", "tiny", "upright", "fin", "fish"],
+      "charadesHint": "swim upright in slow motion",
+      "passwordHint": "upright"
+    },
+    {
+      "id": "animals-039",
+      "word": "KOMODO DRAGON",
+      "tabooWords": ["lizard", "large", "Indonesia", "tongue", "reptile"],
+      "charadesHint": "flick long tongue and lumber low",
+      "passwordHint": "dragon"
+    },
+    {
+      "id": "animals-040",
+      "word": "FIREFLY",
+      "tabooWords": ["light", "glow", "night", "bug", "flash"],
+      "charadesHint": "blink a light on and off in the dark",
+      "passwordHint": "glow"
+    },
+    {
+      "id": "animals-041",
+      "word": "MOOSE",
+      "tabooWords": ["antlers", "Canada", "large", "deer", "forest"],
+      "charadesHint": "spread hands wide on head for antlers",
+      "passwordHint": "antlers"
+    },
+    {
+      "id": "animals-042",
+      "word": "AXOLOTL",
+      "tabooWords": ["salamander", "Mexico", "gills", "regenerate", "aquatic"],
+      "charadesHint": "wiggle feathery gills on your head",
+      "passwordHint": "regenerate"
+    },
+    {
+      "id": "animals-043",
+      "word": "BUFFALO",
+      "tabooWords": ["bison", "herd", "America", "horns", "large"],
+      "charadesHint": "lower head and charge like a stampede",
+      "passwordHint": "stampede"
+    },
+    {
+      "id": "animals-044",
+      "word": "STINGRAY",
+      "tabooWords": ["flat", "ocean", "sting", "glide", "fish"],
+      "charadesHint": "glide flat with arms out like wings",
+      "passwordHint": "glide"
+    },
+    {
+      "id": "animals-045",
+      "word": "MANDRILL",
+      "tabooWords": ["colorful", "face", "primate", "Africa", "baboon"],
+      "charadesHint": "show off a bright colorful face",
+      "passwordHint": "colorful"
+    },
+    {
+      "id": "animals-046",
+      "word": "CATERPILLAR",
+      "tabooWords": ["butterfly", "cocoon", "crawl", "leaves", "worm"],
+      "charadesHint": "inch along the ground in segments",
+      "passwordHint": "transform"
+    },
+    {
+      "id": "animals-047",
+      "word": "WALRUS",
+      "tabooWords": ["tusks", "whiskers", "Arctic", "seal", "blubbery"],
+      "charadesHint": "flop around with tusks from your mouth",
+      "passwordHint": "tusks"
+    },
+    {
+      "id": "animals-048",
+      "word": "PANTHER",
+      "tabooWords": ["black", "cat", "jaguar", "stealth", "leopard"],
+      "charadesHint": "stalk silently on all fours",
+      "passwordHint": "stealthy"
+    },
+    {
+      "id": "animals-049",
+      "word": "TAPIR",
+      "tabooWords": ["trunk", "South America", "odd", "hooves", "mammal"],
+      "charadesHint": "snuffle along with a stubby trunk",
+      "passwordHint": "snout"
+    },
+    {
+      "id": "animals-050",
+      "word": "FIREFLY SQUID",
+      "tabooWords": ["glow", "Japan", "bioluminescent", "squid", "ocean"],
+      "charadesHint": "pulse with glowing blue light",
+      "passwordHint": "bioluminescent"
+    },
+    {
+      "id": "animals-051",
+      "word": "HYENA",
+      "tabooWords": ["laugh", "Africa", "scavenge", "dog", "spotted"],
+      "charadesHint": "cackle and skulk hunched over",
+      "passwordHint": "laugh"
+    },
+    {
+      "id": "animals-052",
+      "word": "CAPYBARA",
+      "tabooWords": ["rodent", "large", "South America", "water", "social"],
+      "charadesHint": "sit placidly while other animals climb on you",
+      "passwordHint": "chill"
+    },
+    {
+      "id": "animals-053",
+      "word": "ALBATROSS",
+      "tabooWords": ["wingspan", "ocean", "bird", "fly", "large"],
+      "charadesHint": "soar with enormous wingspan barely flapping",
+      "passwordHint": "wingspan"
+    },
+    {
+      "id": "animals-054",
+      "word": "MONITOR LIZARD",
+      "tabooWords": ["large", "lizard", "tongue", "Africa", "reptile"],
+      "charadesHint": "stalk with forked tongue flicking",
+      "passwordHint": "forked"
+    },
+    {
+      "id": "animals-055",
+      "word": "ELECTRIC EEL",
+      "tabooWords": ["shock", "electric", "river", "long", "fish"],
+      "charadesHint": "writhe and zap with electricity",
+      "passwordHint": "shock"
+    },
+    {
+      "id": "animals-056",
+      "word": "IBIS",
+      "tabooWords": ["Egypt", "beak", "wading", "bird", "curved"],
+      "charadesHint": "probe the ground with a curved bill",
+      "passwordHint": "Egypt"
+    },
+    {
+      "id": "animals-057",
+      "word": "SNOW LEOPARD",
+      "tabooWords": ["mountain", "spots", "cat", "Asia", "elusive"],
+      "charadesHint": "prowl silently across mountain peaks",
+      "passwordHint": "elusive"
+    },
+    {
+      "id": "animals-058",
+      "word": "PIRANHA",
+      "tabooWords": ["teeth", "Amazon", "bite", "fish", "school"],
+      "charadesHint": "chomp rapidly with rows of sharp teeth",
+      "passwordHint": "chomp"
+    },
+    {
+      "id": "animals-059",
+      "word": "OKAPI",
+      "tabooWords": ["stripe", "giraffe", "Congo", "rare", "mammal"],
+      "charadesHint": "walk with zebra-striped legs and giraffe neck",
+      "passwordHint": "striped"
+    },
+    {
+      "id": "animals-060",
+      "word": "MUDSKIPPER",
+      "tabooWords": ["walk", "fish", "mud", "fins", "amphibious"],
+      "charadesHint": "walk on your hands like fins on mud",
+      "passwordHint": "walking"
+    }
+  ]
+}

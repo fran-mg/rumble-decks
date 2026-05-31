@@ -1,0 +1,437 @@
+{
+  "id": "food-and-drink",
+  "name": "Food & Drink",
+  "category": "Food",
+  "description": "Delicious dishes, drinks, and culinary adventures",
+  "difficulty": "Easy",
+  "tags": ["food", "drink", "cooking", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "food-001",
+      "word": "SPAGHETTI",
+      "tabooWords": ["pasta", "Italian", "noodle", "sauce", "long"],
+      "charadesHint": "slurp long noodles from a bowl",
+      "passwordHint": "pasta"
+    },
+    {
+      "id": "food-002",
+      "word": "SUSHI",
+      "tabooWords": ["Japanese", "raw", "fish", "rice", "roll"],
+      "charadesHint": "roll tiny rice parcels with chopsticks",
+      "passwordHint": "chopsticks"
+    },
+    {
+      "id": "food-003",
+      "word": "PIZZA",
+      "tabooWords": ["Italian", "cheese", "tomato", "slice", "dough"],
+      "charadesHint": "spin dough in the air and spread toppings",
+      "passwordHint": "slice"
+    },
+    {
+      "id": "food-004",
+      "word": "TACOS",
+      "tabooWords": ["Mexican", "shell", "beef", "salsa", "fold"],
+      "charadesHint": "fold a taco shell and stuff it with fillings",
+      "passwordHint": "shell"
+    },
+    {
+      "id": "food-005",
+      "word": "CROISSANT",
+      "tabooWords": ["French", "buttery", "flaky", "pastry", "curved"],
+      "charadesHint": "curl into a crescent shape and peel flaky layers",
+      "passwordHint": "flaky"
+    },
+    {
+      "id": "food-006",
+      "word": "RAMEN",
+      "tabooWords": ["Japanese", "noodle", "broth", "soup", "bowl"],
+      "charadesHint": "slurp noodles from a giant steaming bowl",
+      "passwordHint": "broth"
+    },
+    {
+      "id": "food-007",
+      "word": "GUACAMOLE",
+      "tabooWords": ["avocado", "Mexican", "dip", "chips", "lime"],
+      "charadesHint": "mash avocados and dip a chip",
+      "passwordHint": "avocado"
+    },
+    {
+      "id": "food-008",
+      "word": "FONDUE",
+      "tabooWords": ["Swiss", "melt", "cheese", "dip", "pot"],
+      "charadesHint": "dip bread on a long fork into melted cheese",
+      "passwordHint": "melt"
+    },
+    {
+      "id": "food-009",
+      "word": "PAELLA",
+      "tabooWords": ["Spanish", "rice", "saffron", "seafood", "pan"],
+      "charadesHint": "stir a giant flat pan of colored rice",
+      "passwordHint": "saffron"
+    },
+    {
+      "id": "food-010",
+      "word": "CHURROS",
+      "tabooWords": ["Spanish", "fried", "sugar", "cinnamon", "dough"],
+      "charadesHint": "squeeze dough into hot oil and dust with sugar",
+      "passwordHint": "cinnamon"
+    },
+    {
+      "id": "food-011",
+      "word": "BUBBLE TEA",
+      "tabooWords": ["boba", "Taiwanese", "pearls", "milk", "tea"],
+      "charadesHint": "suck up large pearls through a fat straw",
+      "passwordHint": "boba"
+    },
+    {
+      "id": "food-012",
+      "word": "CRÊPE",
+      "tabooWords": ["French", "thin", "pancake", "sweet", "savory"],
+      "charadesHint": "flip an ultra-thin pancake in the air",
+      "passwordHint": "thin"
+    },
+    {
+      "id": "food-013",
+      "word": "DUMPLINGS",
+      "tabooWords": ["Chinese", "fold", "steam", "dough", "filling"],
+      "charadesHint": "pleat and fold tiny dough pockets",
+      "passwordHint": "dim sum"
+    },
+    {
+      "id": "food-014",
+      "word": "SOUFFLÉ",
+      "tabooWords": ["French", "puff", "egg", "bake", "fall"],
+      "charadesHint": "tiptoe to oven praying it doesn't collapse",
+      "passwordHint": "collapse"
+    },
+    {
+      "id": "food-015",
+      "word": "COTTON CANDY",
+      "tabooWords": ["sugar", "pink", "carnival", "fluffy", "spun"],
+      "charadesHint": "spin sugar into a fluffy pink cloud",
+      "passwordHint": "spun"
+    },
+    {
+      "id": "food-016",
+      "word": "BAGUETTE",
+      "tabooWords": ["French", "bread", "long", "crusty", "bakery"],
+      "charadesHint": "carry a very long loaf under your arm",
+      "passwordHint": "French"
+    },
+    {
+      "id": "food-017",
+      "word": "KIMCHI",
+      "tabooWords": ["Korean", "fermented", "spicy", "cabbage", "jar"],
+      "charadesHint": "stuff spicy fermented cabbage into a jar",
+      "passwordHint": "ferment"
+    },
+    {
+      "id": "food-018",
+      "word": "TIRAMISU",
+      "tabooWords": [
+        "Italian",
+        "coffee",
+        "mascarpone",
+        "dessert",
+        "ladyfinger"
+      ],
+      "charadesHint": "dip biscuits in espresso and layer cream",
+      "passwordHint": "espresso"
+    },
+    {
+      "id": "food-019",
+      "word": "MARGARITA",
+      "tabooWords": ["cocktail", "tequila", "lime", "salt", "rim"],
+      "charadesHint": "salt the rim of a glass and sip with a straw",
+      "passwordHint": "tequila"
+    },
+    {
+      "id": "food-020",
+      "word": "BAKLAVA",
+      "tabooWords": ["Greek", "honey", "nuts", "phyllo", "pastry"],
+      "charadesHint": "layer thin pastry with honey and chopped nuts",
+      "passwordHint": "honey"
+    },
+    {
+      "id": "food-021",
+      "word": "POUTINE",
+      "tabooWords": ["Canadian", "gravy", "cheese", "curds", "fries"],
+      "charadesHint": "pour gravy over fries and add cheese curds",
+      "passwordHint": "gravy"
+    },
+    {
+      "id": "food-022",
+      "word": "PRETZEL",
+      "tabooWords": ["German", "twisted", "salty", "beer", "knot"],
+      "charadesHint": "twist arms into a knot shape",
+      "passwordHint": "twist"
+    },
+    {
+      "id": "food-023",
+      "word": "GELATO",
+      "tabooWords": ["Italian", "ice cream", "creamy", "scoop", "cone"],
+      "charadesHint": "lick a colorful scoop in a cone in Italy",
+      "passwordHint": "Italian"
+    },
+    {
+      "id": "food-024",
+      "word": "HOT DOG",
+      "tabooWords": ["sausage", "bun", "mustard", "baseball", "American"],
+      "charadesHint": "squirt mustard and take a massive bite",
+      "passwordHint": "bun"
+    },
+    {
+      "id": "food-025",
+      "word": "MAPLE SYRUP",
+      "tabooWords": ["Canadian", "pancake", "sweet", "tree", "amber"],
+      "charadesHint": "tap a maple tree and pour syrup on pancakes",
+      "passwordHint": "maple"
+    },
+    {
+      "id": "food-026",
+      "word": "GYROS",
+      "tabooWords": ["Greek", "meat", "wrap", "pita", "tzatziki"],
+      "charadesHint": "spin a giant spit of roasting meat",
+      "passwordHint": "pita"
+    },
+    {
+      "id": "food-027",
+      "word": "S'MORES",
+      "tabooWords": ["marshmallow", "campfire", "chocolate", "graham", "roast"],
+      "charadesHint": "roast a marshmallow and squish it between crackers",
+      "passwordHint": "campfire"
+    },
+    {
+      "id": "food-028",
+      "word": "SMOOTHIE",
+      "tabooWords": ["blend", "fruit", "healthy", "drink", "thick"],
+      "charadesHint": "toss fruit into a blender and drink from a straw",
+      "passwordHint": "blend"
+    },
+    {
+      "id": "food-029",
+      "word": "CURRY",
+      "tabooWords": ["Indian", "spice", "sauce", "rice", "hot"],
+      "charadesHint": "stir a bubbling pot of fragrant spices",
+      "passwordHint": "spice"
+    },
+    {
+      "id": "food-030",
+      "word": "PANCAKES",
+      "tabooWords": ["breakfast", "flat", "syrup", "flip", "stack"],
+      "charadesHint": "flip a pancake high and stack a tower",
+      "passwordHint": "stack"
+    },
+    {
+      "id": "food-031",
+      "word": "CHAMPAGNE",
+      "tabooWords": ["French", "bubbles", "celebrate", "cork", "wine"],
+      "charadesHint": "pop a cork and let it overflow",
+      "passwordHint": "bubbles"
+    },
+    {
+      "id": "food-032",
+      "word": "WASABI",
+      "tabooWords": ["Japanese", "hot", "green", "spicy", "sushi"],
+      "charadesHint": "eat too much and tear up with burning nostrils",
+      "passwordHint": "green"
+    },
+    {
+      "id": "food-033",
+      "word": "BRUSCHETTA",
+      "tabooWords": ["Italian", "toast", "tomato", "basil", "olive oil"],
+      "charadesHint": "rub garlic on toast and pile with tomatoes",
+      "passwordHint": "toast"
+    },
+    {
+      "id": "food-034",
+      "word": "WAFFLES",
+      "tabooWords": ["Belgian", "grid", "breakfast", "syrup", "crispy"],
+      "charadesHint": "press batter into a grid iron and add toppings",
+      "passwordHint": "grid"
+    },
+    {
+      "id": "food-035",
+      "word": "NACHOS",
+      "tabooWords": ["chips", "cheese", "Mexican", "jalapeno", "salsa"],
+      "charadesHint": "pile chips with mountains of cheese and dips",
+      "passwordHint": "chips"
+    },
+    {
+      "id": "food-036",
+      "word": "MOJITO",
+      "tabooWords": ["rum", "mint", "lime", "Cuba", "cocktail"],
+      "charadesHint": "muddle mint and lime in a tall glass",
+      "passwordHint": "mint"
+    },
+    {
+      "id": "food-037",
+      "word": "LOBSTER",
+      "tabooWords": ["seafood", "claw", "red", "ocean", "expensive"],
+      "charadesHint": "crack open giant claws with a mallet",
+      "passwordHint": "claw"
+    },
+    {
+      "id": "food-038",
+      "word": "MACARON",
+      "tabooWords": ["French", "colorful", "sandwich", "pastry", "almond"],
+      "charadesHint": "sandwich tiny colorful meringues together",
+      "passwordHint": "French"
+    },
+    {
+      "id": "food-039",
+      "word": "PEKING DUCK",
+      "tabooWords": ["Chinese", "crispy", "pancake", "Beijing", "hoisin"],
+      "charadesHint": "carve a lacquered duck tableside",
+      "passwordHint": "Beijing"
+    },
+    {
+      "id": "food-040",
+      "word": "CINNAMON ROLL",
+      "tabooWords": ["sweet", "spiral", "icing", "bake", "pastry"],
+      "charadesHint": "roll out dough, spread cinnamon and spiral it up",
+      "passwordHint": "spiral"
+    },
+    {
+      "id": "food-041",
+      "word": "FALAFEL",
+      "tabooWords": ["Middle Eastern", "chickpea", "fried", "wrap", "tahini"],
+      "charadesHint": "roll chickpea mixture into balls and fry",
+      "passwordHint": "chickpea"
+    },
+    {
+      "id": "food-042",
+      "word": "CARBONARA",
+      "tabooWords": ["Italian", "pasta", "egg", "bacon", "creamy"],
+      "charadesHint": "toss pasta with eggs off the heat so they don't scramble",
+      "passwordHint": "egg"
+    },
+    {
+      "id": "food-043",
+      "word": "LEMON MERINGUE PIE",
+      "tabooWords": ["tart", "fluffy", "sweet", "lemon", "pie"],
+      "charadesHint": "torch the towering white fluff on a tangy pie",
+      "passwordHint": "meringue"
+    },
+    {
+      "id": "food-044",
+      "word": "ESPRESSO",
+      "tabooWords": ["coffee", "Italian", "shot", "strong", "machine"],
+      "charadesHint": "pull a tiny shot and knock it back in one go",
+      "passwordHint": "shot"
+    },
+    {
+      "id": "food-045",
+      "word": "PULLED PORK",
+      "tabooWords": ["BBQ", "slow", "cooked", "sandwich", "American"],
+      "charadesHint": "shred slow-cooked meat with two forks",
+      "passwordHint": "shred"
+    },
+    {
+      "id": "food-046",
+      "word": "MISO SOUP",
+      "tabooWords": ["Japanese", "tofu", "paste", "fermented", "bowl"],
+      "charadesHint": "dissolve paste in broth and drop in tofu cubes",
+      "passwordHint": "paste"
+    },
+    {
+      "id": "food-047",
+      "word": "CRÈME BRÛLÉE",
+      "tabooWords": ["French", "custard", "torch", "sugar", "crack"],
+      "charadesHint": "torch a sugar top then crack it with a spoon",
+      "passwordHint": "torch"
+    },
+    {
+      "id": "food-048",
+      "word": "BIBIMBAP",
+      "tabooWords": ["Korean", "rice", "bowl", "mix", "gochujang"],
+      "charadesHint": "arrange colorful toppings in a bowl then mix",
+      "passwordHint": "mix"
+    },
+    {
+      "id": "food-049",
+      "word": "GINGERBREAD",
+      "tabooWords": ["Christmas", "cookie", "spiced", "house", "ginger"],
+      "charadesHint": "cut gingerbread people and decorate with icing",
+      "passwordHint": "Christmas"
+    },
+    {
+      "id": "food-050",
+      "word": "SHAKSHUKA",
+      "tabooWords": ["Middle Eastern", "eggs", "tomato", "spiced", "pan"],
+      "charadesHint": "poach eggs in a bubbling spiced tomato sauce",
+      "passwordHint": "eggs"
+    },
+    {
+      "id": "food-051",
+      "word": "TRUFFLE",
+      "tabooWords": ["mushroom", "expensive", "underground", "fancy", "shave"],
+      "charadesHint": "shave precious underground fungus over a dish",
+      "passwordHint": "expensive"
+    },
+    {
+      "id": "food-052",
+      "word": "ANTIPASTO",
+      "tabooWords": ["Italian", "starter", "board", "charcuterie", "olives"],
+      "charadesHint": "arrange meats, cheese and olives on a board",
+      "passwordHint": "starter"
+    },
+    {
+      "id": "food-053",
+      "word": "BORSCHT",
+      "tabooWords": ["Russian", "beet", "soup", "purple", "Eastern European"],
+      "charadesHint": "stir a deep purple beet soup",
+      "passwordHint": "beet"
+    },
+    {
+      "id": "food-054",
+      "word": "ENERGY DRINK",
+      "tabooWords": ["caffeine", "can", "wings", "Red Bull", "boost"],
+      "charadesHint": "crack open a can and vibrate with energy",
+      "passwordHint": "caffeine"
+    },
+    {
+      "id": "food-055",
+      "word": "CEVICHE",
+      "tabooWords": ["Peruvian", "lime", "raw", "fish", "citrus"],
+      "charadesHint": "marinate raw fish in lime until it cooks",
+      "passwordHint": "lime"
+    },
+    {
+      "id": "food-056",
+      "word": "FRENCH ONION SOUP",
+      "tabooWords": ["French", "onion", "cheese", "crouton", "gratinéed"],
+      "charadesHint": "melt cheese on top of a steaming crock",
+      "passwordHint": "onion"
+    },
+    {
+      "id": "food-057",
+      "word": "SPRING ROLLS",
+      "tabooWords": ["Chinese", "fried", "wrapper", "vegetable", "crispy"],
+      "charadesHint": "roll vegetables in a thin wrapper and fry",
+      "passwordHint": "crispy"
+    },
+    {
+      "id": "food-058",
+      "word": "BIRTHDAY CAKE",
+      "tabooWords": ["candles", "blow", "celebrate", "frosting", "wish"],
+      "charadesHint": "blow out candles and make a wish",
+      "passwordHint": "candles"
+    },
+    {
+      "id": "food-059",
+      "word": "HUMMUS",
+      "tabooWords": ["chickpea", "Middle Eastern", "dip", "pita", "tahini"],
+      "charadesHint": "blend chickpeas smooth and swirl in a bowl",
+      "passwordHint": "dip"
+    },
+    {
+      "id": "food-060",
+      "word": "CHEESECAKE",
+      "tabooWords": ["cream cheese", "graham", "bake", "New York", "dessert"],
+      "charadesHint": "press crust and pour creamy filling into a tin",
+      "passwordHint": "cream cheese"
+    }
+  ]
+}
