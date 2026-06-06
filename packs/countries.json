@@ -1,0 +1,461 @@
+{
+  "id": "countries",
+  "name": "Countries",
+  "category": "Geography",
+  "description": "Nations from every corner of the globe",
+  "difficulty": "Medium",
+  "tags": ["geography", "world", "countries", "travel", "education"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "countries-001",
+      "word": "BRAZIL",
+      "tabooWords": ["Amazon", "football", "carnival", "South America", "Rio"],
+      "charadesHint": "samba dance and hold a giant carnival feathered headpiece",
+      "passwordHint": "carnival"
+    },
+    {
+      "id": "countries-002",
+      "word": "JAPAN",
+      "tabooWords": ["sushi", "Tokyo", "anime", "Asia", "cherry blossom"],
+      "charadesHint": "bow politely and mime eating sushi with chopsticks",
+      "passwordHint": "sushi"
+    },
+    {
+      "id": "countries-003",
+      "word": "AUSTRALIA",
+      "tabooWords": ["kangaroo", "outback", "Sydney", "continent", "Oceania"],
+      "charadesHint": "hop like a kangaroo and throw a boomerang",
+      "passwordHint": "kangaroo"
+    },
+    {
+      "id": "countries-004",
+      "word": "EGYPT",
+      "tabooWords": ["pyramid", "pharaoh", "desert", "Nile", "Africa"],
+      "charadesHint": "stand like an Egyptian with hands in profile and point at pyramids",
+      "passwordHint": "pyramid"
+    },
+    {
+      "id": "countries-005",
+      "word": "FRANCE",
+      "tabooWords": ["Paris", "Eiffel", "baguette", "wine", "Europe"],
+      "charadesHint": "mime holding a baguette and pointing at a tall tower",
+      "passwordHint": "baguette"
+    },
+    {
+      "id": "countries-006",
+      "word": "CHINA",
+      "tabooWords": ["Great Wall", "Beijing", "Asia", "pandas", "dragon"],
+      "charadesHint": "walk along an enormous wall stretching over mountains",
+      "passwordHint": "wall"
+    },
+    {
+      "id": "countries-007",
+      "word": "INDIA",
+      "tabooWords": ["curry", "Hindi", "Taj Mahal", "Asia", "Bollywood"],
+      "charadesHint": "do a Bollywood dance move in front of a famous white marble tomb",
+      "passwordHint": "Bollywood"
+    },
+    {
+      "id": "countries-008",
+      "word": "RUSSIA",
+      "tabooWords": ["cold", "Moscow", "vodka", "large", "Europe"],
+      "charadesHint": "do a squat kick Cossack dance in a fur hat",
+      "passwordHint": "vodka"
+    },
+    {
+      "id": "countries-009",
+      "word": "MEXICO",
+      "tabooWords": ["taco", "Spanish", "sombrero", "Latin", "Aztec"],
+      "charadesHint": "wear a giant hat and mime eating a taco with mariachi playing",
+      "passwordHint": "sombrero"
+    },
+    {
+      "id": "countries-010",
+      "word": "ITALY",
+      "tabooWords": ["pizza", "Rome", "pasta", "Europe", "boot"],
+      "charadesHint": "toss pizza dough and point to a boot-shaped map",
+      "passwordHint": "pizza"
+    },
+    {
+      "id": "countries-011",
+      "word": "CANADA",
+      "tabooWords": ["maple", "hockey", "moose", "cold", "North America"],
+      "charadesHint": "skate on ice holding a hockey stick under a maple leaf flag",
+      "passwordHint": "maple"
+    },
+    {
+      "id": "countries-012",
+      "word": "KENYA",
+      "tabooWords": ["safari", "Africa", "Nairobi", "running", "lion"],
+      "charadesHint": "sprint at world-record speed across a vast savanna",
+      "passwordHint": "sprint"
+    },
+    {
+      "id": "countries-013",
+      "word": "GREECE",
+      "tabooWords": [
+        "Parthenon",
+        "Mediterranean",
+        "Olympics",
+        "Europe",
+        "Zeus"
+      ],
+      "charadesHint": "pose like an ancient statue and throw a discus",
+      "passwordHint": "Olympics"
+    },
+    {
+      "id": "countries-014",
+      "word": "ARGENTINA",
+      "tabooWords": [
+        "tango",
+        "Messi",
+        "Buenos Aires",
+        "South America",
+        "steak"
+      ],
+      "charadesHint": "tango dramatically across the floor holding a red rose",
+      "passwordHint": "tango"
+    },
+    {
+      "id": "countries-015",
+      "word": "NORWAY",
+      "tabooWords": [
+        "fjord",
+        "Viking",
+        "Scandinavia",
+        "northern lights",
+        "cold"
+      ],
+      "charadesHint": "ski down a snowy mountain under a curtain of coloured lights",
+      "passwordHint": "fjord"
+    },
+    {
+      "id": "countries-016",
+      "word": "SPAIN",
+      "tabooWords": ["flamenco", "bullfight", "Madrid", "Europe", "tapas"],
+      "charadesHint": "stomp and clap in a fierce flamenco dance holding a fan",
+      "passwordHint": "flamenco"
+    },
+    {
+      "id": "countries-017",
+      "word": "THAILAND",
+      "tabooWords": ["Bangkok", "temple", "Asia", "elephant", "Buddhism"],
+      "charadesHint": "press palms together in a graceful bow by a golden temple",
+      "passwordHint": "temple"
+    },
+    {
+      "id": "countries-018",
+      "word": "GERMANY",
+      "tabooWords": ["Berlin", "beer", "Europe", "Oktoberfest", "sausage"],
+      "charadesHint": "raise a giant stein of beer at Oktoberfest in lederhosen",
+      "passwordHint": "beer"
+    },
+    {
+      "id": "countries-019",
+      "word": "PERU",
+      "tabooWords": ["Machu Picchu", "Inca", "South America", "Andes", "llama"],
+      "charadesHint": "stand on an ancient mountaintop ruin beside a llama",
+      "passwordHint": "llama"
+    },
+    {
+      "id": "countries-020",
+      "word": "SOUTH AFRICA",
+      "tabooWords": ["safari", "Cape Town", "rugby", "Africa", "Mandela"],
+      "charadesHint": "watch lions roam then cheer at a rugby match",
+      "passwordHint": "rugby"
+    },
+    {
+      "id": "countries-021",
+      "word": "IRELAND",
+      "tabooWords": ["clover", "green", "pub", "Europe", "Celtic"],
+      "charadesHint": "jig energetically holding a four-leaf clover and a pint",
+      "passwordHint": "clover"
+    },
+    {
+      "id": "countries-022",
+      "word": "SAUDI ARABIA",
+      "tabooWords": ["oil", "desert", "Mecca", "Middle East", "Arab"],
+      "charadesHint": "ride a camel across a vast golden desert toward a holy city",
+      "passwordHint": "oil"
+    },
+    {
+      "id": "countries-023",
+      "word": "CUBA",
+      "tabooWords": ["cigar", "Castro", "Caribbean", "salsa", "Havana"],
+      "charadesHint": "roll a cigar and salsa dance in vintage Havana streets",
+      "passwordHint": "cigar"
+    },
+    {
+      "id": "countries-024",
+      "word": "ICELAND",
+      "tabooWords": ["volcano", "geysers", "cold", "Nordic", "hot spring"],
+      "charadesHint": "bathe in a steaming hot pool while snow falls around you",
+      "passwordHint": "geyser"
+    },
+    {
+      "id": "countries-025",
+      "word": "TURKEY",
+      "tabooWords": ["Istanbul", "kebab", "Europe", "Asia", "mosque"],
+      "charadesHint": "mime eating a kebab while a mosque call echoes around you",
+      "passwordHint": "kebab"
+    },
+    {
+      "id": "countries-026",
+      "word": "NEW ZEALAND",
+      "tabooWords": ["kiwi", "rugby", "haka", "Oceania", "Hobbit"],
+      "charadesHint": "perform a fierce haka stomping and sticking out your tongue",
+      "passwordHint": "haka"
+    },
+    {
+      "id": "countries-027",
+      "word": "SWITZERLAND",
+      "tabooWords": ["chocolate", "Alps", "neutral", "watch", "cheese"],
+      "charadesHint": "yodel from an Alp with chocolate and a cuckoo clock",
+      "passwordHint": "chocolate"
+    },
+    {
+      "id": "countries-028",
+      "word": "NIGERIA",
+      "tabooWords": ["Lagos", "Africa", "Nollywood", "oil", "populous"],
+      "charadesHint": "act out a dramatic Nollywood scene with big expressions",
+      "passwordHint": "Nollywood"
+    },
+    {
+      "id": "countries-029",
+      "word": "COLOMBIA",
+      "tabooWords": ["coffee", "South America", "salsa", "Bogota", "emerald"],
+      "charadesHint": "pick coffee beans on a misty mountainside and salsa dance",
+      "passwordHint": "coffee"
+    },
+    {
+      "id": "countries-030",
+      "word": "VIETNAM",
+      "tabooWords": ["pho", "Asia", "Hanoi", "rice", "war"],
+      "charadesHint": "slurp noodle soup in a conical hat by a rice paddy",
+      "passwordHint": "noodle"
+    },
+    {
+      "id": "countries-031",
+      "word": "PORTUGAL",
+      "tabooWords": ["Lisbon", "fado", "Europe", "explorer", "tiles"],
+      "charadesHint": "sing a mournful melancholy song by the sea as a sailor",
+      "passwordHint": "fado"
+    },
+    {
+      "id": "countries-032",
+      "word": "MOROCCO",
+      "tabooWords": ["Marrakech", "Africa", "souk", "desert", "camel"],
+      "charadesHint": "haggle in a bustling colourful market in a flowing robe",
+      "passwordHint": "souk"
+    },
+    {
+      "id": "countries-033",
+      "word": "PAKISTAN",
+      "tabooWords": ["Islamabad", "cricket", "Asia", "curry", "Muslim"],
+      "charadesHint": "bowl a cricket ball on a dusty pitch under blazing sun",
+      "passwordHint": "cricket"
+    },
+    {
+      "id": "countries-034",
+      "word": "ETHIOPIA",
+      "tabooWords": ["coffee", "Africa", "Addis Ababa", "marathon", "ancient"],
+      "charadesHint": "run a marathon barefoot at blistering pace",
+      "passwordHint": "marathon"
+    },
+    {
+      "id": "countries-035",
+      "word": "NETHERLANDS",
+      "tabooWords": ["tulip", "windmill", "Amsterdam", "Europe", "bike"],
+      "charadesHint": "cycle past windmills through fields of colourful tulips",
+      "passwordHint": "tulip"
+    },
+    {
+      "id": "countries-036",
+      "word": "INDONESIA",
+      "tabooWords": ["island", "Bali", "Asia", "volcano", "rice"],
+      "charadesHint": "surf a wave toward a tropical volcanic island",
+      "passwordHint": "island"
+    },
+    {
+      "id": "countries-037",
+      "word": "UKRAINE",
+      "tabooWords": ["Kyiv", "Europe", "sunflower", "war", "wheat"],
+      "charadesHint": "stand in a vast field of golden sunflowers",
+      "passwordHint": "sunflower"
+    },
+    {
+      "id": "countries-038",
+      "word": "GHANA",
+      "tabooWords": ["Africa", "Accra", "kente", "cocoa", "gold"],
+      "charadesHint": "wear brightly coloured woven cloth and beat a drum",
+      "passwordHint": "kente"
+    },
+    {
+      "id": "countries-039",
+      "word": "SWEDEN",
+      "tabooWords": ["IKEA", "Scandinavia", "Abba", "meatballs", "cold"],
+      "charadesHint": "assemble flat-pack furniture while eating meatballs",
+      "passwordHint": "IKEA"
+    },
+    {
+      "id": "countries-040",
+      "word": "NEPAL",
+      "tabooWords": ["Everest", "Himalayas", "mountain", "Asia", "temple"],
+      "charadesHint": "plant a flag on the highest mountain peak on Earth",
+      "passwordHint": "Everest"
+    },
+    {
+      "id": "countries-041",
+      "word": "CHILE",
+      "tabooWords": ["South America", "Andes", "long", "wine", "desert"],
+      "charadesHint": "stretch your arms very long and narrow like a skinny country",
+      "passwordHint": "narrow"
+    },
+    {
+      "id": "countries-042",
+      "word": "HUNGARY",
+      "tabooWords": ["Budapest", "Europe", "goulash", "paprika", "Danube"],
+      "charadesHint": "stir a steaming pot of rich paprika stew in Budapest",
+      "passwordHint": "goulash"
+    },
+    {
+      "id": "countries-043",
+      "word": "PHILIPPINES",
+      "tabooWords": ["island", "Asia", "Pacific", "jeepney", "Manila"],
+      "charadesHint": "ride a brightly decorated jeepney through tropical islands",
+      "passwordHint": "island"
+    },
+    {
+      "id": "countries-044",
+      "word": "IRAN",
+      "tabooWords": ["Persia", "Middle East", "Tehran", "carpet", "Islam"],
+      "charadesHint": "unroll a magnificent hand-woven carpet in an ancient bazaar",
+      "passwordHint": "carpet"
+    },
+    {
+      "id": "countries-045",
+      "word": "CUBA",
+      "tabooWords": ["cigar", "Castro", "Caribbean", "salsa", "Havana"],
+      "charadesHint": "drive a classic 1950s car down a colourful Caribbean street",
+      "passwordHint": "classic"
+    },
+    {
+      "id": "countries-046",
+      "word": "DENMARK",
+      "tabooWords": ["Copenhagen", "Viking", "Scandinavia", "mermaid", "Lego"],
+      "charadesHint": "build something from colourful plastic bricks by the sea",
+      "passwordHint": "Lego"
+    },
+    {
+      "id": "countries-047",
+      "word": "CAMBODIA",
+      "tabooWords": ["Angkor Wat", "temple", "Asia", "Khmer", "Mekong"],
+      "charadesHint": "bow before a massive ancient temple complex in the jungle",
+      "passwordHint": "temple"
+    },
+    {
+      "id": "countries-048",
+      "word": "ECUADOR",
+      "tabooWords": [
+        "equator",
+        "South America",
+        "Galapagos",
+        "islands",
+        "banana"
+      ],
+      "charadesHint": "stand exactly on the equator line with one foot in each hemisphere",
+      "passwordHint": "equator"
+    },
+    {
+      "id": "countries-049",
+      "word": "POLAND",
+      "tabooWords": ["Warsaw", "Europe", "pierogi", "vodka", "bison"],
+      "charadesHint": "fold and pinch little dumplings in a cosy Eastern European kitchen",
+      "passwordHint": "pierogi"
+    },
+    {
+      "id": "countries-050",
+      "word": "ZIMBABWE",
+      "tabooWords": ["Africa", "Harare", "falls", "inflation", "Mugabe"],
+      "charadesHint": "stand in awe of a thundering waterfall on the African border",
+      "passwordHint": "falls"
+    },
+    {
+      "id": "countries-051",
+      "word": "FINLAND",
+      "tabooWords": ["sauna", "Santa", "Scandinavia", "Nokia", "cold"],
+      "charadesHint": "sit naked in extreme heat pouring water on hot stones",
+      "passwordHint": "sauna"
+    },
+    {
+      "id": "countries-052",
+      "word": "BANGLADESH",
+      "tabooWords": ["Dhaka", "Asia", "delta", "river", "garment"],
+      "charadesHint": "navigate a tiny boat through a massive river delta",
+      "passwordHint": "delta"
+    },
+    {
+      "id": "countries-053",
+      "word": "LUXEMBOURG",
+      "tabooWords": ["small", "Europe", "rich", "castle", "finance"],
+      "charadesHint": "stand in a tiny but incredibly wealthy country full of castles",
+      "passwordHint": "tiny"
+    },
+    {
+      "id": "countries-054",
+      "word": "MONGOLIA",
+      "tabooWords": ["steppe", "Genghis Khan", "Asia", "nomad", "ger"],
+      "charadesHint": "gallop across vast empty grasslands and set up a circular tent",
+      "passwordHint": "nomad"
+    },
+    {
+      "id": "countries-055",
+      "word": "PANAMA",
+      "tabooWords": ["canal", "Central America", "ship", "hat", "isthmus"],
+      "charadesHint": "guide a giant ship through a narrow canal joining two oceans",
+      "passwordHint": "canal"
+    },
+    {
+      "id": "countries-056",
+      "word": "ERITREA",
+      "tabooWords": ["Africa", "Asmara", "Horn", "independence", "Red Sea"],
+      "charadesHint": "celebrate a hard-won independence on the Red Sea coast",
+      "passwordHint": "independence"
+    },
+    {
+      "id": "countries-057",
+      "word": "BHUTAN",
+      "tabooWords": ["happiness", "Himalayas", "Asia", "Buddhist", "dragon"],
+      "charadesHint": "measure a country's success by happiness not money",
+      "passwordHint": "happiness"
+    },
+    {
+      "id": "countries-058",
+      "word": "MADAGASCAR",
+      "tabooWords": ["island", "lemur", "Africa", "unique", "baobab"],
+      "charadesHint": "leap through a forest of upside-down trees with a ring-tailed animal",
+      "passwordHint": "lemur"
+    },
+    {
+      "id": "countries-059",
+      "word": "JORDAN",
+      "tabooWords": ["Petra", "Middle East", "desert", "Dead Sea", "Amman"],
+      "charadesHint": "float effortlessly on extremely salty water in a desert",
+      "passwordHint": "float"
+    },
+    {
+      "id": "countries-060",
+      "word": "BOLIVIA",
+      "tabooWords": [
+        "South America",
+        "salt flat",
+        "La Paz",
+        "altitude",
+        "llama"
+      ],
+      "charadesHint": "walk across a blindingly white endless salt flat at altitude",
+      "passwordHint": "salt"
+    }
+  ]
+}

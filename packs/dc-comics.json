@@ -1,0 +1,455 @@
+{
+  "id": "dc-comics",
+  "name": "DC Comics",
+  "category": "Entertainment",
+  "description": "Heroes, villains, and worlds from the DC universe",
+  "difficulty": "Medium",
+  "tags": ["DC", "comics", "superhero", "Batman", "Superman", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "dc-comics-001",
+      "word": "BATMAN",
+      "tabooWords": ["Bruce Wayne", "Gotham", "cape", "mask", "Dark Knight"],
+      "charadesHint": "crouch on a rooftop and grapple into the dark Gotham night",
+      "passwordHint": "cape"
+    },
+    {
+      "id": "dc-comics-002",
+      "word": "SUPERMAN",
+      "tabooWords": ["Clark Kent", "Krypton", "fly", "cape", "Man of Steel"],
+      "charadesHint": "rip open your shirt to reveal the S and soar into the sky",
+      "passwordHint": "S"
+    },
+    {
+      "id": "dc-comics-003",
+      "word": "WONDER WOMAN",
+      "tabooWords": ["Diana", "Amazon", "lasso", "Themyscira", "warrior"],
+      "charadesHint": "deflect bullets with your bracelets and swing a golden lasso",
+      "passwordHint": "lasso"
+    },
+    {
+      "id": "dc-comics-004",
+      "word": "THE JOKER",
+      "tabooWords": ["Batman", "Gotham", "laugh", "clown", "villain"],
+      "charadesHint": "apply green hair and face paint then laugh maniacally",
+      "passwordHint": "laugh"
+    },
+    {
+      "id": "dc-comics-005",
+      "word": "AQUAMAN",
+      "tabooWords": ["sea", "ocean", "Atlantis", "trident", "underwater"],
+      "charadesHint": "command sea creatures and raise a trident from the depths",
+      "passwordHint": "trident"
+    },
+    {
+      "id": "dc-comics-006",
+      "word": "THE FLASH",
+      "tabooWords": ["fast", "lightning", "Barry Allen", "red", "speed"],
+      "charadesHint": "sprint so fast you are just a red blur leaving lightning behind",
+      "passwordHint": "blur"
+    },
+    {
+      "id": "dc-comics-007",
+      "word": "GREEN LANTERN",
+      "tabooWords": ["ring", "construct", "willpower", "corps", "glow"],
+      "charadesHint": "hold up a glowing ring and create a giant fist from green light",
+      "passwordHint": "ring"
+    },
+    {
+      "id": "dc-comics-008",
+      "word": "LEX LUTHOR",
+      "tabooWords": ["Superman", "bald", "genius", "villain", "billionaire"],
+      "charadesHint": "stroke your bald head and plot the destruction of Superman",
+      "passwordHint": "bald"
+    },
+    {
+      "id": "dc-comics-009",
+      "word": "CATWOMAN",
+      "tabooWords": ["Selina Kyle", "cat", "steal", "Batman", "whip"],
+      "charadesHint": "slink in a black suit cracking a whip and stealing a diamond",
+      "passwordHint": "whip"
+    },
+    {
+      "id": "dc-comics-010",
+      "word": "HARLEY QUINN",
+      "tabooWords": ["Joker", "hammer", "pigtails", "villain", "crazy"],
+      "charadesHint": "swing a giant mallet and cartwheel in mismatched pigtails",
+      "passwordHint": "mallet"
+    },
+    {
+      "id": "dc-comics-011",
+      "word": "CYBORG",
+      "tabooWords": ["Victor Stone", "robot", "half", "Teen Titans", "machine"],
+      "charadesHint": "march forward with a mechanical arm that transforms into a cannon",
+      "passwordHint": "cannon"
+    },
+    {
+      "id": "dc-comics-012",
+      "word": "SHAZAM",
+      "tabooWords": [
+        "Billy Batson",
+        "lightning",
+        "magic word",
+        "transform",
+        "Captain Marvel"
+      ],
+      "charadesHint": "shout one magic word and transform from a child into a hero",
+      "passwordHint": "shout"
+    },
+    {
+      "id": "dc-comics-013",
+      "word": "GREEN ARROW",
+      "tabooWords": ["Oliver Queen", "bow", "arrow", "Starling City", "archer"],
+      "charadesHint": "fire a trick arrow from a rooftop into a villain's hand",
+      "passwordHint": "arrow"
+    },
+    {
+      "id": "dc-comics-014",
+      "word": "BLACK CANARY",
+      "tabooWords": ["scream", "sonic", "Dinah", "cry", "archer"],
+      "charadesHint": "open your mouth and unleash a sonic scream that shatters everything",
+      "passwordHint": "scream"
+    },
+    {
+      "id": "dc-comics-015",
+      "word": "NIGHTWING",
+      "tabooWords": ["Dick Grayson", "Robin", "Batman", "Blüdhaven", "acrobat"],
+      "charadesHint": "flip and cartwheel with twin escrima sticks striking with precision",
+      "passwordHint": "flip"
+    },
+    {
+      "id": "dc-comics-016",
+      "word": "DEATHSTROKE",
+      "tabooWords": ["mercenary", "mask", "Slade", "assassin", "sword"],
+      "charadesHint": "don a half-orange half-black mask and fight an entire army alone",
+      "passwordHint": "mercenary"
+    },
+    {
+      "id": "dc-comics-017",
+      "word": "DARKSEID",
+      "tabooWords": ["Apokolips", "omega", "villain", "Anti-Life", "god"],
+      "charadesHint": "fire omega beams from your eyes as an undefeatable dark god",
+      "passwordHint": "omega"
+    },
+    {
+      "id": "dc-comics-018",
+      "word": "ROBIN",
+      "tabooWords": ["Batman", "sidekick", "Dick Grayson", "Tim Drake", "mask"],
+      "charadesHint": "swing on a bat rope shouting exclamations as a colourful sidekick",
+      "passwordHint": "sidekick"
+    },
+    {
+      "id": "dc-comics-019",
+      "word": "POISON IVY",
+      "tabooWords": ["plant", "Pamela Isley", "toxic", "vine", "green"],
+      "charadesHint": "command vines to wrap around your enemies while touching a flower",
+      "passwordHint": "vine"
+    },
+    {
+      "id": "dc-comics-020",
+      "word": "TWO-FACE",
+      "tabooWords": ["Harvey Dent", "coin", "scarred", "Gotham", "flip"],
+      "charadesHint": "flip a coin to decide your next action with half your face scarred",
+      "passwordHint": "coin"
+    },
+    {
+      "id": "dc-comics-021",
+      "word": "RIDDLER",
+      "tabooWords": ["question mark", "riddle", "puzzle", "Batman", "green"],
+      "charadesHint": "pose a cryptic riddle tapping your cane covered in question marks",
+      "passwordHint": "riddle"
+    },
+    {
+      "id": "dc-comics-022",
+      "word": "MR FREEZE",
+      "tabooWords": ["ice", "cold", "cryogenic", "Nora", "gun"],
+      "charadesHint": "fire an ice cannon freezing everything and speak only in ice puns",
+      "passwordHint": "ice"
+    },
+    {
+      "id": "dc-comics-023",
+      "word": "BANE",
+      "tabooWords": ["mask", "venom", "back", "break", "strong"],
+      "charadesHint": "pump venom into your veins and snap someone over your knee",
+      "passwordHint": "break"
+    },
+    {
+      "id": "dc-comics-024",
+      "word": "SCARECROW",
+      "tabooWords": [
+        "fear",
+        "fear gas",
+        "Jonathan Crane",
+        "Batman",
+        "hallucinate"
+      ],
+      "charadesHint": "spray fear toxin and cackle as your victim sees their worst nightmare",
+      "passwordHint": "fear"
+    },
+    {
+      "id": "dc-comics-025",
+      "word": "MARTIAN MANHUNTER",
+      "tabooWords": ["Mars", "green", "shapeshifter", "Justice League", "Oreo"],
+      "charadesHint": "shift your green shape into anyone and read minds across the room",
+      "passwordHint": "Mars"
+    },
+    {
+      "id": "dc-comics-026",
+      "word": "ZATANNA",
+      "tabooWords": ["magic", "backwards", "spell", "magician", "hat"],
+      "charadesHint": "cast spells by speaking sentences backwards in a top hat",
+      "passwordHint": "backwards"
+    },
+    {
+      "id": "dc-comics-027",
+      "word": "SWAMP THING",
+      "tabooWords": ["plant", "Alan Moore", "swamp", "creature", "Louisiana"],
+      "charadesHint": "rise from the swamp as a shambling mass of roots leaves and mud",
+      "passwordHint": "swamp"
+    },
+    {
+      "id": "dc-comics-028",
+      "word": "PHANTOM STRANGER",
+      "tabooWords": ["mysterious", "magic", "appear", "trenchcoat", "cryptic"],
+      "charadesHint": "appear from nowhere in a white-brimmed hat and offer cryptic warnings",
+      "passwordHint": "mysterious"
+    },
+    {
+      "id": "dc-comics-029",
+      "word": "LOBO",
+      "tabooWords": ["alien", "bounty hunter", "chain", "motorcycle", "brutal"],
+      "charadesHint": "roar on a space motorcycle swinging a chain at anyone nearby",
+      "passwordHint": "chain"
+    },
+    {
+      "id": "dc-comics-030",
+      "word": "JUSTICE LEAGUE",
+      "tabooWords": ["team", "heroes", "DC", "Superman", "Batman"],
+      "charadesHint": "assemble Earth's greatest heroes into one unbeatable team",
+      "passwordHint": "team"
+    },
+    {
+      "id": "dc-comics-031",
+      "word": "GOTHAM CITY",
+      "tabooWords": ["Batman", "dark", "crime", "city", "Joker"],
+      "charadesHint": "look up at a dark rainy city skyline and spot the bat signal",
+      "passwordHint": "signal"
+    },
+    {
+      "id": "dc-comics-032",
+      "word": "METROPOLIS",
+      "tabooWords": ["Superman", "city", "Daily Planet", "Lois Lane", "bright"],
+      "charadesHint": "look up as Superman streaks past gleaming skyscrapers",
+      "passwordHint": "gleaming"
+    },
+    {
+      "id": "dc-comics-033",
+      "word": "KRYPTONITE",
+      "tabooWords": ["Superman", "green", "weakness", "alien", "crystal"],
+      "charadesHint": "hold a glowing green rock as the Man of Steel collapses nearby",
+      "passwordHint": "weakness"
+    },
+    {
+      "id": "dc-comics-034",
+      "word": "BATMOBILE",
+      "tabooWords": ["car", "Batman", "Gotham", "black", "gadgets"],
+      "charadesHint": "roar through Gotham streets in a sleek black armoured vehicle",
+      "passwordHint": "roar"
+    },
+    {
+      "id": "dc-comics-035",
+      "word": "LOIS LANE",
+      "tabooWords": [
+        "reporter",
+        "Superman",
+        "Daily Planet",
+        "journalist",
+        "Clark"
+      ],
+      "charadesHint": "interview Superman with a notepad and fall off a building",
+      "passwordHint": "reporter"
+    },
+    {
+      "id": "dc-comics-036",
+      "word": "THE BATCAVE",
+      "tabooWords": ["Batman", "cave", "secret", "Wayne Manor", "Alfred"],
+      "charadesHint": "descend beneath a mansion into a vast dark cave filled with tech",
+      "passwordHint": "cave"
+    },
+    {
+      "id": "dc-comics-037",
+      "word": "BRAINIAC",
+      "tabooWords": ["Superman", "skull ship", "collect", "planet", "alien"],
+      "charadesHint": "shrink entire cities into bottles to add to your collection",
+      "passwordHint": "shrink"
+    },
+    {
+      "id": "dc-comics-038",
+      "word": "DOOMSDAY",
+      "tabooWords": ["Superman", "kill", "bone spikes", "monster", "fight"],
+      "charadesHint": "fight the Man of Steel to mutual destruction with bone spikes flying",
+      "passwordHint": "spikes"
+    },
+    {
+      "id": "dc-comics-039",
+      "word": "STARGIRL",
+      "tabooWords": ["Cosmic Staff", "JSA", "teen", "hero", "light"],
+      "charadesHint": "wave a glowing cosmic staff and soar as a bright young hero",
+      "passwordHint": "staff"
+    },
+    {
+      "id": "dc-comics-040",
+      "word": "HAWKGIRL",
+      "tabooWords": ["wings", "mace", "hawk", "Thanagar", "fly"],
+      "charadesHint": "spread huge bird wings and swing a spiked mace in battle",
+      "passwordHint": "mace"
+    },
+    {
+      "id": "dc-comics-041",
+      "word": "BLUE BEETLE",
+      "tabooWords": ["scarab", "armor", "Jaime Reyes", "tech", "alien"],
+      "charadesHint": "have an alien scarab bond to your spine and create armour around you",
+      "passwordHint": "scarab"
+    },
+    {
+      "id": "dc-comics-042",
+      "word": "BOOSTER GOLD",
+      "tabooWords": ["future", "time travel", "fame", "gold", "hero"],
+      "charadesHint": "travel from the future to become famous using tomorrow's technology today",
+      "passwordHint": "future"
+    },
+    {
+      "id": "dc-comics-043",
+      "word": "THE SPECTRE",
+      "tabooWords": ["God's wrath", "ghost", "vengeance", "divine", "soul"],
+      "charadesHint": "channel the wrath of God and deliver divine punishment to the wicked",
+      "passwordHint": "wrath"
+    },
+    {
+      "id": "dc-comics-044",
+      "word": "DEADSHOT",
+      "tabooWords": [
+        "assassin",
+        "aim",
+        "never miss",
+        "wrist gun",
+        "Suicide Squad"
+      ],
+      "charadesHint": "raise a wrist-mounted gun and hit a target from an impossible distance",
+      "passwordHint": "aim"
+    },
+    {
+      "id": "dc-comics-045",
+      "word": "CAPTAIN COLD",
+      "tabooWords": ["Flash", "freeze", "gun", "Leonard Snart", "Rogues"],
+      "charadesHint": "point a cold gun and glide across freshly frozen ground",
+      "passwordHint": "freeze"
+    },
+    {
+      "id": "dc-comics-046",
+      "word": "GORILLA GRODD",
+      "tabooWords": ["gorilla", "mind control", "Flash", "intelligent", "ape"],
+      "charadesHint": "beat your chest and control everyone's minds as a superintelligent gorilla",
+      "passwordHint": "gorilla"
+    },
+    {
+      "id": "dc-comics-047",
+      "word": "ANTI-MONITOR",
+      "tabooWords": ["crisis", "multiverse", "destroy", "villain", "massive"],
+      "charadesHint": "consume entire universes to grow stronger on a cosmic scale",
+      "passwordHint": "consume"
+    },
+    {
+      "id": "dc-comics-048",
+      "word": "SUPERGIRL",
+      "tabooWords": ["Kara", "Superman", "Krypton", "cousin", "female"],
+      "charadesHint": "fly in wearing a cape as Superman's equally powerful cousin",
+      "passwordHint": "cousin"
+    },
+    {
+      "id": "dc-comics-049",
+      "word": "BATGIRL",
+      "tabooWords": ["Barbara Gordon", "Batman", "Oracle", "Gotham", "female"],
+      "charadesHint": "swing across Gotham in your own bat costume independent of Batman",
+      "passwordHint": "independent"
+    },
+    {
+      "id": "dc-comics-050",
+      "word": "JOHN CONSTANTINE",
+      "tabooWords": ["magic", "demon", "trenchcoat", "Hellblazer", "exorcist"],
+      "charadesHint": "smoke a cigarette and trick a demon with a loophole",
+      "passwordHint": "loophole"
+    },
+    {
+      "id": "dc-comics-051",
+      "word": "CRISIS ON INFINITE EARTHS",
+      "tabooWords": ["crossover", "multiverse", "crisis", "heroes", "DC"],
+      "charadesHint": "witness infinite alternate universes collapse into one",
+      "passwordHint": "infinite"
+    },
+    {
+      "id": "dc-comics-052",
+      "word": "APOKOLIPS",
+      "tabooWords": ["Darkseid", "planet", "dark", "fire pits", "evil"],
+      "charadesHint": "stand on a hellish planet of fire pits ruled by a dark god",
+      "passwordHint": "hellish"
+    },
+    {
+      "id": "dc-comics-053",
+      "word": "NEW GENESIS",
+      "tabooWords": ["New Gods", "good", "Highfather", "paradise", "Apokolips"],
+      "charadesHint": "stand in paradise opposite the darkest planet in the universe",
+      "passwordHint": "paradise"
+    },
+    {
+      "id": "dc-comics-054",
+      "word": "THE PENGUIN",
+      "tabooWords": ["Oswald Cobblepot", "umbrella", "bird", "Gotham", "crime"],
+      "charadesHint": "waddle pompously twirling an umbrella weapon in a top hat",
+      "passwordHint": "umbrella"
+    },
+    {
+      "id": "dc-comics-055",
+      "word": "SOLOMON GRUNDY",
+      "tabooWords": ["zombie", "swamp", "undead", "strong", "born on Monday"],
+      "charadesHint": "stomp and recite your nursery rhyme as an unstoppable swamp zombie",
+      "passwordHint": "nursery"
+    },
+    {
+      "id": "dc-comics-056",
+      "word": "BATMAN BEYOND",
+      "tabooWords": ["future", "Terry McGinnis", "neo Gotham", "tech", "teen"],
+      "charadesHint": "wear a high-tech bat suit in a neon cyberpunk future Gotham",
+      "passwordHint": "future"
+    },
+    {
+      "id": "dc-comics-057",
+      "word": "RAVEN",
+      "tabooWords": ["Trigon", "dark", "Teen Titans", "emotion", "teleport"],
+      "charadesHint": "pull your hood low and create a dark portal with your soul self",
+      "passwordHint": "hood"
+    },
+    {
+      "id": "dc-comics-058",
+      "word": "STARFIRE",
+      "tabooWords": ["Tamaranean", "orange", "fire", "Teen Titans", "Kori"],
+      "charadesHint": "shoot green energy bolts and fly as a glowing orange alien princess",
+      "passwordHint": "orange"
+    },
+    {
+      "id": "dc-comics-059",
+      "word": "BEAST BOY",
+      "tabooWords": ["animal", "green", "shape", "Teen Titans", "transform"],
+      "charadesHint": "transform from a green human into any animal on the planet",
+      "passwordHint": "green"
+    },
+    {
+      "id": "dc-comics-060",
+      "word": "WATCHMEN",
+      "tabooWords": ["Alan Moore", "comic", "Rorschach", "dark", "superheroes"],
+      "charadesHint": "question who watches the heroes who protect us in a dark world",
+      "passwordHint": "dark"
+    }
+  ]
+}

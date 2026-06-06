@@ -1,0 +1,437 @@
+{
+  "id": "scary-things",
+  "name": "Scary Things",
+  "category": "Horror",
+  "description": "Creatures, phobias, and spine-chilling things that go bump in the night",
+  "difficulty": "Easy",
+  "tags": ["horror", "scary", "Halloween", "phobias", "monsters"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "scary-things-001",
+      "word": "VAMPIRE",
+      "tabooWords": ["blood", "bite", "coffin", "cape", "Dracula"],
+      "charadesHint": "sweep a cape over your face and bare your fangs at a neck",
+      "passwordHint": "fangs"
+    },
+    {
+      "id": "scary-things-002",
+      "word": "WEREWOLF",
+      "tabooWords": ["moon", "howl", "wolf", "transform", "fur"],
+      "charadesHint": "look up at a full moon then convulse and transform howling",
+      "passwordHint": "howl"
+    },
+    {
+      "id": "scary-things-003",
+      "word": "HAUNTED HOUSE",
+      "tabooWords": ["ghost", "spooky", "old", "creaking", "spirit"],
+      "charadesHint": "tiptoe through a dark house as doors creak and things rattle",
+      "passwordHint": "creak"
+    },
+    {
+      "id": "scary-things-004",
+      "word": "ZOMBIE",
+      "tabooWords": ["undead", "brain", "shuffle", "virus", "apocalypse"],
+      "charadesHint": "shuffle stiffly with arms out and moan for brains",
+      "passwordHint": "brains"
+    },
+    {
+      "id": "scary-things-005",
+      "word": "SPIDER",
+      "tabooWords": ["web", "eight legs", "crawl", "insect", "arachnid"],
+      "charadesHint": "drop suddenly from above on an invisible thread",
+      "passwordHint": "web"
+    },
+    {
+      "id": "scary-things-006",
+      "word": "QUICKSAND",
+      "tabooWords": ["sink", "sand", "stuck", "ground", "trap"],
+      "charadesHint": "slowly sink while desperately trying not to struggle",
+      "passwordHint": "sink"
+    },
+    {
+      "id": "scary-things-007",
+      "word": "POLTERGEIST",
+      "tabooWords": ["ghost", "objects", "throw", "spirit", "move"],
+      "charadesHint": "duck as invisible hands hurl furniture across the room",
+      "passwordHint": "throw"
+    },
+    {
+      "id": "scary-things-008",
+      "word": "CLOWN",
+      "tabooWords": ["circus", "red nose", "balloon", "paint", "laugh"],
+      "charadesHint": "paint your face with a giant sinister grin and honk a horn",
+      "passwordHint": "honk"
+    },
+    {
+      "id": "scary-things-009",
+      "word": "DEMONIC POSSESSION",
+      "tabooWords": ["exorcist", "devil", "body", "priest", "control"],
+      "charadesHint": "spin your head round and speak in a deep demonic voice",
+      "passwordHint": "exorcist"
+    },
+    {
+      "id": "scary-things-010",
+      "word": "QUICKSAND",
+      "tabooWords": ["sand", "sink", "trap", "struggle", "ground"],
+      "charadesHint": "panic and sink deeper the more you thrash around",
+      "passwordHint": "struggle"
+    },
+    {
+      "id": "scary-things-011",
+      "word": "NIGHTMARE",
+      "tabooWords": ["dream", "sleep", "scary", "wake", "fear"],
+      "charadesHint": "thrash in your sleep screaming until you bolt upright",
+      "passwordHint": "sleep"
+    },
+    {
+      "id": "scary-things-012",
+      "word": "SWAMP MONSTER",
+      "tabooWords": ["creature", "green", "swamp", "mud", "lagoon"],
+      "charadesHint": "rise dripping from a murky swamp with weeds hanging off you",
+      "passwordHint": "swamp"
+    },
+    {
+      "id": "scary-things-013",
+      "word": "MUMMY",
+      "tabooWords": ["bandage", "Egypt", "ancient", "curse", "tomb"],
+      "charadesHint": "walk stiffly with arms out wrapped from head to toe in bandages",
+      "passwordHint": "bandage"
+    },
+    {
+      "id": "scary-things-014",
+      "word": "WITCH",
+      "tabooWords": ["broom", "cauldron", "spell", "hat", "wart"],
+      "charadesHint": "stir a bubbling cauldron cackling on a broomstick",
+      "passwordHint": "cauldron"
+    },
+    {
+      "id": "scary-things-015",
+      "word": "QUICKSAND",
+      "tabooWords": ["sand", "sink", "mud", "trap", "stuck"],
+      "charadesHint": "wave your arms desperately as you slowly disappear into the ground",
+      "passwordHint": "disappear"
+    },
+    {
+      "id": "scary-things-016",
+      "word": "SERIAL KILLER",
+      "tabooWords": ["murder", "knife", "mask", "horror", "stalk"],
+      "charadesHint": "stalk someone in the dark wearing a featureless white mask",
+      "passwordHint": "stalk"
+    },
+    {
+      "id": "scary-things-017",
+      "word": "SLEEP PARALYSIS",
+      "tabooWords": ["awake", "move", "frozen", "shadow", "terror"],
+      "charadesHint": "lie rigid staring at a dark figure in the corner unable to move",
+      "passwordHint": "frozen"
+    },
+    {
+      "id": "scary-things-018",
+      "word": "ARACHNOPHOBIA",
+      "tabooWords": ["spider", "fear", "phobia", "crawl", "eight"],
+      "charadesHint": "freeze completely at the sight of a tiny eight-legged creature",
+      "passwordHint": "phobia"
+    },
+    {
+      "id": "scary-things-019",
+      "word": "SCARECROW",
+      "tabooWords": ["field", "straw", "birds", "crow", "farm"],
+      "charadesHint": "stand rigid and stiff in a dark field then slowly turn your head",
+      "passwordHint": "straw"
+    },
+    {
+      "id": "scary-things-020",
+      "word": "GRAVEDIGGER",
+      "tabooWords": ["cemetery", "shovel", "grave", "bury", "corpse"],
+      "charadesHint": "dig deep into the dark earth in a misty midnight graveyard",
+      "passwordHint": "shovel"
+    },
+    {
+      "id": "scary-things-021",
+      "word": "GHOST SHIP",
+      "tabooWords": ["ocean", "abandoned", "fog", "crew", "phantom"],
+      "charadesHint": "sail an empty mist-shrouded ship with no living crew aboard",
+      "passwordHint": "phantom"
+    },
+    {
+      "id": "scary-things-022",
+      "word": "BANSHEE",
+      "tabooWords": ["scream", "Ireland", "death", "wail", "spirit"],
+      "charadesHint": "open your mouth and let out a blood-curdling scream of doom",
+      "passwordHint": "wail"
+    },
+    {
+      "id": "scary-things-023",
+      "word": "QUICKSAND",
+      "tabooWords": ["ground", "pull", "sand", "stuck", "deep"],
+      "charadesHint": "reach up helplessly as the earth swallows you whole",
+      "passwordHint": "swallow"
+    },
+    {
+      "id": "scary-things-024",
+      "word": "CREEPY DOLL",
+      "tabooWords": ["toy", "eyes", "child", "move", "porcelain"],
+      "charadesHint": "sit perfectly still with a blank grin then slowly tilt your head",
+      "passwordHint": "blank"
+    },
+    {
+      "id": "scary-things-025",
+      "word": "SÉANCE",
+      "tabooWords": ["spirit", "table", "contact", "medium", "dead"],
+      "charadesHint": "sit around a candle-lit table and try to summon the dead",
+      "passwordHint": "summon"
+    },
+    {
+      "id": "scary-things-026",
+      "word": "SINKING SHIP",
+      "tabooWords": ["ocean", "water", "iceberg", "panic", "escape"],
+      "charadesHint": "scramble toward the stern as the bow plunges into dark water",
+      "passwordHint": "stern"
+    },
+    {
+      "id": "scary-things-027",
+      "word": "DEMON",
+      "tabooWords": ["devil", "evil", "hell", "horns", "dark"],
+      "charadesHint": "grow horns and a tail and claw your way up from below",
+      "passwordHint": "horns"
+    },
+    {
+      "id": "scary-things-028",
+      "word": "ECLIPSE",
+      "tabooWords": ["sun", "moon", "dark", "shadow", "sky"],
+      "charadesHint": "watch the sun disappear behind the moon plunging everything dark",
+      "passwordHint": "shadow"
+    },
+    {
+      "id": "scary-things-029",
+      "word": "PLAGUE",
+      "tabooWords": ["disease", "death", "virus", "Black Death", "spread"],
+      "charadesHint": "cough and watch everyone around you fall sick and pale",
+      "passwordHint": "disease"
+    },
+    {
+      "id": "scary-things-030",
+      "word": "GARGOYLE",
+      "tabooWords": ["stone", "church", "monster", "perch", "Gothic"],
+      "charadesHint": "perch menacingly on a ledge and slowly come to life at night",
+      "passwordHint": "stone"
+    },
+    {
+      "id": "scary-things-031",
+      "word": "BOOGEYMAN",
+      "tabooWords": ["child", "bed", "closet", "fear", "dark"],
+      "charadesHint": "cower under the covers as something lurks in the dark closet",
+      "passwordHint": "closet"
+    },
+    {
+      "id": "scary-things-032",
+      "word": "WENDIGO",
+      "tabooWords": ["forest", "hunger", "spirit", "cold", "creature"],
+      "charadesHint": "stalk prey through a frozen forest driven by insatiable hunger",
+      "passwordHint": "hunger"
+    },
+    {
+      "id": "scary-things-033",
+      "word": "CULTIST",
+      "tabooWords": ["robes", "ritual", "chant", "leader", "sacrifice"],
+      "charadesHint": "chant in a circle wearing dark robes around a ritual fire",
+      "passwordHint": "ritual"
+    },
+    {
+      "id": "scary-things-034",
+      "word": "TIDAL WAVE",
+      "tabooWords": ["ocean", "wave", "tsunami", "flood", "destroy"],
+      "charadesHint": "stare at the horizon as a wall of black water races toward you",
+      "passwordHint": "tsunami"
+    },
+    {
+      "id": "scary-things-035",
+      "word": "QUICKSAND",
+      "tabooWords": ["earth", "mud", "trap", "slow", "sink"],
+      "charadesHint": "slowly lose the fight as ground sucks you down inch by inch",
+      "passwordHint": "inch"
+    },
+    {
+      "id": "scary-things-036",
+      "word": "FLESH-EATING PLANT",
+      "tabooWords": [
+        "Venus flytrap",
+        "digest",
+        "insect",
+        "trap",
+        "carnivorous"
+      ],
+      "charadesHint": "snap shut around a victim and slowly dissolve them",
+      "passwordHint": "snap"
+    },
+    {
+      "id": "scary-things-037",
+      "word": "VOLCANIC ERUPTION",
+      "tabooWords": ["lava", "fire", "magma", "mountain", "explosion"],
+      "charadesHint": "run screaming as lava pours down a mountainside toward a town",
+      "passwordHint": "lava"
+    },
+    {
+      "id": "scary-things-038",
+      "word": "PITCH DARKNESS",
+      "tabooWords": ["black", "light", "see", "blind", "night"],
+      "charadesHint": "grope around a room unable to see a single thing",
+      "passwordHint": "blind"
+    },
+    {
+      "id": "scary-things-039",
+      "word": "SPIDER WEB",
+      "tabooWords": ["spider", "trap", "sticky", "silk", "caught"],
+      "charadesHint": "walk face-first into a massive invisible sticky web",
+      "passwordHint": "sticky"
+    },
+    {
+      "id": "scary-things-040",
+      "word": "DROWNING",
+      "tabooWords": ["water", "sink", "breathe", "ocean", "struggle"],
+      "charadesHint": "thrash desperately below the surface unable to breathe",
+      "passwordHint": "breathe"
+    },
+    {
+      "id": "scary-things-041",
+      "word": "ABANDONED ASYLUM",
+      "tabooWords": ["hospital", "old", "mental", "creepy", "empty"],
+      "charadesHint": "walk through a crumbling empty mental hospital at midnight",
+      "passwordHint": "asylum"
+    },
+    {
+      "id": "scary-things-042",
+      "word": "LIVING SHADOW",
+      "tabooWords": ["dark", "follow", "silhouette", "move", "detach"],
+      "charadesHint": "notice your shadow moving independently and approaching you",
+      "passwordHint": "detach"
+    },
+    {
+      "id": "scary-things-043",
+      "word": "BRAIN-EATING PARASITE",
+      "tabooWords": ["worm", "mind", "control", "host", "creature"],
+      "charadesHint": "twitch and lose control of your body to something inside your head",
+      "passwordHint": "host"
+    },
+    {
+      "id": "scary-things-044",
+      "word": "COFFIN",
+      "tabooWords": ["bury", "dead", "vampire", "wood", "funeral"],
+      "charadesHint": "lie flat with arms crossed as a lid slowly closes over you",
+      "passwordHint": "lid"
+    },
+    {
+      "id": "scary-things-045",
+      "word": "JACK-O-LANTERN",
+      "tabooWords": ["pumpkin", "Halloween", "carve", "candle", "grin"],
+      "charadesHint": "carve a sinister grinning face into a glowing orange pumpkin",
+      "passwordHint": "pumpkin"
+    },
+    {
+      "id": "scary-things-046",
+      "word": "REAPER",
+      "tabooWords": ["death", "scythe", "cloak", "soul", "Grim"],
+      "charadesHint": "glide forward in a black cloak swinging a long curved blade",
+      "passwordHint": "scythe"
+    },
+    {
+      "id": "scary-things-047",
+      "word": "QUICKSAND",
+      "tabooWords": ["sand", "trap", "sink", "pull", "ground"],
+      "charadesHint": "grab a branch desperately as the earth pulls you under",
+      "passwordHint": "branch"
+    },
+    {
+      "id": "scary-things-048",
+      "word": "BURIED ALIVE",
+      "tabooWords": ["coffin", "underground", "trapped", "dirt", "scream"],
+      "charadesHint": "claw at a wooden ceiling in complete darkness underground",
+      "passwordHint": "claw"
+    },
+    {
+      "id": "scary-things-049",
+      "word": "POSSESSED PAINTING",
+      "tabooWords": ["art", "eyes", "follow", "gallery", "watch"],
+      "charadesHint": "walk past a portrait whose eyes follow your every move",
+      "passwordHint": "eyes"
+    },
+    {
+      "id": "scary-things-050",
+      "word": "CENTIPEDE",
+      "tabooWords": ["legs", "crawl", "many", "insect", "dark"],
+      "charadesHint": "shudder and stamp as something with hundreds of legs scurries over you",
+      "passwordHint": "legs"
+    },
+    {
+      "id": "scary-things-051",
+      "word": "HEADLESS HORSEMAN",
+      "tabooWords": ["horse", "head", "Sleepy Hollow", "gallop", "legend"],
+      "charadesHint": "gallop on a horse holding your own severed head under your arm",
+      "passwordHint": "gallop"
+    },
+    {
+      "id": "scary-things-052",
+      "word": "CURSED OBJECT",
+      "tabooWords": ["haunted", "bad luck", "magic", "ancient", "possess"],
+      "charadesHint": "pick up an innocent-looking object and have terrible things happen",
+      "passwordHint": "curse"
+    },
+    {
+      "id": "scary-things-053",
+      "word": "KRAKEN",
+      "tabooWords": ["sea", "monster", "tentacles", "ship", "ocean"],
+      "charadesHint": "cling to a ship mast as massive tentacles drag it into the deep",
+      "passwordHint": "tentacles"
+    },
+    {
+      "id": "scary-things-054",
+      "word": "LIGHTNING STORM",
+      "tabooWords": ["thunder", "electricity", "sky", "bolt", "dark"],
+      "charadesHint": "cower as lightning blasts the ground right next to you",
+      "passwordHint": "bolt"
+    },
+    {
+      "id": "scary-things-055",
+      "word": "BLACK CAT",
+      "tabooWords": ["superstition", "luck", "cross", "bad", "animal"],
+      "charadesHint": "step back as a sleek black cat crosses your path at night",
+      "passwordHint": "superstition"
+    },
+    {
+      "id": "scary-things-056",
+      "word": "PURGATORY",
+      "tabooWords": ["afterlife", "limbo", "soul", "wait", "between"],
+      "charadesHint": "wander an empty colourless world neither alive nor dead",
+      "passwordHint": "limbo"
+    },
+    {
+      "id": "scary-things-057",
+      "word": "FLYING MONKEYS",
+      "tabooWords": ["Wizard of Oz", "Wicked Witch", "fly", "attack", "monkey"],
+      "charadesHint": "shriek as winged monkeys swoop down and carry you off",
+      "passwordHint": "swoop"
+    },
+    {
+      "id": "scary-things-058",
+      "word": "SHADOW PERSON",
+      "tabooWords": ["dark", "figure", "ghost", "silhouette", "hallway"],
+      "charadesHint": "spot a tall dark featureless figure standing at the end of a hallway",
+      "passwordHint": "figure"
+    },
+    {
+      "id": "scary-things-059",
+      "word": "DOPPELGANGER",
+      "tabooWords": ["twin", "copy", "evil", "double", "impersonate"],
+      "charadesHint": "meet an exact copy of yourself that wants to take your place",
+      "passwordHint": "double"
+    },
+    {
+      "id": "scary-things-060",
+      "word": "VOODOO DOLL",
+      "tabooWords": ["pin", "curse", "magic", "puppet", "Haiti"],
+      "charadesHint": "push a pin into a tiny figure and someone far away cries out in pain",
+      "passwordHint": "pin"
+    }
+  ]
+}

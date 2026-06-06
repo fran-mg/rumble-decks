@@ -1,0 +1,437 @@
+{
+  "id": "star-wars",
+  "name": "Star Wars",
+  "category": "Entertainment",
+  "description": "Characters, planets, and moments from a galaxy far, far away",
+  "difficulty": "Medium",
+  "tags": ["star wars", "sci-fi", "movies", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "star-wars-001",
+      "word": "DARTH VADER",
+      "tabooWords": ["dark side", "Luke", "breathing", "Sith", "black"],
+      "charadesHint": "breathe heavily and point a lightsaber menacingly",
+      "passwordHint": "breathing"
+    },
+    {
+      "id": "star-wars-002",
+      "word": "YODA",
+      "tabooWords": ["green", "small", "wise", "Jedi", "Force"],
+      "charadesHint": "walk hunched with a cane and speak backwards",
+      "passwordHint": "small"
+    },
+    {
+      "id": "star-wars-003",
+      "word": "LIGHTSABER",
+      "tabooWords": ["weapon", "Jedi", "glow", "sword", "blade"],
+      "charadesHint": "swing a glowing sword and make humming sounds",
+      "passwordHint": "glow"
+    },
+    {
+      "id": "star-wars-004",
+      "word": "MILLENNIUM FALCON",
+      "tabooWords": ["ship", "Han Solo", "fast", "Chewie", "spacecraft"],
+      "charadesHint": "grip a steering wheel and jump to hyperspace",
+      "passwordHint": "fastest"
+    },
+    {
+      "id": "star-wars-005",
+      "word": "STORMTROOPER",
+      "tabooWords": ["white", "armor", "Empire", "soldier", "helmet"],
+      "charadesHint": "march rigidly holding a blaster rifle",
+      "passwordHint": "white"
+    },
+    {
+      "id": "star-wars-006",
+      "word": "R2-D2",
+      "tabooWords": ["robot", "droid", "beep", "blue", "C-3PO"],
+      "charadesHint": "waddle and make beeping whistling sounds",
+      "passwordHint": "beep"
+    },
+    {
+      "id": "star-wars-007",
+      "word": "CHEWBACCA",
+      "tabooWords": ["Wookiee", "hairy", "roar", "Han", "co-pilot"],
+      "charadesHint": "growl and beat your chest like a big furry creature",
+      "passwordHint": "roar"
+    },
+    {
+      "id": "star-wars-008",
+      "word": "DEATH STAR",
+      "tabooWords": ["weapon", "planet", "laser", "Empire", "destroy"],
+      "charadesHint": "form a giant sphere with arms then explode outward",
+      "passwordHint": "laser"
+    },
+    {
+      "id": "star-wars-009",
+      "word": "THE FORCE",
+      "tabooWords": ["power", "Jedi", "energy", "Sith", "control"],
+      "charadesHint": "stretch your hand out and push someone without touching them",
+      "passwordHint": "energy"
+    },
+    {
+      "id": "star-wars-010",
+      "word": "PRINCESS LEIA",
+      "tabooWords": ["buns", "rebel", "Alderaan", "Luke", "senator"],
+      "charadesHint": "mime round buns on the side of your head",
+      "passwordHint": "buns"
+    },
+    {
+      "id": "star-wars-011",
+      "word": "HAN SOLO",
+      "tabooWords": ["smuggler", "pilot", "Chewie", "blaster", "rebel"],
+      "charadesHint": "draw a blaster pistol and act like a cocky smuggler",
+      "passwordHint": "smuggler"
+    },
+    {
+      "id": "star-wars-012",
+      "word": "JABBA THE HUTT",
+      "tabooWords": ["slug", "crime", "fat", "Tatooine", "gangster"],
+      "charadesHint": "slump and wiggle like a giant slug giving orders",
+      "passwordHint": "slug"
+    },
+    {
+      "id": "star-wars-013",
+      "word": "TATOOINE",
+      "tabooWords": ["desert", "sand", "two suns", "Luke", "planet"],
+      "charadesHint": "shield your eyes from two suns over vast sand dunes",
+      "passwordHint": "desert"
+    },
+    {
+      "id": "star-wars-014",
+      "word": "OBI-WAN KENOBI",
+      "tabooWords": ["Jedi", "mentor", "Luke", "Ben", "master"],
+      "charadesHint": "wave your hand and say these are not the droids",
+      "passwordHint": "mentor"
+    },
+    {
+      "id": "star-wars-015",
+      "word": "EWOK",
+      "tabooWords": ["small", "furry", "Endor", "bear", "tribe"],
+      "charadesHint": "act tiny and furry celebrating in the forest",
+      "passwordHint": "furry"
+    },
+    {
+      "id": "star-wars-016",
+      "word": "EMPEROR PALPATINE",
+      "tabooWords": ["Sith", "lightning", "evil", "Emperor", "dark"],
+      "charadesHint": "cackle and shoot lightning from your fingertips",
+      "passwordHint": "lightning"
+    },
+    {
+      "id": "star-wars-017",
+      "word": "BOBA FETT",
+      "tabooWords": [
+        "bounty hunter",
+        "helmet",
+        "Mandalorian",
+        "jetpack",
+        "armor"
+      ],
+      "charadesHint": "fire a jetpack and aim a wrist blaster",
+      "passwordHint": "bounty"
+    },
+    {
+      "id": "star-wars-018",
+      "word": "HYPERSPACE",
+      "tabooWords": ["jump", "fast", "travel", "light speed", "space"],
+      "charadesHint": "grip controls then whoosh as stars stretch past you",
+      "passwordHint": "jump"
+    },
+    {
+      "id": "star-wars-019",
+      "word": "THE MANDALORIAN",
+      "tabooWords": ["helmet", "Baby Yoda", "bounty", "armour", "Din"],
+      "charadesHint": "cradle a tiny baby and point a blaster while helmeted",
+      "passwordHint": "helmet"
+    },
+    {
+      "id": "star-wars-020",
+      "word": "GROGU",
+      "tabooWords": ["Baby Yoda", "green", "small", "cute", "Force"],
+      "charadesHint": "hold out tiny hands and lift something with the Force",
+      "passwordHint": "baby"
+    },
+    {
+      "id": "star-wars-021",
+      "word": "LUKE SKYWALKER",
+      "tabooWords": ["Jedi", "hero", "Vader", "lightsaber", "farm"],
+      "charadesHint": "raise a lightsaber heroically and stare at twin sunsets",
+      "passwordHint": "hero"
+    },
+    {
+      "id": "star-wars-022",
+      "word": "C-3PO",
+      "tabooWords": ["gold", "robot", "droid", "R2-D2", "protocol"],
+      "charadesHint": "walk stiffly with arms out and speak in a prim robotic voice",
+      "passwordHint": "gold"
+    },
+    {
+      "id": "star-wars-023",
+      "word": "DARTH MAUL",
+      "tabooWords": ["red", "horns", "double", "Sith", "tattoo"],
+      "charadesHint": "spin a double-bladed lightsaber and show off face tattoos",
+      "passwordHint": "double"
+    },
+    {
+      "id": "star-wars-024",
+      "word": "X-WING",
+      "tabooWords": ["fighter", "pilot", "rebel", "plane", "wings"],
+      "charadesHint": "spread arms like an X and zoom through space",
+      "passwordHint": "wings"
+    },
+    {
+      "id": "star-wars-025",
+      "word": "TIE FIGHTER",
+      "tabooWords": ["Empire", "wings", "black", "pilot", "screech"],
+      "charadesHint": "make a high-pitched screeching engine sound banking sharply",
+      "passwordHint": "screech"
+    },
+    {
+      "id": "star-wars-026",
+      "word": "JEDI",
+      "tabooWords": ["Force", "lightsaber", "good", "order", "knight"],
+      "charadesHint": "ignite a lightsaber and meditate in a wise peaceful pose",
+      "passwordHint": "knight"
+    },
+    {
+      "id": "star-wars-027",
+      "word": "SITH",
+      "tabooWords": ["dark side", "evil", "Force", "Vader", "Palpatine"],
+      "charadesHint": "pull someone toward you with the Force and snarl evilly",
+      "passwordHint": "dark"
+    },
+    {
+      "id": "star-wars-028",
+      "word": "ENDOR",
+      "tabooWords": ["forest", "moon", "Ewok", "Death Star", "battle"],
+      "charadesHint": "celebrate in a forest village after destroying a superweapon",
+      "passwordHint": "forest"
+    },
+    {
+      "id": "star-wars-029",
+      "word": "HOTH",
+      "tabooWords": ["ice", "snow", "cold", "AT-AT", "planet"],
+      "charadesHint": "shiver violently while riding a large snow creature",
+      "passwordHint": "ice"
+    },
+    {
+      "id": "star-wars-030",
+      "word": "AT-AT WALKER",
+      "tabooWords": ["legs", "four", "Empire", "snow", "machine"],
+      "charadesHint": "stomp slowly on four legs like a giant metal beast",
+      "passwordHint": "stomp"
+    },
+    {
+      "id": "star-wars-031",
+      "word": "DAGOBAH",
+      "tabooWords": ["swamp", "Yoda", "training", "planet", "jungle"],
+      "charadesHint": "wade through a swamp and train with a tiny old master",
+      "passwordHint": "swamp"
+    },
+    {
+      "id": "star-wars-032",
+      "word": "ADMIRAL ACKBAR",
+      "tabooWords": ["trap", "rebel", "squid", "Mon Calamari", "fleet"],
+      "charadesHint": "point and shout a famous two-word warning",
+      "passwordHint": "trap"
+    },
+    {
+      "id": "star-wars-033",
+      "word": "PADME AMIDALA",
+      "tabooWords": ["queen", "senator", "Naboo", "Anakin", "gown"],
+      "charadesHint": "stand regally in elaborate robes as queen of a planet",
+      "passwordHint": "queen"
+    },
+    {
+      "id": "star-wars-034",
+      "word": "ANAKIN SKYWALKER",
+      "tabooWords": ["Vader", "chosen one", "Jedi", "turn", "father"],
+      "charadesHint": "start as a heroic Jedi then slowly turn to evil",
+      "passwordHint": "chosen"
+    },
+    {
+      "id": "star-wars-035",
+      "word": "NABOO",
+      "tabooWords": ["planet", "queen", "underwater", "Padme", "peaceful"],
+      "charadesHint": "glide through an underwater city in a sleek submarine",
+      "passwordHint": "underwater"
+    },
+    {
+      "id": "star-wars-036",
+      "word": "CORUSCANT",
+      "tabooWords": ["city", "planet", "senate", "capital", "lights"],
+      "charadesHint": "look down at a planet entirely covered in glittering city",
+      "passwordHint": "city"
+    },
+    {
+      "id": "star-wars-037",
+      "word": "WOOKIEE",
+      "tabooWords": ["Chewbacca", "hairy", "roar", "tall", "planet"],
+      "charadesHint": "stand very tall and roar while covered head to toe in fur",
+      "passwordHint": "hairy"
+    },
+    {
+      "id": "star-wars-038",
+      "word": "BLASTER",
+      "tabooWords": ["gun", "shoot", "weapon", "laser", "pistol"],
+      "charadesHint": "pull out a space pistol and fire laser bolts",
+      "passwordHint": "shoot"
+    },
+    {
+      "id": "star-wars-039",
+      "word": "CLONE TROOPER",
+      "tabooWords": ["clone", "white", "army", "Republic", "identical"],
+      "charadesHint": "march in perfect unison with hundreds of identical soldiers",
+      "passwordHint": "identical"
+    },
+    {
+      "id": "star-wars-040",
+      "word": "KYLO REN",
+      "tabooWords": ["crossguard", "Han", "dark side", "mask", "Vader"],
+      "charadesHint": "swing a crossguard lightsaber in an unstable rage",
+      "passwordHint": "crossguard"
+    },
+    {
+      "id": "star-wars-041",
+      "word": "REY",
+      "tabooWords": ["scavenger", "Jakku", "Jedi", "lightsaber", "desert"],
+      "charadesHint": "scavenge parts in the desert then wield a staff heroically",
+      "passwordHint": "scavenger"
+    },
+    {
+      "id": "star-wars-042",
+      "word": "FINN",
+      "tabooWords": ["stormtrooper", "rebel", "escape", "lightsaber", "defect"],
+      "charadesHint": "rip off a stormtrooper helmet and run away in panic",
+      "passwordHint": "defect"
+    },
+    {
+      "id": "star-wars-043",
+      "word": "POE DAMERON",
+      "tabooWords": ["pilot", "X-wing", "rebel", "best", "BB-8"],
+      "charadesHint": "pilot an X-wing with swagger and a big confident grin",
+      "passwordHint": "pilot"
+    },
+    {
+      "id": "star-wars-044",
+      "word": "BB-8",
+      "tabooWords": ["droid", "round", "roll", "orange", "Poe"],
+      "charadesHint": "roll around with a bobbing head unit on top",
+      "passwordHint": "round"
+    },
+    {
+      "id": "star-wars-045",
+      "word": "SARLACC",
+      "tabooWords": ["pit", "tentacles", "Tatooine", "swallow", "creature"],
+      "charadesHint": "open a giant mouth in the sand with tentacles reaching out",
+      "passwordHint": "pit"
+    },
+    {
+      "id": "star-wars-046",
+      "word": "CANTINA",
+      "tabooWords": ["bar", "alien", "Mos Eisley", "music", "Tatooine"],
+      "charadesHint": "sway to upbeat jazzy alien band music at a seedy space bar",
+      "passwordHint": "bar"
+    },
+    {
+      "id": "star-wars-047",
+      "word": "HOLOCRON",
+      "tabooWords": ["cube", "knowledge", "Jedi", "record", "glowing"],
+      "charadesHint": "hold a glowing geometric cube containing ancient knowledge",
+      "passwordHint": "cube"
+    },
+    {
+      "id": "star-wars-048",
+      "word": "MIDI-CHLORIANS",
+      "tabooWords": ["Force", "cells", "Anakin", "chosen", "microscopic"],
+      "charadesHint": "peer through a microscope and gasp at an impossibly high count",
+      "passwordHint": "microscopic"
+    },
+    {
+      "id": "star-wars-049",
+      "word": "MUSTAFAR",
+      "tabooWords": ["lava", "fire", "Anakin", "duel", "planet"],
+      "charadesHint": "duel dramatically on a narrow ledge above flowing lava",
+      "passwordHint": "lava"
+    },
+    {
+      "id": "star-wars-050",
+      "word": "GENERAL GRIEVOUS",
+      "tabooWords": ["four arms", "cyborg", "lightsaber", "cough", "droid"],
+      "charadesHint": "spin four lightsabers at once while coughing mechanically",
+      "passwordHint": "four"
+    },
+    {
+      "id": "star-wars-051",
+      "word": "AHSOKA TANO",
+      "tabooWords": ["Togruta", "Anakin", "rebel", "two sabers", "montrals"],
+      "charadesHint": "wield two white lightsabers with head-tails swaying",
+      "passwordHint": "white"
+    },
+    {
+      "id": "star-wars-052",
+      "word": "JAWA",
+      "tabooWords": ["small", "Tatooine", "robe", "scavenger", "Utini"],
+      "charadesHint": "scurry around in a tiny hooded robe shouting a famous cry",
+      "passwordHint": "scurry"
+    },
+    {
+      "id": "star-wars-053",
+      "word": "TUSKEN RAIDER",
+      "tabooWords": ["sand", "Tatooine", "desert", "bandaged", "staff"],
+      "charadesHint": "screech and wave a gaffi stick in the desert sand",
+      "passwordHint": "screech"
+    },
+    {
+      "id": "star-wars-054",
+      "word": "STAR DESTROYER",
+      "tabooWords": ["ship", "Empire", "triangle", "massive", "fleet"],
+      "charadesHint": "hold your arms out wide to show an enormous triangular warship",
+      "passwordHint": "triangle"
+    },
+    {
+      "id": "star-wars-055",
+      "word": "REBEL ALLIANCE",
+      "tabooWords": ["good", "fight", "Empire", "rebel", "resistance"],
+      "charadesHint": "raise a fist in defiance against a giant evil empire",
+      "passwordHint": "rebel"
+    },
+    {
+      "id": "star-wars-056",
+      "word": "GALACTIC EMPIRE",
+      "tabooWords": ["evil", "Palpatine", "control", "dark", "government"],
+      "charadesHint": "stand imposingly and command vast armies across the galaxy",
+      "passwordHint": "control"
+    },
+    {
+      "id": "star-wars-057",
+      "word": "PODRACER",
+      "tabooWords": ["race", "speed", "Anakin", "engines", "Tatooine"],
+      "charadesHint": "grip two throttles and zoom wildly through a desert canyon",
+      "passwordHint": "race"
+    },
+    {
+      "id": "star-wars-058",
+      "word": "LANDO CALRISSIAN",
+      "tabooWords": ["cloud", "smooth", "cape", "betrayal", "gambler"],
+      "charadesHint": "swirl a cape and flash a charming smile in a cloud city",
+      "passwordHint": "smooth"
+    },
+    {
+      "id": "star-wars-059",
+      "word": "CLOUD CITY",
+      "tabooWords": ["Bespin", "Lando", "float", "gas", "Han"],
+      "charadesHint": "float above clouds in a gleaming city in the sky",
+      "passwordHint": "float"
+    },
+    {
+      "id": "star-wars-060",
+      "word": "THERMAL DETONATOR",
+      "tabooWords": ["bomb", "grenade", "explosion", "Leia", "weapon"],
+      "charadesHint": "hold up a small spherical device and threaten to press the button",
+      "passwordHint": "bomb"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "id": "marvel",
+  "name": "Marvel Universe",
+  "category": "Entertainment",
+  "description": "Heroes, villains, and iconic moments from the Marvel Universe",
+  "difficulty": "Medium",
+  "tags": ["marvel", "superheroes", "comics", "mcu", "movies"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "marvel-001",
+      "word": "SPIDER-MAN",
+      "tabooWords": ["web", "Peter", "Parker", "spider", "swing"],
+      "charadesHint": "shoot webs from wrists and swing between buildings",
+      "passwordHint": "web"
+    },
+    {
+      "id": "marvel-002",
+      "word": "IRON MAN",
+      "tabooWords": ["Tony", "Stark", "suit", "armour", "metal"],
+      "charadesHint": "snap on a helmet and blast off with palm repulsors",
+      "passwordHint": "repulsor"
+    },
+    {
+      "id": "marvel-003",
+      "word": "THOR",
+      "tabooWords": ["hammer", "lightning", "Asgard", "god", "Mjolnir"],
+      "charadesHint": "raise a mighty hammer and summon lightning",
+      "passwordHint": "hammer"
+    },
+    {
+      "id": "marvel-004",
+      "word": "BLACK WIDOW",
+      "tabooWords": ["Natasha", "spy", "Romanoff", "red", "agent"],
+      "charadesHint": "perform rapid martial arts moves and flip",
+      "passwordHint": "spy"
+    },
+    {
+      "id": "marvel-005",
+      "word": "HULK",
+      "tabooWords": ["green", "Bruce", "Banner", "smash", "angry"],
+      "charadesHint": "flex and grow huge then smash fists on ground",
+      "passwordHint": "smash"
+    },
+    {
+      "id": "marvel-006",
+      "word": "CAPTAIN AMERICA",
+      "tabooWords": ["shield", "Steve", "Rogers", "America", "soldier"],
+      "charadesHint": "throw a round shield and stand at attention",
+      "passwordHint": "shield"
+    },
+    {
+      "id": "marvel-007",
+      "word": "BLACK PANTHER",
+      "tabooWords": ["Wakanda", "T'Challa", "vibranium", "cat", "Africa"],
+      "charadesHint": "cross arms over chest and prowl like a panther",
+      "passwordHint": "Wakanda"
+    },
+    {
+      "id": "marvel-008",
+      "word": "DOCTOR STRANGE",
+      "tabooWords": ["magic", "sorcerer", "cape", "Stephen", "portal"],
+      "charadesHint": "conjure spinning magic circles with your hands",
+      "passwordHint": "portal"
+    },
+    {
+      "id": "marvel-009",
+      "word": "THANOS",
+      "tabooWords": ["gauntlet", "snap", "infinity", "stones", "villain"],
+      "charadesHint": "slowly raise a gloved fist then snap your fingers",
+      "passwordHint": "snap"
+    },
+    {
+      "id": "marvel-010",
+      "word": "WOLVERINE",
+      "tabooWords": ["claws", "Logan", "adamantium", "X-Men", "heal"],
+      "charadesHint": "pop three claws out from between your knuckles",
+      "passwordHint": "claws"
+    },
+    {
+      "id": "marvel-011",
+      "word": "GROOT",
+      "tabooWords": ["tree", "I am", "Guardians", "wood", "plant"],
+      "charadesHint": "stand stiff like a tree and say only one phrase",
+      "passwordHint": "tree"
+    },
+    {
+      "id": "marvel-012",
+      "word": "ROCKET RACCOON",
+      "tabooWords": ["raccoon", "Guardians", "gun", "animal", "Rocket"],
+      "charadesHint": "scurry around grabbing giant weapons as a small critter",
+      "passwordHint": "raccoon"
+    },
+    {
+      "id": "marvel-013",
+      "word": "SCARLET WITCH",
+      "tabooWords": ["Wanda", "magic", "red", "chaos", "vision"],
+      "charadesHint": "swirl glowing red energy from your fingertips",
+      "passwordHint": "chaos"
+    },
+    {
+      "id": "marvel-014",
+      "word": "ANT-MAN",
+      "tabooWords": ["shrink", "Scott", "Lang", "tiny", "small"],
+      "charadesHint": "shrink down tiny then grow giant in seconds",
+      "passwordHint": "shrink"
+    },
+    {
+      "id": "marvel-015",
+      "word": "HAWKEYE",
+      "tabooWords": ["arrow", "bow", "Clint", "Barton", "archer"],
+      "charadesHint": "draw back a bowstring and aim carefully at a target",
+      "passwordHint": "arrow"
+    },
+    {
+      "id": "marvel-016",
+      "word": "VISION",
+      "tabooWords": ["android", "stone", "Wanda", "phasing", "robot"],
+      "charadesHint": "phase your hand through a solid wall and float",
+      "passwordHint": "phase"
+    },
+    {
+      "id": "marvel-017",
+      "word": "LOKI",
+      "tabooWords": ["Thor", "mischief", "Asgard", "trickster", "horns"],
+      "charadesHint": "put horned hands on head and look mischievous",
+      "passwordHint": "trickster"
+    },
+    {
+      "id": "marvel-018",
+      "word": "CAPTAIN MARVEL",
+      "tabooWords": ["Carol", "Danvers", "cosmic", "energy", "space"],
+      "charadesHint": "glow with cosmic energy and fly straight up",
+      "passwordHint": "cosmic"
+    },
+    {
+      "id": "marvel-019",
+      "word": "WAR MACHINE",
+      "tabooWords": ["Rhodes", "armour", "military", "guns", "iron"],
+      "charadesHint": "suit up in heavy armour with shoulder cannons and march",
+      "passwordHint": "cannon"
+    },
+    {
+      "id": "marvel-020",
+      "word": "NICK FURY",
+      "tabooWords": ["eye", "patch", "S.H.I.E.L.D.", "spy", "Samuel"],
+      "charadesHint": "cover one eye and look intensely serious in a long coat",
+      "passwordHint": "eyepatch"
+    },
+    {
+      "id": "marvel-021",
+      "word": "GAMORA",
+      "tabooWords": ["green", "Thanos", "Guardians", "daughter", "warrior"],
+      "charadesHint": "fight fiercely with a sword as a green-skinned warrior",
+      "passwordHint": "green"
+    },
+    {
+      "id": "marvel-022",
+      "word": "STAR-LORD",
+      "tabooWords": ["Peter", "Quill", "Guardians", "space", "music"],
+      "charadesHint": "dance to music with headphones while blasting space guns",
+      "passwordHint": "mixtape"
+    },
+    {
+      "id": "marvel-023",
+      "word": "DRAX",
+      "tabooWords": ["destroyer", "Guardians", "muscles", "literal", "knives"],
+      "charadesHint": "flex enormous muscles and stand very still thinking you're invisible",
+      "passwordHint": "destroyer"
+    },
+    {
+      "id": "marvel-024",
+      "word": "NEBULA",
+      "tabooWords": ["blue", "Gamora", "cyborg", "Thanos", "sister"],
+      "charadesHint": "gesture to your cybernetic parts and look menacing",
+      "passwordHint": "cyborg"
+    },
+    {
+      "id": "marvel-025",
+      "word": "QUICKSILVER",
+      "tabooWords": ["fast", "speed", "Pietro", "silver", "running"],
+      "charadesHint": "run incredibly fast leaving a blur behind you",
+      "passwordHint": "speed"
+    },
+    {
+      "id": "marvel-026",
+      "word": "MAGNETO",
+      "tabooWords": ["metal", "magnetic", "X-Men", "Erik", "mutant"],
+      "charadesHint": "raise both hands and pull all metal objects toward you",
+      "passwordHint": "magnetic"
+    },
+    {
+      "id": "marvel-027",
+      "word": "PROFESSOR X",
+      "tabooWords": ["wheelchair", "telepathy", "X-Men", "Charles", "mind"],
+      "charadesHint": "sit in a chair pressing fingers to temples reading minds",
+      "passwordHint": "telepathy"
+    },
+    {
+      "id": "marvel-028",
+      "word": "CYCLOPS",
+      "tabooWords": ["laser", "eyes", "visor", "X-Men", "optic"],
+      "charadesHint": "cover your eyes then blast a laser beam forward",
+      "passwordHint": "visor"
+    },
+    {
+      "id": "marvel-029",
+      "word": "STORM",
+      "tabooWords": ["weather", "wind", "X-Men", "lightning", "Ororo"],
+      "charadesHint": "raise arms and conjure a thunderstorm above you",
+      "passwordHint": "weather"
+    },
+    {
+      "id": "marvel-030",
+      "word": "JEAN GREY",
+      "tabooWords": ["Phoenix", "telepathy", "X-Men", "telekinesis", "fire"],
+      "charadesHint": "lift objects with your mind then erupt in flames",
+      "passwordHint": "Phoenix"
+    },
+    {
+      "id": "marvel-031",
+      "word": "DEADPOOL",
+      "tabooWords": ["Wade", "Wilson", "mercenary", "chimichangas", "fourth"],
+      "charadesHint": "break the fourth wall and talk directly to the audience",
+      "passwordHint": "fourth wall"
+    },
+    {
+      "id": "marvel-032",
+      "word": "GHOST RIDER",
+      "tabooWords": ["skull", "fire", "motorcycle", "flame", "spirit"],
+      "charadesHint": "ride a flaming motorcycle with a burning skull for a head",
+      "passwordHint": "flaming skull"
+    },
+    {
+      "id": "marvel-033",
+      "word": "DAREDEVIL",
+      "tabooWords": ["blind", "Matt", "Murdock", "radar", "lawyer"],
+      "charadesHint": "fight blind using only sound to navigate",
+      "passwordHint": "blind"
+    },
+    {
+      "id": "marvel-034",
+      "word": "PUNISHER",
+      "tabooWords": ["skull", "Frank", "Castle", "vigilante", "guns"],
+      "charadesHint": "point to a skull on your chest and look grim",
+      "passwordHint": "skull"
+    },
+    {
+      "id": "marvel-035",
+      "word": "JESSICA JONES",
+      "tabooWords": ["strength", "detective", "Alias", "Luke", "Netflix"],
+      "charadesHint": "flip a car over effortlessly then sip whiskey",
+      "passwordHint": "detective"
+    },
+    {
+      "id": "marvel-036",
+      "word": "LUKE CAGE",
+      "tabooWords": ["bulletproof", "Harlem", "steel", "skin", "Hero"],
+      "charadesHint": "let bullets bounce off your chest without flinching",
+      "passwordHint": "bulletproof"
+    },
+    {
+      "id": "marvel-037",
+      "word": "IRON FIST",
+      "tabooWords": ["Danny", "Rand", "chi", "fist", "kung fu"],
+      "charadesHint": "concentrate chi into one glowing fist and punch",
+      "passwordHint": "chi"
+    },
+    {
+      "id": "marvel-038",
+      "word": "MOON KNIGHT",
+      "tabooWords": ["Marc", "Spector", "moon", "Egyptian", "multiple"],
+      "charadesHint": "switch between multiple personalities in a white cape",
+      "passwordHint": "moon"
+    },
+    {
+      "id": "marvel-039",
+      "word": "SHE-HULK",
+      "tabooWords": ["Jennifer", "Walters", "green", "lawyer", "Bruce"],
+      "charadesHint": "transform into a tall green woman in a business suit",
+      "passwordHint": "green lawyer"
+    },
+    {
+      "id": "marvel-040",
+      "word": "MS. MARVEL",
+      "tabooWords": ["Kamala", "Khan", "stretch", "embiggen", "shape"],
+      "charadesHint": "stretch your arms enormously long across the room",
+      "passwordHint": "embiggen"
+    },
+    {
+      "id": "marvel-041",
+      "word": "SHANG-CHI",
+      "tabooWords": ["rings", "ten", "martial arts", "kung fu", "Wenwu"],
+      "charadesHint": "spin glowing rings around your body while doing martial arts",
+      "passwordHint": "rings"
+    },
+    {
+      "id": "marvel-042",
+      "word": "ETERNALS",
+      "tabooWords": ["immortal", "Celestials", "ancient", "cosmic", "Sersi"],
+      "charadesHint": "stand in a group pose glowing with cosmic ancient power",
+      "passwordHint": "immortal"
+    },
+    {
+      "id": "marvel-043",
+      "word": "GALACTUS",
+      "tabooWords": ["planet", "eater", "cosmic", "giant", "Fantastic"],
+      "charadesHint": "tower enormously over everything and reach down to eat a planet",
+      "passwordHint": "planet eater"
+    },
+    {
+      "id": "marvel-044",
+      "word": "SILVER SURFER",
+      "tabooWords": ["board", "space", "silver", "cosmic", "Galactus"],
+      "charadesHint": "surf through space standing on a shiny board",
+      "passwordHint": "surfboard"
+    },
+    {
+      "id": "marvel-045",
+      "word": "MISTER FANTASTIC",
+      "tabooWords": [
+        "Reed",
+        "Richards",
+        "stretch",
+        "Fantastic Four",
+        "elastic"
+      ],
+      "charadesHint": "stretch your body into impossible shapes",
+      "passwordHint": "stretch"
+    },
+    {
+      "id": "marvel-046",
+      "word": "INVISIBLE WOMAN",
+      "tabooWords": ["Sue", "Storm", "invisible", "force field", "Fantastic"],
+      "charadesHint": "gradually disappear while throwing up a force field",
+      "passwordHint": "invisible"
+    },
+    {
+      "id": "marvel-047",
+      "word": "HUMAN TORCH",
+      "tabooWords": ["Johnny", "Storm", "fire", "flame", "Fantastic"],
+      "charadesHint": "burst into flames and yell before flying upward",
+      "passwordHint": "flame on"
+    },
+    {
+      "id": "marvel-048",
+      "word": "THE THING",
+      "tabooWords": ["Ben", "Grimm", "rock", "orange", "Fantastic"],
+      "charadesHint": "lumber around with thick rocky skin flexing and punching",
+      "passwordHint": "rocky"
+    },
+    {
+      "id": "marvel-049",
+      "word": "VENOM",
+      "tabooWords": ["symbiote", "Eddie", "Brock", "black", "tongue"],
+      "charadesHint": "stretch out a massive tongue and ooze black slime",
+      "passwordHint": "symbiote"
+    },
+    {
+      "id": "marvel-050",
+      "word": "GREEN GOBLIN",
+      "tabooWords": ["Norman", "Osborn", "pumpkin", "glider", "villain"],
+      "charadesHint": "ride a glider throwing pumpkin bombs while cackling",
+      "passwordHint": "pumpkin bomb"
+    },
+    {
+      "id": "marvel-051",
+      "word": "DOCTOR OCTOPUS",
+      "tabooWords": ["tentacles", "Otto", "Octavius", "arms", "scientist"],
+      "charadesHint": "flail four mechanical arms in all directions at once",
+      "passwordHint": "tentacles"
+    },
+    {
+      "id": "marvel-052",
+      "word": "ULTRON",
+      "tabooWords": ["robot", "AI", "Tony", "Stark", "metal"],
+      "charadesHint": "move stiffly like a robot declaring you will destroy humanity",
+      "passwordHint": "robot"
+    },
+    {
+      "id": "marvel-053",
+      "word": "RED SKULL",
+      "tabooWords": ["Hydra", "skull", "red", "villain", "Steve"],
+      "charadesHint": "pull off your face to reveal a red skull underneath",
+      "passwordHint": "Hydra"
+    },
+    {
+      "id": "marvel-054",
+      "word": "HELA",
+      "tabooWords": ["death", "Asgard", "Thor", "goddess", "horns"],
+      "charadesHint": "spread enormous antler-like headgear and crush Thor's hammer",
+      "passwordHint": "goddess of death"
+    },
+    {
+      "id": "marvel-055",
+      "word": "KINGPIN",
+      "tabooWords": ["Wilson", "Fisk", "crime", "big", "boss"],
+      "charadesHint": "stand broad and imposing as the untouchable crime lord of the city",
+      "passwordHint": "crime boss"
+    },
+    {
+      "id": "marvel-056",
+      "word": "BLACK BOLT",
+      "tabooWords": ["Inhuman", "voice", "silent", "scream", "Medusa"],
+      "charadesHint": "open your mouth and destroy everything with just your voice",
+      "passwordHint": "silent"
+    },
+    {
+      "id": "marvel-057",
+      "word": "MANTIS",
+      "tabooWords": ["empathy", "feelings", "Guardians", "antennae", "touch"],
+      "charadesHint": "touch someone's head and instantly feel all their emotions",
+      "passwordHint": "empathy"
+    },
+    {
+      "id": "marvel-058",
+      "word": "OKOYE",
+      "tabooWords": ["Wakanda", "Dora Milaje", "spear", "warrior", "general"],
+      "charadesHint": "stand guard with a vibranium spear as Wakanda's finest warrior",
+      "passwordHint": "Dora Milaje"
+    },
+    {
+      "id": "marvel-059",
+      "word": "WONG",
+      "tabooWords": ["sorcerer", "Strange", "library", "Kamar-Taj", "portal"],
+      "charadesHint": "open a sling-ring portal while looking deeply unimpressed",
+      "passwordHint": "sorcerer"
+    },
+    {
+      "id": "marvel-060",
+      "word": "SPIDER-GWEN",
+      "tabooWords": ["Gwen", "Stacy", "spider", "multiverse", "web"],
+      "charadesHint": "swing on a web in a white and pink spider suit",
+      "passwordHint": "multiverse"
+    }
+  ]
+}

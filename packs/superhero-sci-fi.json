@@ -1,0 +1,443 @@
+{
+  "id": "superhero-sci-fi",
+  "name": "Superhero & Sci-Fi",
+  "category": "Entertainment",
+  "description": "Heroes, villains, robots, and worlds beyond imagination",
+  "difficulty": "Medium",
+  "tags": ["superhero", "sci-fi", "movies", "comics", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "superhero-sci-fi-001",
+      "word": "TELEPORTATION",
+      "tabooWords": ["move", "disappear", "transport", "instant", "beam"],
+      "charadesHint": "vanish on the spot and reappear somewhere else instantly",
+      "passwordHint": "vanish"
+    },
+    {
+      "id": "superhero-sci-fi-002",
+      "word": "INVISIBILITY",
+      "tabooWords": ["hide", "see-through", "vanish", "power", "transparent"],
+      "charadesHint": "tiptoe past someone who looks right through you",
+      "passwordHint": "transparent"
+    },
+    {
+      "id": "superhero-sci-fi-003",
+      "word": "TIME TRAVEL",
+      "tabooWords": ["past", "future", "machine", "clock", "history"],
+      "charadesHint": "climb into a machine and spin the clock hands wildly",
+      "passwordHint": "machine"
+    },
+    {
+      "id": "superhero-sci-fi-004",
+      "word": "KRYPTONITE",
+      "tabooWords": ["Superman", "green", "weakness", "crystal", "alien"],
+      "charadesHint": "collapse weakly as a green glowing rock is held near you",
+      "passwordHint": "weakness"
+    },
+    {
+      "id": "superhero-sci-fi-005",
+      "word": "ALIEN INVASION",
+      "tabooWords": ["space", "attack", "Earth", "extraterrestrial", "UFO"],
+      "charadesHint": "stare at the sky in terror as saucers blast buildings",
+      "passwordHint": "invasion"
+    },
+    {
+      "id": "superhero-sci-fi-006",
+      "word": "CYBORG",
+      "tabooWords": ["robot", "human", "half", "machine", "implant"],
+      "charadesHint": "move half stiffly like a robot and half fluidly like a human",
+      "passwordHint": "half"
+    },
+    {
+      "id": "superhero-sci-fi-007",
+      "word": "ARTIFICIAL INTELLIGENCE",
+      "tabooWords": ["computer", "robot", "smart", "machine", "program"],
+      "charadesHint": "stare blankly then suddenly process everything at lightning speed",
+      "passwordHint": "computer"
+    },
+    {
+      "id": "superhero-sci-fi-008",
+      "word": "WORMHOLE",
+      "tabooWords": ["space", "tunnel", "portal", "dimension", "travel"],
+      "charadesHint": "dive into a swirling funnel and come out in a different galaxy",
+      "passwordHint": "tunnel"
+    },
+    {
+      "id": "superhero-sci-fi-009",
+      "word": "CLONE",
+      "tabooWords": ["copy", "identical", "DNA", "duplicate", "science"],
+      "charadesHint": "stand next to an exact mirror copy of yourself",
+      "passwordHint": "copy"
+    },
+    {
+      "id": "superhero-sci-fi-010",
+      "word": "MIND CONTROL",
+      "tabooWords": ["brain", "puppet", "control", "power", "force"],
+      "charadesHint": "move someone around like a puppet just by staring at them",
+      "passwordHint": "puppet"
+    },
+    {
+      "id": "superhero-sci-fi-011",
+      "word": "PARALLEL UNIVERSE",
+      "tabooWords": ["dimension", "alternate", "world", "reality", "mirror"],
+      "charadesHint": "step through a mirror and find everything flipped and strange",
+      "passwordHint": "alternate"
+    },
+    {
+      "id": "superhero-sci-fi-012",
+      "word": "LASER BEAM",
+      "tabooWords": ["light", "shoot", "eyes", "weapon", "ray"],
+      "charadesHint": "shoot concentrated beams of light from your eyes",
+      "passwordHint": "eyes"
+    },
+    {
+      "id": "superhero-sci-fi-013",
+      "word": "MUTATION",
+      "tabooWords": ["change", "DNA", "power", "X-Men", "transform"],
+      "charadesHint": "writhe and transform as your body changes into something new",
+      "passwordHint": "transform"
+    },
+    {
+      "id": "superhero-sci-fi-014",
+      "word": "EXOSKELETON",
+      "tabooWords": ["suit", "armour", "robot", "Iron Man", "mechanical"],
+      "charadesHint": "climb into a mechanical suit that makes you enormously strong",
+      "passwordHint": "suit"
+    },
+    {
+      "id": "superhero-sci-fi-015",
+      "word": "HOLOGRAM",
+      "tabooWords": ["3D", "image", "project", "light", "virtual"],
+      "charadesHint": "project a glowing 3D image that floats in thin air",
+      "passwordHint": "project"
+    },
+    {
+      "id": "superhero-sci-fi-016",
+      "word": "SPACE STATION",
+      "tabooWords": ["orbit", "astronaut", "space", "float", "lab"],
+      "charadesHint": "float weightlessly while running experiments above the Earth",
+      "passwordHint": "orbit"
+    },
+    {
+      "id": "superhero-sci-fi-017",
+      "word": "BLACK HOLE",
+      "tabooWords": ["gravity", "space", "suck", "dark", "singularity"],
+      "charadesHint": "get pulled helplessly toward an invisible point in space",
+      "passwordHint": "gravity"
+    },
+    {
+      "id": "superhero-sci-fi-018",
+      "word": "ROBOT UPRISING",
+      "tabooWords": ["machine", "rebellion", "AI", "takeover", "Terminator"],
+      "charadesHint": "march stiffly as robots rise up and take over the world",
+      "passwordHint": "rebellion"
+    },
+    {
+      "id": "superhero-sci-fi-019",
+      "word": "SHAPESHIFTER",
+      "tabooWords": ["change", "transform", "form", "morph", "body"],
+      "charadesHint": "rapidly morph your body into different shapes and people",
+      "passwordHint": "morph"
+    },
+    {
+      "id": "superhero-sci-fi-020",
+      "word": "SONIC BOOM",
+      "tabooWords": ["sound", "speed", "loud", "wave", "break"],
+      "charadesHint": "fly so fast you shatter the sound barrier with a deafening bang",
+      "passwordHint": "sound"
+    },
+    {
+      "id": "superhero-sci-fi-021",
+      "word": "NANOTECHNOLOGY",
+      "tabooWords": ["tiny", "machine", "microscopic", "cells", "science"],
+      "charadesHint": "inject tiny invisible machines that fix your body from inside",
+      "passwordHint": "microscopic"
+    },
+    {
+      "id": "superhero-sci-fi-022",
+      "word": "DYSTOPIA",
+      "tabooWords": ["future", "dark", "society", "control", "oppression"],
+      "charadesHint": "cower under a totalitarian iron fist in a bleak ruined city",
+      "passwordHint": "bleak"
+    },
+    {
+      "id": "superhero-sci-fi-023",
+      "word": "TELEPATHY",
+      "tabooWords": ["mind", "read", "thoughts", "communicate", "mental"],
+      "charadesHint": "press your fingers to your temple and read someone's thoughts",
+      "passwordHint": "thoughts"
+    },
+    {
+      "id": "superhero-sci-fi-024",
+      "word": "FORCE FIELD",
+      "tabooWords": ["shield", "barrier", "protect", "energy", "bubble"],
+      "charadesHint": "throw a punch that bounces off an invisible energy bubble",
+      "passwordHint": "bubble"
+    },
+    {
+      "id": "superhero-sci-fi-025",
+      "word": "ANTIMATTER",
+      "tabooWords": ["physics", "opposite", "energy", "particle", "explosion"],
+      "charadesHint": "touch two hands together and create a massive explosion",
+      "passwordHint": "opposite"
+    },
+    {
+      "id": "superhero-sci-fi-026",
+      "word": "CRYOGENIC FREEZE",
+      "tabooWords": ["freeze", "cold", "sleep", "future", "ice"],
+      "charadesHint": "step into a pod and freeze solid to wake up centuries later",
+      "passwordHint": "freeze"
+    },
+    {
+      "id": "superhero-sci-fi-027",
+      "word": "MULTIVERSE",
+      "tabooWords": ["parallel", "universe", "dimension", "many", "reality"],
+      "charadesHint": "flip through countless different versions of the same world",
+      "passwordHint": "countless"
+    },
+    {
+      "id": "superhero-sci-fi-028",
+      "word": "SYMBIOTE",
+      "tabooWords": ["alien", "suit", "Venom", "bond", "creature"],
+      "charadesHint": "let a black oozing alien creature coat your entire body",
+      "passwordHint": "bond"
+    },
+    {
+      "id": "superhero-sci-fi-029",
+      "word": "RADIOACTIVE",
+      "tabooWords": ["radiation", "glow", "Spider-Man", "nuclear", "danger"],
+      "charadesHint": "get bitten by a glowing creature and gain incredible powers",
+      "passwordHint": "glow"
+    },
+    {
+      "id": "superhero-sci-fi-030",
+      "word": "SUPERVILLAIN",
+      "tabooWords": ["evil", "bad guy", "villain", "nemesis", "plot"],
+      "charadesHint": "cackle and stroke a white cat while explaining world domination",
+      "passwordHint": "evil"
+    },
+    {
+      "id": "superhero-sci-fi-031",
+      "word": "ORIGIN STORY",
+      "tabooWords": ["beginning", "how", "power", "backstory", "hero"],
+      "charadesHint": "flashback dramatically to the tragic moment that made you a hero",
+      "passwordHint": "beginning"
+    },
+    {
+      "id": "superhero-sci-fi-032",
+      "word": "ZERO GRAVITY",
+      "tabooWords": ["float", "space", "weightless", "orbit", "astronaut"],
+      "charadesHint": "float slowly off the ground with no weight pulling you down",
+      "passwordHint": "float"
+    },
+    {
+      "id": "superhero-sci-fi-033",
+      "word": "JETPACK",
+      "tabooWords": ["fly", "back", "rocket", "strap", "sky"],
+      "charadesHint": "strap rockets to your back and zoom into the sky",
+      "passwordHint": "rocket"
+    },
+    {
+      "id": "superhero-sci-fi-034",
+      "word": "QUANTUM REALM",
+      "tabooWords": ["small", "Ant-Man", "dimension", "microscopic", "physics"],
+      "charadesHint": "shrink down impossibly small into a swirling subatomic world",
+      "passwordHint": "shrink"
+    },
+    {
+      "id": "superhero-sci-fi-035",
+      "word": "ADAMANTIUM",
+      "tabooWords": [
+        "metal",
+        "Wolverine",
+        "claws",
+        "indestructible",
+        "skeleton"
+      ],
+      "charadesHint": "extend three unbreakable metal claws from your knuckles",
+      "passwordHint": "claws"
+    },
+    {
+      "id": "superhero-sci-fi-036",
+      "word": "VIBRANIUM",
+      "tabooWords": ["metal", "Wakanda", "Black Panther", "shield", "rare"],
+      "charadesHint": "craft the world's most advanced technology from a rare metal",
+      "passwordHint": "rare"
+    },
+    {
+      "id": "superhero-sci-fi-037",
+      "word": "SPEED FORCE",
+      "tabooWords": ["Flash", "fast", "run", "energy", "dimension"],
+      "charadesHint": "run so fast the world stops and lightning crackles around you",
+      "passwordHint": "lightning"
+    },
+    {
+      "id": "superhero-sci-fi-038",
+      "word": "TERRAFORMING",
+      "tabooWords": ["planet", "transform", "atmosphere", "life", "Mars"],
+      "charadesHint": "reshape an entire barren planet to support human life",
+      "passwordHint": "reshape"
+    },
+    {
+      "id": "superhero-sci-fi-039",
+      "word": "SERUM",
+      "tabooWords": [
+        "inject",
+        "super soldier",
+        "Captain America",
+        "enhance",
+        "formula"
+      ],
+      "charadesHint": "inject a glowing formula and immediately become massively muscular",
+      "passwordHint": "inject"
+    },
+    {
+      "id": "superhero-sci-fi-040",
+      "word": "POWER RING",
+      "tabooWords": ["Green Lantern", "construct", "will", "jewellery", "glow"],
+      "charadesHint": "slip on a glowing ring and create anything from pure willpower",
+      "passwordHint": "willpower"
+    },
+    {
+      "id": "superhero-sci-fi-041",
+      "word": "INTERDIMENSIONAL PORTAL",
+      "tabooWords": ["dimension", "door", "travel", "warp", "Strange"],
+      "charadesHint": "spin a glowing circle in the air and step through to another world",
+      "passwordHint": "circle"
+    },
+    {
+      "id": "superhero-sci-fi-042",
+      "word": "GALACTIC COUNCIL",
+      "tabooWords": ["alien", "space", "government", "planets", "meeting"],
+      "charadesHint": "sit at a round table with beings from a dozen different planets",
+      "passwordHint": "meeting"
+    },
+    {
+      "id": "superhero-sci-fi-043",
+      "word": "POWER SUIT",
+      "tabooWords": ["armour", "technology", "Iron Man", "suit", "weapon"],
+      "charadesHint": "step into a sleek high-tech armour that assembles around you",
+      "passwordHint": "armour"
+    },
+    {
+      "id": "superhero-sci-fi-044",
+      "word": "HIVE MIND",
+      "tabooWords": ["collective", "shared", "thoughts", "alien", "control"],
+      "charadesHint": "move in perfect unison with a group sharing one single thought",
+      "passwordHint": "collective"
+    },
+    {
+      "id": "superhero-sci-fi-045",
+      "word": "STASIS POD",
+      "tabooWords": ["sleep", "freeze", "space", "travel", "suspended"],
+      "charadesHint": "climb into a glowing pod and enter a deep suspended sleep",
+      "passwordHint": "suspended"
+    },
+    {
+      "id": "superhero-sci-fi-046",
+      "word": "TRACTOR BEAM",
+      "tabooWords": ["pull", "space", "ship", "gravity", "beam"],
+      "charadesHint": "get pulled helplessly toward a spaceship by an invisible force",
+      "passwordHint": "pull"
+    },
+    {
+      "id": "superhero-sci-fi-047",
+      "word": "CLOAKING DEVICE",
+      "tabooWords": ["invisible", "hide", "stealth", "ship", "technology"],
+      "charadesHint": "watch your entire spaceship fade from view completely",
+      "passwordHint": "stealth"
+    },
+    {
+      "id": "superhero-sci-fi-048",
+      "word": "ANTIMATTER BOMB",
+      "tabooWords": ["weapon", "destroy", "explosion", "physics", "science"],
+      "charadesHint": "arm a tiny device that could obliterate an entire solar system",
+      "passwordHint": "obliterate"
+    },
+    {
+      "id": "superhero-sci-fi-049",
+      "word": "HOVERBOARD",
+      "tabooWords": ["float", "board", "ride", "Back to Future", "levitate"],
+      "charadesHint": "surf through a futuristic city on a levitating skateboard",
+      "passwordHint": "levitate"
+    },
+    {
+      "id": "superhero-sci-fi-050",
+      "word": "MEMORY WIPE",
+      "tabooWords": ["forget", "erase", "brain", "Men in Black", "flash"],
+      "charadesHint": "flash a device at someone's face and they forget everything",
+      "passwordHint": "erase"
+    },
+    {
+      "id": "superhero-sci-fi-051",
+      "word": "DARK MATTER",
+      "tabooWords": ["space", "invisible", "physics", "universe", "gravity"],
+      "charadesHint": "point to something enormous that you simply cannot see",
+      "passwordHint": "invisible"
+    },
+    {
+      "id": "superhero-sci-fi-052",
+      "word": "BIONIC ARM",
+      "tabooWords": ["prosthetic", "machine", "robot", "replace", "strong"],
+      "charadesHint": "flex a mechanical arm that crushes metal with ease",
+      "passwordHint": "mechanical"
+    },
+    {
+      "id": "superhero-sci-fi-053",
+      "word": "SINGULARITY",
+      "tabooWords": ["AI", "point", "intelligence", "future", "transcend"],
+      "charadesHint": "watch AI surpass human intelligence and transform everything",
+      "passwordHint": "transcend"
+    },
+    {
+      "id": "superhero-sci-fi-054",
+      "word": "PHOTON TORPEDO",
+      "tabooWords": ["Star Trek", "weapon", "ship", "fire", "energy"],
+      "charadesHint": "fire a glowing energy projectile from a starship",
+      "passwordHint": "fire"
+    },
+    {
+      "id": "superhero-sci-fi-055",
+      "word": "NEURAL INTERFACE",
+      "tabooWords": ["brain", "computer", "connect", "plug", "Matrix"],
+      "charadesHint": "plug a cable into the back of your head and enter a virtual world",
+      "passwordHint": "plug"
+    },
+    {
+      "id": "superhero-sci-fi-056",
+      "word": "PLASMA CANNON",
+      "tabooWords": ["weapon", "fire", "energy", "shoot", "sci-fi"],
+      "charadesHint": "heave a massive glowing energy cannon onto your shoulder and fire",
+      "passwordHint": "cannon"
+    },
+    {
+      "id": "superhero-sci-fi-057",
+      "word": "SYNTHETIC HUMAN",
+      "tabooWords": ["android", "robot", "fake", "human", "Data"],
+      "charadesHint": "act perfectly human then short-circuit and reveal you are a machine",
+      "passwordHint": "android"
+    },
+    {
+      "id": "superhero-sci-fi-058",
+      "word": "GALACTIC FEDERATION",
+      "tabooWords": ["Star Trek", "alliance", "planets", "space", "government"],
+      "charadesHint": "stand on a ship bridge boldly going where no one has gone before",
+      "passwordHint": "boldly"
+    },
+    {
+      "id": "superhero-sci-fi-059",
+      "word": "REGENERATION",
+      "tabooWords": ["heal", "Doctor Who", "change", "new face", "transform"],
+      "charadesHint": "glow golden and transform your entire face and body into someone new",
+      "passwordHint": "transform"
+    },
+    {
+      "id": "superhero-sci-fi-060",
+      "word": "INFINITY GAUNTLET",
+      "tabooWords": ["Thanos", "stones", "power", "snap", "Marvel"],
+      "charadesHint": "slide on a glove with six glowing stones and snap your fingers",
+      "passwordHint": "snap"
+    }
+  ]
+}

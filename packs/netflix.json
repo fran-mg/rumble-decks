@@ -1,0 +1,503 @@
+{
+  "id": "netflix",
+  "name": "Netflix",
+  "category": "Entertainment",
+  "description": "Binge-worthy shows and films from the Netflix universe",
+  "difficulty": "Medium",
+  "tags": ["netflix", "streaming", "TV", "movies", "pop-culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "netflix-001",
+      "word": "STRANGER THINGS",
+      "tabooWords": ["Upside Down", "Eleven", "Hawkins", "80s", "Demogorgon"],
+      "charadesHint": "use telekinesis and run from a faceless monster in 80s suburbia",
+      "passwordHint": "upside"
+    },
+    {
+      "id": "netflix-002",
+      "word": "SQUID GAME",
+      "tabooWords": ["Korean", "games", "green", "money", "eliminate"],
+      "charadesHint": "play a deadly children's game in a green tracksuit for a prize",
+      "passwordHint": "green"
+    },
+    {
+      "id": "netflix-003",
+      "word": "BRIDGERTON",
+      "tabooWords": ["regency", "romance", "gossip", "society", "period drama"],
+      "charadesHint": "fan yourself and whisper gossip at a lavish Regency ball",
+      "passwordHint": "gossip"
+    },
+    {
+      "id": "netflix-004",
+      "word": "THE CROWN",
+      "tabooWords": ["Queen", "royal", "monarchy", "British", "palace"],
+      "charadesHint": "sit stiffly on a throne and deal with a royal family scandal",
+      "passwordHint": "throne"
+    },
+    {
+      "id": "netflix-005",
+      "word": "MONEY HEIST",
+      "tabooWords": ["Spain", "robbery", "mask", "Professor", "red"],
+      "charadesHint": "wear a red jumpsuit and Dali mask and raid a national mint",
+      "passwordHint": "mask"
+    },
+    {
+      "id": "netflix-006",
+      "word": "OZARK",
+      "tabooWords": [
+        "money laundering",
+        "Missouri",
+        "cartel",
+        "Marty",
+        "crime"
+      ],
+      "charadesHint": "launder drug cartel money through a lakeside resort casino",
+      "passwordHint": "launder"
+    },
+    {
+      "id": "netflix-007",
+      "word": "NARCOS",
+      "tabooWords": ["Pablo Escobar", "drugs", "Colombia", "cartel", "DEA"],
+      "charadesHint": "build a cocaine empire while dodging police in Colombia",
+      "passwordHint": "cocaine"
+    },
+    {
+      "id": "netflix-008",
+      "word": "DARK",
+      "tabooWords": ["German", "time travel", "cave", "family", "loops"],
+      "charadesHint": "descend into a cave and emerge in a completely different decade",
+      "passwordHint": "cave"
+    },
+    {
+      "id": "netflix-009",
+      "word": "THE WITCHER",
+      "tabooWords": ["Geralt", "monster", "fantasy", "sword", "Henry Cavill"],
+      "charadesHint": "snarl with yellow eyes and slay a monster for coin",
+      "passwordHint": "monster"
+    },
+    {
+      "id": "netflix-010",
+      "word": "EMILY IN PARIS",
+      "tabooWords": [
+        "France",
+        "fashion",
+        "American",
+        "romance",
+        "social media"
+      ],
+      "charadesHint": "post a selfie at the Eiffel Tower and clash with Parisian colleagues",
+      "passwordHint": "selfie"
+    },
+    {
+      "id": "netflix-011",
+      "word": "WEDNESDAY",
+      "tabooWords": ["Addams Family", "dark", "school", "goth", "dance"],
+      "charadesHint": "stare blankly and do a jerky emotionless dance at a school prom",
+      "passwordHint": "dance"
+    },
+    {
+      "id": "netflix-012",
+      "word": "LUPIN",
+      "tabooWords": ["French", "thief", "gentleman", "heist", "Omar Sy"],
+      "charadesHint": "steal priceless jewels in a disguise from the Louvre",
+      "passwordHint": "disguise"
+    },
+    {
+      "id": "netflix-013",
+      "word": "SEX EDUCATION",
+      "tabooWords": ["school", "teenage", "British", "clinic", "relationships"],
+      "charadesHint": "set up a secret sex advice clinic in a British high school bathroom",
+      "passwordHint": "clinic"
+    },
+    {
+      "id": "netflix-014",
+      "word": "TIGER KING",
+      "tabooWords": ["zoo", "Joe Exotic", "big cat", "crazy", "documentary"],
+      "charadesHint": "pose with a tiger in a mullet and sequined shirt at your private zoo",
+      "passwordHint": "mullet"
+    },
+    {
+      "id": "netflix-015",
+      "word": "YOU",
+      "tabooWords": [
+        "stalker",
+        "obsession",
+        "love",
+        "bookstore",
+        "Penn Badgley"
+      ],
+      "charadesHint": "peer through a bookshelf and stalk someone you are convinced you love",
+      "passwordHint": "stalk"
+    },
+    {
+      "id": "netflix-016",
+      "word": "BIRD BOX",
+      "tabooWords": [
+        "blindfold",
+        "creature",
+        "Sandra Bullock",
+        "survival",
+        "river"
+      ],
+      "charadesHint": "navigate a raging river blindfolded while protecting your children",
+      "passwordHint": "blindfold"
+    },
+    {
+      "id": "netflix-017",
+      "word": "ALTERED CARBON",
+      "tabooWords": ["body", "sleeve", "future", "consciousness", "transfer"],
+      "charadesHint": "download your mind into a brand new body and solve a murder",
+      "passwordHint": "sleeve"
+    },
+    {
+      "id": "netflix-018",
+      "word": "PEAKY BLINDERS",
+      "tabooWords": ["Birmingham", "gang", "cap", "Shelby", "razor"],
+      "charadesHint": "tip your flat cap and bark orders with a thick Birmingham accent",
+      "passwordHint": "cap"
+    },
+    {
+      "id": "netflix-019",
+      "word": "MINDHUNTER",
+      "tabooWords": [
+        "FBI",
+        "serial killer",
+        "interview",
+        "profile",
+        "psychology"
+      ],
+      "charadesHint": "sit across a table from a serial killer and calmly take notes",
+      "passwordHint": "profile"
+    },
+    {
+      "id": "netflix-020",
+      "word": "ORANGE IS THE NEW BLACK",
+      "tabooWords": ["prison", "women", "Piper", "drama", "inmate"],
+      "charadesHint": "swap your normal clothes for an orange prison jumpsuit",
+      "passwordHint": "orange"
+    },
+    {
+      "id": "netflix-021",
+      "word": "HOUSE OF CARDS",
+      "tabooWords": [
+        "politics",
+        "Frank Underwood",
+        "Kevin Spacey",
+        "power",
+        "Washington"
+      ],
+      "charadesHint": "stare directly at the camera and scheme your way to the presidency",
+      "passwordHint": "scheme"
+    },
+    {
+      "id": "netflix-022",
+      "word": "COBRA KAI",
+      "tabooWords": ["karate", "Karate Kid", "Daniel", "Johnny", "dojo"],
+      "charadesHint": "crane kick your high school rival and reopen an old rivalry",
+      "passwordHint": "karate"
+    },
+    {
+      "id": "netflix-023",
+      "word": "THE HAUNTING OF HILL HOUSE",
+      "tabooWords": ["ghost", "family", "horror", "house", "Flanagan"],
+      "charadesHint": "point at a ghost lurking in the corner of a dark old mansion",
+      "passwordHint": "ghost"
+    },
+    {
+      "id": "netflix-024",
+      "word": "ELITE",
+      "tabooWords": ["Spain", "school", "murder", "rich", "drama"],
+      "charadesHint": "investigate a murder at an exclusive Spanish private school",
+      "passwordHint": "murder"
+    },
+    {
+      "id": "netflix-025",
+      "word": "UNORTHODOX",
+      "tabooWords": ["Jewish", "New York", "escape", "Berlin", "German"],
+      "charadesHint": "flee an ultra-orthodox community and find new freedom in Berlin",
+      "passwordHint": "escape"
+    },
+    {
+      "id": "netflix-026",
+      "word": "THE UMBRELLA ACADEMY",
+      "tabooWords": [
+        "superhero",
+        "siblings",
+        "apocalypse",
+        "dysfunctional",
+        "powers"
+      ],
+      "charadesHint": "argue with dysfunctional superpowered siblings over saving the world",
+      "passwordHint": "apocalypse"
+    },
+    {
+      "id": "netflix-027",
+      "word": "INVENTING ANNA",
+      "tabooWords": [
+        "Anna Delvey",
+        "con artist",
+        "fake",
+        "socialite",
+        "New York"
+      ],
+      "charadesHint": "con New York's elite into believing you are a wealthy heiress",
+      "passwordHint": "con"
+    },
+    {
+      "id": "netflix-028",
+      "word": "DAHMER",
+      "tabooWords": [
+        "serial killer",
+        "Jeffrey",
+        "Milwaukee",
+        "crime",
+        "Evan Peters"
+      ],
+      "charadesHint": "portray America's most disturbing serial killer in chilling detail",
+      "passwordHint": "chilling"
+    },
+    {
+      "id": "netflix-029",
+      "word": "TINDER SWINDLER",
+      "tabooWords": ["dating", "scam", "Tinder", "Israel", "con"],
+      "charadesHint": "swipe right and get conned out of your savings by a fake prince",
+      "passwordHint": "swipe"
+    },
+    {
+      "id": "netflix-030",
+      "word": "THE PLATFORM",
+      "tabooWords": ["Spain", "food", "tower", "hunger", "class"],
+      "charadesHint": "sit on a platform and watch food arrive from above knowing nothing remains below",
+      "passwordHint": "platform"
+    },
+    {
+      "id": "netflix-031",
+      "word": "BLACK MIRROR",
+      "tabooWords": ["technology", "dystopia", "dark", "future", "screen"],
+      "charadesHint": "stare into a dark screen and find a terrifying future looking back",
+      "passwordHint": "screen"
+    },
+    {
+      "id": "netflix-032",
+      "word": "QUEER EYE",
+      "tabooWords": ["makeover", "Fab Five", "lifestyle", "gay", "reality"],
+      "charadesHint": "transform someone's wardrobe home and attitude in a joyful montage",
+      "passwordHint": "makeover"
+    },
+    {
+      "id": "netflix-033",
+      "word": "CHEF'S TABLE",
+      "tabooWords": ["food", "chef", "documentary", "cooking", "restaurant"],
+      "charadesHint": "plate a single exquisite dish and talk about your artistic philosophy",
+      "passwordHint": "philosophy"
+    },
+    {
+      "id": "netflix-034",
+      "word": "OUR PLANET",
+      "tabooWords": [
+        "nature",
+        "David Attenborough",
+        "wildlife",
+        "climate",
+        "documentary"
+      ],
+      "charadesHint": "narrate stunning wildlife footage in a calm wise British accent",
+      "passwordHint": "narrate"
+    },
+    {
+      "id": "netflix-035",
+      "word": "ENOLA HOLMES",
+      "tabooWords": [
+        "Sherlock",
+        "sister",
+        "mystery",
+        "Victorian",
+        "Millie Bobby Brown"
+      ],
+      "charadesHint": "outrun Victorian villains and solve mysteries smarter than your brother",
+      "passwordHint": "sister"
+    },
+    {
+      "id": "netflix-036",
+      "word": "THE IRISHMAN",
+      "tabooWords": ["Scorsese", "De Niro", "mob", "Hoffa", "gangster"],
+      "charadesHint": "confess mob crimes as a very old man looking back on a violent life",
+      "passwordHint": "confess"
+    },
+    {
+      "id": "netflix-037",
+      "word": "ROMA",
+      "tabooWords": ["Mexico", "Cuarón", "black and white", "maid", "family"],
+      "charadesHint": "care for a wealthy family's children in black and white 1970s Mexico City",
+      "passwordHint": "maid"
+    },
+    {
+      "id": "netflix-038",
+      "word": "THE TWO POPES",
+      "tabooWords": ["Pope", "Catholic", "Vatican", "Francis", "Benedict"],
+      "charadesHint": "debate faith and theology with the other Pope in the Vatican gardens",
+      "passwordHint": "Vatican"
+    },
+    {
+      "id": "netflix-039",
+      "word": "TALL GIRL",
+      "tabooWords": ["height", "school", "romance", "tall", "teen"],
+      "charadesHint": "tower over everyone at school and struggle with being very very tall",
+      "passwordHint": "tower"
+    },
+    {
+      "id": "netflix-040",
+      "word": "DO REVENGE",
+      "tabooWords": ["teen", "revenge", "school", "pact", "mean girls"],
+      "charadesHint": "swap revenge plots with a new friend to take down your enemies",
+      "passwordHint": "revenge"
+    },
+    {
+      "id": "netflix-041",
+      "word": "THE QUEEN'S GAMBIT",
+      "tabooWords": ["chess", "Beth Harmon", "orphan", "genius", "Cold War"],
+      "charadesHint": "stare at a ceiling visualising chess pieces and dominate the world",
+      "passwordHint": "chess"
+    },
+    {
+      "id": "netflix-042",
+      "word": "ARCANE",
+      "tabooWords": ["League of Legends", "animated", "Jinx", "Vi", "Piltover"],
+      "charadesHint": "fire a rocketlauncher with wild blue pigtails in an animated city",
+      "passwordHint": "animated"
+    },
+    {
+      "id": "netflix-043",
+      "word": "BEBÉS",
+      "tabooWords": ["baby", "documentary", "childhood", "world", "cute"],
+      "charadesHint": "follow adorable babies across four countries in their first year",
+      "passwordHint": "adorable"
+    },
+    {
+      "id": "netflix-044",
+      "word": "NEVER HAVE I EVER",
+      "tabooWords": ["teen", "Indian-American", "Devi", "school", "comedy"],
+      "charadesHint": "navigate high school boys and grief as an overachieving Indian-American teen",
+      "passwordHint": "overachiever"
+    },
+    {
+      "id": "netflix-045",
+      "word": "SANDMAN",
+      "tabooWords": ["dream", "Neil Gaiman", "Morpheus", "comic", "fantasy"],
+      "charadesHint": "rule the realm of dreams as an eternal black-clad being",
+      "passwordHint": "dream"
+    },
+    {
+      "id": "netflix-046",
+      "word": "CURSED",
+      "tabooWords": [
+        "Arthurian",
+        "Nimue",
+        "sword",
+        "Lady of the Lake",
+        "fantasy"
+      ],
+      "charadesHint": "wield the sword that chooses the king as a powerful young woman",
+      "passwordHint": "sword"
+    },
+    {
+      "id": "netflix-047",
+      "word": "MANIFEST",
+      "tabooWords": ["plane", "disappear", "time", "Flight 828", "mystery"],
+      "charadesHint": "land a plane years late to discover the whole world moved on without you",
+      "passwordHint": "late"
+    },
+    {
+      "id": "netflix-048",
+      "word": "OUTER BANKS",
+      "tabooWords": ["treasure", "North Carolina", "Pogue", "gold", "teen"],
+      "charadesHint": "hunt for hidden treasure on a sun-soaked North Carolina barrier island",
+      "passwordHint": "treasure"
+    },
+    {
+      "id": "netflix-049",
+      "word": "ALL OF US ARE DEAD",
+      "tabooWords": ["Korean", "zombie", "school", "outbreak", "survive"],
+      "charadesHint": "barricade a classroom door as zombies pour down the school hallway",
+      "passwordHint": "zombie"
+    },
+    {
+      "id": "netflix-050",
+      "word": "BEHIND HER EYES",
+      "tabooWords": ["thriller", "twist", "dream", "affair", "body"],
+      "charadesHint": "swap bodies through dream walking and completely change your ending",
+      "passwordHint": "swap"
+    },
+    {
+      "id": "netflix-051",
+      "word": "GINNY AND GEORGIA",
+      "tabooWords": ["mother", "daughter", "drama", "teen", "secrets"],
+      "charadesHint": "uncover your charming mother's very dark secrets in a small town",
+      "passwordHint": "secrets"
+    },
+    {
+      "id": "netflix-052",
+      "word": "ANNE WITH AN E",
+      "tabooWords": ["orphan", "Anne", "Green Gables", "Canada", "period"],
+      "charadesHint": "arrive at a farm as an unexpected red-haired orphan and charm everyone",
+      "passwordHint": "orphan"
+    },
+    {
+      "id": "netflix-053",
+      "word": "LOCKE AND KEY",
+      "tabooWords": ["keys", "magic", "house", "demons", "family"],
+      "charadesHint": "discover magical keys hidden in a creepy old family mansion",
+      "passwordHint": "keys"
+    },
+    {
+      "id": "netflix-054",
+      "word": "FATE: THE WINX SAGA",
+      "tabooWords": ["fairy", "magic", "Alfea", "fire", "teen"],
+      "charadesHint": "shoot fire from your hands as a teenage fairy at boarding school",
+      "passwordHint": "fairy"
+    },
+    {
+      "id": "netflix-055",
+      "word": "THE HAUNTING OF BLY MANOR",
+      "tabooWords": ["ghost", "manor", "England", "love", "horror"],
+      "charadesHint": "float through a foggy English manor as a tragic ghostly figure",
+      "passwordHint": "manor"
+    },
+    {
+      "id": "netflix-056",
+      "word": "1899",
+      "tabooWords": ["ship", "mystery", "German", "reality", "passengers"],
+      "charadesHint": "discover reality bends aboard a foggy transatlantic mystery ship",
+      "passwordHint": "reality"
+    },
+    {
+      "id": "netflix-057",
+      "word": "INNER CHILD",
+      "tabooWords": ["Korea", "healing", "drama", "romance", "trauma"],
+      "charadesHint": "heal childhood trauma through quiet personal moments and connection",
+      "passwordHint": "healing"
+    },
+    {
+      "id": "netflix-058",
+      "word": "CLICKBAIT",
+      "tabooWords": ["viral", "online", "kidnap", "social media", "family"],
+      "charadesHint": "hold up a sign in a viral video as your family scrambles to find you",
+      "passwordHint": "viral"
+    },
+    {
+      "id": "netflix-059",
+      "word": "HEARTSTOPPER",
+      "tabooWords": ["gay", "school", "romance", "British", "graphic novel"],
+      "charadesHint": "fall quietly in love with your school friend over walks and hot chocolate",
+      "passwordHint": "quietly"
+    },
+    {
+      "id": "netflix-060",
+      "word": "AVATAR: THE LAST AIRBENDER",
+      "tabooWords": ["elements", "Aang", "bending", "animated", "nations"],
+      "charadesHint": "control wind water earth and fire as the world's only master of all four",
+      "passwordHint": "elements"
+    }
+  ]
+}

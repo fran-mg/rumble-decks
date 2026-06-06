@@ -109,6 +109,106 @@
       "color": "#14B8A6",
       "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/tv-shows.json",
       "cardCount": 38
+    },
+    {
+      "id": "star-wars",
+      "name": "Star Wars",
+      "category": "Entertainment",
+      "description": "Characters, planets, and iconic moments from a galaxy far, far away.",
+      "icon": "Sword",
+      "color": "#FACC15",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/star-wars.json",
+      "cardCount": 60
+    },
+    {
+      "id": "countries",
+      "name": "Countries",
+      "category": "Geography",
+      "description": "Nations of the world — flags, capitals, and cultures.",
+      "icon": "Globe",
+      "color": "#06B6D4",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/countries.json",
+      "cardCount": 60
+    },
+    {
+      "id": "superhero-sci-fi",
+      "name": "Superhero & Sci-Fi",
+      "category": "Entertainment",
+      "description": "Heroes, aliens, robots, and futuristic worlds beyond imagination.",
+      "icon": "Zap",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/superhero-sci-fi.json",
+      "cardCount": 60
+    },
+    {
+      "id": "films",
+      "name": "Films",
+      "category": "Entertainment",
+      "description": "Legendary movies, directors, and cinematic moments across all genres.",
+      "icon": "Clapperboard",
+      "color": "#EAB308",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/films.json",
+      "cardCount": 60
+    },
+    {
+      "id": "scary-things",
+      "name": "Scary Things",
+      "category": "Thrills",
+      "description": "Monsters, phobias, horror icons, and things that go bump in the night.",
+      "icon": "Ghost",
+      "color": "#6B21A8",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/scary-things.json",
+      "cardCount": 60
+    },
+    {
+      "id": "professions",
+      "name": "Professions",
+      "category": "Lifestyle",
+      "description": "Jobs and careers from every walk of life — what do they do?",
+      "icon": "Briefcase",
+      "color": "#0EA5E9",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/professions.json",
+      "cardCount": 60
+    },
+    {
+      "id": "music-instruments",
+      "name": "Music Instruments",
+      "category": "Music",
+      "description": "From strings to percussion — can you mime or describe the instrument?",
+      "icon": "Music",
+      "color": "#EC4899",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/music-instruments.json",
+      "cardCount": 60
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "category": "Entertainment",
+      "description": "Binge-worthy series, films, and originals from the Netflix universe.",
+      "icon": "MonitorPlay",
+      "color": "#DC2626",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/netflix.json",
+      "cardCount": 60
+    },
+    {
+      "id": "dc-comics",
+      "name": "DC Comics",
+      "category": "Entertainment",
+      "description": "Batman, Superman, Wonder Woman and the wider DC universe.",
+      "icon": "ShieldHalf",
+      "color": "#1D4ED8",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/dc-comics.json",
+      "cardCount": 60
+    },
+    {
+      "id": "marvel",
+      "name": "Marvel Universe",
+      "category": "Entertainment",
+      "description": "Heroes, villains, and iconic moments from the Marvel Universe.",
+      "icon": "Sparkles",
+      "color": "#DC2626",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/marvel.json",
+      "cardCount": 60
     }
   ]
 }

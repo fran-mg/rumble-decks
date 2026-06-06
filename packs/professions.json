@@ -1,0 +1,443 @@
+{
+  "id": "professions",
+  "name": "Professions",
+  "category": "Lifestyle",
+  "description": "Jobs, careers, and roles that make the world go round",
+  "difficulty": "Easy",
+  "tags": ["jobs", "careers", "professions", "work", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "professions-001",
+      "word": "SURGEON",
+      "tabooWords": ["doctor", "operation", "hospital", "cut", "scalpel"],
+      "charadesHint": "scrub your hands and carefully slice open a patient",
+      "passwordHint": "scalpel"
+    },
+    {
+      "id": "professions-002",
+      "word": "ASTRONAUT",
+      "tabooWords": ["space", "rocket", "NASA", "float", "orbit"],
+      "charadesHint": "float weightlessly and plant a flag on the moon",
+      "passwordHint": "float"
+    },
+    {
+      "id": "professions-003",
+      "word": "FIREFIGHTER",
+      "tabooWords": ["fire", "hose", "rescue", "ladder", "burn"],
+      "charadesHint": "carry a hose and charge into a burning building to save someone",
+      "passwordHint": "hose"
+    },
+    {
+      "id": "professions-004",
+      "word": "CHEF",
+      "tabooWords": ["cook", "kitchen", "food", "restaurant", "recipe"],
+      "charadesHint": "toss a pan of food in the air and taste the sauce",
+      "passwordHint": "cook"
+    },
+    {
+      "id": "professions-005",
+      "word": "ARCHAEOLOGIST",
+      "tabooWords": ["dig", "ancient", "artefact", "history", "ruins"],
+      "charadesHint": "carefully brush dirt off ancient bones with a tiny brush",
+      "passwordHint": "dig"
+    },
+    {
+      "id": "professions-006",
+      "word": "ARCHITECT",
+      "tabooWords": ["build", "design", "blueprint", "structure", "engineer"],
+      "charadesHint": "roll out blueprints and sketch a stunning building design",
+      "passwordHint": "blueprint"
+    },
+    {
+      "id": "professions-007",
+      "word": "DETECTIVE",
+      "tabooWords": ["investigate", "crime", "clue", "case", "mystery"],
+      "charadesHint": "peer through a magnifying glass at clues at a crime scene",
+      "passwordHint": "clue"
+    },
+    {
+      "id": "professions-008",
+      "word": "VETERINARIAN",
+      "tabooWords": ["animal", "pet", "doctor", "treat", "clinic"],
+      "charadesHint": "listen to a dog's heartbeat and bandage a cat's paw",
+      "passwordHint": "animal"
+    },
+    {
+      "id": "professions-009",
+      "word": "PILOT",
+      "tabooWords": ["fly", "plane", "captain", "cockpit", "altitude"],
+      "charadesHint": "grip a yoke and land a massive plane on a tiny runway",
+      "passwordHint": "cockpit"
+    },
+    {
+      "id": "professions-010",
+      "word": "POLITICIAN",
+      "tabooWords": ["government", "vote", "speech", "party", "law"],
+      "charadesHint": "wave at a crowd from a podium making big empty promises",
+      "passwordHint": "speech"
+    },
+    {
+      "id": "professions-011",
+      "word": "PLUMBER",
+      "tabooWords": ["pipes", "water", "fix", "wrench", "leak"],
+      "charadesHint": "crawl under a sink and tighten leaky pipes with a wrench",
+      "passwordHint": "pipes"
+    },
+    {
+      "id": "professions-012",
+      "word": "LAWYER",
+      "tabooWords": ["court", "judge", "defend", "argue", "case"],
+      "charadesHint": "stand in a courtroom and passionately argue your client's innocence",
+      "passwordHint": "court"
+    },
+    {
+      "id": "professions-013",
+      "word": "TEACHER",
+      "tabooWords": ["school", "students", "lesson", "class", "educate"],
+      "charadesHint": "write on a board and explain a concept to restless children",
+      "passwordHint": "lesson"
+    },
+    {
+      "id": "professions-014",
+      "word": "CARPENTER",
+      "tabooWords": ["wood", "saw", "build", "nail", "furniture"],
+      "charadesHint": "measure a plank of wood and saw it to build furniture",
+      "passwordHint": "saw"
+    },
+    {
+      "id": "professions-015",
+      "word": "JOURNALIST",
+      "tabooWords": ["news", "write", "report", "interview", "media"],
+      "charadesHint": "thrust a microphone at someone and fire rapid questions",
+      "passwordHint": "microphone"
+    },
+    {
+      "id": "professions-016",
+      "word": "DENTIST",
+      "tabooWords": ["teeth", "drill", "mouth", "cavity", "braces"],
+      "charadesHint": "peer into a mouth with a mirror and start drilling",
+      "passwordHint": "drill"
+    },
+    {
+      "id": "professions-017",
+      "word": "LIBRARIAN",
+      "tabooWords": ["books", "quiet", "shelves", "library", "read"],
+      "charadesHint": "shush everyone loudly and carefully sort books on tall shelves",
+      "passwordHint": "shush"
+    },
+    {
+      "id": "professions-018",
+      "word": "ELECTRICIAN",
+      "tabooWords": ["wire", "electricity", "fix", "current", "circuit"],
+      "charadesHint": "cautiously connect wires then flick a switch lighting everything up",
+      "passwordHint": "wire"
+    },
+    {
+      "id": "professions-019",
+      "word": "PHARMACIST",
+      "tabooWords": [
+        "medicine",
+        "drugs",
+        "prescription",
+        "pills",
+        "dispensary"
+      ],
+      "charadesHint": "count out pills into a bottle and hand over a prescription",
+      "passwordHint": "pills"
+    },
+    {
+      "id": "professions-020",
+      "word": "PSYCHOLOGIST",
+      "tabooWords": ["mind", "therapy", "couch", "feelings", "mental"],
+      "charadesHint": "nod thoughtfully on a chair as someone pours out their feelings",
+      "passwordHint": "therapy"
+    },
+    {
+      "id": "professions-021",
+      "word": "FISHERMAN",
+      "tabooWords": ["fish", "net", "sea", "boat", "catch"],
+      "charadesHint": "cast a line and reel in a massive struggling fish",
+      "passwordHint": "reel"
+    },
+    {
+      "id": "professions-022",
+      "word": "BALLET DANCER",
+      "tabooWords": ["tutu", "pointe", "performance", "grace", "stage"],
+      "charadesHint": "rise on tiptoe and spin gracefully across a stage",
+      "passwordHint": "pointe"
+    },
+    {
+      "id": "professions-023",
+      "word": "ACCOUNTANT",
+      "tabooWords": ["money", "tax", "numbers", "finance", "spreadsheet"],
+      "charadesHint": "stare at endless numbers on a spreadsheet and punch a calculator",
+      "passwordHint": "numbers"
+    },
+    {
+      "id": "professions-024",
+      "word": "BEEKEEPER",
+      "tabooWords": ["bees", "hive", "honey", "suit", "sting"],
+      "charadesHint": "work calmly among thousands of bees in a full protective suit",
+      "passwordHint": "hive"
+    },
+    {
+      "id": "professions-025",
+      "word": "PHOTOGRAPHER",
+      "tabooWords": ["camera", "picture", "shoot", "lens", "photograph"],
+      "charadesHint": "frame a shot and click rapidly at a fast-moving subject",
+      "passwordHint": "lens"
+    },
+    {
+      "id": "professions-026",
+      "word": "SAILOR",
+      "tabooWords": ["sea", "ship", "navigate", "wave", "anchor"],
+      "charadesHint": "climb a mast and scan the horizon in a howling storm",
+      "passwordHint": "anchor"
+    },
+    {
+      "id": "professions-027",
+      "word": "ANIMATOR",
+      "tabooWords": ["cartoon", "draw", "film", "frame", "character"],
+      "charadesHint": "flip through hundreds of slightly different drawings to make motion",
+      "passwordHint": "frame"
+    },
+    {
+      "id": "professions-028",
+      "word": "SOMMELIER",
+      "tabooWords": ["wine", "taste", "restaurant", "bottle", "grape"],
+      "charadesHint": "swirl wine under your nose and name the exact vineyard and year",
+      "passwordHint": "swirl"
+    },
+    {
+      "id": "professions-029",
+      "word": "MORTICIAN",
+      "tabooWords": ["dead", "funeral", "body", "embalm", "coffin"],
+      "charadesHint": "prepare and groom a body in a silent room for a funeral",
+      "passwordHint": "embalm"
+    },
+    {
+      "id": "professions-030",
+      "word": "LOCKSMITH",
+      "tabooWords": ["key", "lock", "open", "pick", "door"],
+      "charadesHint": "pick a lock with tiny tools and swing open the door",
+      "passwordHint": "pick"
+    },
+    {
+      "id": "professions-031",
+      "word": "AIR TRAFFIC CONTROLLER",
+      "tabooWords": ["plane", "radar", "guide", "airport", "tower"],
+      "charadesHint": "stare at a radar screen and guide dozens of planes to safe landing",
+      "passwordHint": "radar"
+    },
+    {
+      "id": "professions-032",
+      "word": "GEOLOGIST",
+      "tabooWords": ["rock", "earth", "mineral", "sample", "tectonic"],
+      "charadesHint": "crack open a rock and study the layers of ancient time inside",
+      "passwordHint": "rock"
+    },
+    {
+      "id": "professions-033",
+      "word": "PUPPETEER",
+      "tabooWords": ["puppet", "strings", "theatre", "control", "marionette"],
+      "charadesHint": "make a dangling figure walk and talk by working hidden strings",
+      "passwordHint": "strings"
+    },
+    {
+      "id": "professions-034",
+      "word": "STOCKBROKER",
+      "tabooWords": ["shares", "market", "trade", "Wall Street", "money"],
+      "charadesHint": "shout and wave your arms frantically on a trading floor",
+      "passwordHint": "trade"
+    },
+    {
+      "id": "professions-035",
+      "word": "MIDWIFE",
+      "tabooWords": ["birth", "baby", "hospital", "deliver", "mother"],
+      "charadesHint": "guide a new mother through labour and catch the newborn baby",
+      "passwordHint": "deliver"
+    },
+    {
+      "id": "professions-036",
+      "word": "TAXIDERMIST",
+      "tabooWords": ["stuff", "animal", "preserve", "mount", "dead"],
+      "charadesHint": "carefully position a preserved animal to look perfectly lifelike",
+      "passwordHint": "stuff"
+    },
+    {
+      "id": "professions-037",
+      "word": "LIGHTHOUSE KEEPER",
+      "tabooWords": ["sea", "light", "coast", "alone", "ships"],
+      "charadesHint": "wind up a massive revolving light on a rocky coastal tower alone",
+      "passwordHint": "revolving"
+    },
+    {
+      "id": "professions-038",
+      "word": "MARATHON RUNNER",
+      "tabooWords": ["run", "race", "distance", "endurance", "athlete"],
+      "charadesHint": "dig deep and push through the wall to cross a finish line",
+      "passwordHint": "finish"
+    },
+    {
+      "id": "professions-039",
+      "word": "AUCTIONEER",
+      "tabooWords": ["bid", "sell", "hammer", "price", "going"],
+      "charadesHint": "rattle off prices at lightning speed and slam a gavel down",
+      "passwordHint": "gavel"
+    },
+    {
+      "id": "professions-040",
+      "word": "BLACKSMITH",
+      "tabooWords": ["forge", "metal", "hammer", "anvil", "fire"],
+      "charadesHint": "beat glowing hot metal on an anvil and plunge it into water",
+      "passwordHint": "anvil"
+    },
+    {
+      "id": "professions-041",
+      "word": "DIPLOMAT",
+      "tabooWords": ["negotiate", "embassy", "country", "peace", "treaty"],
+      "charadesHint": "shake hands across a table and broker a peace deal between nations",
+      "passwordHint": "negotiate"
+    },
+    {
+      "id": "professions-042",
+      "word": "FORENSIC SCIENTIST",
+      "tabooWords": ["crime", "evidence", "lab", "DNA", "investigate"],
+      "charadesHint": "dust for fingerprints and analyse DNA under laboratory lights",
+      "passwordHint": "fingerprint"
+    },
+    {
+      "id": "professions-043",
+      "word": "TRANSLATOR",
+      "tabooWords": ["language", "interpret", "foreign", "words", "bilingual"],
+      "charadesHint": "listen carefully and immediately repeat everything in a different language",
+      "passwordHint": "language"
+    },
+    {
+      "id": "professions-044",
+      "word": "GAME WARDEN",
+      "tabooWords": [
+        "wildlife",
+        "protect",
+        "poacher",
+        "national park",
+        "animals"
+      ],
+      "charadesHint": "patrol a vast nature reserve and stop poachers in their tracks",
+      "passwordHint": "protect"
+    },
+    {
+      "id": "professions-045",
+      "word": "BARISTA",
+      "tabooWords": ["coffee", "espresso", "cafe", "steam", "latte"],
+      "charadesHint": "steam milk to a perfect foam and pour a leaf into a latte",
+      "passwordHint": "foam"
+    },
+    {
+      "id": "professions-046",
+      "word": "STUNT PERFORMER",
+      "tabooWords": ["action", "dangerous", "fall", "film", "double"],
+      "charadesHint": "leap from a burning building onto a moving car below",
+      "passwordHint": "dangerous"
+    },
+    {
+      "id": "professions-047",
+      "word": "MARINE BIOLOGIST",
+      "tabooWords": ["ocean", "fish", "research", "dive", "sea"],
+      "charadesHint": "scuba dive and tag a great white shark for scientific research",
+      "passwordHint": "dive"
+    },
+    {
+      "id": "professions-048",
+      "word": "CONDUCTOR",
+      "tabooWords": ["orchestra", "baton", "music", "podium", "lead"],
+      "charadesHint": "wave a baton with dramatic sweeping gestures at a full orchestra",
+      "passwordHint": "baton"
+    },
+    {
+      "id": "professions-049",
+      "word": "GLASSBLOWER",
+      "tabooWords": ["glass", "blow", "melt", "molten", "shape"],
+      "charadesHint": "blow into a long pipe to inflate a glowing blob of molten glass",
+      "passwordHint": "blow"
+    },
+    {
+      "id": "professions-050",
+      "word": "MOUNTAINEER",
+      "tabooWords": ["climb", "summit", "rope", "mountain", "altitude"],
+      "charadesHint": "hammer a piton into rock face and haul yourself to the summit",
+      "passwordHint": "summit"
+    },
+    {
+      "id": "professions-051",
+      "word": "MIME ARTIST",
+      "tabooWords": ["silent", "act", "invisible", "white face", "performance"],
+      "charadesHint": "push against an invisible wall and walk against an invisible wind",
+      "passwordHint": "invisible"
+    },
+    {
+      "id": "professions-052",
+      "word": "REFEREE",
+      "tabooWords": ["sport", "foul", "whistle", "judge", "call"],
+      "charadesHint": "blow a whistle and signal a foul with emphatic arm gestures",
+      "passwordHint": "whistle"
+    },
+    {
+      "id": "professions-053",
+      "word": "NUTRITIONIST",
+      "tabooWords": ["diet", "food", "health", "calories", "advice"],
+      "charadesHint": "study a food label and prescribe a perfectly balanced meal plan",
+      "passwordHint": "diet"
+    },
+    {
+      "id": "professions-054",
+      "word": "DEMOLITIONS EXPERT",
+      "tabooWords": ["blow up", "explosive", "destroy", "building", "detonate"],
+      "charadesHint": "wire a building with explosives and press the detonator button",
+      "passwordHint": "detonate"
+    },
+    {
+      "id": "professions-055",
+      "word": "CARTOGRAPHER",
+      "tabooWords": ["map", "draw", "geography", "explorer", "chart"],
+      "charadesHint": "carefully draw coastlines and mountain ranges on a blank map",
+      "passwordHint": "map"
+    },
+    {
+      "id": "professions-056",
+      "word": "HYPNOTIST",
+      "tabooWords": ["trance", "sleep", "swing", "watch", "control"],
+      "charadesHint": "swing a pocket watch until someone's eyes glaze over",
+      "passwordHint": "trance"
+    },
+    {
+      "id": "professions-057",
+      "word": "SNOW PLOW DRIVER",
+      "tabooWords": ["snow", "clear", "road", "winter", "blade"],
+      "charadesHint": "push a massive blade and clear a mountain highway in a blizzard",
+      "passwordHint": "blade"
+    },
+    {
+      "id": "professions-058",
+      "word": "CIRCUS RINGMASTER",
+      "tabooWords": ["circus", "announce", "top hat", "performers", "acts"],
+      "charadesHint": "crack a whip and announce dazzling acts to a roaring crowd",
+      "passwordHint": "ringmaster"
+    },
+    {
+      "id": "professions-059",
+      "word": "URBAN PLANNER",
+      "tabooWords": ["city", "design", "roads", "zoning", "development"],
+      "charadesHint": "lay out roads parks and buildings on a map of a new city",
+      "passwordHint": "city"
+    },
+    {
+      "id": "professions-060",
+      "word": "PALAEONTOLOGIST",
+      "tabooWords": ["dinosaur", "fossil", "dig", "bones", "ancient"],
+      "charadesHint": "chip a massive dinosaur skull from solid rock with tiny tools",
+      "passwordHint": "fossil"
+    }
+  ]
+}

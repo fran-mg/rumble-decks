@@ -1,0 +1,437 @@
+{
+  "id": "music-instruments",
+  "name": "Music Instruments",
+  "category": "Music",
+  "description": "From classical strings to electronic beats — name that instrument",
+  "difficulty": "Easy",
+  "tags": ["music", "instruments", "band", "orchestra", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "music-instruments-001",
+      "word": "GUITAR",
+      "tabooWords": ["strings", "rock", "pick", "chords", "band"],
+      "charadesHint": "air guitar with wild fingers and head bang",
+      "passwordHint": "strings"
+    },
+    {
+      "id": "music-instruments-002",
+      "word": "DRUMS",
+      "tabooWords": ["beat", "sticks", "rhythm", "kit", "percussion"],
+      "charadesHint": "bash an imaginary kit with sticks and hit a big crash cymbal",
+      "passwordHint": "sticks"
+    },
+    {
+      "id": "music-instruments-003",
+      "word": "PIANO",
+      "tabooWords": ["keys", "classical", "keyboard", "ivory", "concert"],
+      "charadesHint": "sit up straight and run fingers elegantly across imaginary keys",
+      "passwordHint": "keys"
+    },
+    {
+      "id": "music-instruments-004",
+      "word": "VIOLIN",
+      "tabooWords": ["bow", "strings", "classical", "orchestra", "fiddle"],
+      "charadesHint": "tuck something under your chin and draw a bow across strings",
+      "passwordHint": "bow"
+    },
+    {
+      "id": "music-instruments-005",
+      "word": "TRUMPET",
+      "tabooWords": ["brass", "blow", "jazz", "valves", "fanfare"],
+      "charadesHint": "press three imaginary valves and blow out your cheeks loudly",
+      "passwordHint": "valves"
+    },
+    {
+      "id": "music-instruments-006",
+      "word": "FLUTE",
+      "tabooWords": ["blow", "woodwind", "classical", "silver", "high"],
+      "charadesHint": "hold something sideways to your lips and flutter your fingers",
+      "passwordHint": "sideways"
+    },
+    {
+      "id": "music-instruments-007",
+      "word": "SAXOPHONE",
+      "tabooWords": ["jazz", "reed", "brass", "blow", "Kenny G"],
+      "charadesHint": "sway and blow into a curved golden instrument with your eyes closed",
+      "passwordHint": "jazz"
+    },
+    {
+      "id": "music-instruments-008",
+      "word": "CELLO",
+      "tabooWords": ["strings", "bow", "orchestra", "large", "classical"],
+      "charadesHint": "sit with a large instrument between your knees and draw a long bow",
+      "passwordHint": "between"
+    },
+    {
+      "id": "music-instruments-009",
+      "word": "HARP",
+      "tabooWords": ["strings", "pluck", "angel", "large", "triangular"],
+      "charadesHint": "pluck strings on a tall triangular frame like an angel",
+      "passwordHint": "pluck"
+    },
+    {
+      "id": "music-instruments-010",
+      "word": "ACCORDION",
+      "tabooWords": ["squeeze", "keys", "folk", "bellows", "French"],
+      "charadesHint": "push and pull a box in and out while pressing keys",
+      "passwordHint": "squeeze"
+    },
+    {
+      "id": "music-instruments-011",
+      "word": "BAGPIPES",
+      "tabooWords": ["Scotland", "blow", "drone", "tartan", "pipes"],
+      "charadesHint": "tuck a bladder under your arm and blow a wailing drone",
+      "passwordHint": "drone"
+    },
+    {
+      "id": "music-instruments-012",
+      "word": "UKULELE",
+      "tabooWords": ["small", "Hawaii", "four strings", "guitar", "island"],
+      "charadesHint": "strum a tiny four-string guitar with a big cheerful smile",
+      "passwordHint": "tiny"
+    },
+    {
+      "id": "music-instruments-013",
+      "word": "TROMBONE",
+      "tabooWords": ["slide", "brass", "blow", "long", "jazz"],
+      "charadesHint": "blow and push a long slide in and out to change the note",
+      "passwordHint": "slide"
+    },
+    {
+      "id": "music-instruments-014",
+      "word": "BANJO",
+      "tabooWords": ["country", "pluck", "strings", "round", "bluegrass"],
+      "charadesHint": "pluck rapidly at a round-bodied instrument with a long neck",
+      "passwordHint": "pluck"
+    },
+    {
+      "id": "music-instruments-015",
+      "word": "XYLOPHONE",
+      "tabooWords": ["bars", "mallet", "percussion", "colourful", "hit"],
+      "charadesHint": "tap colourful bars in a row with two mallets",
+      "passwordHint": "mallet"
+    },
+    {
+      "id": "music-instruments-016",
+      "word": "OBOE",
+      "tabooWords": ["woodwind", "reed", "orchestra", "classical", "blow"],
+      "charadesHint": "blow through a double reed making a nasal piercing sound",
+      "passwordHint": "reed"
+    },
+    {
+      "id": "music-instruments-017",
+      "word": "BONGO DRUMS",
+      "tabooWords": ["percussion", "hand", "Cuban", "small", "pair"],
+      "charadesHint": "sit cross-legged and tap two small drums with your palms",
+      "passwordHint": "palms"
+    },
+    {
+      "id": "music-instruments-018",
+      "word": "DIDGERIDOO",
+      "tabooWords": ["Australia", "Aboriginal", "long", "drone", "blow"],
+      "charadesHint": "drone through an enormous long wooden tube using circular breathing",
+      "passwordHint": "drone"
+    },
+    {
+      "id": "music-instruments-019",
+      "word": "SITAR",
+      "tabooWords": ["India", "strings", "raga", "pluck", "long neck"],
+      "charadesHint": "cross-legged pluck a long-necked instrument with buzzing sympathetic strings",
+      "passwordHint": "raga"
+    },
+    {
+      "id": "music-instruments-020",
+      "word": "MARACAS",
+      "tabooWords": ["shake", "rattle", "Latin", "pair", "rhythm"],
+      "charadesHint": "shake a pair of rattling gourds to a Latin beat",
+      "passwordHint": "shake"
+    },
+    {
+      "id": "music-instruments-021",
+      "word": "CLARINET",
+      "tabooWords": ["woodwind", "reed", "orchestra", "jazz", "blow"],
+      "charadesHint": "cover holes along a slim black instrument and blow a mellow tone",
+      "passwordHint": "holes"
+    },
+    {
+      "id": "music-instruments-022",
+      "word": "FRENCH HORN",
+      "tabooWords": ["brass", "coiled", "orchestral", "blow", "valves"],
+      "charadesHint": "blow into a coiled brass tube with your hand deep inside the bell",
+      "passwordHint": "coiled"
+    },
+    {
+      "id": "music-instruments-023",
+      "word": "TIMPANI",
+      "tabooWords": ["kettle", "drum", "orchestra", "pedal", "pitch"],
+      "charadesHint": "strike a large kettle drum and foot-pedal to change pitch",
+      "passwordHint": "kettle"
+    },
+    {
+      "id": "music-instruments-024",
+      "word": "SYNTHESIZER",
+      "tabooWords": ["electronic", "keyboard", "digital", "sound", "keys"],
+      "charadesHint": "twist knobs and press keys to create futuristic electronic sounds",
+      "passwordHint": "knobs"
+    },
+    {
+      "id": "music-instruments-025",
+      "word": "TURNTABLE",
+      "tabooWords": ["DJ", "scratch", "vinyl", "spin", "record"],
+      "charadesHint": "scratch a spinning record back and forth with your fingertips",
+      "passwordHint": "scratch"
+    },
+    {
+      "id": "music-instruments-026",
+      "word": "DOUBLE BASS",
+      "tabooWords": ["strings", "orchestra", "large", "bow", "jazz"],
+      "charadesHint": "stand and bow or pluck a very large string instrument",
+      "passwordHint": "large"
+    },
+    {
+      "id": "music-instruments-027",
+      "word": "HARPSICHORD",
+      "tabooWords": ["baroque", "keyboard", "pluck", "old", "classical"],
+      "charadesHint": "play an ornate old keyboard that plucks rather than hammers strings",
+      "passwordHint": "baroque"
+    },
+    {
+      "id": "music-instruments-028",
+      "word": "STEEL DRUMS",
+      "tabooWords": ["Caribbean", "Trinidad", "metal", "pan", "island"],
+      "charadesHint": "beat a concave metal pan with rubber-tipped sticks on a beach",
+      "passwordHint": "pan"
+    },
+    {
+      "id": "music-instruments-029",
+      "word": "BASS GUITAR",
+      "tabooWords": ["low", "strings", "band", "electric", "rhythm"],
+      "charadesHint": "pluck thick low strings and lay down the groove behind the band",
+      "passwordHint": "groove"
+    },
+    {
+      "id": "music-instruments-030",
+      "word": "RECORDER",
+      "tabooWords": ["school", "woodwind", "blow", "holes", "plastic"],
+      "charadesHint": "hold a simple plastic pipe vertical and cover holes with tiny fingers",
+      "passwordHint": "school"
+    },
+    {
+      "id": "music-instruments-031",
+      "word": "MANDOLIN",
+      "tabooWords": ["strings", "Italian", "pluck", "small", "folk"],
+      "charadesHint": "rapidly strum paired strings on a small bowl-backed instrument",
+      "passwordHint": "strum"
+    },
+    {
+      "id": "music-instruments-032",
+      "word": "THEREMIN",
+      "tabooWords": ["hands", "no touch", "electronic", "eerie", "wave"],
+      "charadesHint": "wave your hands through the air without touching anything to make sound",
+      "passwordHint": "wave"
+    },
+    {
+      "id": "music-instruments-033",
+      "word": "LUTE",
+      "tabooWords": ["medieval", "strings", "pluck", "old", "renaissance"],
+      "charadesHint": "pluck a pear-shaped ancient instrument as a medieval minstrel",
+      "passwordHint": "medieval"
+    },
+    {
+      "id": "music-instruments-034",
+      "word": "COWBELL",
+      "tabooWords": ["bell", "cow", "metal", "hit", "rhythm"],
+      "charadesHint": "bang a hollow metal bell and demand more of it",
+      "passwordHint": "more"
+    },
+    {
+      "id": "music-instruments-035",
+      "word": "ORGAN",
+      "tabooWords": ["church", "keys", "pipes", "pedals", "classical"],
+      "charadesHint": "play two keyboards with your hands and pedals with your feet",
+      "passwordHint": "pedals"
+    },
+    {
+      "id": "music-instruments-036",
+      "word": "TRIANGLE",
+      "tabooWords": ["metal", "ping", "hit", "shape", "small"],
+      "charadesHint": "wait patiently then strike a tiny metal shape for one perfect ping",
+      "passwordHint": "ping"
+    },
+    {
+      "id": "music-instruments-037",
+      "word": "ELECTRIC GUITAR",
+      "tabooWords": ["amp", "rock", "strings", "distortion", "plug"],
+      "charadesHint": "plug into an amp and shred a blistering rock solo",
+      "passwordHint": "amp"
+    },
+    {
+      "id": "music-instruments-038",
+      "word": "TAMBOURINE",
+      "tabooWords": ["shake", "jingle", "hand", "hit", "drum"],
+      "charadesHint": "shake and slap a jingle-rimmed hand drum to a pop beat",
+      "passwordHint": "jingle"
+    },
+    {
+      "id": "music-instruments-039",
+      "word": "BASSOON",
+      "tabooWords": ["woodwind", "low", "reed", "orchestra", "large"],
+      "charadesHint": "blow a deep warm tone through a long bent wooden instrument",
+      "passwordHint": "deep"
+    },
+    {
+      "id": "music-instruments-040",
+      "word": "CAJON",
+      "tabooWords": ["box", "slap", "Peru", "percussion", "sit"],
+      "charadesHint": "sit on a wooden box and slap its face to make drum sounds",
+      "passwordHint": "slap"
+    },
+    {
+      "id": "music-instruments-041",
+      "word": "TUBA",
+      "tabooWords": ["brass", "large", "low", "orchestra", "blow"],
+      "charadesHint": "wrap a giant brass coil around your torso and blow the lowest note",
+      "passwordHint": "lowest"
+    },
+    {
+      "id": "music-instruments-042",
+      "word": "SHAMISEN",
+      "tabooWords": [
+        "Japan",
+        "three strings",
+        "pluck",
+        "traditional",
+        "samurai"
+      ],
+      "charadesHint": "pluck three strings on a square-bodied Japanese instrument",
+      "passwordHint": "Japan"
+    },
+    {
+      "id": "music-instruments-043",
+      "word": "KOTO",
+      "tabooWords": ["Japan", "zither", "pluck", "floor", "strings"],
+      "charadesHint": "kneel on the floor and pluck a long horizontal stringed instrument",
+      "passwordHint": "kneel"
+    },
+    {
+      "id": "music-instruments-044",
+      "word": "DULCIMER",
+      "tabooWords": ["Appalachian", "strings", "hammer", "folk", "mountain"],
+      "charadesHint": "hammer small mallets on strings laid flat across your lap",
+      "passwordHint": "hammer"
+    },
+    {
+      "id": "music-instruments-045",
+      "word": "ERHU",
+      "tabooWords": ["China", "two strings", "bow", "high", "traditional"],
+      "charadesHint": "draw a bow between two strings on a tiny Chinese fiddle",
+      "passwordHint": "China"
+    },
+    {
+      "id": "music-instruments-046",
+      "word": "BUGLE",
+      "tabooWords": ["military", "brass", "no valves", "call", "reveille"],
+      "charadesHint": "blow a simple brass tube to wake up soldiers at dawn",
+      "passwordHint": "military"
+    },
+    {
+      "id": "music-instruments-047",
+      "word": "HARMONICA",
+      "tabooWords": ["mouth", "blow", "small", "blues", "harp"],
+      "charadesHint": "cup a tiny instrument to your mouth and slide left and right",
+      "passwordHint": "mouth"
+    },
+    {
+      "id": "music-instruments-048",
+      "word": "GLOCKENSPIEL",
+      "tabooWords": ["bars", "mallet", "metal", "bright", "percussion"],
+      "charadesHint": "tap metal bars with tiny mallets making bright tinkling sounds",
+      "passwordHint": "tinkling"
+    },
+    {
+      "id": "music-instruments-049",
+      "word": "TABLA",
+      "tabooWords": ["India", "pair", "hand", "drum", "classical"],
+      "charadesHint": "tap rhythmic patterns with fingers on a pair of Indian hand drums",
+      "passwordHint": "fingers"
+    },
+    {
+      "id": "music-instruments-050",
+      "word": "CONGAS",
+      "tabooWords": ["Afro-Cuban", "tall", "hand", "Latin", "drum"],
+      "charadesHint": "stand and beat tall slender drums with open hands and fingers",
+      "passwordHint": "tall"
+    },
+    {
+      "id": "music-instruments-051",
+      "word": "HURDY-GURDY",
+      "tabooWords": ["crank", "wheel", "drone", "medieval", "strings"],
+      "charadesHint": "turn a crank that rubs a wheel against strings making a droning sound",
+      "passwordHint": "crank"
+    },
+    {
+      "id": "music-instruments-052",
+      "word": "BASS DRUM",
+      "tabooWords": ["kick", "foot", "pedal", "large", "deep"],
+      "charadesHint": "stomp a foot pedal to boom the biggest drum in the kit",
+      "passwordHint": "kick"
+    },
+    {
+      "id": "music-instruments-053",
+      "word": "PICCOLO",
+      "tabooWords": ["small", "flute", "high", "woodwind", "shrill"],
+      "charadesHint": "play the shrillest highest note in the orchestra on a tiny flute",
+      "passwordHint": "shrill"
+    },
+    {
+      "id": "music-instruments-054",
+      "word": "DJEMBE",
+      "tabooWords": ["West Africa", "hand", "drum", "goblet", "rhythm"],
+      "charadesHint": "beat a goblet-shaped drum between your knees with bare hands",
+      "passwordHint": "goblet"
+    },
+    {
+      "id": "music-instruments-055",
+      "word": "MELODICA",
+      "tabooWords": ["blow", "keys", "keyboard", "tube", "portable"],
+      "charadesHint": "blow through a tube while pressing piano keys on a small box",
+      "passwordHint": "tube"
+    },
+    {
+      "id": "music-instruments-056",
+      "word": "GUZHENG",
+      "tabooWords": ["China", "zither", "pluck", "strings", "table"],
+      "charadesHint": "pluck and bend strings on a long table-like Chinese instrument",
+      "passwordHint": "bend"
+    },
+    {
+      "id": "music-instruments-057",
+      "word": "SNARE DRUM",
+      "tabooWords": ["rattle", "marching", "sticks", "band", "crack"],
+      "charadesHint": "crack sharp precise beats on a drum with a rattling underside",
+      "passwordHint": "rattle"
+    },
+    {
+      "id": "music-instruments-058",
+      "word": "BOUZOUKI",
+      "tabooWords": ["Greek", "strings", "pluck", "folk", "long neck"],
+      "charadesHint": "pluck rapid melodic runs on a Greek long-necked instrument",
+      "passwordHint": "Greek"
+    },
+    {
+      "id": "music-instruments-059",
+      "word": "HANG DRUM",
+      "tabooWords": ["UFO", "hand", "metal", "tone", "meditative"],
+      "charadesHint": "tap a UFO-shaped steel shell with your hands making warm tones",
+      "passwordHint": "UFO"
+    },
+    {
+      "id": "music-instruments-060",
+      "word": "ELECTRIC PIANO",
+      "tabooWords": ["keyboard", "Rhodes", "electric", "jazz", "soul"],
+      "charadesHint": "play warm buzzy chords on an amplified keyboard that shimmers",
+      "passwordHint": "Rhodes"
+    }
+  ]
+}
