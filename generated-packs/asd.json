@@ -1,0 +1,197 @@
+{
+  "id": "asd",
+  "name": "asd",
+  "category": "Community Generated",
+  "description": "A fun collection of words related to Asperger's syndrome, autism, and social differences",
+  "icon": "Sparkles",
+  "color": "#8B5CF6",
+  "difficulty": "medium",
+  "tags": [
+    "autism",
+    "community",
+    "acceptance"
+  ],
+  "cardCount": 15,
+  "cards": [
+    {
+      "id": "asd-card-1",
+      "word": "Spectrum",
+      "tabooWords": [
+        "rainbow",
+        "color",
+        "light",
+        "prism"
+      ],
+      "charadesHint": "mimic a range of behaviors",
+      "passwordHint": "diversity"
+    },
+    {
+      "id": "asd-card-2",
+      "word": "Neurodiverse",
+      "tabooWords": [
+        "brain",
+        "diversity",
+        "neuron",
+        "condition"
+      ],
+      "charadesHint": "act out different thinking styles",
+      "passwordHint": "inclusion"
+    },
+    {
+      "id": "asd-card-3",
+      "word": "Asperger",
+      "tabooWords": [
+        "syndrome",
+        "autism",
+        "disorder",
+        "hans"
+      ],
+      "charadesHint": "portray a historical figure",
+      "passwordHint": "intelligence"
+    },
+    {
+      "id": "asd-card-4",
+      "word": "Stimming",
+      "tabooWords": [
+        "self",
+        "soothe",
+        "calm",
+        "comfort"
+      ],
+      "charadesHint": "mimic repetitive movements",
+      "passwordHint": "regulation"
+    },
+    {
+      "id": "asd-card-5",
+      "word": "Meltdown",
+      "tabooWords": [
+        "tantrum",
+        "anger",
+        "frustration",
+        "outburst"
+      ],
+      "charadesHint": "act out an emotional explosion",
+      "passwordHint": "overwhelm"
+    },
+    {
+      "id": "asd-card-6",
+      "word": "Sensory",
+      "tabooWords": [
+        "sight",
+        "sound",
+        "touch",
+        "smell"
+      ],
+      "charadesHint": "mimic sensory experiences",
+      "passwordHint": "perception"
+    },
+    {
+      "id": "asd-card-7",
+      "word": "Routine",
+      "tabooWords": [
+        "schedule",
+        "plan",
+        "structure",
+        "predictable"
+      ],
+      "charadesHint": "act out a daily routine",
+      "passwordHint": "comfort"
+    },
+    {
+      "id": "asd-card-8",
+      "word": "Social",
+      "tabooWords": [
+        "interaction",
+        "communication",
+        "skills",
+        "difficulty"
+      ],
+      "charadesHint": "mimic social interactions",
+      "passwordHint": "connection"
+    },
+    {
+      "id": "asd-card-9",
+      "word": "Masking",
+      "tabooWords": [
+        "camouflage",
+        "hide",
+        "conceal",
+        "pretend"
+      ],
+      "charadesHint": "act out hiding one's true self",
+      "passwordHint": "appearance"
+    },
+    {
+      "id": "asd-card-10",
+      "word": "Burnout",
+      "tabooWords": [
+        "exhaustion",
+        "fatigue",
+        "stress",
+        "overwhelm"
+      ],
+      "charadesHint": "mimic physical and mental exhaustion",
+      "passwordHint": "depletion"
+    },
+    {
+      "id": "asd-card-11",
+      "word": "Acceptance",
+      "tabooWords": [
+        "inclusion",
+        "love",
+        "support",
+        "understanding"
+      ],
+      "charadesHint": "act out embracing differences",
+      "passwordHint": "empathy"
+    },
+    {
+      "id": "asd-card-12",
+      "word": "Advocacy",
+      "tabooWords": [
+        "support",
+        "awareness",
+        "rights",
+        "activism"
+      ],
+      "charadesHint": "mimic promoting a cause",
+      "passwordHint": "empowerment"
+    },
+    {
+      "id": "asd-card-13",
+      "word": "Diversity",
+      "tabooWords": [
+        "inclusion",
+        "variety",
+        "multiplicity",
+        "range"
+      ],
+      "charadesHint": "act out celebrating differences",
+      "passwordHint": "uniqueness"
+    },
+    {
+      "id": "asd-card-14",
+      "word": "Empathy",
+      "tabooWords": [
+        "understanding",
+        "compassion",
+        "sympathy",
+        "kindness"
+      ],
+      "charadesHint": "mimic putting oneself in others' shoes",
+      "passwordHint": "connection"
+    },
+    {
+      "id": "asd-card-15",
+      "word": "Inclusion",
+      "tabooWords": [
+        "acceptance",
+        "welcome",
+        "belonging",
+        "participation"
+      ],
+      "charadesHint": "act out creating a sense of belonging",
+      "passwordHint": "togetherness"
+    }
+  ]
+}
