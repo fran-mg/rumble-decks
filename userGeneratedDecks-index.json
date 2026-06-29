@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "baseball",
+      "name": "Baseball",
+      "category": "Sports",
+      "description": "Step up to the plate and test your knowledge of America's favorite pastime",
+      "icon": "Football",
+      "color": "#3498db",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/baseball.json",
+      "cardCount": 63
+    },
+    {
       "id": "cook",
       "name": "Cook",
       "category": "Lifestyle",
