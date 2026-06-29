@@ -1,0 +1,430 @@
+{
+  "id": "act-it-out",
+  "name": "Act It Out",
+  "category": "Performance",
+  "description": "No talking, no props — just your body! Act out these words and phrases for your team.",
+  "difficulty": "Medium",
+  "tags": ["charades", "physical", "performance", "acting", "party"],
+  "cards": [
+    {
+      "id": "aio-001",
+      "word": "SWIMMING",
+      "tabooWords": [],
+      "charadesHint": "Move your arms in a breaststroke or front crawl motion through the air",
+      "passwordHint": "strokes"
+    },
+    {
+      "id": "aio-002",
+      "word": "EATING SPAGHETTI",
+      "tabooWords": [],
+      "charadesHint": "Mime twirling a fork and slurping long noodles into your mouth",
+      "passwordHint": "slurp"
+    },
+    {
+      "id": "aio-003",
+      "word": "TYING SHOELACES",
+      "tabooWords": [],
+      "charadesHint": "Crouch down and mime looping and tying laces on your shoe",
+      "passwordHint": "knot"
+    },
+    {
+      "id": "aio-004",
+      "word": "PLAYING GUITAR",
+      "tabooWords": [],
+      "charadesHint": "Strum an imaginary guitar and move your fingers along an invisible fretboard",
+      "passwordHint": "strum"
+    },
+    {
+      "id": "aio-005",
+      "word": "BRUSHING TEETH",
+      "tabooWords": [],
+      "charadesHint": "Mime holding a toothbrush and scrubbing back and forth across your teeth",
+      "passwordHint": "bristles"
+    },
+    {
+      "id": "aio-006",
+      "word": "ROWING A BOAT",
+      "tabooWords": [],
+      "charadesHint": "Sit down and mime pulling oars through water on both sides",
+      "passwordHint": "oars"
+    },
+    {
+      "id": "aio-007",
+      "word": "TAKING A SELFIE",
+      "tabooWords": [],
+      "charadesHint": "Hold an imaginary phone at arm's length, smile, and press the shutter button",
+      "passwordHint": "pose"
+    },
+    {
+      "id": "aio-008",
+      "word": "WEIGHTLIFTING",
+      "tabooWords": [],
+      "charadesHint": "Mime gripping a heavy barbell, straining to lift it overhead, then dropping it",
+      "passwordHint": "barbell"
+    },
+    {
+      "id": "aio-009",
+      "word": "SNEEZING",
+      "tabooWords": [],
+      "charadesHint": "Build up with a slow inhale, tilt head back, then explode forward dramatically",
+      "passwordHint": "achoo"
+    },
+    {
+      "id": "aio-010",
+      "word": "OPENING A JAR",
+      "tabooWords": [],
+      "charadesHint": "Grip an imaginary jar with one hand and struggle to twist the lid off with the other",
+      "passwordHint": "lid"
+    },
+    {
+      "id": "aio-011",
+      "word": "WALKING A DOG",
+      "tabooWords": [],
+      "charadesHint": "Hold an imaginary lead that keeps tugging you forward unexpectedly",
+      "passwordHint": "lead"
+    },
+    {
+      "id": "aio-012",
+      "word": "TEXTING",
+      "tabooWords": [],
+      "charadesHint": "Hold an imaginary phone and rapidly tap both thumbs on the screen",
+      "passwordHint": "thumbs"
+    },
+    {
+      "id": "aio-013",
+      "word": "RIDING A HORSE",
+      "tabooWords": [],
+      "charadesHint": "Bounce up and down rhythmically while holding imaginary reins and clicking your tongue",
+      "passwordHint": "reins"
+    },
+    {
+      "id": "aio-014",
+      "word": "SNORING",
+      "tabooWords": [],
+      "charadesHint": "Mime lying down asleep, then make exaggerated deep breathing and snoring motions",
+      "passwordHint": "zzzz"
+    },
+    {
+      "id": "aio-015",
+      "word": "PLAYING TENNIS",
+      "tabooWords": [],
+      "charadesHint": "Swing an imaginary racket, track an invisible ball, and pivot side to side on the court",
+      "passwordHint": "racket"
+    },
+    {
+      "id": "aio-016",
+      "word": "IRONING CLOTHES",
+      "tabooWords": [],
+      "charadesHint": "Lay out an imaginary garment on a flat surface and slide a heavy iron back and forth",
+      "passwordHint": "crease"
+    },
+    {
+      "id": "aio-017",
+      "word": "CLIMBING A LADDER",
+      "tabooWords": [],
+      "charadesHint": "Step your feet alternately and grab upward rungs with your hands, looking nervous below",
+      "passwordHint": "rungs"
+    },
+    {
+      "id": "aio-018",
+      "word": "WRAPPING A PRESENT",
+      "tabooWords": [],
+      "charadesHint": "Mime placing a box on paper, folding the edges, pulling tape, and tying a bow",
+      "passwordHint": "ribbon"
+    },
+    {
+      "id": "aio-019",
+      "word": "PAINTING A WALL",
+      "tabooWords": [],
+      "charadesHint": "Dip an imaginary roller in a tray and sweep it up and down a large invisible wall surface",
+      "passwordHint": "roller"
+    },
+    {
+      "id": "aio-020",
+      "word": "CHOPPING VEGETABLES",
+      "tabooWords": [],
+      "charadesHint": "Curl your fingers safely and mime rapidly chopping down with a knife on a board",
+      "passwordHint": "chop"
+    },
+    {
+      "id": "aio-021",
+      "word": "DOING YOGA",
+      "tabooWords": [],
+      "charadesHint": "Move slowly into a warrior pose, then a tree pose with arms raised and one leg up",
+      "passwordHint": "pose"
+    },
+    {
+      "id": "aio-022",
+      "word": "PLAYING DRUMS",
+      "tabooWords": [],
+      "charadesHint": "Strike imaginary cymbals and drums alternately with both hands and a foot on the kick pedal",
+      "passwordHint": "cymbals"
+    },
+    {
+      "id": "aio-023",
+      "word": "CASTING A FISHING ROD",
+      "tabooWords": [],
+      "charadesHint": "Flick a rod back over your shoulder and then cast forward, waiting patiently for a bite",
+      "passwordHint": "cast"
+    },
+    {
+      "id": "aio-024",
+      "word": "BUILDING A SANDCASTLE",
+      "tabooWords": [],
+      "charadesHint": "Kneel down, pack imaginary sand into a bucket, flip it over, and carefully decorate the top",
+      "passwordHint": "bucket"
+    },
+    {
+      "id": "aio-025",
+      "word": "EATING AN ICE CREAM",
+      "tabooWords": [],
+      "charadesHint": "Hold an imaginary cone and lick around it quickly before it drips down your hand",
+      "passwordHint": "lick"
+    },
+    {
+      "id": "aio-026",
+      "word": "CONDUCTING AN ORCHESTRA",
+      "tabooWords": [],
+      "charadesHint": "Stand tall, raise a baton, and sweep your arms in wide, expressive arcs in all directions",
+      "passwordHint": "baton"
+    },
+    {
+      "id": "aio-027",
+      "word": "KNITTING",
+      "tabooWords": [],
+      "charadesHint": "Hold two imaginary needles and loop yarn over them repeatedly in a rhythmic motion",
+      "passwordHint": "needles"
+    },
+    {
+      "id": "aio-028",
+      "word": "SKATEBOARDING",
+      "tabooWords": [],
+      "charadesHint": "Stand sideways, push off with one foot, crouch to turn, and mime a jump trick",
+      "passwordHint": "kickflip"
+    },
+    {
+      "id": "aio-029",
+      "word": "GIVING A MASSAGE",
+      "tabooWords": [],
+      "charadesHint": "Knead and press down rhythmically on an imaginary person's back and shoulders",
+      "passwordHint": "knead"
+    },
+    {
+      "id": "aio-030",
+      "word": "MAKING PIZZA DOUGH",
+      "tabooWords": [],
+      "charadesHint": "Punch and flatten an imaginary dough ball, then spin it in the air above your head",
+      "passwordHint": "toss"
+    },
+    {
+      "id": "aio-031",
+      "word": "JUMPING ON A TRAMPOLINE",
+      "tabooWords": [],
+      "charadesHint": "Bounce with increasing height, bend your knees on landing, and throw in a seat drop",
+      "passwordHint": "bounce"
+    },
+    {
+      "id": "aio-032",
+      "word": "PLAYING CHESS",
+      "tabooWords": [],
+      "charadesHint": "Study an imaginary board intensely, pick up a piece with two fingers, and place it carefully",
+      "passwordHint": "checkmate"
+    },
+    {
+      "id": "aio-033",
+      "word": "CHANGING A TYRE",
+      "tabooWords": [],
+      "charadesHint": "Kneel beside a car wheel, loosen bolts, pull the flat tyre off, and wrestle a new one on",
+      "passwordHint": "jack"
+    },
+    {
+      "id": "aio-034",
+      "word": "PUTTING ON MAKEUP",
+      "tabooWords": [],
+      "charadesHint": "Look in an imaginary mirror and apply mascara, lipstick, and blush with careful precision",
+      "passwordHint": "mascara"
+    },
+    {
+      "id": "aio-035",
+      "word": "SURFING",
+      "tabooWords": [],
+      "charadesHint": "Lie flat paddling, then jump up sideways with arms out, riding an invisible wave",
+      "passwordHint": "wave"
+    },
+    {
+      "id": "aio-036",
+      "word": "BAKING A CAKE",
+      "tabooWords": [],
+      "charadesHint": "Mix imaginary batter in a bowl, pour it into a tin, slide it into the oven, and wait excitedly",
+      "passwordHint": "batter"
+    },
+    {
+      "id": "aio-037",
+      "word": "PLAYING BASKETBALL",
+      "tabooWords": [],
+      "charadesHint": "Dribble an imaginary ball, pivot, and leap to shoot it through a hoop above your head",
+      "passwordHint": "dribble"
+    },
+    {
+      "id": "aio-038",
+      "word": "ROCK CLIMBING",
+      "tabooWords": [],
+      "charadesHint": "Reach up to grip an invisible ledge, find footholds with your feet, and haul yourself upward",
+      "passwordHint": "grip"
+    },
+    {
+      "id": "aio-039",
+      "word": "WATERING PLANTS",
+      "tabooWords": [],
+      "charadesHint": "Carry a heavy imaginary watering can and tilt it gently over each plant in turn",
+      "passwordHint": "sprinkle"
+    },
+    {
+      "id": "aio-040",
+      "word": "HULA HOOPING",
+      "tabooWords": [],
+      "charadesHint": "Circle your hips in wide rhythmic loops as if keeping an invisible hoop spinning",
+      "passwordHint": "hips"
+    },
+    {
+      "id": "aio-041",
+      "word": "SHAKING HANDS",
+      "tabooWords": [],
+      "charadesHint": "Extend your right hand forward, grip an invisible hand firmly, and pump it up and down",
+      "passwordHint": "grip"
+    },
+    {
+      "id": "aio-042",
+      "word": "BLOWING UP A BALLOON",
+      "tabooWords": [],
+      "charadesHint": "Hold a small imaginary balloon, take a deep breath, and blow into it repeatedly until it's huge",
+      "passwordHint": "inflate"
+    },
+    {
+      "id": "aio-043",
+      "word": "PLAYING FOOTBALL",
+      "tabooWords": [],
+      "charadesHint": "Dribble an invisible ball with your feet, dodge, and kick it hard into the goal",
+      "passwordHint": "kick"
+    },
+    {
+      "id": "aio-044",
+      "word": "PUSHING A PRAM",
+      "tabooWords": [],
+      "charadesHint": "Grip imaginary handles and push forward, occasionally stopping to rock it gently",
+      "passwordHint": "buggy"
+    },
+    {
+      "id": "aio-045",
+      "word": "FALLING ASLEEP IN MEETING",
+      "tabooWords": [],
+      "charadesHint": "Sit upright, nod your head slowly, and jolt awake with wide eyes repeatedly",
+      "passwordHint": "nod"
+    },
+    {
+      "id": "aio-046",
+      "word": "SKIPPING ROPE",
+      "tabooWords": [],
+      "charadesHint": "Spin imaginary handles at your sides and jump rhythmically as the rope passes under your feet",
+      "passwordHint": "jump"
+    },
+    {
+      "id": "aio-047",
+      "word": "STIRRING A GIANT POT",
+      "tabooWords": [],
+      "charadesHint": "Lean over an enormous invisible cauldron and stir with huge effort, wiping your brow",
+      "passwordHint": "cauldron"
+    },
+    {
+      "id": "aio-048",
+      "word": "DEALING CARDS",
+      "tabooWords": [],
+      "charadesHint": "Hold an imaginary deck and flick cards one by one to different people around the table",
+      "passwordHint": "shuffle"
+    },
+    {
+      "id": "aio-049",
+      "word": "DOING THE MOONWALK",
+      "tabooWords": [],
+      "charadesHint": "Glide backward smoothly while appearing to walk forward, channelling your inner pop legend",
+      "passwordHint": "glide"
+    },
+    {
+      "id": "aio-050",
+      "word": "MILKING A COW",
+      "tabooWords": [],
+      "charadesHint": "Crouch beside an imaginary cow and squeeze and pull downward alternately with both hands",
+      "passwordHint": "udder"
+    },
+    {
+      "id": "aio-051",
+      "word": "PLAYING PING PONG",
+      "tabooWords": [],
+      "charadesHint": "Grip a tiny imaginary paddle and bat a fast invisible ball back and forth across a low table",
+      "passwordHint": "paddle"
+    },
+    {
+      "id": "aio-052",
+      "word": "SHOVELLING SNOW",
+      "tabooWords": [],
+      "charadesHint": "Plunge an imaginary shovel into deep snow, scoop it up, and hurl it to the side repeatedly",
+      "passwordHint": "shovel"
+    },
+    {
+      "id": "aio-053",
+      "word": "ARCHERY",
+      "tabooWords": [],
+      "charadesHint": "Pull back an imaginary bowstring slowly, take aim with one eye closed, and release",
+      "passwordHint": "bullseye"
+    },
+    {
+      "id": "aio-054",
+      "word": "PUTTING ON A WETSUIT",
+      "tabooWords": [],
+      "charadesHint": "Hop on one leg pulling up tight rubber legs, wrestle your arms in, and zip up the back",
+      "passwordHint": "rubber"
+    },
+    {
+      "id": "aio-055",
+      "word": "CONDUCTING A MAGIC TRICK",
+      "tabooWords": [],
+      "charadesHint": "Show both hands empty, make a flourish, and produce an imaginary object from nowhere",
+      "passwordHint": "abracadabra"
+    },
+    {
+      "id": "aio-056",
+      "word": "TYPING FRANTICALLY",
+      "tabooWords": [],
+      "charadesHint": "Lean urgently over an invisible keyboard and hammer keys at frantic speed, looking panicked",
+      "passwordHint": "deadline"
+    },
+    {
+      "id": "aio-057",
+      "word": "PARALLEL PARKING",
+      "tabooWords": [],
+      "charadesHint": "Sit in an imaginary car seat, grip the wheel, glance in mirrors, and slowly reverse and angle in",
+      "passwordHint": "reverse"
+    },
+    {
+      "id": "aio-058",
+      "word": "TIGHTROPE WALKING",
+      "tabooWords": [],
+      "charadesHint": "Extend arms for balance and walk heel-to-toe along an invisible thin line, wobbling nervously",
+      "passwordHint": "balance"
+    },
+    {
+      "id": "aio-059",
+      "word": "PLAYING AIR HOCKEY",
+      "tabooWords": [],
+      "charadesHint": "Grip an imaginary mallet and bat a floating puck back and forth across a frictionless table",
+      "passwordHint": "puck"
+    },
+    {
+      "id": "aio-060",
+      "word": "DIGGING A HOLE",
+      "tabooWords": [],
+      "charadesHint": "Push a spade into the ground with your foot, lever earth up, and toss it behind you repeatedly",
+      "passwordHint": "spade"
+    }
+  ]
+}

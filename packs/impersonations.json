@@ -1,0 +1,430 @@
+{
+  "id": "impersonations",
+  "name": "Impersonations",
+  "category": "Performance",
+  "description": "Become someone else! Impersonate these famous faces, characters, and personalities — no names allowed, just your best impression.",
+  "difficulty": "Hard",
+  "tags": ["impressions", "celebrity", "performance", "acting", "party"],
+  "cards": [
+    {
+      "id": "imp-001",
+      "word": "THE QUEEN",
+      "tabooWords": [],
+      "charadesHint": "Adopt a perfectly upright posture, wave slowly with a cupped hand, and speak in clipped, precise received pronunciation",
+      "passwordHint": "regal"
+    },
+    {
+      "id": "imp-002",
+      "word": "DONALD TRUMP",
+      "tabooWords": [],
+      "charadesHint": "Pout, pinch your fingers together, flick your hair dramatically, and speak in short punchy superlatives",
+      "passwordHint": "tremendous"
+    },
+    {
+      "id": "imp-003",
+      "word": "ARNOLD SCHWARZENEGGER",
+      "tabooWords": [],
+      "charadesHint": "Flex your muscles, speak in a thick Austrian accent, and deliver a robotic one-liner with deadpan expression",
+      "passwordHint": "terminator"
+    },
+    {
+      "id": "imp-004",
+      "word": "MORGAN FREEMAN",
+      "tabooWords": [],
+      "charadesHint": "Slow your speech to a deeply wise, warm drawl and narrate whatever is happening around you as if it's a documentary",
+      "passwordHint": "narrator"
+    },
+    {
+      "id": "imp-005",
+      "word": "DAVID ATTENBOROUGH",
+      "tabooWords": [],
+      "charadesHint": "Whisper in hushed reverence as you describe a mundane object nearby as if it's an exotic creature in the wild",
+      "passwordHint": "nature"
+    },
+    {
+      "id": "imp-006",
+      "word": "HOMER SIMPSON",
+      "tabooWords": [],
+      "charadesHint": "Groan longingly about food, slap your own forehead, and mutter a slow, dimwitted lament",
+      "passwordHint": "doughnut"
+    },
+    {
+      "id": "imp-007",
+      "word": "YODA",
+      "tabooWords": [],
+      "charadesHint": "Speak in a tiny, gravelly voice and rearrange your sentence so the verb comes last, you must",
+      "passwordHint": "force"
+    },
+    {
+      "id": "imp-008",
+      "word": "DONALD DUCK",
+      "tabooWords": [],
+      "charadesHint": "Pull your lips forward, clench your jaw, and speak in an incomprehensible nasally quacking rage",
+      "passwordHint": "quack"
+    },
+    {
+      "id": "imp-009",
+      "word": "SEAN CONNERY",
+      "tabooWords": [],
+      "charadesHint": "Roll every S into a thick Scottish purr and deliver a suave, unhurried line with total confidence",
+      "passwordHint": "shaken"
+    },
+    {
+      "id": "imp-010",
+      "word": "BORAT",
+      "tabooWords": [],
+      "charadesHint": "Greet everyone with exaggerated enthusiasm in a thick Kazakh accent and make an inappropriate cultural observation",
+      "passwordHint": "Kazakhstan"
+    },
+    {
+      "id": "imp-011",
+      "word": "GOLLUM",
+      "tabooWords": [],
+      "charadesHint": "Crouch low, stroke an imaginary precious object, hiss softly, and switch between adoration and paranoid suspicion",
+      "passwordHint": "precious"
+    },
+    {
+      "id": "imp-012",
+      "word": "MICHAEL JACKSON",
+      "tabooWords": [],
+      "charadesHint": "Grab your jacket collar, hee-hee, spin, and finish with a sharp moonwalk glide and a chin-down pose",
+      "passwordHint": "moonwalk"
+    },
+    {
+      "id": "imp-013",
+      "word": "THE GODFATHER",
+      "tabooWords": [],
+      "charadesHint": "Stroke an imaginary cat in your lap, speak in a slow raspy murmur, and make someone an offer they cannot refuse",
+      "passwordHint": "offer"
+    },
+    {
+      "id": "imp-014",
+      "word": "CAPTAIN JACK SPARROW",
+      "tabooWords": [],
+      "charadesHint": "Sway from side to side, gesture wildly with both hands, and deliver a rambling complaint about rum",
+      "passwordHint": "rum"
+    },
+    {
+      "id": "imp-015",
+      "word": "VLADIMIR PUTIN",
+      "tabooWords": [],
+      "charadesHint": "Sit with eerie stillness and barely restrained authority, speak in flat emotionless Russian-accented statements",
+      "passwordHint": "Kremlin"
+    },
+    {
+      "id": "imp-016",
+      "word": "DRACULA",
+      "tabooWords": [],
+      "charadesHint": "Wrap an invisible cloak around yourself, bare your teeth, and speak in a dramatic Transylvanian drawl",
+      "passwordHint": "vampire"
+    },
+    {
+      "id": "imp-017",
+      "word": "GORDON RAMSAY",
+      "tabooWords": [],
+      "charadesHint": "Lean over an imaginary plate with barely contained fury, squint, and deliver a blistering critique in a Scottish-London blend",
+      "passwordHint": "donkey"
+    },
+    {
+      "id": "imp-018",
+      "word": "SHAGGY FROM SCOOBY-DOO",
+      "tabooWords": [],
+      "charadesHint": "Slouch, look terrified, point behind you, and speak in a wavering surfer-stoner drawl with your best friend's name",
+      "passwordHint": "zoinks"
+    },
+    {
+      "id": "imp-019",
+      "word": "MARILYN MONROE",
+      "tabooWords": [],
+      "charadesHint": "Hold down an imaginary billowing skirt, breathe in a whispery breathy voice, and bat your lashes dramatically",
+      "passwordHint": "birthday"
+    },
+    {
+      "id": "imp-020",
+      "word": "DARTH VADER",
+      "tabooWords": [],
+      "charadesHint": "Stand tall with slow mechanical breathing, extend one hand slowly, and deliver a line about being someone's father",
+      "passwordHint": "breathe"
+    },
+    {
+      "id": "imp-021",
+      "word": "ALI G",
+      "tabooWords": [],
+      "charadesHint": "Sit sideways, throw up a peace sign, and question an expert earnestly on a topic you clearly don't understand",
+      "passwordHint": "respekt"
+    },
+    {
+      "id": "imp-022",
+      "word": "THE QUEEN MUM",
+      "tabooWords": [],
+      "charadesHint": "Sway slightly with a beaming warm smile, wave with a tiny gloved hand, and ask cheerily about nothing in particular",
+      "passwordHint": "gin"
+    },
+    {
+      "id": "imp-023",
+      "word": "CRISTIANO RONALDO",
+      "tabooWords": [],
+      "charadesHint": "Stop dramatically mid-run, plant your feet wide, throw your head back, and shout your own name triumphantly",
+      "passwordHint": "Siii"
+    },
+    {
+      "id": "imp-024",
+      "word": "BEAR GRYLLS",
+      "tabooWords": [],
+      "charadesHint": "Crawl through imaginary undergrowth, sip from a revolting source, and calmly explain why surviving is completely fine",
+      "passwordHint": "survive"
+    },
+    {
+      "id": "imp-025",
+      "word": "MARGE SIMPSON",
+      "tabooWords": [],
+      "charadesHint": "Pat the top of your hair as if adjusting a towering blue beehive and murmur a long-suffering maternal sigh",
+      "passwordHint": "hmm"
+    },
+    {
+      "id": "imp-026",
+      "word": "JAMES BOND",
+      "tabooWords": [],
+      "charadesHint": "Straighten your cuffs, introduce yourself surname first then full name, and order a drink with exact specifications",
+      "passwordHint": "shaken"
+    },
+    {
+      "id": "imp-027",
+      "word": "BORIS JOHNSON",
+      "tabooWords": [],
+      "charadesHint": "Ruffle your hair frantically, bluster a half-finished classical reference, and look cheerfully unaware of any consequences",
+      "passwordHint": "cripes"
+    },
+    {
+      "id": "imp-028",
+      "word": "MICHAEL CAINE",
+      "tabooWords": [],
+      "charadesHint": "Deliver a line in an unhurried, flat East London accent, pausing between each word for maximum understated effect",
+      "passwordHint": "cockney"
+    },
+    {
+      "id": "imp-029",
+      "word": "BABY SHARK",
+      "tabooWords": [],
+      "charadesHint": "Open and close your hands like a puppet shark jaw and repeat a catchy tune with increasing family members",
+      "passwordHint": "doo-doo"
+    },
+    {
+      "id": "imp-030",
+      "word": "THE ROCK",
+      "tabooWords": [],
+      "charadesHint": "Raise one eyebrow as high as possible, fold your arms over an enormous chest, and turn slowly to face your opponent",
+      "passwordHint": "eyebrow"
+    },
+    {
+      "id": "imp-031",
+      "word": "TONY SOPRANO",
+      "tabooWords": [],
+      "charadesHint": "Sit heavily, gesture with your hands, speak in a thick Jersey drawl, and look offended by a perceived slight",
+      "passwordHint": "gabagool"
+    },
+    {
+      "id": "imp-032",
+      "word": "POSH SPICE",
+      "tabooWords": [],
+      "charadesHint": "Stand absolutely rigid, pout without smiling, and move only your eyelids while everyone dances around you",
+      "passwordHint": "pout"
+    },
+    {
+      "id": "imp-033",
+      "word": "SHERLOCK HOLMES",
+      "tabooWords": [],
+      "charadesHint": "Steeple your fingers, stare intensely at a random object, and rattle off a chain of deductions at brilliant speed",
+      "passwordHint": "deduction"
+    },
+    {
+      "id": "imp-034",
+      "word": "ELMO",
+      "tabooWords": [],
+      "charadesHint": "Speak in a high, joyful squeak, refer to yourself in third person, and laugh uncontrollably at everything",
+      "passwordHint": "tickle"
+    },
+    {
+      "id": "imp-035",
+      "word": "CROCODILE DUNDEE",
+      "tabooWords": [],
+      "charadesHint": "Squint at someone with relaxed Australian calm and gesture at a comically large imaginary knife",
+      "passwordHint": "knife"
+    },
+    {
+      "id": "imp-036",
+      "word": "GANDALF",
+      "tabooWords": [],
+      "charadesHint": "Plant a staff firmly, draw yourself to full height, and declare in thunderous tones that something shall not pass",
+      "passwordHint": "pass"
+    },
+    {
+      "id": "imp-037",
+      "word": "LADY GAGA",
+      "tabooWords": [],
+      "charadesHint": "Strike an extravagant avant-garde pose, perform a line of a pop anthem with total vocal commitment",
+      "passwordHint": "poker face"
+    },
+    {
+      "id": "imp-038",
+      "word": "SCOOBY-DOO",
+      "tabooWords": [],
+      "charadesHint": "Lumber around on all fours, whimper at imaginary ghosts, and mangle every word with a dopey canine drawl",
+      "passwordHint": "raggy"
+    },
+    {
+      "id": "imp-039",
+      "word": "LOUIS THEROUX",
+      "tabooWords": [],
+      "charadesHint": "Lean in with soft genuine curiosity, ask a surprisingly awkward question in a mild-mannered voice, and nod slowly",
+      "passwordHint": "documentary"
+    },
+    {
+      "id": "imp-040",
+      "word": "MR T",
+      "tabooWords": [],
+      "charadesHint": "Cross your arms, drape yourself in imaginary gold chains, and growl that you pity someone",
+      "passwordHint": "pity"
+    },
+    {
+      "id": "imp-041",
+      "word": "NIGELLA LAWSON",
+      "tabooWords": [],
+      "charadesHint": "Pick up an imaginary spoon, look directly at the camera, and describe tasting something with breathless sensual delight",
+      "passwordHint": "luscious"
+    },
+    {
+      "id": "imp-042",
+      "word": "KERMIT THE FROG",
+      "tabooWords": [],
+      "charadesHint": "Let your wrists dangle, look slightly anxious and exasperated, and launch into a cheerful speech that descends into panic",
+      "passwordHint": "easy"
+    },
+    {
+      "id": "imp-043",
+      "word": "WINSTON CHURCHILL",
+      "tabooWords": [],
+      "charadesHint": "Stand with bulldog jowls, flash a V-sign, and deliver a short, defiant speech with rumbling gravitas",
+      "passwordHint": "victory"
+    },
+    {
+      "id": "imp-044",
+      "word": "ELON MUSK",
+      "tabooWords": [],
+      "charadesHint": "Stare blankly, announce a plan to colonise another planet, and laugh slightly too late at your own joke",
+      "passwordHint": "Mars"
+    },
+    {
+      "id": "imp-045",
+      "word": "MRS DOUBTFIRE",
+      "tabooWords": [],
+      "charadesHint": "Adopt a cheery Scottish-nanny demeanour, bustle around tidying, and drop into a gruff male voice accidentally",
+      "passwordHint": "nanny"
+    },
+    {
+      "id": "imp-046",
+      "word": "OZZY OSBOURNE",
+      "tabooWords": [],
+      "charadesHint": "Shuffle forward with head down, mumble incomprehensibly, look confused, and suddenly burst into a metal shriek",
+      "passwordHint": "Sharon"
+    },
+    {
+      "id": "imp-047",
+      "word": "ALAN PARTRIDGE",
+      "tabooWords": [],
+      "charadesHint": "Straighten your tie, declare something minor to be a massive achievement, and pull a rigid television presenter smile",
+      "passwordHint": "jurassic"
+    },
+    {
+      "id": "imp-048",
+      "word": "JACK SPARROW",
+      "tabooWords": [],
+      "charadesHint": "Sway unpredictably, gesture grandly with ringed fingers, and explain a convoluted plan involving rum and ships",
+      "passwordHint": "savvy"
+    },
+    {
+      "id": "imp-049",
+      "word": "STEVE IRWIN",
+      "tabooWords": [],
+      "charadesHint": "Crouch low with breathless Australian excitement, reach gently for an invisible dangerous animal, and exclaim its beauty",
+      "passwordHint": "crikey"
+    },
+    {
+      "id": "imp-050",
+      "word": "MADONNA",
+      "tabooWords": [],
+      "charadesHint": "Strike a provocative pose with pointed collar, deliver a verse in a mid-Atlantic accent, and reinvent yourself mid-song",
+      "passwordHint": "material"
+    },
+    {
+      "id": "imp-051",
+      "word": "BASIL FAWLTY",
+      "tabooWords": [],
+      "charadesHint": "Fawn obsequiously over one guest, then turn and silently scream in barely suppressed fury at absolutely everything",
+      "passwordHint": "Manuel"
+    },
+    {
+      "id": "imp-052",
+      "word": "BEYONCÉ",
+      "tabooWords": [],
+      "charadesHint": "Stand powerfully, belt a note at full force, snap a hand to a hip, and command the room like a stadium",
+      "passwordHint": "flawless"
+    },
+    {
+      "id": "imp-053",
+      "word": "KEVIN HART",
+      "tabooWords": [],
+      "charadesHint": "Lean back laughing at yourself, then launch into an increasingly escalating story about something embarrassing happening",
+      "passwordHint": "short"
+    },
+    {
+      "id": "imp-054",
+      "word": "MISS PIGGY",
+      "tabooWords": [],
+      "charadesHint": "Bat your eyelashes with theatrical vanity, flick imaginary hair, and karate chop the air when disrespected",
+      "passwordHint": "moi"
+    },
+    {
+      "id": "imp-055",
+      "word": "SHERYL CROW",
+      "tabooWords": [],
+      "charadesHint": "Strum an invisible acoustic guitar with laid-back cool and deliver a raspy sun-soaked vocal about simple pleasures",
+      "passwordHint": "soak"
+    },
+    {
+      "id": "imp-056",
+      "word": "SACHA BARON COHEN",
+      "tabooWords": [],
+      "charadesHint": "Adopt a completely different character mid-scene with a new accent, remain utterly committed, and ask a deeply uncomfortable question",
+      "passwordHint": "character"
+    },
+    {
+      "id": "imp-057",
+      "word": "PADDINGTON BEAR",
+      "tabooWords": [],
+      "charadesHint": "Stand very still in an imaginary duffel coat, produce a marmalade sandwich from your hat, and give a hard stare",
+      "passwordHint": "marmalade"
+    },
+    {
+      "id": "imp-058",
+      "word": "ROBBIE WILLIAMS",
+      "tabooWords": [],
+      "charadesHint": "Open your arms to an invisible stadium crowd, tear up slightly, and sing a big triumphant chorus with full swagger",
+      "passwordHint": "angels"
+    },
+    {
+      "id": "imp-059",
+      "word": "STORMZY",
+      "tabooWords": [],
+      "charadesHint": "Lean into the mic, deliver a rapid grime verse with precise flow, then switch to a soulful hook with arms wide",
+      "passwordHint": "grime"
+    },
+    {
+      "id": "imp-060",
+      "word": "THE QUEEN ELIZABETH II",
+      "tabooWords": [],
+      "charadesHint": "Sit upright with serene dignity, speak in a crisp clipped accent about duty and service, and smile warmly but with total reserve",
+      "passwordHint": "duty"
+    }
+  ]
+}

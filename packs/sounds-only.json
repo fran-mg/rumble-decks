@@ -1,0 +1,430 @@
+{
+  "id": "sounds-only",
+  "name": "Sounds Only",
+  "category": "Creative",
+  "description": "No words allowed — make the sound and let your team guess! Noises, animals, machines, and more.",
+  "difficulty": "Medium",
+  "tags": ["sounds", "noises", "creative", "fun", "audio"],
+  "cards": [
+    {
+      "id": "so-001",
+      "word": "THUNDER",
+      "tabooWords": [],
+      "charadesHint": "Make a deep rolling rumbling sound that grows louder and then crashes suddenly",
+      "passwordHint": "storm-rumble"
+    },
+    {
+      "id": "so-002",
+      "word": "POLICE SIREN",
+      "tabooWords": [],
+      "charadesHint": "Make the classic two-tone alternating wail of an emergency vehicle speeding past",
+      "passwordHint": "nee-naw"
+    },
+    {
+      "id": "so-003",
+      "word": "BABY CRYING",
+      "tabooWords": [],
+      "charadesHint": "Make the escalating wail of a very unhappy infant — start quiet, build to full volume",
+      "passwordHint": "infant-wail"
+    },
+    {
+      "id": "so-004",
+      "word": "DOOR CREAKING",
+      "tabooWords": [],
+      "charadesHint": "Make the long slow groan of a heavy old door opening very slowly in the dark",
+      "passwordHint": "haunted-hinge"
+    },
+    {
+      "id": "so-005",
+      "word": "KETTLE BOILING",
+      "tabooWords": [],
+      "charadesHint": "Make the rising hiss and rumble that builds until it clicks off",
+      "passwordHint": "steam-build-up"
+    },
+    {
+      "id": "so-006",
+      "word": "DOG BARKING",
+      "tabooWords": [],
+      "charadesHint": "Make the sharp repetitive bark of an excited medium-sized dog",
+      "passwordHint": "woof-woof"
+    },
+    {
+      "id": "so-007",
+      "word": "CAT PURRING",
+      "tabooWords": [],
+      "charadesHint": "Make the low continuous rumbling vibration of a very contented cat on your lap",
+      "passwordHint": "contented-rumble"
+    },
+    {
+      "id": "so-008",
+      "word": "MOTORCYCLE REVVING",
+      "tabooWords": [],
+      "charadesHint": "Make the roaring throttle of a motorcycle engine building up to full speed",
+      "passwordHint": "engine-roar"
+    },
+    {
+      "id": "so-009",
+      "word": "GLASS SMASHING",
+      "tabooWords": [],
+      "charadesHint": "Make the sharp explosive crash of a glass hitting a tiled floor and shattering",
+      "passwordHint": "shatter-crash"
+    },
+    {
+      "id": "so-010",
+      "word": "SNORING",
+      "tabooWords": [],
+      "charadesHint": "Make the deep rhythmic rasping rumble of someone in deep heavy sleep",
+      "passwordHint": "sleeping-rasp"
+    },
+    {
+      "id": "so-011",
+      "word": "ZIPPER",
+      "tabooWords": [],
+      "charadesHint": "Make the rapid rattling buzz of a zip being quickly pulled open or shut",
+      "passwordHint": "zip-rattle"
+    },
+    {
+      "id": "so-012",
+      "word": "CLOCK TICKING",
+      "tabooWords": [],
+      "charadesHint": "Make the precise steady tick-tock of an old mechanical clock on a mantelpiece",
+      "passwordHint": "tick-tock"
+    },
+    {
+      "id": "so-013",
+      "word": "DRAIN GURGLING",
+      "tabooWords": [],
+      "charadesHint": "Make the final swirling glug of water disappearing down a plughole",
+      "passwordHint": "plughole-glug"
+    },
+    {
+      "id": "so-014",
+      "word": "HORSE GALLOPING",
+      "tabooWords": [],
+      "charadesHint": "Make the rhythmic four-beat clop of hooves at full gallop — getting faster and faster",
+      "passwordHint": "hooves-rhythm"
+    },
+    {
+      "id": "so-015",
+      "word": "WASHING MACHINE",
+      "tabooWords": [],
+      "charadesHint": "Make the rhythmic swoosh and slosh followed by the spinning roar of a spin cycle",
+      "passwordHint": "spin-cycle"
+    },
+    {
+      "id": "so-016",
+      "word": "CHAMPAGNE CORK POPPING",
+      "tabooWords": [],
+      "charadesHint": "Make the explosive POP followed by fizzing bubbling overflow",
+      "passwordHint": "celebration-pop"
+    },
+    {
+      "id": "so-017",
+      "word": "ELEPHANT TRUMPETING",
+      "tabooWords": [],
+      "charadesHint": "Make the magnificent blaring honk of an elephant raising its trunk",
+      "passwordHint": "trunk-blast"
+    },
+    {
+      "id": "so-018",
+      "word": "TYPEWRITER",
+      "tabooWords": [],
+      "charadesHint": "Make the rapid clatter and ding of keys striking paper ending with a carriage return",
+      "passwordHint": "clatter-ding"
+    },
+    {
+      "id": "so-019",
+      "word": "CROWD CHEERING",
+      "tabooWords": [],
+      "charadesHint": "Make the roar of a huge crowd reacting to something brilliant — building from silence to eruption",
+      "passwordHint": "stadium-roar"
+    },
+    {
+      "id": "so-020",
+      "word": "BEES BUZZING",
+      "tabooWords": [],
+      "charadesHint": "Make the continuous vibrating hum of a hive of bees all at once",
+      "passwordHint": "hive-hum"
+    },
+    {
+      "id": "so-021",
+      "word": "RAIN ON A WINDOW",
+      "tabooWords": [],
+      "charadesHint": "Make the soft pattering that builds to a drumming of rain hitting glass",
+      "passwordHint": "window-patter"
+    },
+    {
+      "id": "so-022",
+      "word": "FART",
+      "tabooWords": [],
+      "charadesHint": "Make the unmistakable sound — any variety is acceptable, creativity encouraged",
+      "passwordHint": "bottom-trumpet"
+    },
+    {
+      "id": "so-023",
+      "word": "BOWLING STRIKE",
+      "tabooWords": [],
+      "charadesHint": "Make the rolling rumble of a ball followed by the explosive crash of all ten pins",
+      "passwordHint": "pin-crash"
+    },
+    {
+      "id": "so-024",
+      "word": "OLD DIAL-UP INTERNET",
+      "tabooWords": [],
+      "charadesHint": "Make the full chaotic sequence — screech, static, squeal, handshake — of connecting to the internet in 1999",
+      "passwordHint": "modem-screech"
+    },
+    {
+      "id": "so-025",
+      "word": "WOLF HOWLING",
+      "tabooWords": [],
+      "charadesHint": "Make the mournful rising howl of a wolf under a full moon — long, haunting, powerful",
+      "passwordHint": "moon-howl"
+    },
+    {
+      "id": "so-026",
+      "word": "MICROPHONE FEEDBACK",
+      "tabooWords": [],
+      "charadesHint": "Make the piercing high-pitched screech of a mic held too close to a speaker",
+      "passwordHint": "mic-screech"
+    },
+    {
+      "id": "so-027",
+      "word": "FIZZY DRINK OPENING",
+      "tabooWords": [],
+      "charadesHint": "Make the sharp hiss and release of a carbonated can being cracked open",
+      "passwordHint": "can-hiss"
+    },
+    {
+      "id": "so-028",
+      "word": "VACUUM CLEANER",
+      "tabooWords": [],
+      "charadesHint": "Make the rising drone of a hoover sucking up everything in its path",
+      "passwordHint": "hoover-drone"
+    },
+    {
+      "id": "so-029",
+      "word": "FOGHORN",
+      "tabooWords": [],
+      "charadesHint": "Make the deep long mournful blast of a ship's foghorn disappearing into mist",
+      "passwordHint": "ship-horn"
+    },
+    {
+      "id": "so-030",
+      "word": "SNAKE HISSING",
+      "tabooWords": [],
+      "charadesHint": "Make the soft sustained sibilant hiss of a snake defending itself",
+      "passwordHint": "reptile-hiss"
+    },
+    {
+      "id": "so-031",
+      "word": "VELCRO",
+      "tabooWords": [],
+      "charadesHint": "Make the satisfying ripping tear of a strip of Velcro being pulled apart",
+      "passwordHint": "hook-loop-rip"
+    },
+    {
+      "id": "so-032",
+      "word": "HEARTBEAT",
+      "tabooWords": [],
+      "charadesHint": "Make the steady lub-dub beat of a resting heart — then speed it up for running",
+      "passwordHint": "lub-dub"
+    },
+    {
+      "id": "so-033",
+      "word": "CAR ALARM",
+      "tabooWords": [],
+      "charadesHint": "Make the alternating loop of a car alarm cycling through its various obnoxious sounds",
+      "passwordHint": "parking-alarm"
+    },
+    {
+      "id": "so-034",
+      "word": "RECORD SCRATCH",
+      "tabooWords": [],
+      "charadesHint": "Make the sudden jarring scratch and stop of a vinyl record being yanked",
+      "passwordHint": "vinyl-scratch"
+    },
+    {
+      "id": "so-035",
+      "word": "PIGEON COOING",
+      "tabooWords": [],
+      "charadesHint": "Make the soft repetitive low cooing of a pigeon doing its thing on a window ledge",
+      "passwordHint": "dove-coo"
+    },
+    {
+      "id": "so-036",
+      "word": "FIRE CRACKLING",
+      "tabooWords": [],
+      "charadesHint": "Make the warm irregular snap and pop of a real wood fire burning",
+      "passwordHint": "log-fire"
+    },
+    {
+      "id": "so-037",
+      "word": "DENTIST DRILL",
+      "tabooWords": [],
+      "charadesHint": "Make the high-pitched whirring drill that fills everyone with immediate dread",
+      "passwordHint": "tooth-drill"
+    },
+    {
+      "id": "so-038",
+      "word": "TRAIN ARRIVING AT A STATION",
+      "tabooWords": [],
+      "charadesHint": "Make the rush, screech, hiss of brakes, and the doors opening of a train pulling in",
+      "passwordHint": "platform-arrival"
+    },
+    {
+      "id": "so-039",
+      "word": "BUBBLE WRAP",
+      "tabooWords": [],
+      "charadesHint": "Make the satisfying rapid-fire popping of an entire sheet of bubble wrap",
+      "passwordHint": "pop-pop-pop"
+    },
+    {
+      "id": "so-040",
+      "word": "CHURCH BELLS",
+      "tabooWords": [],
+      "charadesHint": "Make the resonant slow clang of large bells ringing from a tower",
+      "passwordHint": "Sunday-bells"
+    },
+    {
+      "id": "so-041",
+      "word": "OWL HOOTING",
+      "tabooWords": [],
+      "charadesHint": "Make the ethereal echoing hoot of an owl in the quiet dark of night",
+      "passwordHint": "night-hoot"
+    },
+    {
+      "id": "so-042",
+      "word": "HELICOPTER",
+      "tabooWords": [],
+      "charadesHint": "Make the rhythmic thwop-thwop-thwop of rotor blades chopping through the air",
+      "passwordHint": "rotor-thwop"
+    },
+    {
+      "id": "so-043",
+      "word": "POPCORN POPPING",
+      "tabooWords": [],
+      "charadesHint": "Make the sporadic then accelerating rapid-fire pops of a microwave bag of popcorn",
+      "passwordHint": "cinema-pops"
+    },
+    {
+      "id": "so-044",
+      "word": "TOILET FLUSHING",
+      "tabooWords": [],
+      "charadesHint": "Make the rushing swirling whoosh of water evacuating a toilet bowl",
+      "passwordHint": "flush-whoosh"
+    },
+    {
+      "id": "so-045",
+      "word": "OCEAN WAVES",
+      "tabooWords": [],
+      "charadesHint": "Make the rhythmic rush and pull-back of waves on a shoreline — repeat slowly",
+      "passwordHint": "wave-rush"
+    },
+    {
+      "id": "so-046",
+      "word": "GAME SHOW WRONG ANSWER BUZZER",
+      "tabooWords": [],
+      "charadesHint": "Make the harsh flatulent BZZZT of a game show wrong answer sound",
+      "passwordHint": "wrong-answer-buzz"
+    },
+    {
+      "id": "so-047",
+      "word": "SWORD FIGHT",
+      "tabooWords": [],
+      "charadesHint": "Make the rapid clashing ring of metal on metal — back and forth, parry and thrust",
+      "passwordHint": "clashing-metal"
+    },
+    {
+      "id": "so-048",
+      "word": "STOMACH GROWLING",
+      "tabooWords": [],
+      "charadesHint": "Make the low gurgling growl of a very hungry stomach demanding to be fed",
+      "passwordHint": "hungry-belly"
+    },
+    {
+      "id": "so-049",
+      "word": "STARTING GUN",
+      "tabooWords": [],
+      "charadesHint": "Make the explosive sharp crack of a gun fired to start a race",
+      "passwordHint": "race-start"
+    },
+    {
+      "id": "so-050",
+      "word": "WHIP CRACKING",
+      "tabooWords": [],
+      "charadesHint": "Make the sharp supersonic snap of a whip cutting through the air",
+      "passwordHint": "sharp-snap"
+    },
+    {
+      "id": "so-051",
+      "word": "ACCORDION",
+      "tabooWords": [],
+      "charadesHint": "Make the wheeze and push-pull of a French accordion playing a melancholy tune",
+      "passwordHint": "wheeze-squeeze"
+    },
+    {
+      "id": "so-052",
+      "word": "SQUEAKY FLOOR",
+      "tabooWords": [],
+      "charadesHint": "Make the high-pitched groan of a floorboard under someone trying very hard to be quiet",
+      "passwordHint": "floorboard-groan"
+    },
+    {
+      "id": "so-053",
+      "word": "CUCKOO CLOCK",
+      "tabooWords": [],
+      "charadesHint": "Make the on-the-hour cuckoo-cuckoo call of the little bird emerging from its clock",
+      "passwordHint": "cuckoo-bird-clock"
+    },
+    {
+      "id": "so-054",
+      "word": "MACHINE GUN",
+      "tabooWords": [],
+      "charadesHint": "Make the rapid stuttering burst of automatic fire",
+      "passwordHint": "rapid-fire"
+    },
+    {
+      "id": "so-055",
+      "word": "WHALE SONG",
+      "tabooWords": [],
+      "charadesHint": "Make the long deep mournful oscillating calls of whales communicating across vast ocean depths",
+      "passwordHint": "ocean-song"
+    },
+    {
+      "id": "so-056",
+      "word": "FOOTSTEPS IN SNOW",
+      "tabooWords": [],
+      "charadesHint": "Make the rhythmic soft crunch of feet pressing into packed snow",
+      "passwordHint": "snow-crunch"
+    },
+    {
+      "id": "so-057",
+      "word": "ELECTRIC GUITAR",
+      "tabooWords": [],
+      "charadesHint": "Make the distorted roaring sustain of an electric guitar wailing through an amplifier",
+      "passwordHint": "rock-wail"
+    },
+    {
+      "id": "so-058",
+      "word": "ALARM CLOCK",
+      "tabooWords": [],
+      "charadesHint": "Make the merciless relentless beeping that drags you from the best sleep of your life",
+      "passwordHint": "morning-beep"
+    },
+    {
+      "id": "so-059",
+      "word": "DOOR SLAMMING",
+      "tabooWords": [],
+      "charadesHint": "Make the explosive bang of a door swung hard enough to shake the whole house",
+      "passwordHint": "angry-slam"
+    },
+    {
+      "id": "so-060",
+      "word": "FOGGY FOREST",
+      "tabooWords": [],
+      "charadesHint": "Make the combination of wind in leaves, distant bird calls, and an eerie unsettling quiet",
+      "passwordHint": "eerie-woodland"
+    }
+  ]
+}

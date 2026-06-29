@@ -429,6 +429,36 @@
       "color": "#EF4444",
       "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/human-body.json",
       "cardCount": 60
+    },
+    {
+      "id": "sounds-only",
+      "name": "Sounds Only",
+      "category": "Creative",
+      "description": "No words allowed — make the sound and let your team guess! Noises, animals, machines, and more.",
+      "icon": "Volume2",
+      "color": "#F97316",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/sounds-only.json",
+      "cardCount": 60
+    },
+    {
+      "id": "act-it-out",
+      "name": "Act It Out",
+      "category": "Performance",
+      "description": "No talking allowed — use only your body to act out these words and phrases!",
+      "icon": "PersonStanding",
+      "color": "#F97316",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/act-it-out.json",
+      "cardCount": 60
+    },
+    {
+      "id": "impersonations",
+      "name": "Impersonations",
+      "category": "Performance",
+      "description": "Become someone else! Impersonate famous faces, characters, and personalities — no names allowed!",
+      "icon": "Theater",
+      "color": "#A855F7",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/impersonations.json",
+      "cardCount": 60
     }
   ]
 }
