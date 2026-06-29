@@ -1,0 +1,196 @@
+{
+  "id": "space-exploration",
+  "name": "space exploration",
+  "category": "Community Generated",
+  "description": "Blast off into the cosmos with this out-of-this-world word-guessing game pack",
+  "icon": "Sparkles",
+  "color": "#8B5CF6",
+  "difficulty": "medium",
+  "tags": [
+    "ai",
+    "community"
+  ],
+  "cardCount": 15,
+  "cards": [
+    {
+      "id": "space-exploration-card-1",
+      "word": "Galaxy",
+      "tabooWords": [
+        "universe",
+        "stars",
+        "planets",
+        "space"
+      ],
+      "charadesHint": "make a big circle with arms",
+      "passwordHint": "starts with G"
+    },
+    {
+      "id": "space-exploration-card-2",
+      "word": "Astronaut",
+      "tabooWords": [
+        "space",
+        "suit",
+        "helmet",
+        "cosmonaut"
+      ],
+      "charadesHint": "mimic wearing a helmet",
+      "passwordHint": "person in space"
+    },
+    {
+      "id": "space-exploration-card-3",
+      "word": "Rocket",
+      "tabooWords": [
+        "missile",
+        "ship",
+        "launch",
+        "blast"
+      ],
+      "charadesHint": "mimic countdown and launch",
+      "passwordHint": "vehicle to space"
+    },
+    {
+      "id": "space-exploration-card-4",
+      "word": "Alien",
+      "tabooWords": [
+        "martian",
+        "extraterrestrial",
+        "ufo",
+        "creature"
+      ],
+      "charadesHint": "make a weird face and gesture",
+      "passwordHint": "not from Earth"
+    },
+    {
+      "id": "space-exploration-card-5",
+      "word": "Telescope",
+      "tabooWords": [
+        "binoculars",
+        "lens",
+        "glasses",
+        "microscope"
+      ],
+      "charadesHint": "mimic looking through a tube",
+      "passwordHint": "tool for stargazing"
+    },
+    {
+      "id": "space-exploration-card-6",
+      "word": "Comet",
+      "tabooWords": [
+        "meteor",
+        "asteroid",
+        "space",
+        "rock"
+      ],
+      "charadesHint": "mimic a tail with arm",
+      "passwordHint": "icy body in space"
+    },
+    {
+      "id": "space-exploration-card-7",
+      "word": "Space Station",
+      "tabooWords": [
+        "satellite",
+        "hub",
+        "base",
+        "module"
+      ],
+      "charadesHint": "mimic a big wheel in space",
+      "passwordHint": "human outpost in space"
+    },
+    {
+      "id": "space-exploration-card-8",
+      "word": "Black Hole",
+      "tabooWords": [
+        "void",
+        "space",
+        "vacuum",
+        "singularity"
+      ],
+      "charadesHint": "mimic a swirling vortex",
+      "passwordHint": "region of strong gravity"
+    },
+    {
+      "id": "space-exploration-card-9",
+      "word": "Moon",
+      "tabooWords": [
+        "earth",
+        "satellite",
+        "rock",
+        "crater"
+      ],
+      "charadesHint": "mimic a crescent shape with hands",
+      "passwordHint": "natural satellite"
+    },
+    {
+      "id": "space-exploration-card-10",
+      "word": "Nebula",
+      "tabooWords": [
+        "cloud",
+        "gas",
+        "dust",
+        "star"
+      ],
+      "charadesHint": "mimic a colorful, swirly pattern",
+      "passwordHint": "interstellar cloud"
+    },
+    {
+      "id": "space-exploration-card-11",
+      "word": "Cosmonaut",
+      "tabooWords": [
+        "astronaut",
+        "space",
+        "russia",
+        "soviet"
+      ],
+      "charadesHint": "mimic wearing a Russian-style helmet",
+      "passwordHint": "Russian space traveler"
+    },
+    {
+      "id": "space-exploration-card-12",
+      "word": "Planet",
+      "tabooWords": [
+        "earth",
+        "mars",
+        "jupiter",
+        "saturn"
+      ],
+      "charadesHint": "mimic a big ball",
+      "passwordHint": "large celestial body"
+    },
+    {
+      "id": "space-exploration-card-13",
+      "word": "Star",
+      "tabooWords": [
+        "sun",
+        "light",
+        "twinkle",
+        "shine"
+      ],
+      "charadesHint": "mimic a twinkling motion with fingers",
+      "passwordHint": "massive ball of hot gas"
+    },
+    {
+      "id": "space-exploration-card-14",
+      "word": "Satellite",
+      "tabooWords": [
+        "space",
+        "station",
+        "dish",
+        "antenna"
+      ],
+      "charadesHint": "mimic a spinning object in orbit",
+      "passwordHint": "object that orbits a planet"
+    },
+    {
+      "id": "space-exploration-card-15",
+      "word": "Solar System",
+      "tabooWords": [
+        "galaxy",
+        "universe",
+        "planets",
+        "stars"
+      ],
+      "charadesHint": "mimic a big circle with multiple smaller circles",
+      "passwordHint": "our celestial neighborhood"
+    }
+  ]
+}
