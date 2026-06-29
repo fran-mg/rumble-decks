@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "bees",
+      "name": "bees",
+      "category": "Community Generated",
+      "description": "A buzzworthy collection of words all about our favorite pollinators",
+      "icon": "Sparkles",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/generated-packs/bees.json",
+      "cardCount": 15
+    },
+    {
       "id": "asd",
       "name": "asd",
       "category": "Community Generated",
