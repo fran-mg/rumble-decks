@@ -1,0 +1,455 @@
+{
+  "id": "halloween",
+  "name": "Halloween",
+  "category": "Seasonal",
+  "description": "Spooky costumes, monsters and trick-or-treat — all things Halloween",
+  "difficulty": "Easy",
+  "tags": ["halloween", "spooky", "seasonal", "horror", "autumn"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "halloween-001",
+      "word": "VAMPIRE",
+      "tabooWords": ["blood", "bat", "cape", "fangs", "Dracula"],
+      "charadesHint": "sweep a cape over your face and sink fangs into a neck",
+      "passwordHint": "fangs"
+    },
+    {
+      "id": "halloween-002",
+      "word": "WITCH",
+      "tabooWords": ["broomstick", "cauldron", "spell", "hat", "black"],
+      "charadesHint": "ride a broomstick and stir a bubbling cauldron cackling",
+      "passwordHint": "broomstick"
+    },
+    {
+      "id": "halloween-003",
+      "word": "ZOMBIE",
+      "tabooWords": ["dead", "brain", "stagger", "undead", "groan"],
+      "charadesHint": "stagger with arms outstretched moaning for brains",
+      "passwordHint": "brains"
+    },
+    {
+      "id": "halloween-004",
+      "word": "GHOST",
+      "tabooWords": ["sheet", "white", "haunted", "boo", "spirit"],
+      "charadesHint": "throw a sheet over your head and float silently making a haunting sound",
+      "passwordHint": "boo"
+    },
+    {
+      "id": "halloween-005",
+      "word": "PUMPKIN",
+      "tabooWords": ["carve", "orange", "lantern", "Halloween", "face"],
+      "charadesHint": "scoop out the inside of a large orange gourd and carve a scary face",
+      "passwordHint": "carve"
+    },
+    {
+      "id": "halloween-006",
+      "word": "FRANKENSTEIN",
+      "tabooWords": ["monster", "bolts", "lightning", "stitches", "laboratory"],
+      "charadesHint": "lurch with arms out with bolts in your neck brought to life by lightning",
+      "passwordHint": "bolts"
+    },
+    {
+      "id": "halloween-007",
+      "word": "WEREWOLF",
+      "tabooWords": ["wolf", "full moon", "howl", "transform", "fur"],
+      "charadesHint": "look up at the full moon and slowly and painfully transform into a wolf",
+      "passwordHint": "full moon"
+    },
+    {
+      "id": "halloween-008",
+      "word": "MUMMY",
+      "tabooWords": ["bandage", "Egypt", "wrapped", "tomb", "curse"],
+      "charadesHint": "shuffle stiffly with arms out wrapped from head to toe in bandages",
+      "passwordHint": "bandages"
+    },
+    {
+      "id": "halloween-009",
+      "word": "SKELETON",
+      "tabooWords": ["bones", "skull", "rattle", "dead", "white"],
+      "charadesHint": "rattle your bones and wave your skull around in a spooky dance",
+      "passwordHint": "bones"
+    },
+    {
+      "id": "halloween-010",
+      "word": "TRICK OR TREAT",
+      "tabooWords": ["candy", "door", "costume", "sweets", "children"],
+      "charadesHint": "knock on a door in a costume and hold out a bag for sweets",
+      "passwordHint": "sweets at the door"
+    },
+    {
+      "id": "halloween-011",
+      "word": "CAULDRON",
+      "tabooWords": ["witch", "brew", "bubbling", "pot", "spell"],
+      "charadesHint": "stir a bubbling smoking pot adding disgusting ingredients to a spell",
+      "passwordHint": "bubbling pot"
+    },
+    {
+      "id": "halloween-012",
+      "word": "HAUNTED HOUSE",
+      "tabooWords": ["ghost", "creaking", "scary", "abandoned", "spirit"],
+      "charadesHint": "creep through a dark house with creaking floors and slamming doors",
+      "passwordHint": "creaking"
+    },
+    {
+      "id": "halloween-013",
+      "word": "BLACK CAT",
+      "tabooWords": ["bad luck", "witch", "hiss", "superstition", "shadow"],
+      "charadesHint": "hiss and arch your back as a sleek black cat crossing someone's path",
+      "passwordHint": "bad luck"
+    },
+    {
+      "id": "halloween-014",
+      "word": "BAT",
+      "tabooWords": ["cave", "vampire", "upside down", "wings", "night"],
+      "charadesHint": "hang upside down with wings folded then swoop into the night",
+      "passwordHint": "upside down"
+    },
+    {
+      "id": "halloween-015",
+      "word": "SPIDER WEB",
+      "tabooWords": ["spider", "sticky", "trap", "thread", "silk"],
+      "charadesHint": "spin sticky silk threads in a complex pattern and wait for prey",
+      "passwordHint": "sticky silk"
+    },
+    {
+      "id": "halloween-016",
+      "word": "JACK O LANTERN",
+      "tabooWords": ["pumpkin", "carved", "candle", "grin", "Halloween"],
+      "charadesHint": "hold up a carved grinning pumpkin with a candle glowing inside",
+      "passwordHint": "glowing grin"
+    },
+    {
+      "id": "halloween-017",
+      "word": "POTION",
+      "tabooWords": ["witch", "brew", "drink", "magic", "liquid"],
+      "charadesHint": "hold up a bubbling vial of mysterious liquid and dare someone to drink",
+      "passwordHint": "magic liquid"
+    },
+    {
+      "id": "halloween-018",
+      "word": "GRAVEYARD",
+      "tabooWords": ["tombstone", "grave", "cemetery", "dead", "skull"],
+      "charadesHint": "wander between crooked headstones in thick fog at midnight",
+      "passwordHint": "tombstone"
+    },
+    {
+      "id": "halloween-019",
+      "word": "SCARECROW",
+      "tabooWords": ["field", "straw", "crow", "farm", "post"],
+      "charadesHint": "stand stiffly with arms out on a post in a field full of straw",
+      "passwordHint": "straw arms"
+    },
+    {
+      "id": "halloween-020",
+      "word": "FULL MOON",
+      "tabooWords": ["round", "night", "bright", "werewolf", "silver"],
+      "charadesHint": "howl at a perfectly round silver disc lighting up the dark sky",
+      "passwordHint": "howl"
+    },
+    {
+      "id": "halloween-021",
+      "word": "DRACULA",
+      "tabooWords": ["vampire", "Transylvania", "cape", "fangs", "castle"],
+      "charadesHint": "introduce yourself with a sweeping cape bow in a Transylvanian castle",
+      "passwordHint": "Transylvania"
+    },
+    {
+      "id": "halloween-022",
+      "word": "THE HEADLESS HORSEMAN",
+      "tabooWords": ["horse", "head", "Sleepy Hollow", "neck", "gallop"],
+      "charadesHint": "gallop on a horse holding your own severed head under your arm",
+      "passwordHint": "no head"
+    },
+    {
+      "id": "halloween-023",
+      "word": "POLTERGEIST",
+      "tabooWords": ["ghost", "throw", "objects", "move", "invisible"],
+      "charadesHint": "watch objects fly across the room thrown by an invisible force",
+      "passwordHint": "flying objects"
+    },
+    {
+      "id": "halloween-024",
+      "word": "DEVIL",
+      "tabooWords": ["red", "horns", "pitchfork", "hell", "evil"],
+      "charadesHint": "wave a pitchfork with two red horns on your head looking menacing",
+      "passwordHint": "pitchfork"
+    },
+    {
+      "id": "halloween-025",
+      "word": "EXORCIST",
+      "tabooWords": ["priest", "demon", "spin", "pea soup", "possession"],
+      "charadesHint": "spin your head 360 degrees and projectile spit at a horrified priest",
+      "passwordHint": "head spin"
+    },
+    {
+      "id": "halloween-026",
+      "word": "BLOODY MARY",
+      "tabooWords": ["mirror", "name", "three times", "blood", "ghost"],
+      "charadesHint": "say a name three times into a dark mirror and wait in terror",
+      "passwordHint": "three times mirror"
+    },
+    {
+      "id": "halloween-027",
+      "word": "OUIJA BOARD",
+      "tabooWords": [
+        "spirit",
+        "planchette",
+        "letters",
+        "communicate",
+        "supernatural"
+      ],
+      "charadesHint": "place fingers on a planchette and watch it slide across letters",
+      "passwordHint": "planchette"
+    },
+    {
+      "id": "halloween-028",
+      "word": "CLOWN",
+      "tabooWords": ["scary", "makeup", "circus", "Pennywise", "balloon"],
+      "charadesHint": "smile with enormous painted lips and offer a red balloon to a child",
+      "passwordHint": "red balloon"
+    },
+    {
+      "id": "halloween-029",
+      "word": "CHAINSAW",
+      "tabooWords": ["Texas", "Leatherface", "cut", "villain", "horror"],
+      "charadesHint": "rev a roaring chainsaw and chase someone through a Texas house",
+      "passwordHint": "Leatherface"
+    },
+    {
+      "id": "halloween-030",
+      "word": "FRANKENSTEIN'S MONSTER",
+      "tabooWords": ["green", "stitches", "bolt", "lab", "created"],
+      "charadesHint": "lurch stiffly with neck bolts and a flat-topped stitched green head",
+      "passwordHint": "stitches"
+    },
+    {
+      "id": "halloween-031",
+      "word": "POSSESSED DOLL",
+      "tabooWords": ["Chucky", "evil", "toy", "move", "knife"],
+      "charadesHint": "sit still as a doll then turn your head slowly with dead eyes",
+      "passwordHint": "evil toy"
+    },
+    {
+      "id": "halloween-032",
+      "word": "SÉANCE",
+      "tabooWords": ["spirit", "medium", "table", "candle", "contact"],
+      "charadesHint": "sit around a candlelit table holding hands calling to the spirits",
+      "passwordHint": "contact spirits"
+    },
+    {
+      "id": "halloween-033",
+      "word": "BANSHEE",
+      "tabooWords": ["wail", "Irish", "death", "shriek", "omen"],
+      "charadesHint": "let out a blood-curdling wail foretelling someone's death",
+      "passwordHint": "wail of death"
+    },
+    {
+      "id": "halloween-034",
+      "word": "CREEPY CRAWLIES",
+      "tabooWords": ["spiders", "insects", "worms", "gross", "Halloween"],
+      "charadesHint": "reach into a bowl of wriggling slimy creatures with your bare hand",
+      "passwordHint": "wriggling"
+    },
+    {
+      "id": "halloween-035",
+      "word": "CROW",
+      "tabooWords": ["black", "bird", "omen", "murder", "scarecrow"],
+      "charadesHint": "perch menacingly on a branch as a jet black bird of dark omen",
+      "passwordHint": "black bird omen"
+    },
+    {
+      "id": "halloween-036",
+      "word": "WITCH'S HAT",
+      "tabooWords": ["pointed", "black", "hat", "witch", "tall"],
+      "charadesHint": "place a very tall pointed black hat on your head",
+      "passwordHint": "tall pointed"
+    },
+    {
+      "id": "halloween-037",
+      "word": "FOG MACHINE",
+      "tabooWords": ["smoke", "atmosphere", "spooky", "low", "party"],
+      "charadesHint": "press a button sending thick white fog rolling across the floor",
+      "passwordHint": "floor fog"
+    },
+    {
+      "id": "halloween-038",
+      "word": "COFFIN",
+      "tabooWords": ["dead", "bury", "vampire", "wood", "lid"],
+      "charadesHint": "lie stiffly with arms crossed as a lid slowly creaks shut above you",
+      "passwordHint": "lid closes"
+    },
+    {
+      "id": "halloween-039",
+      "word": "NIGHTMARE",
+      "tabooWords": ["dream", "sleep", "terrifying", "wake up", "scream"],
+      "charadesHint": "bolt upright from sleep screaming from something terrifying in your dream",
+      "passwordHint": "bad dream"
+    },
+    {
+      "id": "halloween-040",
+      "word": "MONSTER MASH",
+      "tabooWords": ["song", "dance", "monsters", "party", "graveyard"],
+      "charadesHint": "do a spooky monster dance at a graveyard monster party",
+      "passwordHint": "graveyard dance"
+    },
+    {
+      "id": "halloween-041",
+      "word": "GHOUL",
+      "tabooWords": ["grave", "eat", "undead", "spirit", "evil"],
+      "charadesHint": "lurk in graveyards feeding on the dead with hollow sunken eyes",
+      "passwordHint": "grave feeder"
+    },
+    {
+      "id": "halloween-042",
+      "word": "DEMON",
+      "tabooWords": ["hell", "evil", "possess", "horns", "fire"],
+      "charadesHint": "snarl with glowing eyes and claw at someone to possess them",
+      "passwordHint": "possession"
+    },
+    {
+      "id": "halloween-043",
+      "word": "DEATH",
+      "tabooWords": [
+        "Grim Reaper",
+        "scythe",
+        "black robe",
+        "hourglass",
+        "skeleton"
+      ],
+      "charadesHint": "sweep in wearing a black hooded robe and raise a giant scythe",
+      "passwordHint": "scythe"
+    },
+    {
+      "id": "halloween-044",
+      "word": "TRICK",
+      "tabooWords": ["prank", "Halloween", "treat", "joke", "scare"],
+      "charadesHint": "pull a prank on someone who didn't give out sweets",
+      "passwordHint": "prank"
+    },
+    {
+      "id": "halloween-045",
+      "word": "HARVEST MOON",
+      "tabooWords": ["autumn", "full moon", "orange", "sky", "harvest"],
+      "charadesHint": "look up at an enormous orange moon hanging low in the autumn sky",
+      "passwordHint": "orange moon"
+    },
+    {
+      "id": "halloween-046",
+      "word": "CORN MAZE",
+      "tabooWords": ["corn", "lost", "field", "autumn", "maze"],
+      "charadesHint": "wander lost in a maze cut through a tall dark cornfield at night",
+      "passwordHint": "lost in corn"
+    },
+    {
+      "id": "halloween-047",
+      "word": "TOAD",
+      "tabooWords": ["witch", "potion", "warts", "green", "pond"],
+      "charadesHint": "drop a warty toad into a bubbling witch's cauldron",
+      "passwordHint": "warty"
+    },
+    {
+      "id": "halloween-048",
+      "word": "SPELLBOOK",
+      "tabooWords": ["witch", "spells", "magic", "read", "ancient"],
+      "charadesHint": "open an ancient dusty book and chant a spell that shakes the room",
+      "passwordHint": "ancient spells"
+    },
+    {
+      "id": "halloween-049",
+      "word": "HORROR FILM",
+      "tabooWords": ["scary", "movie", "watch", "jump", "scream"],
+      "charadesHint": "cover your eyes then peek through fingers at something terrifying on screen",
+      "passwordHint": "peek through fingers"
+    },
+    {
+      "id": "halloween-050",
+      "word": "SPIDER",
+      "tabooWords": ["web", "eight legs", "creepy", "bite", "black"],
+      "charadesHint": "lower yourself slowly on a thread with eight legs dangling",
+      "passwordHint": "eight legs"
+    },
+    {
+      "id": "halloween-051",
+      "word": "GOBLIN",
+      "tabooWords": ["small", "green", "mischief", "pointy ears", "evil"],
+      "charadesHint": "crouch low with pointy ears making mischief and cackling",
+      "passwordHint": "pointy ears"
+    },
+    {
+      "id": "halloween-052",
+      "word": "WAND",
+      "tabooWords": ["magic", "witch", "spell", "wave", "Harry Potter"],
+      "charadesHint": "flick a thin pointed stick sharply and cast a spell",
+      "passwordHint": "spell stick"
+    },
+    {
+      "id": "halloween-053",
+      "word": "CYCLOPS",
+      "tabooWords": ["one eye", "giant", "Greek", "monster", "cave"],
+      "charadesHint": "cover one eye and lumber around as a giant one-eyed cave monster",
+      "passwordHint": "one eye"
+    },
+    {
+      "id": "halloween-054",
+      "word": "JACK SKELLINGTON",
+      "tabooWords": [
+        "Nightmare Before Christmas",
+        "skeleton",
+        "Pumpkin King",
+        "thin",
+        "Tim Burton"
+      ],
+      "charadesHint": "stretch tall and thin in a pinstripe suit as the Pumpkin King",
+      "passwordHint": "Pumpkin King"
+    },
+    {
+      "id": "halloween-055",
+      "word": "HELLHOUND",
+      "tabooWords": ["hell", "dog", "fire", "Cerberus", "guard"],
+      "charadesHint": "snarl and guard the gates of hell as a terrifying three-headed dog",
+      "passwordHint": "three-headed dog"
+    },
+    {
+      "id": "halloween-056",
+      "word": "CREAKING FLOORBOARD",
+      "tabooWords": ["house", "noise", "wood", "haunted", "creak"],
+      "charadesHint": "freeze in terror as a single loud creak comes from an empty room",
+      "passwordHint": "creak"
+    },
+    {
+      "id": "halloween-057",
+      "word": "COSTUME",
+      "tabooWords": [
+        "dress up",
+        "Halloween",
+        "outfit",
+        "fancy dress",
+        "disguise"
+      ],
+      "charadesHint": "pull on a spooky disguise and head out to frighten the neighbours",
+      "passwordHint": "fancy dress"
+    },
+    {
+      "id": "halloween-058",
+      "word": "PUMPKIN PIE",
+      "tabooWords": ["American", "Halloween", "orange", "pastry", "spice"],
+      "charadesHint": "slide a deep orange spiced pie from the oven and breathe in the aroma",
+      "passwordHint": "orange pie"
+    },
+    {
+      "id": "halloween-059",
+      "word": "LANTERN",
+      "tabooWords": ["light", "flame", "candle", "glow", "dark"],
+      "charadesHint": "swing a flickering light source through dark misty streets",
+      "passwordHint": "flickering glow"
+    },
+    {
+      "id": "halloween-060",
+      "word": "APPLE BOBBING",
+      "tabooWords": ["apple", "water", "teeth", "bite", "bucket"],
+      "charadesHint": "plunge your face into a barrel of water trying to grab an apple with your teeth",
+      "passwordHint": "grab with teeth"
+    }
+  ]
+}

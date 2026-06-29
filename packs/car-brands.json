@@ -1,0 +1,455 @@
+{
+  "id": "car-brands",
+  "name": "Car Brands",
+  "category": "Lifestyle",
+  "description": "Iconic car manufacturers and their famous models from around the world",
+  "difficulty": "Medium",
+  "tags": ["cars", "brands", "vehicles", "motors", "automotive"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "car-brands-001",
+      "word": "FERRARI",
+      "tabooWords": ["red", "Italian", "fast", "prancing horse", "luxury"],
+      "charadesHint": "grip a wheel and roar off at incredible speed in bright red",
+      "passwordHint": "prancing horse"
+    },
+    {
+      "id": "car-brands-002",
+      "word": "LAMBORGHINI",
+      "tabooWords": ["Italian", "supercar", "bull", "doors", "fast"],
+      "charadesHint": "open scissor doors upward then tear off leaving everyone stunned",
+      "passwordHint": "scissor doors"
+    },
+    {
+      "id": "car-brands-003",
+      "word": "ROLLS ROYCE",
+      "tabooWords": ["luxury", "British", "ghost", "Spirit", "expensive"],
+      "charadesHint": "be chauffeured smoothly with total silence and utter luxury",
+      "passwordHint": "Spirit of Ecstasy"
+    },
+    {
+      "id": "car-brands-004",
+      "word": "PORSCHE",
+      "tabooWords": ["German", "sports car", "911", "fast", "luxury"],
+      "charadesHint": "grip a round steering wheel low to the ground speeding through bends",
+      "passwordHint": "911"
+    },
+    {
+      "id": "car-brands-005",
+      "word": "VOLKSWAGEN",
+      "tabooWords": ["German", "beetle", "Golf", "people", "VW"],
+      "charadesHint": "pat a round little car lovingly on the bonnet",
+      "passwordHint": "beetle"
+    },
+    {
+      "id": "car-brands-006",
+      "word": "TESLA",
+      "tabooWords": ["electric", "Musk", "self-driving", "battery", "EV"],
+      "charadesHint": "sit in a car with no engine noise and watch it drive itself",
+      "passwordHint": "electric"
+    },
+    {
+      "id": "car-brands-007",
+      "word": "FORD",
+      "tabooWords": ["American", "Mustang", "Focus", "popular", "blue oval"],
+      "charadesHint": "drive a classic American car with a galloping horse on the bonnet",
+      "passwordHint": "Mustang"
+    },
+    {
+      "id": "car-brands-008",
+      "word": "BMW",
+      "tabooWords": ["German", "Bavaria", "luxury", "propeller", "motorway"],
+      "charadesHint": "indicate left then turn right on the motorway looking superior",
+      "passwordHint": "propeller badge"
+    },
+    {
+      "id": "car-brands-009",
+      "word": "MERCEDES",
+      "tabooWords": ["German", "star", "luxury", "AMG", "silver"],
+      "charadesHint": "polish a three-pointed star on your bonnet with pride",
+      "passwordHint": "three-pointed star"
+    },
+    {
+      "id": "car-brands-010",
+      "word": "AUDI",
+      "tabooWords": ["German", "rings", "quattro", "four", "premium"],
+      "charadesHint": "point to four interlocking rings on the front of a sleek car",
+      "passwordHint": "four rings"
+    },
+    {
+      "id": "car-brands-011",
+      "word": "TOYOTA",
+      "tabooWords": ["Japanese", "reliable", "Corolla", "Prius", "hybrid"],
+      "charadesHint": "drive a car that absolutely never breaks down",
+      "passwordHint": "reliable"
+    },
+    {
+      "id": "car-brands-012",
+      "word": "HONDA",
+      "tabooWords": ["Japanese", "Civic", "reliable", "motorbike", "wing"],
+      "charadesHint": "rev a car famous for its smooth engine and reliability",
+      "passwordHint": "Civic"
+    },
+    {
+      "id": "car-brands-013",
+      "word": "NISSAN",
+      "tabooWords": ["Japanese", "GTR", "Leaf", "electric", "Skyline"],
+      "charadesHint": "race a legendary Japanese performance car known as Godzilla",
+      "passwordHint": "Godzilla"
+    },
+    {
+      "id": "car-brands-014",
+      "word": "SUBARU",
+      "tabooWords": [
+        "Japan",
+        "rally",
+        "Impreza",
+        "four wheel drive",
+        "Pleiades"
+      ],
+      "charadesHint": "rally through a muddy forest in a car with stars on the badge",
+      "passwordHint": "rally"
+    },
+    {
+      "id": "car-brands-015",
+      "word": "BUGATTI",
+      "tabooWords": ["fastest", "French", "Veyron", "expensive", "hypercar"],
+      "charadesHint": "sit in the most expensive car ever made and barely touch the pedal",
+      "passwordHint": "Veyron"
+    },
+    {
+      "id": "car-brands-016",
+      "word": "MASERATI",
+      "tabooWords": ["Italian", "trident", "luxury", "sports", "GranTurismo"],
+      "charadesHint": "drive a roaring Italian luxury car with a trident on the badge",
+      "passwordHint": "trident"
+    },
+    {
+      "id": "car-brands-017",
+      "word": "BENTLEY",
+      "tabooWords": ["British", "luxury", "Rolls", "expensive", "Continental"],
+      "charadesHint": "sink into hand-stitched leather seats of a grand British luxury car",
+      "passwordHint": "Continental"
+    },
+    {
+      "id": "car-brands-018",
+      "word": "ASTON MARTIN",
+      "tabooWords": ["James Bond", "British", "sports", "DB5", "007"],
+      "charadesHint": "drive the elegant British sports car of a famous fictional spy",
+      "passwordHint": "Bond car"
+    },
+    {
+      "id": "car-brands-019",
+      "word": "JAGUAR",
+      "tabooWords": ["British", "cat", "luxury", "XE", "leap"],
+      "charadesHint": "prowl elegantly in a British car named after a big cat",
+      "passwordHint": "big cat"
+    },
+    {
+      "id": "car-brands-020",
+      "word": "LAND ROVER",
+      "tabooWords": ["British", "off road", "Range", "mud", "Defender"],
+      "charadesHint": "drive through deep mud, rocks and rivers without blinking",
+      "passwordHint": "off road"
+    },
+    {
+      "id": "car-brands-021",
+      "word": "MINI",
+      "tabooWords": ["small", "British", "Cooper", "classic", "BMW"],
+      "charadesHint": "squeeze into a tiny iconic British car and zoom through city streets",
+      "passwordHint": "small British"
+    },
+    {
+      "id": "car-brands-022",
+      "word": "FIAT",
+      "tabooWords": ["Italian", "500", "small", "city", "Rome"],
+      "charadesHint": "zoom through Rome in a tiny cute Italian city car",
+      "passwordHint": "500"
+    },
+    {
+      "id": "car-brands-023",
+      "word": "ALFA ROMEO",
+      "tabooWords": ["Italian", "beautiful", "badge", "cross", "GTA"],
+      "charadesHint": "gesture to a badge showing a serpent and red cross passionately",
+      "passwordHint": "serpent badge"
+    },
+    {
+      "id": "car-brands-024",
+      "word": "VOLVO",
+      "tabooWords": ["Swedish", "safe", "boxy", "Scandinavian", "estate"],
+      "charadesHint": "buckle up in the safest car in the world from Scandinavia",
+      "passwordHint": "safest"
+    },
+    {
+      "id": "car-brands-025",
+      "word": "SAAB",
+      "tabooWords": ["Swedish", "aircraft", "defunct", "Gripen", "quirky"],
+      "charadesHint": "drive a quirky Swedish car designed by an aircraft company",
+      "passwordHint": "Swedish aircraft"
+    },
+    {
+      "id": "car-brands-026",
+      "word": "KIA",
+      "tabooWords": ["Korean", "Sportage", "affordable", "EV", "Seoul"],
+      "charadesHint": "drive a modern Korean car with a strangely sharp logo",
+      "passwordHint": "Korean"
+    },
+    {
+      "id": "car-brands-027",
+      "word": "HYUNDAI",
+      "tabooWords": ["Korean", "Tucson", "electric", "affordable", "Seoul"],
+      "charadesHint": "drive a reliable Korean car known for great value and warranties",
+      "passwordHint": "warranty"
+    },
+    {
+      "id": "car-brands-028",
+      "word": "SEAT",
+      "tabooWords": ["Spanish", "Leon", "Ibiza", "VW", "Europe"],
+      "charadesHint": "drive a Spanish city car named after a famous party island",
+      "passwordHint": "Ibiza"
+    },
+    {
+      "id": "car-brands-029",
+      "word": "SKODA",
+      "tabooWords": ["Czech", "Octavia", "VW", "reliable", "Eastern Europe"],
+      "charadesHint": "drive a Central European car once mocked but now quietly excellent",
+      "passwordHint": "Czech"
+    },
+    {
+      "id": "car-brands-030",
+      "word": "PEUGEOT",
+      "tabooWords": ["French", "lion", "205", "408", "Paris"],
+      "charadesHint": "roar with a lion badge on the bonnet of a French car",
+      "passwordHint": "lion"
+    },
+    {
+      "id": "car-brands-031",
+      "word": "RENAULT",
+      "tabooWords": ["French", "Clio", "diamond", "Zoe", "Paris"],
+      "charadesHint": "drive a French car with a diamond logo through Paris",
+      "passwordHint": "diamond logo"
+    },
+    {
+      "id": "car-brands-032",
+      "word": "CITROEN",
+      "tabooWords": ["French", "2CV", "chevrons", "quirky", "Picasso"],
+      "charadesHint": "bounce along in a quirky French car with double chevrons on front",
+      "passwordHint": "double chevron"
+    },
+    {
+      "id": "car-brands-033",
+      "word": "VAUXHALL",
+      "tabooWords": ["British", "Corsa", "Astra", "Griffin", "GM"],
+      "charadesHint": "drive a very common British car with a griffin badge",
+      "passwordHint": "griffin"
+    },
+    {
+      "id": "car-brands-034",
+      "word": "MAZDA",
+      "tabooWords": ["Japanese", "MX-5", "rotary", "zoom-zoom", "reliable"],
+      "charadesHint": "hood down and zoom happily along in a tiny Japanese sports roadster",
+      "passwordHint": "MX-5"
+    },
+    {
+      "id": "car-brands-035",
+      "word": "MITSUBISHI",
+      "tabooWords": ["Japanese", "Lancer", "Evo", "diamonds", "4WD"],
+      "charadesHint": "rally sideways in a Japanese car famous for three diamond badges",
+      "passwordHint": "three diamonds"
+    },
+    {
+      "id": "car-brands-036",
+      "word": "DODGE",
+      "tabooWords": ["American", "muscle", "Charger", "Viper", "Dodge"],
+      "charadesHint": "slam the throttle in a roaring American muscle car",
+      "passwordHint": "Charger"
+    },
+    {
+      "id": "car-brands-037",
+      "word": "CHEVROLET",
+      "tabooWords": ["American", "Corvette", "bowtie", "Chevy", "muscle"],
+      "charadesHint": "spot the bowtie logo on an iconic American sports car",
+      "passwordHint": "bowtie"
+    },
+    {
+      "id": "car-brands-038",
+      "word": "JEEP",
+      "tabooWords": ["American", "off road", "Wrangler", "military", "4x4"],
+      "charadesHint": "climb over rocks and cross rivers in a boxy American 4x4",
+      "passwordHint": "Wrangler"
+    },
+    {
+      "id": "car-brands-039",
+      "word": "CADILLAC",
+      "tabooWords": ["American", "luxury", "fins", "Escalade", "prestige"],
+      "charadesHint": "cruise in a huge flashy American luxury car with large tail fins",
+      "passwordHint": "tail fins"
+    },
+    {
+      "id": "car-brands-040",
+      "word": "LEXUS",
+      "tabooWords": ["Japanese", "luxury", "Toyota", "silent", "hybrid"],
+      "charadesHint": "glide almost silently in a luxurious Japanese hybrid saloon",
+      "passwordHint": "silent luxury"
+    },
+    {
+      "id": "car-brands-041",
+      "word": "INFINITI",
+      "tabooWords": ["Japanese", "Nissan", "luxury", "premium", "Q50"],
+      "charadesHint": "drive the premium luxury arm of a famous Japanese brand",
+      "passwordHint": "premium Nissan"
+    },
+    {
+      "id": "car-brands-042",
+      "word": "MCLAREN",
+      "tabooWords": ["British", "F1", "supercar", "Woking", "papaya"],
+      "charadesHint": "launch off the line in a British supercar straight from the F1 world",
+      "passwordHint": "F1 supercar"
+    },
+    {
+      "id": "car-brands-043",
+      "word": "PAGANI",
+      "tabooWords": ["Italian", "Zonda", "handmade", "hypercar", "art"],
+      "charadesHint": "admire every hand-crafted detail of the most beautiful hypercar ever made",
+      "passwordHint": "Zonda"
+    },
+    {
+      "id": "car-brands-044",
+      "word": "KOENIGSEGG",
+      "tabooWords": ["Swedish", "fastest", "hypercar", "Agera", "record"],
+      "charadesHint": "break every speed record in a hand-built Swedish hypercar",
+      "passwordHint": "Swedish speed record"
+    },
+    {
+      "id": "car-brands-045",
+      "word": "RIMAC",
+      "tabooWords": [
+        "Croatian",
+        "electric",
+        "hypercar",
+        "fastest EV",
+        "Nevera"
+      ],
+      "charadesHint": "silently launch a Croatian electric hypercar faster than anything on earth",
+      "passwordHint": "Croatian electric"
+    },
+    {
+      "id": "car-brands-046",
+      "word": "DACIA",
+      "tabooWords": ["Romanian", "cheap", "Sandero", "affordable", "budget"],
+      "charadesHint": "drive the cheapest new car available in Europe with zero fuss",
+      "passwordHint": "cheapest new car"
+    },
+    {
+      "id": "car-brands-047",
+      "word": "LADA",
+      "tabooWords": ["Russian", "old", "boxy", "Soviet", "cheap"],
+      "charadesHint": "drive a boxy Soviet era car that is notorious for breaking down",
+      "passwordHint": "Soviet car"
+    },
+    {
+      "id": "car-brands-048",
+      "word": "RELIANT ROBIN",
+      "tabooWords": ["three", "wheels", "British", "tipping", "small"],
+      "charadesHint": "wobble around corners in a tiny three-wheeled British car that tips over",
+      "passwordHint": "three wheels"
+    },
+    {
+      "id": "car-brands-049",
+      "word": "DELOREAN",
+      "tabooWords": [
+        "Back to the Future",
+        "gull",
+        "doors",
+        "stainless",
+        "time"
+      ],
+      "charadesHint": "open gull-wing doors upward and reach 88 mph to travel through time",
+      "passwordHint": "time machine"
+    },
+    {
+      "id": "car-brands-050",
+      "word": "SMART CAR",
+      "tabooWords": ["tiny", "city", "two", "seats", "small"],
+      "charadesHint": "squeeze into the tiniest two-seater city car imaginable",
+      "passwordHint": "tiny two-seater"
+    },
+    {
+      "id": "car-brands-051",
+      "word": "MORRIS MINOR",
+      "tabooWords": ["British", "classic", "old", "vintage", "round"],
+      "charadesHint": "putt along in a round little vintage British classic car",
+      "passwordHint": "vintage British"
+    },
+    {
+      "id": "car-brands-052",
+      "word": "CITROËN 2CV",
+      "tabooWords": ["French", "two", "horsepower", "tin", "classic"],
+      "charadesHint": "bounce happily in a tin can French car with a fabric roof",
+      "passwordHint": "deux chevaux"
+    },
+    {
+      "id": "car-brands-053",
+      "word": "LANCIA",
+      "tabooWords": ["Italian", "rally", "Stratos", "Delta", "defunct"],
+      "charadesHint": "dominate a rally stage in a legendary Italian rally car",
+      "passwordHint": "Stratos"
+    },
+    {
+      "id": "car-brands-054",
+      "word": "OPEL",
+      "tabooWords": ["German", "Vauxhall", "Corsa", "Astra", "GM"],
+      "charadesHint": "drive the German version of a very common European brand",
+      "passwordHint": "German Vauxhall"
+    },
+    {
+      "id": "car-brands-055",
+      "word": "SUZUKI",
+      "tabooWords": ["Japanese", "Swift", "Jimny", "small", "motorbike"],
+      "charadesHint": "zip around in a tiny Japanese off-roader or city car",
+      "passwordHint": "Jimny"
+    },
+    {
+      "id": "car-brands-056",
+      "word": "ISUZU",
+      "tabooWords": ["Japanese", "pickup", "truck", "D-Max", "diesel"],
+      "charadesHint": "load up a tough Japanese pickup truck and head off-road",
+      "passwordHint": "pickup truck"
+    },
+    {
+      "id": "car-brands-057",
+      "word": "GENESIS",
+      "tabooWords": ["Korean", "luxury", "Hyundai", "premium", "G80"],
+      "charadesHint": "enter a plush showroom of Korea's answer to German luxury cars",
+      "passwordHint": "Korean luxury"
+    },
+    {
+      "id": "car-brands-058",
+      "word": "BYD",
+      "tabooWords": [
+        "Chinese",
+        "electric",
+        "battery",
+        "EV",
+        "Build Your Dreams"
+      ],
+      "charadesHint": "charge up a Chinese electric car that is rapidly taking over the world",
+      "passwordHint": "Chinese electric"
+    },
+    {
+      "id": "car-brands-059",
+      "word": "CATERHAM",
+      "tabooWords": ["British", "Seven", "lightweight", "open", "tiny"],
+      "charadesHint": "squeeze into a tiny open British racing car with virtually no bodywork",
+      "passwordHint": "Seven"
+    },
+    {
+      "id": "car-brands-060",
+      "word": "NOBLE",
+      "tabooWords": ["British", "supercar", "M600", "lightweight", "rare"],
+      "charadesHint": "drive a rare hand-built British supercar almost no one has heard of",
+      "passwordHint": "rare British supercar"
+    }
+  ]
+}

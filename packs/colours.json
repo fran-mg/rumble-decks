@@ -1,0 +1,430 @@
+{
+  "id": "colours",
+  "name": "Colours",
+  "category": "Creative",
+  "description": "Think fast — describe the colour without saying it! Shades, tones, and everything in between.",
+  "difficulty": "Easy",
+  "tags": ["colours", "shades", "creative", "visual", "art"],
+  "cards": [
+    {
+      "id": "col-001",
+      "word": "RED",
+      "tabooWords": ["colour", "fire", "blood", "rose", "tomato"],
+      "charadesHint": "Mime stopping at a traffic light, seeing a fire engine pass, and eating a tomato",
+      "passwordHint": "traffic-stop"
+    },
+    {
+      "id": "col-002",
+      "word": "BLUE",
+      "tabooWords": ["colour", "sky", "sea", "water", "ocean"],
+      "charadesHint": "Mime gazing upward at a clear endless sky then swimming in calm deep water",
+      "passwordHint": "clear-sky"
+    },
+    {
+      "id": "col-003",
+      "word": "GREEN",
+      "tabooWords": ["colour", "grass", "leaves", "nature", "plant"],
+      "charadesHint": "Mime mowing a lawn then lying in the fresh-cut grass looking at a canopy of trees",
+      "passwordHint": "grass-and-leaves"
+    },
+    {
+      "id": "col-004",
+      "word": "YELLOW",
+      "tabooWords": ["colour", "sun", "banana", "lemon", "bright"],
+      "charadesHint": "Mime holding an enormous shining circle in the sky then peeling a banana",
+      "passwordHint": "sunshine-colour"
+    },
+    {
+      "id": "col-005",
+      "word": "ORANGE",
+      "tabooWords": ["colour", "fruit", "sunset", "carrot", "pumpkin"],
+      "charadesHint": "Mime peeling a perfectly round fruit then pointing at a dramatic sunset sky",
+      "passwordHint": "citrus-sunset"
+    },
+    {
+      "id": "col-006",
+      "word": "PURPLE",
+      "tabooWords": ["colour", "violet", "lavender", "royal", "grape"],
+      "charadesHint": "Mime placing a crown on your head and sitting regally on a throne",
+      "passwordHint": "royal-shade"
+    },
+    {
+      "id": "col-007",
+      "word": "PINK",
+      "tabooWords": ["colour", "flamingo", "rose", "bubblegum", "baby"],
+      "charadesHint": "Mime a flamingo standing on one leg then blowing an enormous bubblegum bubble",
+      "passwordHint": "flamingo-shade"
+    },
+    {
+      "id": "col-008",
+      "word": "BLACK",
+      "tabooWords": ["colour", "dark", "night", "coal", "shadow"],
+      "charadesHint": "Mime turning off every light in a room and standing in complete darkness",
+      "passwordHint": "darkest-shade"
+    },
+    {
+      "id": "col-009",
+      "word": "WHITE",
+      "tabooWords": ["colour", "snow", "milk", "cloud", "pure"],
+      "charadesHint": "Mime catching snowflakes on your tongue and pouring a glass of cold milk",
+      "passwordHint": "fresh-snow"
+    },
+    {
+      "id": "col-010",
+      "word": "GREY",
+      "tabooWords": ["colour", "silver", "ash", "cloud", "neutral"],
+      "charadesHint": "Mime looking up at an overcast boring sky and shrugging with a flat expression",
+      "passwordHint": "overcast-sky"
+    },
+    {
+      "id": "col-011",
+      "word": "GOLD",
+      "tabooWords": ["colour", "medal", "treasure", "metallic", "shiny"],
+      "charadesHint": "Mime digging up a chest of treasure and holding up glittering coins to the light",
+      "passwordHint": "first-place-medal"
+    },
+    {
+      "id": "col-012",
+      "word": "SILVER",
+      "tabooWords": ["colour", "metal", "medal", "shiny", "second place"],
+      "charadesHint": "Mime polishing a shiny trophy and admiring your reflection in it",
+      "passwordHint": "second-place"
+    },
+    {
+      "id": "col-013",
+      "word": "BROWN",
+      "tabooWords": ["colour", "chocolate", "mud", "earth", "wood"],
+      "charadesHint": "Mime splashing through mud then carving into the trunk of a large tree",
+      "passwordHint": "mud-and-chocolate"
+    },
+    {
+      "id": "col-014",
+      "word": "TURQUOISE",
+      "tabooWords": ["colour", "teal", "blue-green", "gemstone", "tropical"],
+      "charadesHint": "Mime swimming in the most impossibly clear tropical sea you've ever seen",
+      "passwordHint": "tropical-sea"
+    },
+    {
+      "id": "col-015",
+      "word": "CRIMSON",
+      "tabooWords": ["colour", "dark red", "blood", "deep", "red"],
+      "charadesHint": "Mime a vampire emerging dramatically with deep red dripping from its lips",
+      "passwordHint": "deep-red"
+    },
+    {
+      "id": "col-016",
+      "word": "LAVENDER",
+      "tabooWords": ["colour", "purple", "flower", "light", "pale"],
+      "charadesHint": "Mime walking through a field of fragrant purple flowers and breathing them in",
+      "passwordHint": "pale-purple-flower"
+    },
+    {
+      "id": "col-017",
+      "word": "NAVY",
+      "tabooWords": ["colour", "dark blue", "sea", "uniform", "deep"],
+      "charadesHint": "Mime a sailor in a dark uniform standing on the bow of a ship in deep water",
+      "passwordHint": "sailor-blue"
+    },
+    {
+      "id": "col-018",
+      "word": "MAGENTA",
+      "tabooWords": ["colour", "pink", "vibrant", "bright", "hot pink"],
+      "charadesHint": "Mime a fashion designer insisting their collection is NOT pink, it's MAGENTA",
+      "passwordHint": "vivid-pink-purple"
+    },
+    {
+      "id": "col-019",
+      "word": "BEIGE",
+      "tabooWords": ["colour", "cream", "pale", "neutral", "boring"],
+      "charadesHint": "Mime designing the most painfully boring living room imaginable — every surface the same dull shade",
+      "passwordHint": "neutral-boring"
+    },
+    {
+      "id": "col-020",
+      "word": "SCARLET",
+      "tabooWords": ["colour", "red", "bright", "Scarlett Johansson", "vivid"],
+      "charadesHint": "Mime painting lips an intensely bright shade and pursing them dramatically",
+      "passwordHint": "vivid-red"
+    },
+    {
+      "id": "col-021",
+      "word": "EMERALD",
+      "tabooWords": ["colour", "green", "gemstone", "rich", "Ireland"],
+      "charadesHint": "Mime holding up a glittering jewel that makes everyone gasp — it's the richest green",
+      "passwordHint": "gemstone-green"
+    },
+    {
+      "id": "col-022",
+      "word": "AMBER",
+      "tabooWords": ["colour", "orange", "traffic light", "gemstone", "honey"],
+      "charadesHint": "Mime a traffic light stuck on the middle light, then pouring thick golden honey",
+      "passwordHint": "traffic-light-middle"
+    },
+    {
+      "id": "col-023",
+      "word": "IVORY",
+      "tabooWords": ["colour", "white", "cream", "tusk", "pale"],
+      "charadesHint": "Mime an elephant's tusk curving upward, white and smooth against a pale sky",
+      "passwordHint": "elephant-tusk"
+    },
+    {
+      "id": "col-024",
+      "word": "TEAL",
+      "tabooWords": ["colour", "blue-green", "turquoise", "deep", "ocean"],
+      "charadesHint": "Mime a peacock fanning its feathers proudly — deep blue-green across every plume",
+      "passwordHint": "peacock-shade"
+    },
+    {
+      "id": "col-025",
+      "word": "CORAL",
+      "tabooWords": ["colour", "pink", "orange", "reef", "tropical"],
+      "charadesHint": "Mime diving underwater through a brilliant reef of warm pinkish-orange sea creatures",
+      "passwordHint": "reef-colour"
+    },
+    {
+      "id": "col-026",
+      "word": "INDIGO",
+      "tabooWords": ["colour", "blue", "violet", "dark", "rainbow"],
+      "charadesHint": "Mime pointing at the deep blue section of a rainbow just before it turns purple",
+      "passwordHint": "deep-blue-rainbow"
+    },
+    {
+      "id": "col-027",
+      "word": "LIME GREEN",
+      "tabooWords": ["colour", "bright", "neon", "green", "citrus"],
+      "charadesHint": "Mime putting on the most blindingly bright sports kit imaginable and squinting",
+      "passwordHint": "neon-green"
+    },
+    {
+      "id": "col-028",
+      "word": "BRONZE",
+      "tabooWords": ["colour", "metal", "third place", "medal", "statue"],
+      "charadesHint": "Mime standing on a podium in third place, medal around your neck, forcing a smile",
+      "passwordHint": "third-place-medal"
+    },
+    {
+      "id": "col-029",
+      "word": "MAROON",
+      "tabooWords": ["colour", "dark red", "burgundy", "deep", "wine"],
+      "charadesHint": "Mime swirling a deep rich glass of red wine and holding it up to the light",
+      "passwordHint": "dark-wine-red"
+    },
+    {
+      "id": "col-030",
+      "word": "PEACH",
+      "tabooWords": ["colour", "fruit", "pale", "soft", "pink-orange"],
+      "charadesHint": "Mime biting into a soft fuzzy fruit that drips juice down your chin in the sunshine",
+      "passwordHint": "fuzzy-fruit-colour"
+    },
+    {
+      "id": "col-031",
+      "word": "CHARTREUSE",
+      "tabooWords": ["colour", "yellow-green", "French", "liqueur", "vivid"],
+      "charadesHint": "Mime mixing yellow and green paint and being surprised by the result",
+      "passwordHint": "yellow-green-mix"
+    },
+    {
+      "id": "col-032",
+      "word": "COBALT",
+      "tabooWords": ["colour", "blue", "bright", "vivid", "element"],
+      "charadesHint": "Mime painting an intensely vivid blue bowl with careful strokes like a Delft potter",
+      "passwordHint": "vivid-bright-blue"
+    },
+    {
+      "id": "col-033",
+      "word": "OCHRE",
+      "tabooWords": ["colour", "yellow", "brown", "earthy", "pigment"],
+      "charadesHint": "Mime an ancient cave painter daubing warm earthy yellow-brown paint on a wall",
+      "passwordHint": "earthy-yellow"
+    },
+    {
+      "id": "col-034",
+      "word": "FUCHSIA",
+      "tabooWords": ["colour", "pink", "bright", "vivid", "hot pink"],
+      "charadesHint": "Mime a florist presenting the most explosively vivid pink flowers imaginable",
+      "passwordHint": "shocking-pink"
+    },
+    {
+      "id": "col-035",
+      "word": "TAUPE",
+      "tabooWords": ["colour", "grey", "brown", "neutral", "greige"],
+      "charadesHint": "Mime an interior designer agonising over paint swatches that all look almost exactly the same",
+      "passwordHint": "grey-brown-neutral"
+    },
+    {
+      "id": "col-036",
+      "word": "VERMILLION",
+      "tabooWords": ["colour", "red", "orange-red", "vivid", "pigment"],
+      "charadesHint": "Mime an artist squeezing brilliant orange-red paint and slashing it across a canvas",
+      "passwordHint": "brilliant-orange-red"
+    },
+    {
+      "id": "col-037",
+      "word": "CERULEAN",
+      "tabooWords": ["colour", "blue", "sky blue", "bright", "clear"],
+      "charadesHint": "Mime lying flat on your back on a summer's day staring at a perfectly clear warm sky",
+      "passwordHint": "sky-blue"
+    },
+    {
+      "id": "col-038",
+      "word": "SAGE",
+      "tabooWords": ["colour", "green", "grey-green", "herb", "muted"],
+      "charadesHint": "Mime rubbing leaves between your fingers in a quiet garden, releasing a soft grey-green herby smell",
+      "passwordHint": "herb-grey-green"
+    },
+    {
+      "id": "col-039",
+      "word": "MAUVE",
+      "tabooWords": ["colour", "pink", "purple", "pale", "muted"],
+      "charadesHint": "Mime mixing a little pink and a little purple and ending up with something very soft and Victorian",
+      "passwordHint": "dusty-pink-purple"
+    },
+    {
+      "id": "col-040",
+      "word": "NEON",
+      "tabooWords": ["colour", "bright", "glow", "electric", "vivid"],
+      "charadesHint": "Mime walking past a dazzling Las Vegas sign that burns your eyes in the dark",
+      "passwordHint": "electric-glow"
+    },
+    {
+      "id": "col-041",
+      "word": "ROSE GOLD",
+      "tabooWords": ["colour", "pink", "metallic", "phone", "trendy"],
+      "charadesHint": "Mime unboxing a shiny phone with a warm pinkish metallic sheen and cooing over it",
+      "passwordHint": "pink-metallic"
+    },
+    {
+      "id": "col-042",
+      "word": "FOREST GREEN",
+      "tabooWords": ["colour", "dark", "green", "trees", "deep"],
+      "charadesHint": "Mime stepping into a dense old-growth forest where sunlight barely reaches the floor",
+      "passwordHint": "dark-woodland"
+    },
+    {
+      "id": "col-043",
+      "word": "MIDNIGHT BLUE",
+      "tabooWords": ["colour", "dark", "navy", "night", "deep"],
+      "charadesHint": "Mime the sky at 2am — not quite black, the most beautiful deep blue you've ever seen",
+      "passwordHint": "deep-night-sky"
+    },
+    {
+      "id": "col-044",
+      "word": "TERRACOTTA",
+      "tabooWords": ["colour", "orange", "clay", "earth", "pot"],
+      "charadesHint": "Mime spinning a clay pot on a wheel — a warm earthy burnt orange taking shape",
+      "passwordHint": "clay-pot-orange"
+    },
+    {
+      "id": "col-045",
+      "word": "LILAC",
+      "tabooWords": ["colour", "purple", "light", "pale", "flower"],
+      "charadesHint": "Mime wandering through a spring garden pressing your nose into delicate pale purple blossoms",
+      "passwordHint": "pale-spring-purple"
+    },
+    {
+      "id": "col-046",
+      "word": "CHAMPAGNE",
+      "tabooWords": ["colour", "cream", "gold", "pale", "fizz"],
+      "charadesHint": "Mime watching bubbles rise in a very pale golden glass and sipping delicately",
+      "passwordHint": "pale-gold-fizz"
+    },
+    {
+      "id": "col-047",
+      "word": "RACING GREEN",
+      "tabooWords": ["colour", "dark green", "car", "British", "deep"],
+      "charadesHint": "Mime gripping a steering wheel of a sleek sports car in a deep rich green and roaring off",
+      "passwordHint": "British-racing"
+    },
+    {
+      "id": "col-048",
+      "word": "SUNSET ORANGE",
+      "tabooWords": ["colour", "warm", "sky", "evening", "orange"],
+      "charadesHint": "Mime watching the horizon blaze with warm fiery colour as the sun dips below it",
+      "passwordHint": "evening-sky"
+    },
+    {
+      "id": "col-049",
+      "word": "PASTEL",
+      "tabooWords": ["colour", "soft", "pale", "Easter", "muted"],
+      "charadesHint": "Mime painting Easter eggs in the softest, palest shades and arranging them beautifully",
+      "passwordHint": "soft-Easter-tones"
+    },
+    {
+      "id": "col-050",
+      "word": "RAINBOW",
+      "tabooWords": ["colour", "spectrum", "arc", "rain", "multicolour"],
+      "charadesHint": "Mime an arc forming in the sky after a storm with all visible colours appearing in order",
+      "passwordHint": "spectrum-arc"
+    },
+    {
+      "id": "col-051",
+      "word": "DENIM",
+      "tabooWords": ["colour", "blue", "jeans", "fabric", "medium"],
+      "charadesHint": "Mime pulling on a pair of classic jeans and noting the particular faded blue shade",
+      "passwordHint": "faded-jeans-blue"
+    },
+    {
+      "id": "col-052",
+      "word": "MUSTARD",
+      "tabooWords": ["colour", "yellow", "dark", "condiment", "warm"],
+      "charadesHint": "Mime squeezing a thick blob of something dark yellow onto a hot dog",
+      "passwordHint": "dark-yellow-condiment"
+    },
+    {
+      "id": "col-053",
+      "word": "SLATE",
+      "tabooWords": ["colour", "grey", "dark", "stone", "roof"],
+      "charadesHint": "Mime balancing on a slippery grey rooftop replacing flat dark grey tiles",
+      "passwordHint": "roof-grey"
+    },
+    {
+      "id": "col-054",
+      "word": "AQUAMARINE",
+      "tabooWords": ["colour", "blue-green", "sea", "gem", "pale"],
+      "charadesHint": "Mime a mermaid lounging in shallow tropical water, the sea around her perfectly clear blue-green",
+      "passwordHint": "sea-gem-colour"
+    },
+    {
+      "id": "col-055",
+      "word": "BURGUNDY",
+      "tabooWords": ["colour", "dark red", "wine", "maroon", "deep"],
+      "charadesHint": "Mime swirling a deep red wine, holding it to a candle and marvelling at the colour",
+      "passwordHint": "wine-dark-red"
+    },
+    {
+      "id": "col-056",
+      "word": "HOT PINK",
+      "tabooWords": ["colour", "bright", "pink", "vivid", "neon"],
+      "charadesHint": "Mime entering a room entirely decorated in the most searingly bright pink conceivable",
+      "passwordHint": "Barbie-pink"
+    },
+    {
+      "id": "col-057",
+      "word": "WHEAT",
+      "tabooWords": ["colour", "yellow", "pale", "grain", "harvest"],
+      "charadesHint": "Mime walking through a field of tall grass rippling gently in a warm summer breeze",
+      "passwordHint": "harvest-yellow"
+    },
+    {
+      "id": "col-058",
+      "word": "COPPER",
+      "tabooWords": ["colour", "metal", "reddish", "brown", "penny"],
+      "charadesHint": "Mime polishing an old coin until it shines with a warm reddish-orange glow",
+      "passwordHint": "penny-metal"
+    },
+    {
+      "id": "col-059",
+      "word": "CREAM",
+      "tabooWords": ["colour", "white", "off-white", "pale", "milk"],
+      "charadesHint": "Mime pouring something thick and pale into coffee and watching the swirls form",
+      "passwordHint": "off-white"
+    },
+    {
+      "id": "col-060",
+      "word": "BLUSH",
+      "tabooWords": ["colour", "pink", "pale", "cheeks", "rosy"],
+      "charadesHint": "Mime going slightly pink in the cheeks when someone pays you an unexpected compliment",
+      "passwordHint": "rosy-cheeks"
+    }
+  ]
+}

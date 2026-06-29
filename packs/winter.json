@@ -1,0 +1,431 @@
+{
+  "id": "winter",
+  "name": "Winter",
+  "category": "Seasonal",
+  "description": "Snow, frost, cosy nights and winter wonderlands",
+  "difficulty": "Easy",
+  "tags": ["winter", "seasonal", "snow", "cold", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "winter-001",
+      "word": "SNOWMAN",
+      "tabooWords": ["snow", "carrot", "scarf", "build", "coal"],
+      "charadesHint": "roll huge balls of snow and stack them up adding a carrot nose",
+      "passwordHint": "carrot nose"
+    },
+    {
+      "id": "winter-002",
+      "word": "SNOWBALL FIGHT",
+      "tabooWords": ["snow", "throw", "hit", "cold", "fight"],
+      "charadesHint": "pack snow into a ball and hurl it at someone then duck",
+      "passwordHint": "throw snow"
+    },
+    {
+      "id": "winter-003",
+      "word": "HOT CHOCOLATE",
+      "tabooWords": ["warm", "drink", "cocoa", "mug", "marshmallow"],
+      "charadesHint": "wrap both hands around a warm mug topped with marshmallows",
+      "passwordHint": "marshmallow mug"
+    },
+    {
+      "id": "winter-004",
+      "word": "ICE SKATING",
+      "tabooWords": ["skate", "ice", "rink", "glide", "blades"],
+      "charadesHint": "glide and wobble on blades across a frozen rink",
+      "passwordHint": "rink"
+    },
+    {
+      "id": "winter-005",
+      "word": "FROSTBITE",
+      "tabooWords": ["cold", "fingers", "freeze", "numb", "skin"],
+      "charadesHint": "desperately rub numb frozen fingers that have gone completely white",
+      "passwordHint": "numb"
+    },
+    {
+      "id": "winter-006",
+      "word": "BLIZZARD",
+      "tabooWords": ["snow", "storm", "wind", "visibility", "white"],
+      "charadesHint": "lean into a howling wind unable to see through swirling snow",
+      "passwordHint": "snowstorm"
+    },
+    {
+      "id": "winter-007",
+      "word": "FROZEN PIPE",
+      "tabooWords": ["water", "freeze", "burst", "cold", "plumber"],
+      "charadesHint": "turn a tap that produces nothing then panic at a burst pipe",
+      "passwordHint": "burst"
+    },
+    {
+      "id": "winter-008",
+      "word": "SCARF",
+      "tabooWords": ["neck", "wrap", "wool", "warm", "cold"],
+      "charadesHint": "wind a long woolly thing repeatedly around your neck",
+      "passwordHint": "neck wrap"
+    },
+    {
+      "id": "winter-009",
+      "word": "GLOVES",
+      "tabooWords": ["hands", "fingers", "warm", "wool", "wear"],
+      "charadesHint": "wiggle fingers into five separate slots to warm your hands",
+      "passwordHint": "fingers"
+    },
+    {
+      "id": "winter-010",
+      "word": "BLACK ICE",
+      "tabooWords": ["slip", "road", "invisible", "danger", "ice"],
+      "charadesHint": "walk normally then suddenly slide with no warning on invisible ice",
+      "passwordHint": "invisible ice"
+    },
+    {
+      "id": "winter-011",
+      "word": "SLEDGING",
+      "tabooWords": ["sled", "snow", "hill", "slide", "fast"],
+      "charadesHint": "sit on a flat sled and hurtle down a snowy hill screaming",
+      "passwordHint": "sled"
+    },
+    {
+      "id": "winter-012",
+      "word": "ICICLE",
+      "tabooWords": ["ice", "hang", "drip", "freeze", "sharp"],
+      "charadesHint": "point to a sharp spike of frozen dripping water hanging from a roof",
+      "passwordHint": "hanging ice"
+    },
+    {
+      "id": "winter-013",
+      "word": "WOOLLY HAT",
+      "tabooWords": ["hat", "wool", "head", "warm", "winter"],
+      "charadesHint": "yank a knitted hat down over your ears and shiver less",
+      "passwordHint": "knitted hat"
+    },
+    {
+      "id": "winter-014",
+      "word": "FIREPLACE",
+      "tabooWords": ["fire", "logs", "warm", "chimney", "cosy"],
+      "charadesHint": "hold your hands out to warm them in front of crackling logs",
+      "passwordHint": "logs"
+    },
+    {
+      "id": "winter-015",
+      "word": "FROST",
+      "tabooWords": ["freeze", "cold", "morning", "white", "crystal"],
+      "charadesHint": "scrape white crystals off a car windscreen on a cold morning",
+      "passwordHint": "crystal"
+    },
+    {
+      "id": "winter-016",
+      "word": "THERMAL UNDERWEAR",
+      "tabooWords": ["warm", "layer", "skin", "cold", "base"],
+      "charadesHint": "pull on a skin-tight warm layer under all your other clothes",
+      "passwordHint": "base layer"
+    },
+    {
+      "id": "winter-017",
+      "word": "HIBERNATION",
+      "tabooWords": ["sleep", "winter", "bear", "cave", "months"],
+      "charadesHint": "curl up in a cosy cave and fall into a months-long deep sleep",
+      "passwordHint": "sleep through winter"
+    },
+    {
+      "id": "winter-018",
+      "word": "SNOWFLAKE",
+      "tabooWords": ["snow", "crystal", "unique", "pattern", "white"],
+      "charadesHint": "hold out your hand as a tiny six-pointed crystal lands on it",
+      "passwordHint": "crystal pattern"
+    },
+    {
+      "id": "winter-019",
+      "word": "FROZEN LAKE",
+      "tabooWords": ["ice", "lake", "freeze", "skate", "thin"],
+      "charadesHint": "tap ice cautiously before stepping onto a frozen still lake",
+      "passwordHint": "ice lake"
+    },
+    {
+      "id": "winter-020",
+      "word": "WELLINGTON BOOTS",
+      "tabooWords": ["wellies", "rubber", "mud", "rain", "boots"],
+      "charadesHint": "pull on tall rubber boots and stomp through icy muddy puddles",
+      "passwordHint": "wellies"
+    },
+    {
+      "id": "winter-021",
+      "word": "DUVET DAY",
+      "tabooWords": ["bed", "warm", "lazy", "blanket", "stay"],
+      "charadesHint": "pull a thick duvet over your head and refuse to leave bed",
+      "passwordHint": "stay in bed"
+    },
+    {
+      "id": "winter-022",
+      "word": "AVALANCHE",
+      "tabooWords": ["snow", "mountain", "slide", "danger", "buried"],
+      "charadesHint": "watch in horror as a wall of snow roars down a mountain",
+      "passwordHint": "snow slide"
+    },
+    {
+      "id": "winter-023",
+      "word": "POLAR BEAR",
+      "tabooWords": ["white", "Arctic", "bear", "snow", "ice"],
+      "charadesHint": "lumber across ice on all fours with a thick white coat",
+      "passwordHint": "white bear"
+    },
+    {
+      "id": "winter-024",
+      "word": "BOBSLEIGH",
+      "tabooWords": ["sled", "team", "track", "ice", "speed"],
+      "charadesHint": "squeeze into a tube with three others and rocket down an icy track",
+      "passwordHint": "ice sled team"
+    },
+    {
+      "id": "winter-025",
+      "word": "FROZEN WINDSCREEN",
+      "tabooWords": ["car", "ice", "scrape", "morning", "freeze"],
+      "charadesHint": "scrape furiously at a completely iced-over car windscreen at dawn",
+      "passwordHint": "scrape"
+    },
+    {
+      "id": "winter-026",
+      "word": "NORTH POLE",
+      "tabooWords": ["Arctic", "Santa", "cold", "pole", "north"],
+      "charadesHint": "plant a flag at the very top of the world in blinding white snow",
+      "passwordHint": "top of the world"
+    },
+    {
+      "id": "winter-027",
+      "word": "SKI LIFT",
+      "tabooWords": ["ski", "chair", "mountain", "up", "cable"],
+      "charadesHint": "sit on a hanging chair with skis dangling going up a mountain",
+      "passwordHint": "chair up mountain"
+    },
+    {
+      "id": "winter-028",
+      "word": "SLEET",
+      "tabooWords": ["rain", "snow", "mixed", "cold", "wet"],
+      "charadesHint": "pull a face at horrible wet half-snow half-rain hitting your face",
+      "passwordHint": "wet snow"
+    },
+    {
+      "id": "winter-029",
+      "word": "IGLOO",
+      "tabooWords": ["ice", "snow", "Inuit", "dome", "shelter"],
+      "charadesHint": "carefully stack blocks of snow into a domed shelter",
+      "passwordHint": "snow dome"
+    },
+    {
+      "id": "winter-030",
+      "word": "REINDEER",
+      "tabooWords": ["antlers", "Santa", "fly", "Rudolph", "Christmas"],
+      "charadesHint": "put hands on head as antlers and pull a sleigh through the sky",
+      "passwordHint": "antlers"
+    },
+    {
+      "id": "winter-031",
+      "word": "WIND CHILL",
+      "tabooWords": ["cold", "wind", "feels", "temperature", "exposed"],
+      "charadesHint": "shiver violently as bitter wind makes it feel far colder than it is",
+      "passwordHint": "feels colder"
+    },
+    {
+      "id": "winter-032",
+      "word": "SNOWDRIFT",
+      "tabooWords": ["pile", "snow", "wind", "deep", "block"],
+      "charadesHint": "wade through a deep pile of wind-blown snow blocking your path",
+      "passwordHint": "deep pile"
+    },
+    {
+      "id": "winter-033",
+      "word": "HOT WATER BOTTLE",
+      "tabooWords": ["warm", "rubber", "bed", "heat", "cosy"],
+      "charadesHint": "fill a rubbery bottle with boiling water and hug it in bed",
+      "passwordHint": "rubber warmth"
+    },
+    {
+      "id": "winter-034",
+      "word": "FROSTBITTEN EARS",
+      "tabooWords": ["cold", "ear", "numb", "red", "freeze"],
+      "charadesHint": "grab your bright red completely numb frozen ears in pain",
+      "passwordHint": "numb ears"
+    },
+    {
+      "id": "winter-035",
+      "word": "SNOWPLOUGH",
+      "tabooWords": ["clear", "road", "vehicle", "push", "snow"],
+      "charadesHint": "drive a big vehicle that pushes all the snow off the road",
+      "passwordHint": "clear roads"
+    },
+    {
+      "id": "winter-036",
+      "word": "SKIING",
+      "tabooWords": ["slope", "mountain", "snow", "poles", "speed"],
+      "charadesHint": "crouch with poles and carve down a snowy mountain slope",
+      "passwordHint": "slope"
+    },
+    {
+      "id": "winter-037",
+      "word": "SNOWBOARDING",
+      "tabooWords": ["board", "snow", "mountain", "halfpipe", "jump"],
+      "charadesHint": "strap both feet to one board and carve down a snowy mountain",
+      "passwordHint": "one board"
+    },
+    {
+      "id": "winter-038",
+      "word": "MITTENS",
+      "tabooWords": ["hands", "warm", "no fingers", "wool", "cold"],
+      "charadesHint": "pull on handwear with no individual finger sections",
+      "passwordHint": "no fingers"
+    },
+    {
+      "id": "winter-039",
+      "word": "FROZEN PUDDLE",
+      "tabooWords": ["ice", "stomp", "crack", "puddle", "satisfying"],
+      "charadesHint": "stomp on a frozen puddle to hear it crack satisfyingly",
+      "passwordHint": "crack stomp"
+    },
+    {
+      "id": "winter-040",
+      "word": "NORTHERN LIGHTS",
+      "tabooWords": ["Aurora", "green", "sky", "Norway", "Arctic"],
+      "charadesHint": "stare in awe at swirling green and pink lights dancing across the sky",
+      "passwordHint": "Aurora"
+    },
+    {
+      "id": "winter-041",
+      "word": "HUSKY",
+      "tabooWords": ["dog", "sled", "pull", "Arctic", "wolf"],
+      "charadesHint": "run powerfully pulling a sled across snow like a wolf-like dog",
+      "passwordHint": "sled dog"
+    },
+    {
+      "id": "winter-042",
+      "word": "SNOWSHOES",
+      "tabooWords": ["walk", "snow", "large", "shoe", "sink"],
+      "charadesHint": "strap on oversized flat frames to walk on top of deep snow",
+      "passwordHint": "float on snow"
+    },
+    {
+      "id": "winter-043",
+      "word": "ANTIFREEZE",
+      "tabooWords": ["car", "liquid", "freeze", "engine", "blue"],
+      "charadesHint": "pour blue liquid into a car's engine to stop everything freezing",
+      "passwordHint": "blue car liquid"
+    },
+    {
+      "id": "winter-044",
+      "word": "COLD SNAP",
+      "tabooWords": ["sudden", "cold", "freeze", "temperature", "drop"],
+      "charadesHint": "gasp as the temperature suddenly drops dramatically overnight",
+      "passwordHint": "sudden freeze"
+    },
+    {
+      "id": "winter-045",
+      "word": "FROST FAIR",
+      "tabooWords": ["Thames", "frozen", "fair", "history", "ice"],
+      "charadesHint": "walk a historic fair set up on a completely frozen river",
+      "passwordHint": "frozen river fair"
+    },
+    {
+      "id": "winter-046",
+      "word": "CONDENSATION",
+      "tabooWords": ["breath", "cold", "fog", "window", "steam"],
+      "charadesHint": "breathe out and watch a cloud of warm air form in the cold",
+      "passwordHint": "breath cloud"
+    },
+    {
+      "id": "winter-047",
+      "word": "ELECTRIC BLANKET",
+      "tabooWords": ["warm", "bed", "electric", "plug", "heat"],
+      "charadesHint": "plug in a blanket and pre-warm your bed before getting in",
+      "passwordHint": "plug-in warmth"
+    },
+    {
+      "id": "winter-048",
+      "word": "DE-ICER",
+      "tabooWords": ["spray", "car", "ice", "windscreen", "can"],
+      "charadesHint": "spray a can over a frozen windscreen and watch ice dissolve",
+      "passwordHint": "spray can"
+    },
+    {
+      "id": "winter-049",
+      "word": "CENTRAL HEATING",
+      "tabooWords": ["radiator", "warm", "house", "boiler", "heat"],
+      "charadesHint": "turn up a thermostat and press yourself against a warm radiator",
+      "passwordHint": "radiator"
+    },
+    {
+      "id": "winter-050",
+      "word": "ICE HOTEL",
+      "tabooWords": ["hotel", "ice", "Sweden", "sleep", "frozen"],
+      "charadesHint": "check into a room where everything is carved entirely from ice",
+      "passwordHint": "hotel of ice"
+    },
+    {
+      "id": "winter-051",
+      "word": "PENGUIN",
+      "tabooWords": ["black", "white", "waddle", "Antarctic", "bird"],
+      "charadesHint": "huddle together waddling to keep warm in freezing cold winds",
+      "passwordHint": "waddle huddle"
+    },
+    {
+      "id": "winter-052",
+      "word": "SNOWFALL",
+      "tabooWords": ["snow", "fall", "flakes", "sky", "settle"],
+      "charadesHint": "look up at the sky as white flakes drift silently down",
+      "passwordHint": "flakes falling"
+    },
+    {
+      "id": "winter-053",
+      "word": "GRITTING TRUCK",
+      "tabooWords": ["grit", "salt", "road", "ice", "lorry"],
+      "charadesHint": "drive a truck spreading salt across icy roads at night",
+      "passwordHint": "salt roads"
+    },
+    {
+      "id": "winter-054",
+      "word": "FOOTPRINTS IN SNOW",
+      "tabooWords": ["tracks", "snow", "walk", "imprint", "marks"],
+      "charadesHint": "walk through fresh snow looking back at perfect footprints left behind",
+      "passwordHint": "snow tracks"
+    },
+    {
+      "id": "winter-055",
+      "word": "POLAR EXPEDITION",
+      "tabooWords": ["explore", "Arctic", "cold", "team", "survival"],
+      "charadesHint": "trudge through knee-deep snow dragging supplies in extreme cold",
+      "passwordHint": "Arctic explore"
+    },
+    {
+      "id": "winter-056",
+      "word": "SEASON AFFECTIVE DISORDER",
+      "tabooWords": ["SAD", "winter", "dark", "mood", "depression"],
+      "charadesHint": "slump and look miserable as the dark short winter days drag on",
+      "passwordHint": "winter blues"
+    },
+    {
+      "id": "winter-057",
+      "word": "SOUP",
+      "tabooWords": ["warm", "bowl", "liquid", "spoon", "hot"],
+      "charadesHint": "wrap hands around a bowl and blow on a hot steaming spoonful",
+      "passwordHint": "warm bowl"
+    },
+    {
+      "id": "winter-058",
+      "word": "LOG FIRE",
+      "tabooWords": ["wood", "fire", "cosy", "crackle", "flames"],
+      "charadesHint": "stack logs and stoke crackling orange flames in a hearth",
+      "passwordHint": "crackle"
+    },
+    {
+      "id": "winter-059",
+      "word": "FROZEN BREATH",
+      "tabooWords": ["cold", "breath", "cloud", "exhale", "visible"],
+      "charadesHint": "exhale dramatically showing your breath as a big white cloud",
+      "passwordHint": "visible breath"
+    },
+    {
+      "id": "winter-060",
+      "word": "CANCELLED TRAINS",
+      "tabooWords": ["snow", "delay", "station", "travel", "chaos"],
+      "charadesHint": "stare at a departures board showing all trains cancelled due to snow",
+      "passwordHint": "snow chaos"
+    }
+  ]
+}

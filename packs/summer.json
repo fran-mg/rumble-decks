@@ -1,0 +1,437 @@
+{
+  "id": "summer",
+  "name": "Summer",
+  "category": "Seasonal",
+  "description": "Sun, sea, ice cream and holidays — everything about summer",
+  "difficulty": "Easy",
+  "tags": ["summer", "seasonal", "holiday", "beach", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "summer-001",
+      "word": "SUNSCREEN",
+      "tabooWords": ["sun", "cream", "SPF", "burn", "protect"],
+      "charadesHint": "rub lotion all over your arms and face before going outside",
+      "passwordHint": "SPF"
+    },
+    {
+      "id": "summer-002",
+      "word": "ICE CREAM",
+      "tabooWords": ["scoop", "cone", "cold", "sweet", "lick"],
+      "charadesHint": "lick a melting scoop of something cold and sweet in a cone",
+      "passwordHint": "lick"
+    },
+    {
+      "id": "summer-003",
+      "word": "BARBECUE",
+      "tabooWords": ["grill", "fire", "meat", "outside", "summer"],
+      "charadesHint": "flip burgers on a smoking outdoor grill",
+      "passwordHint": "grill"
+    },
+    {
+      "id": "summer-004",
+      "word": "BEACH",
+      "tabooWords": ["sand", "sea", "waves", "holiday", "sunbathe"],
+      "charadesHint": "lay out a towel on sand and shield your eyes from the sun",
+      "passwordHint": "sand"
+    },
+    {
+      "id": "summer-005",
+      "word": "SUNGLASSES",
+      "tabooWords": ["shades", "sun", "eyes", "cool", "UV"],
+      "charadesHint": "put on oversized shades and pose in the sunshine",
+      "passwordHint": "shades"
+    },
+    {
+      "id": "summer-006",
+      "word": "PADDLING POOL",
+      "tabooWords": ["water", "kids", "garden", "splash", "cool"],
+      "charadesHint": "inflate a pool in the garden and step into shallow cool water",
+      "passwordHint": "splash"
+    },
+    {
+      "id": "summer-007",
+      "word": "FLIP FLOPS",
+      "tabooWords": ["sandals", "feet", "beach", "thongs", "summer"],
+      "charadesHint": "slap your feet loudly along a hot pavement",
+      "passwordHint": "slap"
+    },
+    {
+      "id": "summer-008",
+      "word": "LEMONADE",
+      "tabooWords": ["lemon", "drink", "cold", "sweet", "fizzy"],
+      "charadesHint": "squeeze lemons then pour over ice in a tall cold glass",
+      "passwordHint": "lemon"
+    },
+    {
+      "id": "summer-009",
+      "word": "WATERMELON",
+      "tabooWords": ["fruit", "green", "red", "seeds", "summer"],
+      "charadesHint": "slice open a huge green fruit with red flesh and spit seeds",
+      "passwordHint": "seeds"
+    },
+    {
+      "id": "summer-010",
+      "word": "FESTIVAL",
+      "tabooWords": ["music", "camping", "crowd", "stage", "tent"],
+      "charadesHint": "dance in a crowd in a muddy field watching a stage",
+      "passwordHint": "camping music"
+    },
+    {
+      "id": "summer-011",
+      "word": "FRISBEE",
+      "tabooWords": ["throw", "disc", "catch", "beach", "fly"],
+      "charadesHint": "spin and fling a flat disc to someone across a park",
+      "passwordHint": "disc"
+    },
+    {
+      "id": "summer-012",
+      "word": "SURFING",
+      "tabooWords": ["wave", "board", "ocean", "balance", "surf"],
+      "charadesHint": "balance on a board and ride a huge ocean wave",
+      "passwordHint": "wave"
+    },
+    {
+      "id": "summer-013",
+      "word": "SUNBURN",
+      "tabooWords": ["red", "skin", "sun", "painful", "peel"],
+      "charadesHint": "wince and gently touch bright red painful glowing skin",
+      "passwordHint": "red skin"
+    },
+    {
+      "id": "summer-014",
+      "word": "SANDCASTLE",
+      "tabooWords": ["sand", "build", "beach", "bucket", "moat"],
+      "charadesHint": "pat wet sand into a bucket and flip it to build towers",
+      "passwordHint": "bucket"
+    },
+    {
+      "id": "summer-015",
+      "word": "MOSQUITO",
+      "tabooWords": ["bite", "insect", "itch", "buzz", "blood"],
+      "charadesHint": "slap your arm at a tiny buzzing insect leaving an itchy bite",
+      "passwordHint": "itch"
+    },
+    {
+      "id": "summer-016",
+      "word": "HOLIDAY",
+      "tabooWords": ["travel", "abroad", "break", "trip", "vacation"],
+      "charadesHint": "pack a suitcase excitedly and head to the airport",
+      "passwordHint": "vacation"
+    },
+    {
+      "id": "summer-017",
+      "word": "HAY FEVER",
+      "tabooWords": ["pollen", "sneeze", "allergy", "itchy", "eyes"],
+      "charadesHint": "sneeze repeatedly and rub streaming itchy eyes in a field",
+      "passwordHint": "pollen"
+    },
+    {
+      "id": "summer-018",
+      "word": "CRICKET",
+      "tabooWords": ["bat", "wicket", "ball", "England", "sport"],
+      "charadesHint": "swing a flat bat and run between two sets of stumps",
+      "passwordHint": "wicket"
+    },
+    {
+      "id": "summer-019",
+      "word": "POPSICLE",
+      "tabooWords": ["ice", "lolly", "stick", "frozen", "fruit"],
+      "charadesHint": "hold a stick and lick a melting frozen fruit lolly",
+      "passwordHint": "lolly"
+    },
+    {
+      "id": "summer-020",
+      "word": "LAWN MOWER",
+      "tabooWords": ["grass", "cut", "garden", "mow", "machine"],
+      "charadesHint": "push a noisy machine back and forth over a lawn",
+      "passwordHint": "mow"
+    },
+    {
+      "id": "summer-021",
+      "word": "TENT",
+      "tabooWords": ["camping", "sleep", "outside", "poles", "zip"],
+      "charadesHint": "struggle to push poles through fabric and zip yourself inside",
+      "passwordHint": "camping"
+    },
+    {
+      "id": "summer-022",
+      "word": "SNORKELLING",
+      "tabooWords": ["mask", "underwater", "breathe", "fish", "sea"],
+      "charadesHint": "put on a mask and breathe through a tube while peering underwater",
+      "passwordHint": "mask"
+    },
+    {
+      "id": "summer-023",
+      "word": "PICNIC",
+      "tabooWords": ["blanket", "outdoor", "food", "basket", "park"],
+      "charadesHint": "spread a blanket in a park and unpack a basket of food",
+      "passwordHint": "blanket"
+    },
+    {
+      "id": "summer-024",
+      "word": "WASP",
+      "tabooWords": ["sting", "yellow", "insect", "buzz", "picnic"],
+      "charadesHint": "frantically wave away a yellow and black insect at your picnic",
+      "passwordHint": "sting"
+    },
+    {
+      "id": "summer-025",
+      "word": "TAN LINE",
+      "tabooWords": ["sun", "skin", "white", "stripe", "burn"],
+      "charadesHint": "pull up your sleeve to reveal a stark white line where the sun missed",
+      "passwordHint": "stripe"
+    },
+    {
+      "id": "summer-026",
+      "word": "VOLLEYBALL",
+      "tabooWords": ["net", "ball", "beach", "spike", "team"],
+      "charadesHint": "spike a ball over a net on a sandy beach court",
+      "passwordHint": "spike"
+    },
+    {
+      "id": "summer-027",
+      "word": "HAMMOCK",
+      "tabooWords": ["swing", "relax", "rope", "trees", "hang"],
+      "charadesHint": "carefully climb into a swinging rope bed between two trees",
+      "passwordHint": "swing bed"
+    },
+    {
+      "id": "summer-028",
+      "word": "GARDEN PARTY",
+      "tabooWords": ["outside", "garden", "party", "drinks", "summer"],
+      "charadesHint": "mingle with guests sipping drinks on a sunny garden lawn",
+      "passwordHint": "outdoor party"
+    },
+    {
+      "id": "summer-029",
+      "word": "HEATWAVE",
+      "tabooWords": ["hot", "temperature", "extreme", "sweat", "sun"],
+      "charadesHint": "fan yourself frantically as the unbearable heat beats down",
+      "passwordHint": "scorching"
+    },
+    {
+      "id": "summer-030",
+      "word": "SAILING",
+      "tabooWords": ["boat", "wind", "sail", "sea", "yacht"],
+      "charadesHint": "pull ropes and lean as a sail catches the wind on the water",
+      "passwordHint": "sail"
+    },
+    {
+      "id": "summer-031",
+      "word": "PEDALOS",
+      "tabooWords": ["pedal", "boat", "water", "lake", "feet"],
+      "charadesHint": "pedal your feet to move a little boat across a calm lake",
+      "passwordHint": "pedal boat"
+    },
+    {
+      "id": "summer-032",
+      "word": "OUTDOOR SWIMMING",
+      "tabooWords": ["lake", "swim", "wild", "cold", "outside"],
+      "charadesHint": "gasp at the cold as you dive into an outdoor lake or lido",
+      "passwordHint": "wild swim"
+    },
+    {
+      "id": "summer-033",
+      "word": "WATER GUN",
+      "tabooWords": ["squirt", "water", "fight", "soak", "gun"],
+      "charadesHint": "aim and fire a stream of water soaking everyone around you",
+      "passwordHint": "squirt"
+    },
+    {
+      "id": "summer-034",
+      "word": "STRAWBERRIES",
+      "tabooWords": ["fruit", "red", "Wimbledon", "cream", "summer"],
+      "charadesHint": "dip a bright red berry into cream and bite it blissfully",
+      "passwordHint": "Wimbledon fruit"
+    },
+    {
+      "id": "summer-035",
+      "word": "OUTDOOR CINEMA",
+      "tabooWords": ["film", "outside", "screen", "blanket", "night"],
+      "charadesHint": "wrap in a blanket and watch a big screen under the stars",
+      "passwordHint": "film under stars"
+    },
+    {
+      "id": "summer-036",
+      "word": "KITE",
+      "tabooWords": ["fly", "wind", "string", "sky", "colourful"],
+      "charadesHint": "run into the wind letting a colourful shape soar on a string",
+      "passwordHint": "fly"
+    },
+    {
+      "id": "summer-037",
+      "word": "ROUNDERS",
+      "tabooWords": ["bat", "post", "ball", "run", "school"],
+      "charadesHint": "hit a ball and sprint around posts in a school field",
+      "passwordHint": "post"
+    },
+    {
+      "id": "summer-038",
+      "word": "SUNHAT",
+      "tabooWords": ["hat", "shade", "wide brim", "sun", "head"],
+      "charadesHint": "place a wide-brimmed hat on your head and squint less",
+      "passwordHint": "wide brim"
+    },
+    {
+      "id": "summer-039",
+      "word": "SPRINKLER",
+      "tabooWords": ["water", "garden", "spin", "wet", "spray"],
+      "charadesHint": "run shrieking through a spinning garden water sprinkler",
+      "passwordHint": "garden water"
+    },
+    {
+      "id": "summer-040",
+      "word": "ROAD TRIP",
+      "tabooWords": ["drive", "car", "travel", "map", "summer"],
+      "charadesHint": "sing along to music while driving with windows down on a long road",
+      "passwordHint": "drive"
+    },
+    {
+      "id": "summer-041",
+      "word": "JELLYFISH",
+      "tabooWords": ["sting", "sea", "transparent", "tentacles", "ocean"],
+      "charadesHint": "drift gently then recoil as trailing tentacles sting a swimmer",
+      "passwordHint": "sting"
+    },
+    {
+      "id": "summer-042",
+      "word": "AMUSEMENT PARK",
+      "tabooWords": ["rides", "rollercoaster", "fair", "fun", "theme"],
+      "charadesHint": "scream with arms up on a rollercoaster in a theme park",
+      "passwordHint": "rides"
+    },
+    {
+      "id": "summer-043",
+      "word": "CORNETTO",
+      "tabooWords": ["ice cream", "cone", "chocolate", "wafer", "Italian"],
+      "charadesHint": "bite through the chocolate top of a wrapped ice cream cone",
+      "passwordHint": "cone"
+    },
+    {
+      "id": "summer-044",
+      "word": "PINA COLADA",
+      "tabooWords": ["cocktail", "coconut", "pineapple", "rum", "drink"],
+      "charadesHint": "sip a creamy tropical drink through a straw with a tiny umbrella",
+      "passwordHint": "coconut cocktail"
+    },
+    {
+      "id": "summer-045",
+      "word": "THUNDERSTORM",
+      "tabooWords": ["rain", "lightning", "thunder", "summer", "storm"],
+      "charadesHint": "look up at sudden dark clouds then sprint inside as rain pours",
+      "passwordHint": "lightning"
+    },
+    {
+      "id": "summer-046",
+      "word": "BUCKET AND SPADE",
+      "tabooWords": ["beach", "sand", "dig", "castle", "kids"],
+      "charadesHint": "dig in sand and fill a bucket to build on the beach",
+      "passwordHint": "sandcastle tools"
+    },
+    {
+      "id": "summer-047",
+      "word": "ALOE VERA",
+      "tabooWords": ["plant", "gel", "burn", "skin", "soothe"],
+      "charadesHint": "snap open a succulent leaf and rub cool gel on hot red skin",
+      "passwordHint": "burn relief"
+    },
+    {
+      "id": "summer-048",
+      "word": "DINGHY",
+      "tabooWords": ["inflatable", "boat", "sea", "float", "rubber"],
+      "charadesHint": "cling to a small inflatable rubber boat bobbing on the sea",
+      "passwordHint": "inflatable boat"
+    },
+    {
+      "id": "summer-049",
+      "word": "OUTDOOR SHOWER",
+      "tabooWords": ["rinse", "beach", "sand", "cold", "shower"],
+      "charadesHint": "shiver under a cold outdoor shower rinsing off sand and salt",
+      "passwordHint": "rinse off"
+    },
+    {
+      "id": "summer-050",
+      "word": "ESPADRILLES",
+      "tabooWords": ["shoes", "canvas", "rope", "summer", "flat"],
+      "charadesHint": "slip on rope-soled canvas flat shoes and stroll a sunny promenade",
+      "passwordHint": "rope sole"
+    },
+    {
+      "id": "summer-051",
+      "word": "GAZEBO",
+      "tabooWords": ["shade", "garden", "structure", "canopy", "outside"],
+      "charadesHint": "erect a pop-up canopy structure in the garden for shade",
+      "passwordHint": "garden canopy"
+    },
+    {
+      "id": "summer-052",
+      "word": "PROSECCO",
+      "tabooWords": ["fizzy", "wine", "Italian", "bubbles", "drink"],
+      "charadesHint": "pop a cork and pour frothy bubbles into a tall glass",
+      "passwordHint": "bubbles"
+    },
+    {
+      "id": "summer-053",
+      "word": "BEACH BALL",
+      "tabooWords": ["inflatable", "colourful", "bounce", "beach", "ball"],
+      "charadesHint": "bat a big colourful inflatable ball back and forth on the beach",
+      "passwordHint": "inflatable"
+    },
+    {
+      "id": "summer-054",
+      "word": "HUMIDITY",
+      "tabooWords": ["sticky", "wet", "hot", "air", "muggy"],
+      "charadesHint": "peel your shirt off your sweaty skin in thick sticky hot air",
+      "passwordHint": "muggy"
+    },
+    {
+      "id": "summer-055",
+      "word": "LILO",
+      "tabooWords": ["float", "inflatable", "pool", "sea", "lie"],
+      "charadesHint": "lie flat on an inflatable mattress drifting across a pool",
+      "passwordHint": "float"
+    },
+    {
+      "id": "summer-056",
+      "word": "SHORTS",
+      "tabooWords": ["legs", "wear", "summer", "clothing", "cut off"],
+      "charadesHint": "pull on a pair of short leg trousers and feel the warm breeze",
+      "passwordHint": "short trousers"
+    },
+    {
+      "id": "summer-057",
+      "word": "OUTDOOR PUB",
+      "tabooWords": ["beer garden", "drink", "outside", "pub", "tables"],
+      "charadesHint": "carry pints to a wooden table outside a pub in the sun",
+      "passwordHint": "beer garden"
+    },
+    {
+      "id": "summer-058",
+      "word": "SEAGULL",
+      "tabooWords": ["bird", "chips", "steal", "seaside", "squawk"],
+      "charadesHint": "swoop down and steal chips from someone at the seaside",
+      "passwordHint": "chip thief"
+    },
+    {
+      "id": "summer-059",
+      "word": "ROCK POOLING",
+      "tabooWords": ["crab", "pool", "rocks", "seaside", "find"],
+      "charadesHint": "crouch over rock pools searching for crabs and tiny fish",
+      "passwordHint": "crab finding"
+    },
+    {
+      "id": "summer-060",
+      "word": "WIMBLEDON",
+      "tabooWords": [
+        "tennis",
+        "strawberries",
+        "England",
+        "grass",
+        "tournament"
+      ],
+      "charadesHint": "serve and volley on grass while eating strawberries and cream",
+      "passwordHint": "tennis tournament"
+    }
+  ]
+}

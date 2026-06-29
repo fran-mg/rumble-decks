@@ -209,6 +209,226 @@
       "color": "#DC2626",
       "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/marvel.json",
       "cardCount": 60
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing",
+      "category": "Lifestyle",
+      "description": "Fashion, accessories, and everything you wear.",
+      "icon": "Shirt",
+      "color": "#F472B6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/clothing.json",
+      "cardCount": 60
+    },
+    {
+      "id": "household-items",
+      "name": "Household Items",
+      "category": "Lifestyle",
+      "description": "Everyday objects found around the home.",
+      "icon": "Home",
+      "color": "#84CC16",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/household-items.json",
+      "cardCount": 60
+    },
+    {
+      "id": "terrible-gifts",
+      "name": "Terrible Gifts",
+      "category": "Humour",
+      "description": "The worst presents anyone could ever receive.",
+      "icon": "Gift",
+      "color": "#EF4444",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/terrible-gifts.json",
+      "cardCount": 60
+    },
+    {
+      "id": "landmarks",
+      "name": "Landmarks",
+      "category": "Geography",
+      "description": "Famous structures, monuments, and natural wonders of the world.",
+      "icon": "Landmark",
+      "color": "#0EA5E9",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/landmarks.json",
+      "cardCount": 60
+    },
+    {
+      "id": "facial-expressions",
+      "name": "Facial Expressions",
+      "category": "Party",
+      "description": "Emotions, reactions, and faces — act it out with just your expression.",
+      "icon": "Smile",
+      "color": "#FBBF24",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/facial-expressions.json",
+      "cardCount": 60
+    },
+    {
+      "id": "disney-characters",
+      "name": "Disney Characters",
+      "category": "Entertainment",
+      "description": "Beloved heroes, villains, and sidekicks from the world of Disney.",
+      "icon": "Star",
+      "color": "#3B82F6",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/disney-characters.json",
+      "cardCount": 60
+    },
+    {
+      "id": "harry-potter",
+      "name": "Harry Potter",
+      "category": "Entertainment",
+      "description": "Spells, characters, creatures, and places from the wizarding world.",
+      "icon": "Wand",
+      "color": "#7C3AED",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/harry-potter.json",
+      "cardCount": 60
+    },
+    {
+      "id": "household-foods",
+      "name": "Household Foods",
+      "category": "Lifestyle",
+      "description": "Everyday foods and ingredients found in any kitchen cupboard.",
+      "icon": "ShoppingBasket",
+      "color": "#F59E0B",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/household-foods.json",
+      "cardCount": 60
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "category": "Seasonal",
+      "description": "Everything festive — from carols to crackers and Santa to stockings.",
+      "icon": "Gift",
+      "color": "#DC2626",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/christmas.json",
+      "cardCount": 60
+    },
+    {
+      "id": "easter",
+      "name": "Easter",
+      "category": "Seasonal",
+      "description": "Eggs, bunnies, and springtime traditions — all things Easter.",
+      "icon": "Egg",
+      "color": "#86EFAC",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/easter.json",
+      "cardCount": 60
+    },
+    {
+      "id": "summer",
+      "name": "Summer",
+      "category": "Seasonal",
+      "description": "Sun, sea, ice cream and holidays — everything about summer.",
+      "icon": "Sun",
+      "color": "#F59E0B",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/summer.json",
+      "cardCount": 60
+    },
+    {
+      "id": "winter",
+      "name": "Winter",
+      "category": "Seasonal",
+      "description": "Snow, frost, cosy nights and winter wonderlands.",
+      "icon": "Snowflake",
+      "color": "#93C5FD",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/winter.json",
+      "cardCount": 60
+    },
+    {
+      "id": "car-brands",
+      "name": "Car Brands",
+      "category": "Lifestyle",
+      "description": "Iconic car manufacturers and their famous models from around the world.",
+      "icon": "Car",
+      "color": "#64748B",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/car-brands.json",
+      "cardCount": 60
+    },
+    {
+      "id": "musicals",
+      "name": "Musicals",
+      "category": "Entertainment",
+      "description": "Songs, shows and stars from the greatest musicals on stage and screen.",
+      "icon": "Music2",
+      "color": "#C026D3",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/musicals.json",
+      "cardCount": 60
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "category": "Nature",
+      "description": "Sweet, sharp and exotic — fruits from around the world.",
+      "icon": "Apple",
+      "color": "#EF4444",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/fruits.json",
+      "cardCount": 60
+    },
+    {
+      "id": "famous-figures",
+      "name": "Famous Figures",
+      "category": "People",
+      "description": "Legendary leaders, scientists, artists and icons who changed the world.",
+      "icon": "Crown",
+      "color": "#854D0E",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-figures.json",
+      "cardCount": 60
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "category": "Seasonal",
+      "description": "Spooky costumes, monsters and trick-or-treat — all things Halloween.",
+      "icon": "Ghost",
+      "color": "#EA580C",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/halloween.json",
+      "cardCount": 60
+    },
+    {
+      "id": "famous-brands",
+      "name": "Famous Brands",
+      "category": "Lifestyle",
+      "description": "Iconic logos, slogans, and companies — from fashion to fast food.",
+      "icon": "ShoppingBag",
+      "color": "#6366F1",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-brands.json",
+      "cardCount": 60
+    },
+    {
+      "id": "great-britain",
+      "name": "Great British",
+      "category": "Culture",
+      "description": "All things British — royals, traditions, slang, food, and iconic moments.",
+      "icon": "Crown",
+      "color": "#DC2626",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/great-britain.json",
+      "cardCount": 60
+    },
+    {
+      "id": "valentines",
+      "name": "Valentine's Day",
+      "category": "Occasions",
+      "description": "Love, romance, and all things Valentine's — sweet, cheesy, and perfect for couples!",
+      "icon": "Heart",
+      "color": "#F43F5E",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/valentines.json",
+      "cardCount": 60
+    },
+    {
+      "id": "colours",
+      "name": "Colours",
+      "category": "Creative",
+      "description": "Think fast — describe the colour without saying it! Shades, tones, and everything in between.",
+      "icon": "Palette",
+      "color": "#A855F7",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/colours.json",
+      "cardCount": 60
+    },
+    {
+      "id": "human-body",
+      "name": "The Human Body",
+      "category": "Science",
+      "description": "From bones to organs — everything inside and outside the human body.",
+      "icon": "HeartPulse",
+      "color": "#EF4444",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/human-body.json",
+      "cardCount": 60
     }
   ]
 }

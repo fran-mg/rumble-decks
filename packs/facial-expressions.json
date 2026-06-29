@@ -1,0 +1,443 @@
+{
+  "id": "facial-expressions",
+  "name": "Facial Expressions",
+  "category": "Party",
+  "description": "Emotions, reactions, and faces — act it out with just your expression",
+  "difficulty": "Easy",
+  "tags": ["expressions", "emotions", "party", "charades", "funny"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "facial-001",
+      "word": "DISGUST",
+      "tabooWords": ["gross", "yuck", "revolted", "sick", "horrible"],
+      "charadesHint": "wrinkle your nose and pull back in total revulsion",
+      "passwordHint": "yuck"
+    },
+    {
+      "id": "facial-002",
+      "word": "SURPRISE",
+      "tabooWords": ["shocked", "unexpected", "gasp", "wow", "astonished"],
+      "charadesHint": "eyes and mouth fly wide open in total shock",
+      "passwordHint": "shocked"
+    },
+    {
+      "id": "facial-003",
+      "word": "BOREDOM",
+      "tabooWords": ["boring", "dull", "yawn", "tired", "uninterested"],
+      "charadesHint": "stare blankly into the distance and yawn dramatically",
+      "passwordHint": "yawn"
+    },
+    {
+      "id": "facial-004",
+      "word": "SMUGNESS",
+      "tabooWords": ["smug", "superior", "pleased", "self", "satisfied"],
+      "charadesHint": "tilt chin up and smile with an infuriatingly self-satisfied grin",
+      "passwordHint": "self-satisfied"
+    },
+    {
+      "id": "facial-005",
+      "word": "CONFUSION",
+      "tabooWords": ["confused", "puzzled", "lost", "baffled", "huh"],
+      "charadesHint": "tilt head and furrow brow like you understood absolutely nothing",
+      "passwordHint": "puzzled"
+    },
+    {
+      "id": "facial-006",
+      "word": "TERROR",
+      "tabooWords": ["scared", "horror", "fear", "terrified", "panic"],
+      "charadesHint": "freeze with eyes wide and mouth open in pure silent screaming horror",
+      "passwordHint": "screaming fear"
+    },
+    {
+      "id": "facial-007",
+      "word": "FLIRTING",
+      "tabooWords": ["flirt", "wink", "attract", "charm", "romantic"],
+      "charadesHint": "flutter eyelashes and shoot a slow wink with a coy smile",
+      "passwordHint": "wink"
+    },
+    {
+      "id": "facial-008",
+      "word": "SUSPICION",
+      "tabooWords": ["suspect", "doubt", "narrow", "eyes", "trust"],
+      "charadesHint": "narrow eyes to slits and look sideways with deep distrust",
+      "passwordHint": "narrow eyes"
+    },
+    {
+      "id": "facial-009",
+      "word": "PRIDE",
+      "tabooWords": ["proud", "chest", "beam", "pleased", "achievement"],
+      "charadesHint": "stand tall, puff out chest, and beam with enormous pride",
+      "passwordHint": "puffed up"
+    },
+    {
+      "id": "facial-010",
+      "word": "SADNESS",
+      "tabooWords": ["sad", "cry", "tears", "unhappy", "upset"],
+      "charadesHint": "let your face crumple and lower lip tremble as tears well up",
+      "passwordHint": "tears"
+    },
+    {
+      "id": "facial-011",
+      "word": "CONTEMPT",
+      "tabooWords": ["sneer", "look", "down", "scorn", "disdain"],
+      "charadesHint": "curl one side of your upper lip in a slow withering sneer",
+      "passwordHint": "sneer"
+    },
+    {
+      "id": "facial-012",
+      "word": "EMBARRASSMENT",
+      "tabooWords": ["embarrassed", "blush", "red", "awkward", "cringe"],
+      "charadesHint": "go bright red and hide your face in your hands",
+      "passwordHint": "blush"
+    },
+    {
+      "id": "facial-013",
+      "word": "CONCENTRATION",
+      "tabooWords": ["focus", "think", "hard", "intense", "study"],
+      "charadesHint": "bite your lip, furrow your brow and stare intensely at one spot",
+      "passwordHint": "focus"
+    },
+    {
+      "id": "facial-014",
+      "word": "JEALOUSY",
+      "tabooWords": ["envious", "green", "want", "covet", "bitter"],
+      "charadesHint": "glare green-eyed at someone else getting something wonderful",
+      "passwordHint": "green-eyed"
+    },
+    {
+      "id": "facial-015",
+      "word": "HUNGER",
+      "tabooWords": ["starving", "food", "eat", "stomach", "ravenous"],
+      "charadesHint": "lick your lips, rub your tummy and look desperately around for food",
+      "passwordHint": "starving"
+    },
+    {
+      "id": "facial-016",
+      "word": "RELIEF",
+      "tabooWords": ["phew", "thank", "goodness", "breathe", "finally"],
+      "charadesHint": "exhale an enormous sigh and sag with overwhelming relief",
+      "passwordHint": "phew"
+    },
+    {
+      "id": "facial-017",
+      "word": "ANGER",
+      "tabooWords": ["furious", "rage", "mad", "cross", "livid"],
+      "charadesHint": "clench jaw, go red, and vibrate with barely contained fury",
+      "passwordHint": "furious"
+    },
+    {
+      "id": "facial-018",
+      "word": "EXCITEMENT",
+      "tabooWords": ["excited", "thrill", "buzz", "eager", "hyper"],
+      "charadesHint": "eyes light up, bounce on heels with a massive grin",
+      "passwordHint": "buzz"
+    },
+    {
+      "id": "facial-019",
+      "word": "SLEEPINESS",
+      "tabooWords": ["tired", "sleepy", "yawn", "droop", "nod"],
+      "charadesHint": "eyelids droop, head nods, and you almost fall asleep mid-sentence",
+      "passwordHint": "drooping eyelids"
+    },
+    {
+      "id": "facial-020",
+      "word": "LOVE",
+      "tabooWords": ["heart", "adore", "romantic", "fond", "smitten"],
+      "charadesHint": "gaze adoringly with soft eyes and a dreamy smile",
+      "passwordHint": "smitten"
+    },
+    {
+      "id": "facial-021",
+      "word": "GUILT",
+      "tabooWords": ["guilty", "sorry", "ashamed", "caught", "conscience"],
+      "charadesHint": "look down and sideways unable to meet anyone's eyes",
+      "passwordHint": "caught out"
+    },
+    {
+      "id": "facial-022",
+      "word": "DISBELIEF",
+      "tabooWords": ["no way", "impossible", "can't", "believe", "doubt"],
+      "charadesHint": "slowly shake your head with a slack jaw of total disbelief",
+      "passwordHint": "no way"
+    },
+    {
+      "id": "facial-023",
+      "word": "ANXIETY",
+      "tabooWords": ["nervous", "worried", "tense", "anxious", "stress"],
+      "charadesHint": "bite nails and dart eyes left to right in nervous panic",
+      "passwordHint": "nervous"
+    },
+    {
+      "id": "facial-024",
+      "word": "GRIEF",
+      "tabooWords": ["loss", "mourn", "cry", "bereaved", "devastated"],
+      "charadesHint": "face contorts in silent heaving sobs of deep grief",
+      "passwordHint": "mourn"
+    },
+    {
+      "id": "facial-025",
+      "word": "MISCHIEF",
+      "tabooWords": ["naughty", "devious", "scheming", "cheeky", "wicked"],
+      "charadesHint": "eyes twinkle and the corner of mouth twitch with secret mischief",
+      "passwordHint": "cheeky"
+    },
+    {
+      "id": "facial-026",
+      "word": "HORROR",
+      "tabooWords": ["scared", "terrified", "nightmare", "ghastly", "dread"],
+      "charadesHint": "go pale, eyes wide, backing away slowly from something awful",
+      "passwordHint": "dread"
+    },
+    {
+      "id": "facial-027",
+      "word": "ECSTASY",
+      "tabooWords": ["bliss", "joy", "elation", "rapture", "happiness"],
+      "charadesHint": "throw head back in pure beaming blissful rapture",
+      "passwordHint": "bliss"
+    },
+    {
+      "id": "facial-028",
+      "word": "PAIN",
+      "tabooWords": ["hurt", "ouch", "ow", "ache", "wince"],
+      "charadesHint": "wince hard and clench your teeth against something very painful",
+      "passwordHint": "ouch"
+    },
+    {
+      "id": "facial-029",
+      "word": "CUNNING",
+      "tabooWords": ["sly", "clever", "scheming", "sneaky", "crafty"],
+      "charadesHint": "lace fingers together and smile with sly calculating eyes",
+      "passwordHint": "sly"
+    },
+    {
+      "id": "facial-030",
+      "word": "AWE",
+      "tabooWords": ["amazed", "wonder", "stunned", "breathtaking", "wow"],
+      "charadesHint": "jaw drops and eyes go enormous gazing at something magnificent",
+      "passwordHint": "wonder"
+    },
+    {
+      "id": "facial-031",
+      "word": "IMPATIENCE",
+      "tabooWords": ["wait", "hurry", "rush", "tapping", "now"],
+      "charadesHint": "tap foot furiously and check watch while sighing repeatedly",
+      "passwordHint": "tapping foot"
+    },
+    {
+      "id": "facial-032",
+      "word": "DISAPPOINTMENT",
+      "tabooWords": ["let down", "hope", "expected", "deflated", "sad"],
+      "charadesHint": "smile hopefully then slowly deflate as expectations are crushed",
+      "passwordHint": "deflated"
+    },
+    {
+      "id": "facial-033",
+      "word": "DETERMINATION",
+      "tabooWords": ["resolve", "firm", "set", "will", "stubborn"],
+      "charadesHint": "set jaw firmly, raise chin, and stare ahead with iron will",
+      "passwordHint": "iron will"
+    },
+    {
+      "id": "facial-034",
+      "word": "INNOCENCE",
+      "tabooWords": [
+        "not me",
+        "sweet",
+        "angel",
+        "pure",
+        "butter wouldn't melt"
+      ],
+      "charadesHint": "bat eyelashes and look impossibly angelic and blameless",
+      "passwordHint": "butter wouldn't melt"
+    },
+    {
+      "id": "facial-035",
+      "word": "LONGING",
+      "tabooWords": ["wish", "yearn", "want", "desire", "miss"],
+      "charadesHint": "gaze wistfully into the distance with deep longing eyes",
+      "passwordHint": "yearn"
+    },
+    {
+      "id": "facial-036",
+      "word": "SHOCK",
+      "tabooWords": ["stunned", "gasp", "unbelievable", "jolt", "frozen"],
+      "charadesHint": "freeze completely rigid with a sharp gasp",
+      "passwordHint": "frozen gasp"
+    },
+    {
+      "id": "facial-037",
+      "word": "DELIGHT",
+      "tabooWords": ["pleased", "thrilled", "happy", "joy", "wonderful"],
+      "charadesHint": "clap hands together and beam with pure childlike delight",
+      "passwordHint": "beam"
+    },
+    {
+      "id": "facial-038",
+      "word": "LOATHING",
+      "tabooWords": ["hate", "despise", "detest", "repulsed", "abhor"],
+      "charadesHint": "look at something as if it is the most repulsive thing in existence",
+      "passwordHint": "detest"
+    },
+    {
+      "id": "facial-039",
+      "word": "SERENITY",
+      "tabooWords": ["calm", "peace", "still", "tranquil", "zen"],
+      "charadesHint": "close eyes softly, breathe slowly, face utterly at peace",
+      "passwordHint": "inner peace"
+    },
+    {
+      "id": "facial-040",
+      "word": "GREED",
+      "tabooWords": ["want", "more", "greedy", "gimme", "covet"],
+      "charadesHint": "eyes gleam and rub hands at the sight of something desirable",
+      "passwordHint": "gimme more"
+    },
+    {
+      "id": "facial-041",
+      "word": "SKEPTICISM",
+      "tabooWords": ["doubt", "sure", "really", "believe", "unconvinced"],
+      "charadesHint": "raise one eyebrow extremely high with a sideways look",
+      "passwordHint": "raised eyebrow"
+    },
+    {
+      "id": "facial-042",
+      "word": "HELPLESSNESS",
+      "tabooWords": ["hopeless", "can't", "nothing", "lost", "powerless"],
+      "charadesHint": "slump shoulders and spread hands in total helpless defeat",
+      "passwordHint": "powerless"
+    },
+    {
+      "id": "facial-043",
+      "word": "RESENTMENT",
+      "tabooWords": ["bitter", "grudge", "unfair", "seethe", "simmer"],
+      "charadesHint": "smile tightly while eyes seethe with barely hidden resentment",
+      "passwordHint": "bitter grudge"
+    },
+    {
+      "id": "facial-044",
+      "word": "WONDER",
+      "tabooWords": ["magical", "amazed", "marvel", "wide", "eyes"],
+      "charadesHint": "eyes widen to saucers and mouth forms a perfect silent O",
+      "passwordHint": "saucer eyes"
+    },
+    {
+      "id": "facial-045",
+      "word": "TRIUMPH",
+      "tabooWords": ["victory", "win", "success", "champion", "celebrate"],
+      "charadesHint": "punch the air and roar with the face of a total winner",
+      "passwordHint": "victory"
+    },
+    {
+      "id": "facial-046",
+      "word": "BASHFULNESS",
+      "tabooWords": ["shy", "coy", "blush", "timid", "quiet"],
+      "charadesHint": "look down with a tiny smile and go just a little bit pink",
+      "passwordHint": "shy blush"
+    },
+    {
+      "id": "facial-047",
+      "word": "EXASPERATION",
+      "tabooWords": ["fed up", "again", "sigh", "exhausted", "patience"],
+      "charadesHint": "roll eyes to the ceiling, pinch the bridge of your nose and sigh",
+      "passwordHint": "eye roll"
+    },
+    {
+      "id": "facial-048",
+      "word": "PITY",
+      "tabooWords": ["poor", "thing", "sorry", "sympathy", "compassion"],
+      "charadesHint": "tilt head with soft sad eyes and a sympathetic smile",
+      "passwordHint": "poor thing"
+    },
+    {
+      "id": "facial-049",
+      "word": "FURY",
+      "tabooWords": ["rage", "livid", "explode", "red", "steam"],
+      "charadesHint": "go puce with rage, jaw clenched, practically steaming from ears",
+      "passwordHint": "steaming"
+    },
+    {
+      "id": "facial-050",
+      "word": "PLEADING",
+      "tabooWords": ["beg", "please", "desperate", "implore", "puppy eyes"],
+      "charadesHint": "clasp hands together under trembling chin with enormous puppy eyes",
+      "passwordHint": "puppy eyes"
+    },
+    {
+      "id": "facial-051",
+      "word": "MOCKERY",
+      "tabooWords": ["mock", "tease", "laugh", "ridicule", "taunt"],
+      "charadesHint": "put thumbs in ears and waggle fingers with a lolling tongue",
+      "passwordHint": "taunt"
+    },
+    {
+      "id": "facial-052",
+      "word": "NOSTALGIA",
+      "tabooWords": ["memories", "past", "remember", "fond", "wistful"],
+      "charadesHint": "gaze into the distance with a warm wistful smile at happy memories",
+      "passwordHint": "wistful memories"
+    },
+    {
+      "id": "facial-053",
+      "word": "DISGRACE",
+      "tabooWords": ["shame", "dishonour", "scandal", "disgraced", "fallen"],
+      "charadesHint": "hang head in total shame unable to face anyone",
+      "passwordHint": "hang head"
+    },
+    {
+      "id": "facial-054",
+      "word": "ELATION",
+      "tabooWords": ["overjoyed", "ecstatic", "thrilled", "over", "moon"],
+      "charadesHint": "literally jump for joy with face lit from inside with happiness",
+      "passwordHint": "over the moon"
+    },
+    {
+      "id": "facial-055",
+      "word": "DOOM",
+      "tabooWords": ["dread", "end", "terrible", "fate", "inevitable"],
+      "charadesHint": "stare ahead with dead eyes accepting your terrible inevitable fate",
+      "passwordHint": "inevitable"
+    },
+    {
+      "id": "facial-056",
+      "word": "AFFECTION",
+      "tabooWords": ["fond", "warm", "caring", "tenderness", "love"],
+      "charadesHint": "look at someone with the softest warmest most tender expression",
+      "passwordHint": "tender"
+    },
+    {
+      "id": "facial-057",
+      "word": "HYSTERIA",
+      "tabooWords": [
+        "hysterical",
+        "uncontrol",
+        "laughter",
+        "tears",
+        "breakdown"
+      ],
+      "charadesHint": "switch rapidly between crying and laughing completely uncontrollably",
+      "passwordHint": "uncontrollable"
+    },
+    {
+      "id": "facial-058",
+      "word": "DEFIANCE",
+      "tabooWords": ["refuse", "rebel", "no", "dare", "challenge"],
+      "charadesHint": "square jaw, cross arms, and stare down any challenge with defiance",
+      "passwordHint": "rebel"
+    },
+    {
+      "id": "facial-059",
+      "word": "GLOATING",
+      "tabooWords": ["smug", "victory", "ha", "told", "you"],
+      "charadesHint": "point repeatedly and say I told you so with unbearable smugness",
+      "passwordHint": "I told you so"
+    },
+    {
+      "id": "facial-060",
+      "word": "RESIGNATION",
+      "tabooWords": ["give up", "accept", "whatever", "fine", "so be it"],
+      "charadesHint": "shrug slowly, breathe out and accept the unavoidable with dead eyes",
+      "passwordHint": "whatever"
+    }
+  ]
+}

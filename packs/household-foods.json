@@ -1,0 +1,431 @@
+{
+  "id": "household-foods",
+  "name": "Household Foods",
+  "category": "Lifestyle",
+  "description": "Everyday foods and ingredients found in any kitchen cupboard",
+  "difficulty": "Easy",
+  "tags": ["food", "kitchen", "everyday", "family-friendly", "cooking"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "hf-001",
+      "word": "KETCHUP",
+      "tabooWords": ["tomato", "red", "sauce", "chips", "Heinz"],
+      "charadesHint": "bang the bottom of a bottle to coax thick red sauce onto chips",
+      "passwordHint": "tomato sauce"
+    },
+    {
+      "id": "hf-002",
+      "word": "BAKED BEANS",
+      "tabooWords": ["tin", "Heinz", "toast", "beans", "tomato"],
+      "charadesHint": "open a tin and pour orange beans onto warm toast",
+      "passwordHint": "tin beans"
+    },
+    {
+      "id": "hf-003",
+      "word": "PEANUT BUTTER",
+      "tabooWords": ["peanut", "spread", "jar", "bread", "sticky"],
+      "charadesHint": "spread thick sticky paste on bread and struggle to unstick your mouth",
+      "passwordHint": "sticky spread"
+    },
+    {
+      "id": "hf-004",
+      "word": "CORNFLAKES",
+      "tabooWords": ["cereal", "milk", "breakfast", "corn", "bowl"],
+      "charadesHint": "pour from a large box into a bowl then add cold milk",
+      "passwordHint": "breakfast cereal"
+    },
+    {
+      "id": "hf-005",
+      "word": "MARMALADE",
+      "tabooWords": ["orange", "peel", "spread", "jam", "breakfast"],
+      "charadesHint": "spread chunky orange preserve with bits in it onto toast",
+      "passwordHint": "orange preserve"
+    },
+    {
+      "id": "hf-006",
+      "word": "MAYONNAISE",
+      "tabooWords": ["white", "sauce", "egg", "creamy", "salad"],
+      "charadesHint": "squeeze a white creamy dressing onto a sandwich",
+      "passwordHint": "creamy white sauce"
+    },
+    {
+      "id": "hf-007",
+      "word": "SPAGHETTI",
+      "tabooWords": ["pasta", "long", "Italian", "boil", "sauce"],
+      "charadesHint": "slurp an impossibly long strand of pasta until it hits your chin",
+      "passwordHint": "long pasta"
+    },
+    {
+      "id": "hf-008",
+      "word": "MARMITE",
+      "tabooWords": ["yeast", "spread", "dark", "salty", "love or hate"],
+      "charadesHint": "spread a tiny scraping of very dark sticky paste and divide opinion",
+      "passwordHint": "love it or hate it"
+    },
+    {
+      "id": "hf-009",
+      "word": "EGGS",
+      "tabooWords": ["hen", "shell", "yolk", "white", "boil"],
+      "charadesHint": "crack an egg on the side of a bowl and drop it in",
+      "passwordHint": "crack and yolk"
+    },
+    {
+      "id": "hf-010",
+      "word": "BUTTER",
+      "tabooWords": ["spread", "dairy", "fat", "toast", "melt"],
+      "charadesHint": "drag a thick yellow block across warm toast until it melts",
+      "passwordHint": "dairy spread"
+    },
+    {
+      "id": "hf-011",
+      "word": "MILK",
+      "tabooWords": ["dairy", "white", "cow", "drink", "cereal"],
+      "charadesHint": "pour a white liquid from a large carton into a glass",
+      "passwordHint": "white drink"
+    },
+    {
+      "id": "hf-012",
+      "word": "BREAD",
+      "tabooWords": ["loaf", "toast", "slice", "wheat", "bake"],
+      "charadesHint": "take two slices from a bag and press them together",
+      "passwordHint": "sliced loaf"
+    },
+    {
+      "id": "hf-013",
+      "word": "CHEESE",
+      "tabooWords": ["dairy", "cheddar", "slice", "grate", "yellow"],
+      "charadesHint": "slice a yellow block and pop it into a sandwich",
+      "passwordHint": "cheddar"
+    },
+    {
+      "id": "hf-014",
+      "word": "JAM",
+      "tabooWords": ["strawberry", "spread", "sweet", "jar", "preserve"],
+      "charadesHint": "spread bright red sweet fruity preserve onto a scone",
+      "passwordHint": "strawberry spread"
+    },
+    {
+      "id": "hf-015",
+      "word": "TINNED TUNA",
+      "tabooWords": ["tin", "fish", "mayo", "sandwich", "can"],
+      "charadesHint": "peel back the lid of a tin and flake fish into a bowl",
+      "passwordHint": "tin fish"
+    },
+    {
+      "id": "hf-016",
+      "word": "RICE",
+      "tabooWords": ["grains", "boil", "white", "Asian", "pot"],
+      "charadesHint": "pour tiny white grains into boiling water and stir",
+      "passwordHint": "white grains"
+    },
+    {
+      "id": "hf-017",
+      "word": "SUGAR",
+      "tabooWords": ["sweet", "spoon", "tea", "coffee", "bake"],
+      "charadesHint": "spoon white crystals into tea and stir",
+      "passwordHint": "sweet crystals"
+    },
+    {
+      "id": "hf-018",
+      "word": "FLOUR",
+      "tabooWords": ["bake", "white", "powder", "bread", "cake"],
+      "charadesHint": "sift clouds of white powder into a mixing bowl",
+      "passwordHint": "white baking powder"
+    },
+    {
+      "id": "hf-019",
+      "word": "OLIVE OIL",
+      "tabooWords": ["oil", "cook", "Italian", "bottle", "pour"],
+      "charadesHint": "tilt a dark bottle and pour a thin golden stream into a pan",
+      "passwordHint": "Italian oil"
+    },
+    {
+      "id": "hf-020",
+      "word": "SOY SAUCE",
+      "tabooWords": ["salty", "Asian", "dark", "bottle", "Chinese"],
+      "charadesHint": "dash dark liquid from a small bottle over noodles",
+      "passwordHint": "dark salty sauce"
+    },
+    {
+      "id": "hf-021",
+      "word": "CRISPS",
+      "tabooWords": ["potato", "crunch", "packet", "salty", "snack"],
+      "charadesHint": "crunch loudly from a rustling bag of salty potato snacks",
+      "passwordHint": "crunch snack"
+    },
+    {
+      "id": "hf-022",
+      "word": "SOUP",
+      "tabooWords": ["liquid", "bowl", "spoon", "warm", "tin"],
+      "charadesHint": "heat a tin and ladle warm liquid into a bowl to eat with a spoon",
+      "passwordHint": "warm bowl"
+    },
+    {
+      "id": "hf-023",
+      "word": "PASTA SAUCE",
+      "tabooWords": ["jar", "tomato", "pasta", "Italian", "sauce"],
+      "charadesHint": "twist open a jar and pour thick red sauce over cooked pasta",
+      "passwordHint": "jar sauce"
+    },
+    {
+      "id": "hf-024",
+      "word": "YOGHURT",
+      "tabooWords": ["dairy", "pot", "spoon", "fruit", "creamy"],
+      "charadesHint": "peel the foil lid and spoon creamy white cultured dairy",
+      "passwordHint": "pot of dairy"
+    },
+    {
+      "id": "hf-025",
+      "word": "FROZEN PEAS",
+      "tabooWords": ["frozen", "green", "peas", "bag", "freezer"],
+      "charadesHint": "tip rattling green peas from a freezer bag into boiling water",
+      "passwordHint": "freezer green"
+    },
+    {
+      "id": "hf-026",
+      "word": "HONEY",
+      "tabooWords": ["bee", "sweet", "golden", "squeeze", "jar"],
+      "charadesHint": "squeeze a bear-shaped bottle to drizzle golden sweetness",
+      "passwordHint": "golden drizzle"
+    },
+    {
+      "id": "hf-027",
+      "word": "MUSTARD",
+      "tabooWords": ["yellow", "hot", "condiment", "Dijon", "hotdog"],
+      "charadesHint": "squirt yellow pungent sauce across a hotdog",
+      "passwordHint": "yellow condiment"
+    },
+    {
+      "id": "hf-028",
+      "word": "VINEGAR",
+      "tabooWords": ["sour", "chips", "acid", "pickle", "sharp"],
+      "charadesHint": "splash a sharp sour liquid over chips and pull a face",
+      "passwordHint": "sour liquid"
+    },
+    {
+      "id": "hf-029",
+      "word": "SALT",
+      "tabooWords": ["seasoning", "shake", "sea", "crystal", "sprinkle"],
+      "charadesHint": "shake a small white crystal shaker over your food",
+      "passwordHint": "shake and season"
+    },
+    {
+      "id": "hf-030",
+      "word": "PEPPER",
+      "tabooWords": ["black", "grind", "spice", "mill", "seasoning"],
+      "charadesHint": "grind a tall mill over your plate until you sneeze",
+      "passwordHint": "grind and sneeze"
+    },
+    {
+      "id": "hf-031",
+      "word": "TEA BAGS",
+      "tabooWords": ["tea", "bag", "brew", "mug", "British"],
+      "charadesHint": "drop a bag into a mug, add water, squeeze, and add milk",
+      "passwordHint": "builder's brew"
+    },
+    {
+      "id": "hf-032",
+      "word": "INSTANT COFFEE",
+      "tabooWords": ["coffee", "granules", "jar", "caffeine", "hot"],
+      "charadesHint": "spoon dark granules from a jar and stir in boiling water",
+      "passwordHint": "granule coffee"
+    },
+    {
+      "id": "hf-033",
+      "word": "ORANGE JUICE",
+      "tabooWords": ["orange", "carton", "breakfast", "vitamin", "squeeze"],
+      "charadesHint": "pour a bright orange drink from a carton at breakfast",
+      "passwordHint": "breakfast orange"
+    },
+    {
+      "id": "hf-034",
+      "word": "BISCUITS",
+      "tabooWords": ["dunk", "tea", "crunch", "packet", "digestive"],
+      "charadesHint": "carefully dunk a round biscuit in tea and rescue it before it dissolves",
+      "passwordHint": "dunking"
+    },
+    {
+      "id": "hf-035",
+      "word": "BREAD AND BUTTER PUDDING",
+      "tabooWords": ["bread", "butter", "pudding", "raisin", "custard"],
+      "charadesHint": "layer buttered bread in a dish and pour over a rich egg custard",
+      "passwordHint": "bread pudding"
+    },
+    {
+      "id": "hf-036",
+      "word": "PORRIDGE",
+      "tabooWords": ["oats", "breakfast", "hot", "milk", "Goldilocks"],
+      "charadesHint": "stir a thick bubbling pot of oats for your morning breakfast",
+      "passwordHint": "oats"
+    },
+    {
+      "id": "hf-037",
+      "word": "NOODLES",
+      "tabooWords": ["Asian", "long", "slurp", "pot", "instant"],
+      "charadesHint": "pour boiling water into a pot and slurp long noodles noisily",
+      "passwordHint": "instant pot noodle"
+    },
+    {
+      "id": "hf-038",
+      "word": "FROZEN PIZZA",
+      "tabooWords": ["pizza", "freezer", "oven", "cheese", "slice"],
+      "charadesHint": "pull a rigid pizza from the freezer and slide it into the oven",
+      "passwordHint": "freezer pizza"
+    },
+    {
+      "id": "hf-039",
+      "word": "CEREAL BAR",
+      "tabooWords": ["snack", "oats", "sweet", "bar", "breakfast"],
+      "charadesHint": "pull a wrapped bar from the cupboard for a quick on-the-go snack",
+      "passwordHint": "oat bar"
+    },
+    {
+      "id": "hf-040",
+      "word": "CUSTARD",
+      "tabooWords": ["yellow", "pour", "pudding", "warm", "powder"],
+      "charadesHint": "pour thick yellow sauce over a sponge pudding",
+      "passwordHint": "yellow pour"
+    },
+    {
+      "id": "hf-041",
+      "word": "GRAVY",
+      "tabooWords": ["brown", "roast", "pour", "dinner", "sauce"],
+      "charadesHint": "pour rich brown liquid all over a Sunday roast",
+      "passwordHint": "roast dinner sauce"
+    },
+    {
+      "id": "hf-042",
+      "word": "CHOCOLATE SPREAD",
+      "tabooWords": ["Nutella", "hazelnut", "chocolate", "toast", "jar"],
+      "charadesHint": "dip a knife into a chocolate jar and spread thickly on toast",
+      "passwordHint": "Nutella"
+    },
+    {
+      "id": "hf-043",
+      "word": "BAKING POWDER",
+      "tabooWords": ["bake", "rise", "white", "cake", "powder"],
+      "charadesHint": "add a teaspoon of white powder to make your cake rise",
+      "passwordHint": "makes it rise"
+    },
+    {
+      "id": "hf-044",
+      "word": "STOCK CUBE",
+      "tabooWords": ["stock", "broth", "cube", "boil", "soup"],
+      "charadesHint": "crumble a small cube into boiling water to make stock",
+      "passwordHint": "broth cube"
+    },
+    {
+      "id": "hf-045",
+      "word": "GARLIC",
+      "tabooWords": ["clove", "smell", "Italian", "vampire", "bulb"],
+      "charadesHint": "crush a clove and recoil at the powerful aroma",
+      "passwordHint": "vampire repellent"
+    },
+    {
+      "id": "hf-046",
+      "word": "ONION",
+      "tabooWords": ["layers", "cry", "chop", "vegetable", "smell"],
+      "charadesHint": "chop an onion and cry streaming tears involuntarily",
+      "passwordHint": "makes you cry"
+    },
+    {
+      "id": "hf-047",
+      "word": "POTATO",
+      "tabooWords": ["chips", "mash", "boil", "roast", "bake"],
+      "charadesHint": "peel and boil a lumpy vegetable then mash it flat",
+      "passwordHint": "mash it"
+    },
+    {
+      "id": "hf-048",
+      "word": "BANANA",
+      "tabooWords": ["yellow", "peel", "fruit", "monkey", "curved"],
+      "charadesHint": "peel back a yellow curved fruit from the top",
+      "passwordHint": "yellow curve"
+    },
+    {
+      "id": "hf-049",
+      "word": "APPLE",
+      "tabooWords": ["red", "fruit", "crunch", "core", "tree"],
+      "charadesHint": "crunch into a round shiny fruit leaving just the core",
+      "passwordHint": "crunch fruit"
+    },
+    {
+      "id": "hf-050",
+      "word": "LEMON",
+      "tabooWords": ["yellow", "sour", "citrus", "squeeze", "juice"],
+      "charadesHint": "squeeze a yellow citrus fruit and wince at the sourness",
+      "passwordHint": "sour citrus"
+    },
+    {
+      "id": "hf-051",
+      "word": "CARROT",
+      "tabooWords": ["orange", "vegetable", "rabbit", "crunch", "root"],
+      "charadesHint": "crunch into a long orange vegetable straight from the ground",
+      "passwordHint": "orange rabbit food"
+    },
+    {
+      "id": "hf-052",
+      "word": "CHEDDAR CHEESE",
+      "tabooWords": ["cheese", "orange", "block", "British", "Cheddar"],
+      "charadesHint": "slice a big orange block of Britain's favourite cheese",
+      "passwordHint": "British block"
+    },
+    {
+      "id": "hf-053",
+      "word": "TINNED TOMATOES",
+      "tabooWords": ["tin", "tomato", "can", "sauce", "base"],
+      "charadesHint": "open a tin and pour red chopped tomatoes into a pot",
+      "passwordHint": "tin red tomato"
+    },
+    {
+      "id": "hf-054",
+      "word": "WORCESTERSHIRE SAUCE",
+      "tabooWords": ["Worcestershire", "sauce", "dark", "fermented", "bottle"],
+      "charadesHint": "shake a small dark bottle of mysterious tangy sauce",
+      "passwordHint": "Worcestershire"
+    },
+    {
+      "id": "hf-055",
+      "word": "ICE CREAM",
+      "tabooWords": ["frozen", "sweet", "cone", "scoop", "cold"],
+      "charadesHint": "scoop a ball of frozen sweet cream onto a cone",
+      "passwordHint": "scoop and cone"
+    },
+    {
+      "id": "hf-056",
+      "word": "FROZEN FISH FINGERS",
+      "tabooWords": ["fish", "fingers", "oven", "frozen", "breadcrumbs"],
+      "charadesHint": "lay rectangular breaded fingers in a row on a baking tray",
+      "passwordHint": "fish fingers"
+    },
+    {
+      "id": "hf-057",
+      "word": "CANNED SOUP",
+      "tabooWords": ["tin", "can", "heat", "liquid", "Heinz"],
+      "charadesHint": "pierce and lift a tin lid then heat on the hob",
+      "passwordHint": "tin soup"
+    },
+    {
+      "id": "hf-058",
+      "word": "LARD",
+      "tabooWords": ["fat", "white", "cook", "block", "grease"],
+      "charadesHint": "cut a block of white animal fat for frying",
+      "passwordHint": "white cooking fat"
+    },
+    {
+      "id": "hf-059",
+      "word": "GOLDEN SYRUP",
+      "tabooWords": ["sweet", "tin", "pour", "treacle", "Lyle"],
+      "charadesHint": "invert a green and gold tin to pour the thickest sweetest syrup",
+      "passwordHint": "Lyle's tin"
+    },
+    {
+      "id": "hf-060",
+      "word": "CUSTARD CREAM",
+      "tabooWords": ["biscuit", "cream", "custard", "vanilla", "twist"],
+      "charadesHint": "twist open an embossed biscuit and scrape out the cream filling",
+      "passwordHint": "twist biscuit"
+    }
+  ]
+}

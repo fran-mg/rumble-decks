@@ -1,0 +1,431 @@
+{
+  "id": "landmarks",
+  "name": "Landmarks",
+  "category": "Geography",
+  "description": "Famous structures, monuments, and natural wonders of the world",
+  "difficulty": "Medium",
+  "tags": ["geography", "travel", "world", "monuments", "culture"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "landmarks-001",
+      "word": "EIFFEL TOWER",
+      "tabooWords": ["Paris", "France", "iron", "tall", "tower"],
+      "charadesHint": "make a triangle shape with your arms above your head",
+      "passwordHint": "Paris"
+    },
+    {
+      "id": "landmarks-002",
+      "word": "BIG BEN",
+      "tabooWords": ["London", "clock", "tower", "bell", "Parliament"],
+      "charadesHint": "mime a giant clock face and do a deep bong sound",
+      "passwordHint": "bong"
+    },
+    {
+      "id": "landmarks-003",
+      "word": "STATUE OF LIBERTY",
+      "tabooWords": ["New York", "torch", "America", "green", "freedom"],
+      "charadesHint": "stand tall raising one arm holding a torch high",
+      "passwordHint": "torch"
+    },
+    {
+      "id": "landmarks-004",
+      "word": "GREAT WALL OF CHINA",
+      "tabooWords": ["China", "wall", "long", "ancient", "brick"],
+      "charadesHint": "walk along a winding wall stretching over mountains",
+      "passwordHint": "wall"
+    },
+    {
+      "id": "landmarks-005",
+      "word": "COLOSSEUM",
+      "tabooWords": ["Rome", "Italy", "gladiator", "arena", "ancient"],
+      "charadesHint": "mime gladiator combat in a vast ancient circular arena",
+      "passwordHint": "gladiator"
+    },
+    {
+      "id": "landmarks-006",
+      "word": "TAJ MAHAL",
+      "tabooWords": ["India", "marble", "white", "tomb", "Agra"],
+      "charadesHint": "draw the outline of an enormous white domed mausoleum",
+      "passwordHint": "white dome"
+    },
+    {
+      "id": "landmarks-007",
+      "word": "PYRAMIDS OF GIZA",
+      "tabooWords": ["Egypt", "pyramid", "ancient", "desert", "pharaoh"],
+      "charadesHint": "make a triangular shape and mime desert heat and sand",
+      "passwordHint": "pharaoh"
+    },
+    {
+      "id": "landmarks-008",
+      "word": "NIAGARA FALLS",
+      "tabooWords": ["waterfall", "Canada", "America", "water", "falls"],
+      "charadesHint": "spread arms wide and rush water over a massive edge",
+      "passwordHint": "waterfall"
+    },
+    {
+      "id": "landmarks-009",
+      "word": "STONEHENGE",
+      "tabooWords": ["stones", "England", "ancient", "circle", "mystery"],
+      "charadesHint": "stand with arms over your head forming a stone arch",
+      "passwordHint": "standing stones"
+    },
+    {
+      "id": "landmarks-010",
+      "word": "MACHU PICCHU",
+      "tabooWords": ["Peru", "Inca", "mountain", "ruins", "South America"],
+      "charadesHint": "climb a steep mountain and discover ancient ruins at the top",
+      "passwordHint": "Inca ruins"
+    },
+    {
+      "id": "landmarks-011",
+      "word": "MOUNT EVEREST",
+      "tabooWords": ["mountain", "tall", "climb", "Nepal", "highest"],
+      "charadesHint": "mime an exhausting climb to the very top of the world",
+      "passwordHint": "highest peak"
+    },
+    {
+      "id": "landmarks-012",
+      "word": "SYDNEY OPERA HOUSE",
+      "tabooWords": ["Sydney", "Australia", "opera", "white", "sails"],
+      "charadesHint": "curve hands to form shell-like sails on the harbour",
+      "passwordHint": "sails"
+    },
+    {
+      "id": "landmarks-013",
+      "word": "LEANING TOWER OF PISA",
+      "tabooWords": ["Italy", "lean", "tower", "tilt", "Pisa"],
+      "charadesHint": "stand straight then slowly tilt to one side",
+      "passwordHint": "tilt"
+    },
+    {
+      "id": "landmarks-014",
+      "word": "GOLDEN GATE BRIDGE",
+      "tabooWords": ["San Francisco", "bridge", "red", "orange", "California"],
+      "charadesHint": "stretch arms wide across a bay in a tall orange arc",
+      "passwordHint": "orange bridge"
+    },
+    {
+      "id": "landmarks-015",
+      "word": "AMAZON RAINFOREST",
+      "tabooWords": ["jungle", "Brazil", "trees", "river", "Amazon"],
+      "charadesHint": "swing through dense tropical jungle dripping with humidity",
+      "passwordHint": "jungle"
+    },
+    {
+      "id": "landmarks-016",
+      "word": "MOUNT FUJI",
+      "tabooWords": ["Japan", "volcano", "snow", "mountain", "Tokyo"],
+      "charadesHint": "draw a perfect cone-shaped snowy mountain",
+      "passwordHint": "Japan volcano"
+    },
+    {
+      "id": "landmarks-017",
+      "word": "GRAND CANYON",
+      "tabooWords": ["canyon", "Arizona", "deep", "America", "rock"],
+      "charadesHint": "peer over an impossibly deep gorge in the desert",
+      "passwordHint": "gorge"
+    },
+    {
+      "id": "landmarks-018",
+      "word": "BUCKINGHAM PALACE",
+      "tabooWords": ["Queen", "London", "palace", "guards", "King"],
+      "charadesHint": "stand at attention like a guard outside a grand royal palace",
+      "passwordHint": "royal palace"
+    },
+    {
+      "id": "landmarks-019",
+      "word": "SAHARA DESERT",
+      "tabooWords": ["desert", "sand", "Africa", "hot", "dunes"],
+      "charadesHint": "trudge through endless scorching sand dunes with no water",
+      "passwordHint": "sand dunes"
+    },
+    {
+      "id": "landmarks-020",
+      "word": "VICTORIA FALLS",
+      "tabooWords": ["Africa", "waterfall", "Zimbabwe", "Zambia", "falls"],
+      "charadesHint": "feel the spray from an enormous African waterfall",
+      "passwordHint": "Africa falls"
+    },
+    {
+      "id": "landmarks-021",
+      "word": "ANGKOR WAT",
+      "tabooWords": ["Cambodia", "temple", "ancient", "jungle", "Asia"],
+      "charadesHint": "discover an ancient temple complex rising from jungle vines",
+      "passwordHint": "Cambodia temple"
+    },
+    {
+      "id": "landmarks-022",
+      "word": "ISTANBUL HAGIA SOPHIA",
+      "tabooWords": ["Turkey", "mosque", "dome", "Istanbul", "Byzantine"],
+      "charadesHint": "trace the enormous dome of a building that has been both mosque and church",
+      "passwordHint": "dome mosque"
+    },
+    {
+      "id": "landmarks-023",
+      "word": "CHRIST THE REDEEMER",
+      "tabooWords": ["Brazil", "Rio", "Jesus", "statue", "arms"],
+      "charadesHint": "spread arms wide atop a mountain overlooking the city",
+      "passwordHint": "arms wide"
+    },
+    {
+      "id": "landmarks-024",
+      "word": "ACROPOLIS",
+      "tabooWords": ["Greece", "Athens", "ancient", "columns", "Parthenon"],
+      "charadesHint": "stand among ancient marble columns on a hill above a city",
+      "passwordHint": "Athens columns"
+    },
+    {
+      "id": "landmarks-025",
+      "word": "BURJ KHALIFA",
+      "tabooWords": ["Dubai", "tall", "skyscraper", "UAE", "tower"],
+      "charadesHint": "stretch fingers to the sky as the world's tallest building",
+      "passwordHint": "tallest building"
+    },
+    {
+      "id": "landmarks-026",
+      "word": "ULURU",
+      "tabooWords": ["Australia", "rock", "red", "sacred", "Ayers"],
+      "charadesHint": "stand like a massive red sandstone monolith in the outback",
+      "passwordHint": "red rock"
+    },
+    {
+      "id": "landmarks-027",
+      "word": "TOWER OF LONDON",
+      "tabooWords": ["London", "tower", "prison", "ravens", "castle"],
+      "charadesHint": "pace the ramparts of an ancient fortress by the Thames",
+      "passwordHint": "ravens"
+    },
+    {
+      "id": "landmarks-028",
+      "word": "SANTORINI",
+      "tabooWords": ["Greece", "white", "blue", "island", "dome"],
+      "charadesHint": "sketch white buildings with blue domed roofs above a sparkling sea",
+      "passwordHint": "blue domes"
+    },
+    {
+      "id": "landmarks-029",
+      "word": "NORTHERN LIGHTS",
+      "tabooWords": ["aurora", "sky", "green", "Norway", "Arctic"],
+      "charadesHint": "wave arms like curtains of coloured light rippling across the night sky",
+      "passwordHint": "aurora"
+    },
+    {
+      "id": "landmarks-030",
+      "word": "MOUNT RUSHMORE",
+      "tabooWords": ["America", "presidents", "carved", "rock", "faces"],
+      "charadesHint": "point to four giant carved faces on the side of a mountain",
+      "passwordHint": "presidents"
+    },
+    {
+      "id": "landmarks-031",
+      "word": "VENICE CANALS",
+      "tabooWords": ["Venice", "Italy", "boat", "gondola", "water"],
+      "charadesHint": "stand in a gondola and pole through watery streets",
+      "passwordHint": "gondola"
+    },
+    {
+      "id": "landmarks-032",
+      "word": "PETRA",
+      "tabooWords": ["Jordan", "rose", "carved", "rock", "Treasury"],
+      "charadesHint": "walk through a narrow gorge to find a city carved into rose-red rock",
+      "passwordHint": "rose rock"
+    },
+    {
+      "id": "landmarks-033",
+      "word": "GALAPAGOS ISLANDS",
+      "tabooWords": ["Ecuador", "Darwin", "island", "wildlife", "tortoise"],
+      "charadesHint": "move slowly like a giant tortoise on a volcanic island",
+      "passwordHint": "Darwin"
+    },
+    {
+      "id": "landmarks-034",
+      "word": "PALACE OF VERSAILLES",
+      "tabooWords": ["France", "palace", "garden", "Louis", "royal"],
+      "charadesHint": "strut through gilded halls into impossibly vast formal gardens",
+      "passwordHint": "gilded palace"
+    },
+    {
+      "id": "landmarks-035",
+      "word": "GREAT BARRIER REEF",
+      "tabooWords": ["coral", "Australia", "reef", "ocean", "fish"],
+      "charadesHint": "snorkel above a vast rainbow of coral teeming with sea life",
+      "passwordHint": "coral reef"
+    },
+    {
+      "id": "landmarks-036",
+      "word": "FLORENCE CATHEDRAL",
+      "tabooWords": ["Florence", "Italy", "dome", "Brunelleschi", "church"],
+      "charadesHint": "look up at a terracotta tiled dome soaring over the city",
+      "passwordHint": "terracotta dome"
+    },
+    {
+      "id": "landmarks-037",
+      "word": "BANFF NATIONAL PARK",
+      "tabooWords": ["Canada", "mountains", "lake", "turquoise", "Rockies"],
+      "charadesHint": "gaze at impossibly turquoise lakes ringed by snow-capped peaks",
+      "passwordHint": "turquoise lake"
+    },
+    {
+      "id": "landmarks-038",
+      "word": "WESTMINSTER ABBEY",
+      "tabooWords": ["London", "church", "royal", "coronation", "burial"],
+      "charadesHint": "walk reverently through a Gothic abbey where kings are crowned",
+      "passwordHint": "coronation"
+    },
+    {
+      "id": "landmarks-039",
+      "word": "BALI RICE TERRACES",
+      "tabooWords": ["Bali", "Indonesia", "rice", "green", "steps"],
+      "charadesHint": "step up cascading green terraces carved into the hillside",
+      "passwordHint": "rice steps"
+    },
+    {
+      "id": "landmarks-040",
+      "word": "CHAPEL BRIDGE LUCERNE",
+      "tabooWords": ["Switzerland", "bridge", "wooden", "flowers", "Lucerne"],
+      "charadesHint": "walk across a covered wooden bridge decked with flowers",
+      "passwordHint": "wooden bridge"
+    },
+    {
+      "id": "landmarks-041",
+      "word": "TIMES SQUARE",
+      "tabooWords": ["New York", "neon", "signs", "bright", "city"],
+      "charadesHint": "shield your eyes from a blinding wall of neon billboards",
+      "passwordHint": "neon signs"
+    },
+    {
+      "id": "landmarks-042",
+      "word": "SPHINX",
+      "tabooWords": ["Egypt", "lion", "head", "Giza", "ancient"],
+      "charadesHint": "crouch low with a human head and a lion's body in the desert sand",
+      "passwordHint": "lion body"
+    },
+    {
+      "id": "landmarks-043",
+      "word": "BERLIN WALL",
+      "tabooWords": ["Berlin", "Germany", "wall", "divided", "cold war"],
+      "charadesHint": "mime tearing down a wall that once divided a city in two",
+      "passwordHint": "divided city"
+    },
+    {
+      "id": "landmarks-044",
+      "word": "CHICHEN ITZA",
+      "tabooWords": ["Mexico", "Mayan", "pyramid", "temple", "ancient"],
+      "charadesHint": "climb a stepped pyramid under a fierce Mexican sun",
+      "passwordHint": "Mayan pyramid"
+    },
+    {
+      "id": "landmarks-045",
+      "word": "LOUVRE",
+      "tabooWords": ["Paris", "museum", "art", "pyramid", "Mona Lisa"],
+      "charadesHint": "queue to see a tiny painting in a vast museum with a glass pyramid entrance",
+      "passwordHint": "Mona Lisa"
+    },
+    {
+      "id": "landmarks-046",
+      "word": "POMPEII",
+      "tabooWords": ["Italy", "volcano", "buried", "Vesuvius", "ancient"],
+      "charadesHint": "freeze in position as volcanic ash buries an ancient city",
+      "passwordHint": "volcano buried"
+    },
+    {
+      "id": "landmarks-047",
+      "word": "EDINBURGH CASTLE",
+      "tabooWords": ["Scotland", "castle", "Edinburgh", "rock", "fortress"],
+      "charadesHint": "survey the city from a castle perched high on volcanic rock",
+      "passwordHint": "Scottish castle"
+    },
+    {
+      "id": "landmarks-048",
+      "word": "TREVI FOUNTAIN",
+      "tabooWords": ["Rome", "fountain", "coin", "wish", "water"],
+      "charadesHint": "throw a coin over your shoulder into a magnificent fountain",
+      "passwordHint": "coin wish"
+    },
+    {
+      "id": "landmarks-049",
+      "word": "MOUNT KILIMANJARO",
+      "tabooWords": ["Africa", "Tanzania", "mountain", "snow", "highest"],
+      "charadesHint": "struggle up Africa's highest snow-capped peak",
+      "passwordHint": "Africa's peak"
+    },
+    {
+      "id": "landmarks-050",
+      "word": "DEAD SEA",
+      "tabooWords": ["salt", "float", "Jordan", "Israel", "sea"],
+      "charadesHint": "lie back effortlessly floating on extremely salty water",
+      "passwordHint": "float"
+    },
+    {
+      "id": "landmarks-051",
+      "word": "PARTHENON",
+      "tabooWords": ["Greece", "Athens", "temple", "columns", "ancient"],
+      "charadesHint": "walk between towering marble columns of an ancient Greek temple",
+      "passwordHint": "marble columns"
+    },
+    {
+      "id": "landmarks-052",
+      "word": "SAHARAN SAND DUNES",
+      "tabooWords": ["sand", "dune", "Africa", "desert", "Sahara"],
+      "charadesHint": "trudge up then slide down an enormous wave of desert sand",
+      "passwordHint": "sand wave"
+    },
+    {
+      "id": "landmarks-053",
+      "word": "PANAMA CANAL",
+      "tabooWords": ["Panama", "canal", "ship", "lock", "ocean"],
+      "charadesHint": "steer a vast ship through a narrow lock between two oceans",
+      "passwordHint": "ship lock"
+    },
+    {
+      "id": "landmarks-054",
+      "word": "TIKAL",
+      "tabooWords": ["Guatemala", "Mayan", "jungle", "temple", "ancient"],
+      "charadesHint": "climb a jungle-covered pyramid rising above the forest canopy",
+      "passwordHint": "jungle pyramid"
+    },
+    {
+      "id": "landmarks-055",
+      "word": "IGUAZU FALLS",
+      "tabooWords": ["Argentina", "Brazil", "waterfall", "falls", "wide"],
+      "charadesHint": "stand awestruck as the widest waterfall in the world thunders past",
+      "passwordHint": "widest falls"
+    },
+    {
+      "id": "landmarks-056",
+      "word": "ISLE OF SKYE",
+      "tabooWords": ["Scotland", "island", "dramatic", "Highland", "misty"],
+      "charadesHint": "stumble across dramatic misty Highland cliffs and fairy pools",
+      "passwordHint": "misty Highland"
+    },
+    {
+      "id": "landmarks-057",
+      "word": "BLARNEY STONE",
+      "tabooWords": ["Ireland", "kiss", "stone", "eloquence", "castle"],
+      "charadesHint": "lean backwards over a castle battlements to kiss a stone",
+      "passwordHint": "kiss the stone"
+    },
+    {
+      "id": "landmarks-058",
+      "word": "GLASTONBURY TOR",
+      "tabooWords": ["Somerset", "hill", "England", "Glastonbury", "tower"],
+      "charadesHint": "climb a solitary hill with a ruined tower on top in Somerset",
+      "passwordHint": "Somerset tor"
+    },
+    {
+      "id": "landmarks-059",
+      "word": "LOCH NESS",
+      "tabooWords": ["Scotland", "monster", "lake", "Nessie", "deep"],
+      "charadesHint": "stare into a dark cold Scottish loch watching for a monster",
+      "passwordHint": "Nessie"
+    },
+    {
+      "id": "landmarks-060",
+      "word": "WHITE CLIFFS OF DOVER",
+      "tabooWords": ["white", "cliffs", "Dover", "England", "chalk"],
+      "charadesHint": "peer over gleaming white chalk cliffs toward France",
+      "passwordHint": "chalk cliffs"
+    }
+  ]
+}

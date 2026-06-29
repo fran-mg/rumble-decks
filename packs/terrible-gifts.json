@@ -1,0 +1,431 @@
+{
+  "id": "terrible-gifts",
+  "name": "Terrible Gifts",
+  "category": "Humour",
+  "description": "The worst presents anyone could ever receive",
+  "difficulty": "Easy",
+  "tags": ["funny", "gifts", "humour", "party", "adult"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "terrible-gifts-001",
+      "word": "NOVELTY SOCKS",
+      "tabooWords": ["feet", "socks", "pattern", "Christmas", "joke"],
+      "charadesHint": "hold up a pair of socks with a disappointed expression",
+      "passwordHint": "feet"
+    },
+    {
+      "id": "terrible-gifts-002",
+      "word": "FRUITCAKE",
+      "tabooWords": ["cake", "fruit", "dense", "Christmas", "heavy"],
+      "charadesHint": "hand over a brick-heavy cake and watch someone's face fall",
+      "passwordHint": "dense cake"
+    },
+    {
+      "id": "terrible-gifts-003",
+      "word": "GIFT VOUCHER FOR A SHOP YOU HATE",
+      "tabooWords": ["voucher", "shop", "store", "money", "card"],
+      "charadesHint": "hand over a card, watch someone read it, and see total dismay",
+      "passwordHint": "voucher"
+    },
+    {
+      "id": "terrible-gifts-004",
+      "word": "REGIFTED PRESENT",
+      "tabooWords": ["used", "old", "gift", "second", "hand"],
+      "charadesHint": "hand over a gift still with someone else's name tag on it",
+      "passwordHint": "second-hand"
+    },
+    {
+      "id": "terrible-gifts-005",
+      "word": "DIET BOOK",
+      "tabooWords": ["diet", "food", "weight", "book", "slim"],
+      "charadesHint": "hand over a book and mime patting someone's belly",
+      "passwordHint": "diet"
+    },
+    {
+      "id": "terrible-gifts-006",
+      "word": "BATH SALTS",
+      "tabooWords": ["bath", "salts", "smell", "relax", "spa"],
+      "charadesHint": "hand over a jar and mime sneezing at the overwhelming smell",
+      "passwordHint": "bath"
+    },
+    {
+      "id": "terrible-gifts-007",
+      "word": "CALENDAR FROM LAST YEAR",
+      "tabooWords": ["calendar", "year", "old", "date", "month"],
+      "charadesHint": "hand over a calendar then point to the wrong year on it",
+      "passwordHint": "wrong year"
+    },
+    {
+      "id": "terrible-gifts-008",
+      "word": "SELF-HELP BOOK",
+      "tabooWords": ["book", "help", "improve", "better", "advice"],
+      "charadesHint": "hand over a book with a raised eyebrow as if to say you need this",
+      "passwordHint": "improve yourself"
+    },
+    {
+      "id": "terrible-gifts-009",
+      "word": "SCENTED CANDLE",
+      "tabooWords": ["candle", "smell", "wax", "flame", "lavender"],
+      "charadesHint": "hand over a candle — everyone gets one, every year, forever",
+      "passwordHint": "lavender"
+    },
+    {
+      "id": "terrible-gifts-010",
+      "word": "CHEAP WINE",
+      "tabooWords": ["wine", "cheap", "drink", "bottle", "alcohol"],
+      "charadesHint": "present a dusty bottle with a two-quid price tag still on",
+      "passwordHint": "plonk"
+    },
+    {
+      "id": "terrible-gifts-011",
+      "word": "NOVELTY MUG",
+      "tabooWords": ["mug", "cup", "joke", "slogan", "tea"],
+      "charadesHint": "hold up a mug with a cringe-worthy slogan and smile awkwardly",
+      "passwordHint": "slogan mug"
+    },
+    {
+      "id": "terrible-gifts-012",
+      "word": "FOOT SPA",
+      "tabooWords": ["feet", "soak", "water", "tub", "relax"],
+      "charadesHint": "place your feet in a bubbling tub with zero enthusiasm",
+      "passwordHint": "foot soak"
+    },
+    {
+      "id": "terrible-gifts-013",
+      "word": "JIGSAW PUZZLE WITH MISSING PIECES",
+      "tabooWords": ["jigsaw", "puzzle", "missing", "pieces", "incomplete"],
+      "charadesHint": "gleefully start a puzzle then discover pieces are missing",
+      "passwordHint": "missing piece"
+    },
+    {
+      "id": "terrible-gifts-014",
+      "word": "EXERCISE DVD",
+      "tabooWords": ["exercise", "DVD", "workout", "film", "fitness"],
+      "charadesHint": "hand over a workout disc and mime doing exhausting aerobics",
+      "passwordHint": "workout"
+    },
+    {
+      "id": "terrible-gifts-015",
+      "word": "PHOTO MUG OF SOMEONE ELSE",
+      "tabooWords": ["mug", "photo", "face", "cup", "personalised"],
+      "charadesHint": "drink from a mug with a stranger's face staring back at you",
+      "passwordHint": "face mug"
+    },
+    {
+      "id": "terrible-gifts-016",
+      "word": "TIE",
+      "tabooWords": ["neck", "work", "boring", "dad", "formal"],
+      "charadesHint": "open a box, pull out a tie and sigh deeply",
+      "passwordHint": "dad present"
+    },
+    {
+      "id": "terrible-gifts-017",
+      "word": "HANDMADE COUPON BOOK",
+      "tabooWords": ["coupon", "voucher", "homemade", "free", "hug"],
+      "charadesHint": "hand over a booklet of hand-scrawled coupons for free hugs",
+      "passwordHint": "free hugs"
+    },
+    {
+      "id": "terrible-gifts-018",
+      "word": "GARDEN ORNAMENT",
+      "tabooWords": ["garden", "gnome", "statue", "outdoor", "ugly"],
+      "charadesHint": "place a hideous ceramic figure proudly in the garden",
+      "passwordHint": "gnome"
+    },
+    {
+      "id": "terrible-gifts-019",
+      "word": "INSPIRATIONAL QUOTE POSTER",
+      "tabooWords": ["poster", "quote", "inspire", "wall", "motivational"],
+      "charadesHint": "unfurl a poster with an eye-rolling motivational slogan",
+      "passwordHint": "motivational"
+    },
+    {
+      "id": "terrible-gifts-020",
+      "word": "SOAP ON A ROPE",
+      "tabooWords": ["soap", "rope", "wash", "shower", "hang"],
+      "charadesHint": "hold up a bar of soap dangling from a long cord",
+      "passwordHint": "rope"
+    },
+    {
+      "id": "terrible-gifts-021",
+      "word": "NOVELTY PEN SET",
+      "tabooWords": ["pen", "write", "joke", "set", "stationery"],
+      "charadesHint": "unwrap a set of pens shaped like carrots or flamingos",
+      "passwordHint": "novelty pen"
+    },
+    {
+      "id": "terrible-gifts-022",
+      "word": "DECORATIVE PLATE",
+      "tabooWords": ["plate", "wall", "display", "china", "decorative"],
+      "charadesHint": "hang a china plate on the wall that will never hold food",
+      "passwordHint": "wall plate"
+    },
+    {
+      "id": "terrible-gifts-023",
+      "word": "DESK TIDY",
+      "tabooWords": ["desk", "pens", "organise", "office", "tidy"],
+      "charadesHint": "stuff pens into a boring plastic organiser with a pained smile",
+      "passwordHint": "office"
+    },
+    {
+      "id": "terrible-gifts-024",
+      "word": "LINT ROLLER",
+      "tabooWords": ["lint", "roll", "clothes", "sticky", "fluff"],
+      "charadesHint": "roll a sticky drum over your jumper to remove fluff",
+      "passwordHint": "fluff remover"
+    },
+    {
+      "id": "terrible-gifts-025",
+      "word": "BOOK OF CROSSWORDS",
+      "tabooWords": ["crossword", "puzzle", "book", "words", "clues"],
+      "charadesHint": "receive a book of crossword puzzles and fake a smile",
+      "passwordHint": "crossword"
+    },
+    {
+      "id": "terrible-gifts-026",
+      "word": "TALKING FISH TROPHY",
+      "tabooWords": ["fish", "sing", "wall", "novelty", "Billy"],
+      "charadesHint": "mount a fish on the wall and press a button to hear it sing",
+      "passwordHint": "singing fish"
+    },
+    {
+      "id": "terrible-gifts-027",
+      "word": "NOVELTY BOTTLE OPENER",
+      "tabooWords": ["bottle", "open", "beer", "gadget", "novelty"],
+      "charadesHint": "use a bottle opener shaped like a naked man to open a beer",
+      "passwordHint": "bottle"
+    },
+    {
+      "id": "terrible-gifts-028",
+      "word": "SLIPPERS THAT DON'T FIT",
+      "tabooWords": ["slippers", "feet", "wrong", "size", "cosy"],
+      "charadesHint": "try to squeeze into slippers three sizes too small",
+      "passwordHint": "wrong size"
+    },
+    {
+      "id": "terrible-gifts-029",
+      "word": "WORLD'S BEST DAD MUG",
+      "tabooWords": ["dad", "mug", "best", "father", "cup"],
+      "charadesHint": "present a mug proudly declaring its recipient the world's best",
+      "passwordHint": "number one dad"
+    },
+    {
+      "id": "terrible-gifts-030",
+      "word": "CHEESE BOARD SET",
+      "tabooWords": ["cheese", "board", "knife", "gift", "set"],
+      "charadesHint": "unwrap a wooden board with small knives and stare blankly",
+      "passwordHint": "cheese"
+    },
+    {
+      "id": "terrible-gifts-031",
+      "word": "PAPERWEIGHT",
+      "tabooWords": ["paper", "desk", "heavy", "glass", "weight"],
+      "charadesHint": "place a heavy glass lump on your desk to hold nothing down",
+      "passwordHint": "desk lump"
+    },
+    {
+      "id": "terrible-gifts-032",
+      "word": "BRANDED STRESS BALL",
+      "tabooWords": ["stress", "squeeze", "ball", "logo", "work"],
+      "charadesHint": "squeeze a foam ball with a company logo on it furiously",
+      "passwordHint": "squeeze"
+    },
+    {
+      "id": "terrible-gifts-033",
+      "word": "TRAVEL NECK PILLOW",
+      "tabooWords": ["neck", "pillow", "travel", "plane", "sleep"],
+      "charadesHint": "place an inflatable horseshoe around your neck and look ridiculous",
+      "passwordHint": "neck pillow"
+    },
+    {
+      "id": "terrible-gifts-034",
+      "word": "GENERIC CHOCOLATE BOX",
+      "tabooWords": ["chocolate", "box", "generic", "cheap", "sweet"],
+      "charadesHint": "hand over a box of chocolates with a petrol-station sticker on",
+      "passwordHint": "petrol station chocs"
+    },
+    {
+      "id": "terrible-gifts-035",
+      "word": "ADULT COLOURING BOOK",
+      "tabooWords": ["colour", "book", "adult", "relax", "draw"],
+      "charadesHint": "receive a colouring book and wonder if you're five years old",
+      "passwordHint": "colour in"
+    },
+    {
+      "id": "terrible-gifts-036",
+      "word": "NOVELTY APRON",
+      "tabooWords": ["apron", "funny", "kitchen", "cook", "print"],
+      "charadesHint": "tie on an apron printed with a muscly body and force a laugh",
+      "passwordHint": "funny apron"
+    },
+    {
+      "id": "terrible-gifts-037",
+      "word": "WRAPPING PAPER",
+      "tabooWords": ["wrap", "paper", "present", "gift", "Christmas"],
+      "charadesHint": "open a beautifully wrapped present to find more wrapping paper inside",
+      "passwordHint": "wrap"
+    },
+    {
+      "id": "terrible-gifts-038",
+      "word": "PERSONALISED KEYRING",
+      "tabooWords": ["key", "ring", "name", "personalised", "gift"],
+      "charadesHint": "read your own name on a cheap plastic keyring and nod politely",
+      "passwordHint": "keyring"
+    },
+    {
+      "id": "terrible-gifts-039",
+      "word": "TINY CACTUS",
+      "tabooWords": ["cactus", "plant", "small", "prickly", "desk"],
+      "charadesHint": "receive a tiny prickly plant and immediately stab your finger",
+      "passwordHint": "prickly plant"
+    },
+    {
+      "id": "terrible-gifts-040",
+      "word": "JOSS STICKS",
+      "tabooWords": ["incense", "smell", "smoke", "burn", "hippie"],
+      "charadesHint": "light a stick and waft overwhelming smoky smell everywhere",
+      "passwordHint": "incense"
+    },
+    {
+      "id": "terrible-gifts-041",
+      "word": "WIND CHIMES",
+      "tabooWords": ["wind", "chime", "noise", "hang", "garden"],
+      "charadesHint": "hang a noisy jangling thing outside and infuriate all neighbours",
+      "passwordHint": "jangle"
+    },
+    {
+      "id": "terrible-gifts-042",
+      "word": "BOOKMARK",
+      "tabooWords": ["book", "mark", "page", "read", "ribbon"],
+      "charadesHint": "unwrap a tiny strip of card and fake enormous gratitude",
+      "passwordHint": "page marker"
+    },
+    {
+      "id": "terrible-gifts-043",
+      "word": "NOVELTY ALARM CLOCK",
+      "tabooWords": ["alarm", "clock", "wake", "noise", "novelty"],
+      "charadesHint": "set a clock shaped like a screaming chicken and immediately regret it",
+      "passwordHint": "loud alarm"
+    },
+    {
+      "id": "terrible-gifts-044",
+      "word": "CELEBRITY AUTOBIOGRAPHY",
+      "tabooWords": ["book", "celebrity", "life", "story", "famous"],
+      "charadesHint": "receive a thick biography of a celebrity you've never heard of",
+      "passwordHint": "celeb book"
+    },
+    {
+      "id": "terrible-gifts-045",
+      "word": "FRIDGE MAGNETS",
+      "tabooWords": ["fridge", "magnet", "kitchen", "souvenir", "stick"],
+      "charadesHint": "stick a collection of ugly tourist magnets all over the fridge",
+      "passwordHint": "fridge"
+    },
+    {
+      "id": "terrible-gifts-046",
+      "word": "ORNAMENTAL ANGEL",
+      "tabooWords": ["angel", "ornament", "china", "shelf", "religious"],
+      "charadesHint": "unwrap a porcelain angel figurine and find a spot for it on the shelf",
+      "passwordHint": "angel figurine"
+    },
+    {
+      "id": "terrible-gifts-047",
+      "word": "DIGITAL PHOTO FRAME",
+      "tabooWords": ["photo", "digital", "frame", "screen", "slideshow"],
+      "charadesHint": "watch an endless slideshow of random family photos on a glowing frame",
+      "passwordHint": "slideshow"
+    },
+    {
+      "id": "terrible-gifts-048",
+      "word": "NOVELTY TOILET PAPER",
+      "tabooWords": ["toilet", "paper", "joke", "print", "bathroom"],
+      "charadesHint": "unroll a toilet roll printed with something ridiculous",
+      "passwordHint": "loo roll"
+    },
+    {
+      "id": "terrible-gifts-049",
+      "word": "COOKBOOK FOR ONE DIET",
+      "tabooWords": ["cookbook", "diet", "recipe", "food", "single"],
+      "charadesHint": "receive a recipe book hinting loudly you need to eat better alone",
+      "passwordHint": "diet recipes"
+    },
+    {
+      "id": "terrible-gifts-050",
+      "word": "LETTER OPENER",
+      "tabooWords": ["letter", "open", "knife", "mail", "blade"],
+      "charadesHint": "ceremoniously slice open an envelope with a useless silver tool",
+      "passwordHint": "mail"
+    },
+    {
+      "id": "terrible-gifts-051",
+      "word": "SHOWER RADIO",
+      "tabooWords": ["radio", "shower", "music", "waterproof", "sing"],
+      "charadesHint": "stick a plastic radio to the shower wall and sing badly",
+      "passwordHint": "shower sing"
+    },
+    {
+      "id": "terrible-gifts-052",
+      "word": "CAR AIR FRESHENER",
+      "tabooWords": ["car", "smell", "tree", "pine", "freshener"],
+      "charadesHint": "hang a tiny pine tree shape from a rear-view mirror",
+      "passwordHint": "pine tree"
+    },
+    {
+      "id": "terrible-gifts-053",
+      "word": "GIANT NOVELTY PENCIL",
+      "tabooWords": ["pencil", "giant", "huge", "write", "novelty"],
+      "charadesHint": "try to write with a pencil the size of your arm",
+      "passwordHint": "giant pencil"
+    },
+    {
+      "id": "terrible-gifts-054",
+      "word": "SOAP THAT LOOKS LIKE FOOD",
+      "tabooWords": ["soap", "food", "smell", "wash", "fake"],
+      "charadesHint": "try to bite a realistic-looking cupcake that turns out to be soap",
+      "passwordHint": "fake food"
+    },
+    {
+      "id": "terrible-gifts-055",
+      "word": "GREETINGS CARD WITH NO GIFT",
+      "tabooWords": ["card", "no", "gift", "present", "envelope"],
+      "charadesHint": "open an envelope hopefully then find just a card inside",
+      "passwordHint": "just a card"
+    },
+    {
+      "id": "terrible-gifts-056",
+      "word": "SUBSCRIPTION TO A MAGAZINE YOU DON'T READ",
+      "tabooWords": ["magazine", "subscribe", "read", "monthly", "unwanted"],
+      "charadesHint": "receive a magazine every month about a topic you find boring",
+      "passwordHint": "magazine"
+    },
+    {
+      "id": "terrible-gifts-057",
+      "word": "NOSE HAIR TRIMMER",
+      "tabooWords": ["nose", "hair", "trim", "groom", "electric"],
+      "charadesHint": "receive a small electric device and realise what it's for",
+      "passwordHint": "nose"
+    },
+    {
+      "id": "terrible-gifts-058",
+      "word": "JOKE BOOK FROM THE 1990s",
+      "tabooWords": ["joke", "book", "old", "funny", "nineties"],
+      "charadesHint": "read jokes from a dusty book and hear total silence",
+      "passwordHint": "old jokes"
+    },
+    {
+      "id": "terrible-gifts-059",
+      "word": "WORLD'S SMALLEST BOARD GAME",
+      "tabooWords": ["tiny", "game", "board", "small", "travel"],
+      "charadesHint": "squint to see minuscule playing pieces on a stamp-sized board",
+      "passwordHint": "tiny game"
+    },
+    {
+      "id": "terrible-gifts-060",
+      "word": "BRANDED TOTE BAG",
+      "tabooWords": ["bag", "tote", "logo", "company", "free"],
+      "charadesHint": "receive a canvas bag covered in a company logo you don't care about",
+      "passwordHint": "tote bag"
+    }
+  ]
+}

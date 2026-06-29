@@ -1,0 +1,538 @@
+{
+  "id": "great-britain",
+  "name": "Great British",
+  "category": "Culture",
+  "description": "All things British — royals, traditions, slang, food, and iconic moments.",
+  "difficulty": "Medium",
+  "tags": ["Britain", "UK", "England", "culture", "history", "royals"],
+  "cards": [
+    {
+      "id": "gb-001",
+      "word": "THE QUEEN'S GUARD",
+      "tabooWords": [
+        "Buckingham Palace",
+        "soldier",
+        "bearskin",
+        "guard",
+        "uniform"
+      ],
+      "charadesHint": "Stand completely still, stare dead ahead, and refuse to react no matter what anyone does",
+      "passwordHint": "bearskin-hat"
+    },
+    {
+      "id": "gb-002",
+      "word": "AFTERNOON TEA",
+      "tabooWords": ["scones", "tea", "sandwiches", "cream", "fancy"],
+      "charadesHint": "Mime sipping tea with your little finger raised while balancing a tiny sandwich",
+      "passwordHint": "scones-and-cream"
+    },
+    {
+      "id": "gb-003",
+      "word": "DOUBLE-DECKER BUS",
+      "tabooWords": ["red", "London", "bus", "transport", "upstairs"],
+      "charadesHint": "Mime climbing stairs inside a moving vehicle and swaying as it turns a corner",
+      "passwordHint": "red-bus"
+    },
+    {
+      "id": "gb-004",
+      "word": "FISH AND CHIPS",
+      "tabooWords": ["battered", "chippy", "cod", "fries", "newspaper"],
+      "charadesHint": "Mime unwrapping something steaming from paper and eating it outside in the rain",
+      "passwordHint": "chippy-tea"
+    },
+    {
+      "id": "gb-005",
+      "word": "GUY FAWKES",
+      "tabooWords": [
+        "bonfire",
+        "parliament",
+        "gunpowder",
+        "fireworks",
+        "November"
+      ],
+      "charadesHint": "Mime sneaking barrels into a cellar then watching fireworks explode overhead",
+      "passwordHint": "bonfire-night"
+    },
+    {
+      "id": "gb-006",
+      "word": "BIG BEN",
+      "tabooWords": ["clock", "London", "tower", "Westminster", "Parliament"],
+      "charadesHint": "Mime the shape of a giant clock tower with your arms and chime like a bell",
+      "passwordHint": "Westminster-clock"
+    },
+    {
+      "id": "gb-007",
+      "word": "WIMBLEDON",
+      "tabooWords": [
+        "tennis",
+        "strawberries",
+        "grass",
+        "Federer",
+        "tournament"
+      ],
+      "charadesHint": "Mime serving a tennis ball then eating strawberries and cream in the stands",
+      "passwordHint": "strawberries-tennis"
+    },
+    {
+      "id": "gb-008",
+      "word": "THE PROMS",
+      "tabooWords": [
+        "concert",
+        "Albert Hall",
+        "Last Night",
+        "classical",
+        "orchestra"
+      ],
+      "charadesHint": "Mime waving a Union Jack flag while an orchestra plays around you",
+      "passwordHint": "Last-Night-flag"
+    },
+    {
+      "id": "gb-009",
+      "word": "STONEHENGE",
+      "tabooWords": ["ancient", "stone", "Wiltshire", "monument", "Druids"],
+      "charadesHint": "Mime being a massive standing stone and staring blankly as tourists photograph you",
+      "passwordHint": "ancient-stones"
+    },
+    {
+      "id": "gb-010",
+      "word": "QUEUING",
+      "tabooWords": ["line", "wait", "British", "orderly", "patience"],
+      "charadesHint": "Mime standing perfectly in line, tutting quietly at anyone who tries to push in",
+      "passwordHint": "British-pastime"
+    },
+    {
+      "id": "gb-011",
+      "word": "THE GREAT BRITISH BAKE OFF",
+      "tabooWords": ["baking", "tent", "cake", "Paul Hollywood", "competition"],
+      "charadesHint": "Mime icing a cake perfectly then waiting anxiously as judges taste it",
+      "passwordHint": "tent-baking"
+    },
+    {
+      "id": "gb-012",
+      "word": "CRICKET",
+      "tabooWords": ["bat", "wicket", "ball", "England", "test match"],
+      "charadesHint": "Mime batting in a very slow, methodical style and then breaking for tea",
+      "passwordHint": "sticky-wicket"
+    },
+    {
+      "id": "gb-013",
+      "word": "THE NATIONAL HEALTH SERVICE",
+      "tabooWords": ["NHS", "hospital", "doctor", "free", "healthcare"],
+      "charadesHint": "Mime a doctor in scrubs treating patients in a very busy ward",
+      "passwordHint": "free-healthcare"
+    },
+    {
+      "id": "gb-014",
+      "word": "BUCKINGHAM PALACE",
+      "tabooWords": ["Queen", "King", "royal", "London", "palace"],
+      "charadesHint": "Mime standing behind iron gates, waving regally at enormous crowds below",
+      "passwordHint": "royal-balcony"
+    },
+    {
+      "id": "gb-015",
+      "word": "PUB QUIZ",
+      "tabooWords": ["quiz", "pub", "trivia", "teams", "questions"],
+      "charadesHint": "Mime hunching over a tiny answer sheet whispering frantically with teammates",
+      "passwordHint": "trivia-night"
+    },
+    {
+      "id": "gb-016",
+      "word": "FULL ENGLISH BREAKFAST",
+      "tabooWords": ["fry-up", "bacon", "eggs", "sausage", "beans"],
+      "charadesHint": "Mime frying bacon, eggs, sausages all at once and loading up an enormous plate",
+      "passwordHint": "fry-up"
+    },
+    {
+      "id": "gb-017",
+      "word": "THE TUBE",
+      "tabooWords": [
+        "London Underground",
+        "subway",
+        "metro",
+        "train",
+        "underground"
+      ],
+      "charadesHint": "Mime squeezing into an overcrowded train, gripping a handle, and avoiding eye contact",
+      "passwordHint": "London-Underground"
+    },
+    {
+      "id": "gb-018",
+      "word": "GLASTONBURY",
+      "tabooWords": ["festival", "music", "Pyramid Stage", "mud", "camping"],
+      "charadesHint": "Mime wading through mud in wellies while pointing at a giant stage in the distance",
+      "passwordHint": "Pyramid-Stage"
+    },
+    {
+      "id": "gb-019",
+      "word": "DOWNTON ABBEY",
+      "tabooWords": ["TV", "period drama", "servants", "aristocracy", "ITV"],
+      "charadesHint": "Mime straightening a butler's jacket and carrying a silver tray very formally",
+      "passwordHint": "upstairs-downstairs"
+    },
+    {
+      "id": "gb-020",
+      "word": "THE OXFORD-CAMBRIDGE BOAT RACE",
+      "tabooWords": ["rowing", "river", "Thames", "university", "race"],
+      "charadesHint": "Mime rowing furiously in a long narrow boat while someone shouts a rhythm",
+      "passwordHint": "Thames-rowing"
+    },
+    {
+      "id": "gb-021",
+      "word": "MARMITE",
+      "tabooWords": ["yeast", "spread", "toast", "love", "hate"],
+      "charadesHint": "Mime spreading something dark on toast, taking a bite, and reacting with extreme love or horror",
+      "passwordHint": "love-it-or-hate-it"
+    },
+    {
+      "id": "gb-022",
+      "word": "SHERLOCK HOLMES",
+      "tabooWords": ["detective", "Watson", "221B", "deduction", "pipe"],
+      "charadesHint": "Mime examining a magnifying glass very closely, then dramatically pointing at the culprit",
+      "passwordHint": "Baker-Street"
+    },
+    {
+      "id": "gb-023",
+      "word": "GUY FAWKES NIGHT",
+      "tabooWords": [
+        "bonfire",
+        "fireworks",
+        "November 5th",
+        "Guy Fawkes",
+        "sparklers"
+      ],
+      "charadesHint": "Mime holding a sparkler and writing your name then oohing at exploding fireworks",
+      "passwordHint": "remember-remember"
+    },
+    {
+      "id": "gb-024",
+      "word": "CORONATION STREET",
+      "tabooWords": ["soap opera", "Manchester", "ITV", "cobbles", "British"],
+      "charadesHint": "Mime gossiping over a garden fence then popping into the local pub",
+      "passwordHint": "cobbled-soap"
+    },
+    {
+      "id": "gb-025",
+      "word": "THE QUEEN",
+      "tabooWords": ["Elizabeth", "monarch", "royal", "crown", "Majesty"],
+      "charadesHint": "Mime placing a crown on your head, giving a small restrained wave, and looking utterly composed",
+      "passwordHint": "Her-Majesty"
+    },
+    {
+      "id": "gb-026",
+      "word": "HARRY POTTER",
+      "tabooWords": ["wizard", "Hogwarts", "J.K. Rowling", "wand", "magic"],
+      "charadesHint": "Mime pushing a trolley at a wall that doesn't exist, then boarding an imaginary train",
+      "passwordHint": "Platform-nine-and-three-quarters"
+    },
+    {
+      "id": "gb-027",
+      "word": "BEEFEATER",
+      "tabooWords": [
+        "Tower of London",
+        "Yeoman Warder",
+        "guard",
+        "uniform",
+        "ravens"
+      ],
+      "charadesHint": "Mime standing in a Tudor uniform guarding a tower while tourists swarm around you",
+      "passwordHint": "Tower-guard"
+    },
+    {
+      "id": "gb-028",
+      "word": "THE HIGHLANDS",
+      "tabooWords": ["Scotland", "mountains", "Glen", "heather", "Loch Ness"],
+      "charadesHint": "Mime hiking through dramatic misty mountains wearing a tartan kilt",
+      "passwordHint": "Scottish-mountains"
+    },
+    {
+      "id": "gb-029",
+      "word": "PENNY FOR THE GUY",
+      "tabooWords": ["bonfire", "Guy Fawkes", "children", "effigy", "money"],
+      "charadesHint": "Mime children dragging a stuffed dummy through the street asking passersby for coins",
+      "passwordHint": "stuffed-effigy"
+    },
+    {
+      "id": "gb-030",
+      "word": "PANCAKE DAY",
+      "tabooWords": ["Shrove Tuesday", "toss", "lemon", "sugar", "batter"],
+      "charadesHint": "Mime flipping a pancake very confidently, catching it, then going again higher each time",
+      "passwordHint": "Shrove-Tuesday"
+    },
+    {
+      "id": "gb-031",
+      "word": "EASTENDERS",
+      "tabooWords": ["soap opera", "BBC", "London", "market", "Walford"],
+      "charadesHint": "Mime shouting dramatically across a market stall then storming into a pub",
+      "passwordHint": "Walford-square"
+    },
+    {
+      "id": "gb-032",
+      "word": "THE COTSWOLDS",
+      "tabooWords": [
+        "village",
+        "honey stone",
+        "countryside",
+        "England",
+        "quaint"
+      ],
+      "charadesHint": "Mime strolling through a pretty village with a thatched cottage at every turn",
+      "passwordHint": "honey-stone-villages"
+    },
+    {
+      "id": "gb-033",
+      "word": "BANK HOLIDAY",
+      "tabooWords": [
+        "public holiday",
+        "day off",
+        "Monday",
+        "British",
+        "weekend"
+      ],
+      "charadesHint": "Mime celebrating a random Monday off then immediately complaining about the queues",
+      "passwordHint": "long-weekend"
+    },
+    {
+      "id": "gb-034",
+      "word": "CHELSEA FLOWER SHOW",
+      "tabooWords": ["garden", "flowers", "RHS", "Chelsea", "exhibition"],
+      "charadesHint": "Mime wandering through an elaborate garden display, sniffing flowers, looking impressed",
+      "passwordHint": "RHS-garden"
+    },
+    {
+      "id": "gb-035",
+      "word": "BISCUITS WITH TEA",
+      "tabooWords": ["dunking", "digestive", "HobNob", "tea", "soggy"],
+      "charadesHint": "Mime dunking a biscuit into tea, holding too long, watching it fall in despair",
+      "passwordHint": "dunking-digestive"
+    },
+    {
+      "id": "gb-036",
+      "word": "THE MILLENNIUM DOME",
+      "tabooWords": ["O2", "Greenwich", "London", "tent", "concert"],
+      "charadesHint": "Mime a massive round tent structure with your arms and then turn it into a concert venue",
+      "passwordHint": "O2-arena"
+    },
+    {
+      "id": "gb-037",
+      "word": "PRINCE CHARLES / KING CHARLES",
+      "tabooWords": ["King", "heir", "throne", "Camilla", "Prince"],
+      "charadesHint": "Mime talking very seriously to a plant in a palace garden",
+      "passwordHint": "talks-to-plants"
+    },
+    {
+      "id": "gb-038",
+      "word": "THE NOTTING HILL CARNIVAL",
+      "tabooWords": ["Caribbean", "London", "parade", "music", "festival"],
+      "charadesHint": "Mime dancing through the streets in a giant feathered costume to steel drum music",
+      "passwordHint": "London-carnival"
+    },
+    {
+      "id": "gb-039",
+      "word": "UNION JACK",
+      "tabooWords": ["flag", "Britain", "red white blue", "UK", "national"],
+      "charadesHint": "Mime draping a flag around yourself and waving it proudly at every sporting event",
+      "passwordHint": "British-flag"
+    },
+    {
+      "id": "gb-040",
+      "word": "CHEST OF DRAWERS",
+      "tabooWords": ["furniture", "bedroom", "drawers", "wardrobe", "clothes"],
+      "charadesHint": "Mime pulling out drawers one by one looking for lost socks",
+      "passwordHint": "bedroom-drawers"
+    },
+    {
+      "id": "gb-041",
+      "word": "THE GREAT FIRE OF LONDON",
+      "tabooWords": ["1666", "London", "fire", "bakery", "Pudding Lane"],
+      "charadesHint": "Mime a fire spreading rapidly from a small bakery and consuming an entire city",
+      "passwordHint": "Pudding-Lane"
+    },
+    {
+      "id": "gb-042",
+      "word": "MORRIS DANCING",
+      "tabooWords": ["folk", "dance", "bells", "handkerchief", "sticks"],
+      "charadesHint": "Mime waving handkerchiefs, banging sticks together, and hopping energetically",
+      "passwordHint": "folk-dancing"
+    },
+    {
+      "id": "gb-043",
+      "word": "THE SHIPPING FORECAST",
+      "tabooWords": ["BBC Radio 4", "weather", "sea", "shipping", "Dogger"],
+      "charadesHint": "Mime listening to a hypnotic weather report with your eyes closing peacefully",
+      "passwordHint": "Dogger-Bank"
+    },
+    {
+      "id": "gb-044",
+      "word": "CRUMPETS",
+      "tabooWords": ["bread", "toasted", "butter", "holes", "British"],
+      "charadesHint": "Mime toasting something flat and holey, then loading it with butter and watching it melt",
+      "passwordHint": "buttered-holes"
+    },
+    {
+      "id": "gb-045",
+      "word": "THE BRITISH MUSEUM",
+      "tabooWords": ["museum", "London", "artefacts", "history", "collection"],
+      "charadesHint": "Mime wandering through enormous rooms of ancient artefacts looking slightly overwhelmed",
+      "passwordHint": "Rosetta-Stone"
+    },
+    {
+      "id": "gb-046",
+      "word": "LORDS CRICKET GROUND",
+      "tabooWords": ["cricket", "London", "test match", "MCC", "ground"],
+      "charadesHint": "Mime sitting in the Members' Stand eating lunch while cricket happens very slowly",
+      "passwordHint": "home-of-cricket"
+    },
+    {
+      "id": "gb-047",
+      "word": "HOGMANAY",
+      "tabooWords": [
+        "Scottish",
+        "New Year",
+        "Scotland",
+        "Edinburgh",
+        "celebration"
+      ],
+      "charadesHint": "Mime linking arms with strangers at midnight singing Auld Lang Syne loudly",
+      "passwordHint": "Scottish-New-Year"
+    },
+    {
+      "id": "gb-048",
+      "word": "THE SPICE GIRLS",
+      "tabooWords": ["pop group", "girl band", "Scary", "Sporty", "1990s"],
+      "charadesHint": "Mime five different personalities — sporty, posh, scary, ginger, baby — in quick succession",
+      "passwordHint": "Girl-Power"
+    },
+    {
+      "id": "gb-049",
+      "word": "ETON MESS",
+      "tabooWords": ["dessert", "meringue", "strawberries", "cream", "British"],
+      "charadesHint": "Mime crushing meringue into cream with strawberries making a glorious colourful mess",
+      "passwordHint": "meringue-dessert"
+    },
+    {
+      "id": "gb-050",
+      "word": "WEMBLEY STADIUM",
+      "tabooWords": ["football", "London", "arch", "England", "stadium"],
+      "charadesHint": "Mime scoring a goal and sliding on your knees in front of 90,000 roaring fans",
+      "passwordHint": "arch-stadium"
+    },
+    {
+      "id": "gb-051",
+      "word": "EDINBURGH CASTLE",
+      "tabooWords": [
+        "Scotland",
+        "Edinburgh",
+        "fortress",
+        "castle",
+        "Royal Mile"
+      ],
+      "charadesHint": "Mime standing on top of a dramatic rock fortress looking out over an entire city",
+      "passwordHint": "volcanic-rock"
+    },
+    {
+      "id": "gb-052",
+      "word": "THE BEEFEATERS",
+      "tabooWords": ["Tower of London", "Yeoman", "guard", "ravens", "Tudor"],
+      "charadesHint": "Mime feeding ravens very carefully while wearing a large elaborate hat",
+      "passwordHint": "Tower-ravens"
+    },
+    {
+      "id": "gb-053",
+      "word": "SUNDAY ROAST",
+      "tabooWords": ["dinner", "roast", "gravy", "Yorkshire pudding", "beef"],
+      "charadesHint": "Mime carving a large roast joint and loading a plate with vegetables and Yorkshire puddings",
+      "passwordHint": "Yorkshire-pudding"
+    },
+    {
+      "id": "gb-054",
+      "word": "BLITZ SPIRIT",
+      "tabooWords": [
+        "World War II",
+        "bombing",
+        "resilience",
+        "London",
+        "keep calm"
+      ],
+      "charadesHint": "Mime sheltering from bombs while making tea and chatting cheerfully to neighbours",
+      "passwordHint": "keep-calm-carry-on"
+    },
+    {
+      "id": "gb-055",
+      "word": "THE GRAND NATIONAL",
+      "tabooWords": [
+        "horse racing",
+        "Aintree",
+        "steeplechase",
+        "jockey",
+        "fence"
+      ],
+      "charadesHint": "Mime urging a horse over enormous fences while the crowd screams around you",
+      "passwordHint": "Aintree-steeplechase"
+    },
+    {
+      "id": "gb-056",
+      "word": "CHELSEA PENSIONERS",
+      "tabooWords": [
+        "veterans",
+        "red uniform",
+        "Chelsea",
+        "soldiers",
+        "hospital"
+      ],
+      "charadesHint": "Mime an elderly soldier in a bright scarlet uniform walking proudly through Chelsea",
+      "passwordHint": "scarlet-veterans"
+    },
+    {
+      "id": "gb-057",
+      "word": "BLACKPOOL TOWER",
+      "tabooWords": [
+        "Lancashire",
+        "seaside",
+        "Eiffel",
+        "ballroom",
+        "illuminations"
+      ],
+      "charadesHint": "Mime dancing in a grand ballroom at the base of a very tall seaside tower",
+      "passwordHint": "Blackpool-ballroom"
+    },
+    {
+      "id": "gb-058",
+      "word": "BONFIRE TOFFEE",
+      "tabooWords": [
+        "toffee",
+        "fireworks",
+        "November",
+        "sweet",
+        "bonfire night"
+      ],
+      "charadesHint": "Mime eating something very hard and sticky that sticks all your teeth together",
+      "passwordHint": "sticky-November-sweet"
+    },
+    {
+      "id": "gb-059",
+      "word": "HARRODS",
+      "tabooWords": [
+        "department store",
+        "Knightsbridge",
+        "luxury",
+        "London",
+        "shopping"
+      ],
+      "charadesHint": "Mime wandering through an absurdly grand shop buying things you definitely don't need",
+      "passwordHint": "Knightsbridge-store"
+    },
+    {
+      "id": "gb-060",
+      "word": "THE CENOTAPH",
+      "tabooWords": [
+        "war memorial",
+        "Whitehall",
+        "Remembrance",
+        "soldiers",
+        "poppies"
+      ],
+      "charadesHint": "Mime placing a poppy wreath solemnly at a war memorial and bowing your head",
+      "passwordHint": "Remembrance-Day"
+    }
+  ]
+}

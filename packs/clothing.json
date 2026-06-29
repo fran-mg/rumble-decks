@@ -1,0 +1,431 @@
+{
+  "id": "clothing",
+  "name": "Clothing",
+  "category": "Lifestyle",
+  "description": "Fashion, accessories, and everything you wear",
+  "difficulty": "Easy",
+  "tags": ["clothing", "fashion", "accessories", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "clothing-001",
+      "word": "RAINCOAT",
+      "tabooWords": ["rain", "waterproof", "wet", "coat", "jacket"],
+      "charadesHint": "pull on a coat and mime walking in heavy rain",
+      "passwordHint": "waterproof"
+    },
+    {
+      "id": "clothing-002",
+      "word": "BIKINI",
+      "tabooWords": ["beach", "swimwear", "summer", "two", "piece"],
+      "charadesHint": "mime sunbathing on a beach in minimal clothing",
+      "passwordHint": "beach"
+    },
+    {
+      "id": "clothing-003",
+      "word": "TUXEDO",
+      "tabooWords": ["suit", "formal", "bow tie", "black", "dinner"],
+      "charadesHint": "straighten a bow tie and look very sophisticated",
+      "passwordHint": "bow tie"
+    },
+    {
+      "id": "clothing-004",
+      "word": "WELLINGTON BOOTS",
+      "tabooWords": ["rubber", "boots", "mud", "rain", "waterproof"],
+      "charadesHint": "pull on tall rubber boots and stomp through puddles",
+      "passwordHint": "wellies"
+    },
+    {
+      "id": "clothing-005",
+      "word": "BERET",
+      "tabooWords": ["hat", "French", "flat", "round", "artist"],
+      "charadesHint": "place a flat round hat on your head and mime painting",
+      "passwordHint": "French hat"
+    },
+    {
+      "id": "clothing-006",
+      "word": "DUNGAREES",
+      "tabooWords": ["straps", "overalls", "jeans", "farmer", "bib"],
+      "charadesHint": "clip two shoulder straps over your chest",
+      "passwordHint": "straps"
+    },
+    {
+      "id": "clothing-007",
+      "word": "FLIP FLOPS",
+      "tabooWords": ["sandals", "beach", "summer", "thong", "feet"],
+      "charadesHint": "slap your feet loudly on the floor with loose sandals",
+      "passwordHint": "slap"
+    },
+    {
+      "id": "clothing-008",
+      "word": "CARDIGAN",
+      "tabooWords": ["knit", "wool", "jumper", "button", "cosy"],
+      "charadesHint": "slowly button up a cosy knitted top",
+      "passwordHint": "knitted"
+    },
+    {
+      "id": "clothing-009",
+      "word": "STILETTOS",
+      "tabooWords": ["heels", "shoes", "tall", "pointed", "high"],
+      "charadesHint": "wobble and teeter on very tall pointed heels",
+      "passwordHint": "high heels"
+    },
+    {
+      "id": "clothing-010",
+      "word": "KILT",
+      "tabooWords": ["Scotland", "tartan", "skirt", "Scottish", "plaid"],
+      "charadesHint": "mime wearing a tartan skirt while playing bagpipes",
+      "passwordHint": "tartan"
+    },
+    {
+      "id": "clothing-011",
+      "word": "BOXER SHORTS",
+      "tabooWords": ["underwear", "pants", "loose", "men", "briefs"],
+      "charadesHint": "mime pulling on loose underwear and doing a boxing stance",
+      "passwordHint": "underwear"
+    },
+    {
+      "id": "clothing-012",
+      "word": "GRADUATION GOWN",
+      "tabooWords": ["cap", "ceremony", "university", "graduate", "degree"],
+      "charadesHint": "wear a long gown and toss a flat cap in the air",
+      "passwordHint": "graduation"
+    },
+    {
+      "id": "clothing-013",
+      "word": "SCARF",
+      "tabooWords": ["neck", "winter", "wrap", "wool", "warm"],
+      "charadesHint": "wrap something long and cosy around your neck",
+      "passwordHint": "neck wrap"
+    },
+    {
+      "id": "clothing-014",
+      "word": "GLOVES",
+      "tabooWords": ["hands", "fingers", "warm", "winter", "mittens"],
+      "charadesHint": "slowly pull on tight gloves finger by finger",
+      "passwordHint": "hands"
+    },
+    {
+      "id": "clothing-015",
+      "word": "WEDDING DRESS",
+      "tabooWords": ["bride", "white", "wedding", "marriage", "gown"],
+      "charadesHint": "walk down an aisle holding a bouquet in a long white gown",
+      "passwordHint": "bride"
+    },
+    {
+      "id": "clothing-016",
+      "word": "LEGGINGS",
+      "tabooWords": ["tight", "stretch", "yoga", "legs", "lycra"],
+      "charadesHint": "pull on skin-tight leg coverings and do a yoga pose",
+      "passwordHint": "stretch"
+    },
+    {
+      "id": "clothing-017",
+      "word": "TRACKSUIT",
+      "tabooWords": ["sport", "jogging", "zip", "casual", "athletic"],
+      "charadesHint": "zip up a sporty top and jog on the spot",
+      "passwordHint": "jogger"
+    },
+    {
+      "id": "clothing-018",
+      "word": "TOP HAT",
+      "tabooWords": ["magician", "tall", "hat", "black", "Victorian"],
+      "charadesHint": "tip a very tall black hat and pull a rabbit from it",
+      "passwordHint": "magician"
+    },
+    {
+      "id": "clothing-019",
+      "word": "PYJAMAS",
+      "tabooWords": ["sleep", "bed", "night", "cosy", "bedtime"],
+      "charadesHint": "yawn and shuffle sleepily in loose nightwear",
+      "passwordHint": "bedtime"
+    },
+    {
+      "id": "clothing-020",
+      "word": "SOMBRERO",
+      "tabooWords": ["Mexico", "hat", "wide", "brim", "Mexican"],
+      "charadesHint": "balance an enormous wide-brimmed hat on your head",
+      "passwordHint": "Mexico"
+    },
+    {
+      "id": "clothing-021",
+      "word": "CORSET",
+      "tabooWords": ["tight", "waist", "Victorian", "lace", "boned"],
+      "charadesHint": "pull in your waist dramatically and struggle to breathe",
+      "passwordHint": "waist"
+    },
+    {
+      "id": "clothing-022",
+      "word": "HOODIE",
+      "tabooWords": ["hood", "casual", "sweatshirt", "zip", "pocket"],
+      "charadesHint": "pull a hood up over your head and stuff hands in a front pocket",
+      "passwordHint": "hood"
+    },
+    {
+      "id": "clothing-023",
+      "word": "CAPE",
+      "tabooWords": ["superhero", "villain", "cloak", "back", "flow"],
+      "charadesHint": "sweep a dramatic flowing fabric from your shoulders",
+      "passwordHint": "superhero"
+    },
+    {
+      "id": "clothing-024",
+      "word": "POLO SHIRT",
+      "tabooWords": ["collar", "sport", "button", "golf", "tennis"],
+      "charadesHint": "pop a small collar and mime playing golf",
+      "passwordHint": "collar"
+    },
+    {
+      "id": "clothing-025",
+      "word": "MINI SKIRT",
+      "tabooWords": ["short", "legs", "skirt", "fashion", "sixties"],
+      "charadesHint": "mime wearing an extremely short skirt and strut confidently",
+      "passwordHint": "short skirt"
+    },
+    {
+      "id": "clothing-026",
+      "word": "BOW TIE",
+      "tabooWords": ["tie", "formal", "tuxedo", "neck", "fancy"],
+      "charadesHint": "fiddle with a small butterfly-shaped tie at your throat",
+      "passwordHint": "butterfly tie"
+    },
+    {
+      "id": "clothing-027",
+      "word": "SWIMMING TRUNKS",
+      "tabooWords": ["swim", "pool", "beach", "shorts", "water"],
+      "charadesHint": "pull on tight shorts and dive into an imaginary pool",
+      "passwordHint": "swim"
+    },
+    {
+      "id": "clothing-028",
+      "word": "APRON",
+      "tabooWords": ["cook", "chef", "kitchen", "front", "tie"],
+      "charadesHint": "tie a large cloth around your waist and stir a pot",
+      "passwordHint": "chef"
+    },
+    {
+      "id": "clothing-029",
+      "word": "FOOTBALL KIT",
+      "tabooWords": ["jersey", "shorts", "boots", "football", "team"],
+      "charadesHint": "pull on a numbered jersey and kick an imaginary football",
+      "passwordHint": "jersey"
+    },
+    {
+      "id": "clothing-030",
+      "word": "NURSE UNIFORM",
+      "tabooWords": ["hospital", "nurse", "white", "medical", "scrubs"],
+      "charadesHint": "adjust a nurse's cap and take someone's pulse",
+      "passwordHint": "hospital"
+    },
+    {
+      "id": "clothing-031",
+      "word": "TUTU",
+      "tabooWords": ["ballet", "dance", "skirt", "ballerina", "pink"],
+      "charadesHint": "spin on tiptoe in a poofy short skirt",
+      "passwordHint": "ballet"
+    },
+    {
+      "id": "clothing-032",
+      "word": "LEATHER JACKET",
+      "tabooWords": ["biker", "rock", "leather", "cool", "jacket"],
+      "charadesHint": "shrug on a tough jacket and mime revving a motorbike",
+      "passwordHint": "biker"
+    },
+    {
+      "id": "clothing-033",
+      "word": "VEST",
+      "tabooWords": ["sleeveless", "top", "undergarment", "gym", "tank"],
+      "charadesHint": "flex your arms in a sleeveless top",
+      "passwordHint": "sleeveless"
+    },
+    {
+      "id": "clothing-034",
+      "word": "TRENCH COAT",
+      "tabooWords": ["detective", "long", "coat", "rain", "spy"],
+      "charadesHint": "pull up a long coat collar and sneak around suspiciously",
+      "passwordHint": "detective"
+    },
+    {
+      "id": "clothing-035",
+      "word": "CROP TOP",
+      "tabooWords": ["short", "stomach", "belly", "midriff", "top"],
+      "charadesHint": "mime a top that ends well above your belly button",
+      "passwordHint": "midriff"
+    },
+    {
+      "id": "clothing-036",
+      "word": "KNICKERS",
+      "tabooWords": ["underwear", "women", "pants", "briefs", "knickers"],
+      "charadesHint": "mime pulling on ladies' underwear",
+      "passwordHint": "underpants"
+    },
+    {
+      "id": "clothing-037",
+      "word": "WAISTCOAT",
+      "tabooWords": ["vest", "suit", "buttons", "formal", "Victorian"],
+      "charadesHint": "button up a sleeveless formal garment over a shirt",
+      "passwordHint": "three-piece"
+    },
+    {
+      "id": "clothing-038",
+      "word": "DEERSTALKER",
+      "tabooWords": ["hat", "Sherlock", "Holmes", "detective", "hunting"],
+      "charadesHint": "put on a hat with brims front and back and mime solving a mystery",
+      "passwordHint": "Sherlock"
+    },
+    {
+      "id": "clothing-039",
+      "word": "SARONG",
+      "tabooWords": ["wrap", "beach", "tropical", "skirt", "fabric"],
+      "charadesHint": "wrap a large piece of fabric around your waist on the beach",
+      "passwordHint": "wrap"
+    },
+    {
+      "id": "clothing-040",
+      "word": "ONESIE",
+      "tabooWords": ["all", "in", "one", "cosy", "animal"],
+      "charadesHint": "zip yourself into a full-body cosy suit with animal ears",
+      "passwordHint": "all-in-one"
+    },
+    {
+      "id": "clothing-041",
+      "word": "BLAZER",
+      "tabooWords": ["jacket", "smart", "office", "lapel", "formal"],
+      "charadesHint": "straighten a smart tailored jacket and look professional",
+      "passwordHint": "smart jacket"
+    },
+    {
+      "id": "clothing-042",
+      "word": "MITTENS",
+      "tabooWords": ["hands", "warm", "winter", "thumbs", "gloves"],
+      "charadesHint": "put on thick winter hand coverings with no separate fingers",
+      "passwordHint": "no fingers"
+    },
+    {
+      "id": "clothing-043",
+      "word": "KIMONO",
+      "tabooWords": ["Japan", "silk", "traditional", "robe", "Japanese"],
+      "charadesHint": "wrap a wide-sleeved silk robe and bow gracefully",
+      "passwordHint": "Japanese robe"
+    },
+    {
+      "id": "clothing-044",
+      "word": "OVERALLS",
+      "tabooWords": ["bib", "straps", "work", "denim", "painter"],
+      "charadesHint": "clip shoulder straps over a bib and mime painting a wall",
+      "passwordHint": "bib and straps"
+    },
+    {
+      "id": "clothing-045",
+      "word": "BASEBALL CAP",
+      "tabooWords": ["cap", "peak", "sport", "hat", "backwards"],
+      "charadesHint": "put on a cap and spin the peak to face backwards",
+      "passwordHint": "peak"
+    },
+    {
+      "id": "clothing-046",
+      "word": "PONCHO",
+      "tabooWords": ["Mexico", "blanket", "hole", "head", "South America"],
+      "charadesHint": "pull a blanket with a hole over your head and stand like a cowboy",
+      "passwordHint": "blanket with hole"
+    },
+    {
+      "id": "clothing-047",
+      "word": "STOCKINGS",
+      "tabooWords": ["legs", "sheer", "nylon", "Christmas", "silk"],
+      "charadesHint": "slowly roll sheer coverings up each leg",
+      "passwordHint": "sheer legs"
+    },
+    {
+      "id": "clothing-048",
+      "word": "TURBAN",
+      "tabooWords": ["head", "wrap", "Sikh", "India", "cloth"],
+      "charadesHint": "carefully wrap a long cloth around and around your head",
+      "passwordHint": "head wrap"
+    },
+    {
+      "id": "clothing-049",
+      "word": "CUFFLINKS",
+      "tabooWords": ["shirt", "cuff", "formal", "metal", "wrist"],
+      "charadesHint": "fasten small decorative fasteners at each shirt cuff",
+      "passwordHint": "shirt cuff"
+    },
+    {
+      "id": "clothing-050",
+      "word": "PINAFORE",
+      "tabooWords": ["dress", "apron", "school", "girl", "Alice"],
+      "charadesHint": "pull on a sleeveless dress over a blouse like a schoolgirl",
+      "passwordHint": "school dress"
+    },
+    {
+      "id": "clothing-051",
+      "word": "SHORTS",
+      "tabooWords": ["legs", "summer", "short", "trousers", "beach"],
+      "charadesHint": "mime cutting your trousers off at the knee in the summer heat",
+      "passwordHint": "summer legs"
+    },
+    {
+      "id": "clothing-052",
+      "word": "BALACLAVA",
+      "tabooWords": ["face", "cover", "mask", "wool", "robber"],
+      "charadesHint": "pull a knitted mask over your entire face leaving only eyes showing",
+      "passwordHint": "face mask"
+    },
+    {
+      "id": "clothing-053",
+      "word": "SUSPENDERS",
+      "tabooWords": ["braces", "trousers", "straps", "hold", "shoulders"],
+      "charadesHint": "snap a pair of elastic straps from your shoulders to your waistband",
+      "passwordHint": "braces"
+    },
+    {
+      "id": "clothing-054",
+      "word": "FEDORA",
+      "tabooWords": ["hat", "brim", "Indiana", "Jones", "detective"],
+      "charadesHint": "tilt a wide-brimmed hat at an angle and look mysterious",
+      "passwordHint": "Indiana Jones"
+    },
+    {
+      "id": "clothing-055",
+      "word": "CLOGS",
+      "tabooWords": ["wood", "Dutch", "shoes", "Holland", "Netherlands"],
+      "charadesHint": "clump loudly on the floor in heavy wooden shoes",
+      "passwordHint": "wooden shoes"
+    },
+    {
+      "id": "clothing-056",
+      "word": "BABYGROW",
+      "tabooWords": ["baby", "infant", "all", "one", "suit"],
+      "charadesHint": "mime dressing a tiny baby in a full-body soft suit",
+      "passwordHint": "baby suit"
+    },
+    {
+      "id": "clothing-057",
+      "word": "TANK TOP",
+      "tabooWords": ["sleeveless", "vest", "gym", "arms", "summer"],
+      "charadesHint": "flex your biceps in a sleeveless gym top",
+      "passwordHint": "sleeveless gym"
+    },
+    {
+      "id": "clothing-058",
+      "word": "SMOKING JACKET",
+      "tabooWords": ["velvet", "robe", "gentleman", "pipe", "lounge"],
+      "charadesHint": "lounge in a velvet jacket puffing a pipe like a Victorian gentleman",
+      "passwordHint": "gentleman"
+    },
+    {
+      "id": "clothing-059",
+      "word": "HAREM PANTS",
+      "tabooWords": ["baggy", "drop", "crotch", "loose", "belly dance"],
+      "charadesHint": "mime wearing extremely baggy pants that drop to the knees",
+      "passwordHint": "baggy drop"
+    },
+    {
+      "id": "clothing-060",
+      "word": "SNOOD",
+      "tabooWords": ["neck", "tube", "scarf", "loop", "hood"],
+      "charadesHint": "pull a seamless fabric tube over your head and around your neck",
+      "passwordHint": "neck tube"
+    }
+  ]
+}

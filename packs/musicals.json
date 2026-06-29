@@ -1,0 +1,557 @@
+{
+  "id": "musicals",
+  "name": "Musicals",
+  "category": "Entertainment",
+  "description": "Songs, shows and stars from the greatest musicals on stage and screen",
+  "difficulty": "Medium",
+  "tags": ["musicals", "theatre", "Broadway", "West End", "songs"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "musicals-001",
+      "word": "THE LION KING",
+      "tabooWords": ["Simba", "Africa", "Pride", "Mufasa", "Disney"],
+      "charadesHint": "hold a cub aloft on a cliff top in the sunrise",
+      "passwordHint": "Pride Rock"
+    },
+    {
+      "id": "musicals-002",
+      "word": "GREASE",
+      "tabooWords": ["Sandy", "Danny", "50s", "leather", "Olivia"],
+      "charadesHint": "slick back your hair in a leather jacket and do hand jive",
+      "passwordHint": "hand jive"
+    },
+    {
+      "id": "musicals-003",
+      "word": "HAMILTON",
+      "tabooWords": ["American", "founding", "hip hop", "history", "Broadway"],
+      "charadesHint": "rap American founding father history whilst duelling at dawn",
+      "passwordHint": "founding father rap"
+    },
+    {
+      "id": "musicals-004",
+      "word": "LES MISÉRABLES",
+      "tabooWords": ["France", "revolution", "Valjean", "barricade", "Cosette"],
+      "charadesHint": "man the barricades singing at the top of your lungs in revolutionary France",
+      "passwordHint": "barricade"
+    },
+    {
+      "id": "musicals-005",
+      "word": "PHANTOM OF THE OPERA",
+      "tabooWords": ["mask", "opera", "Christine", "chandelier", "ghost"],
+      "charadesHint": "put a half-mask on your face and dramatically lower a chandelier",
+      "passwordHint": "half mask"
+    },
+    {
+      "id": "musicals-006",
+      "word": "MAMMA MIA",
+      "tabooWords": ["ABBA", "Greece", "wedding", "three dads", "songs"],
+      "charadesHint": "dance in white flares on a Greek island as ABBA plays",
+      "passwordHint": "ABBA Greece"
+    },
+    {
+      "id": "musicals-007",
+      "word": "WICKED",
+      "tabooWords": ["green", "witch", "Oz", "Elphaba", "Glinda"],
+      "charadesHint": "paint yourself green and declare you're defying gravity",
+      "passwordHint": "green witch"
+    },
+    {
+      "id": "musicals-008",
+      "word": "CHICAGO",
+      "tabooWords": ["jazz", "murder", "Roxie", "Velma", "cell block"],
+      "charadesHint": "do a jazz kick in fishnet tights inside a prison",
+      "passwordHint": "cell block tango"
+    },
+    {
+      "id": "musicals-009",
+      "word": "CATS",
+      "tabooWords": ["feline", "Memory", "Jellicle", "Eliot", "whiskers"],
+      "charadesHint": "crawl on all fours in a cat suit singing Memory",
+      "passwordHint": "Memory"
+    },
+    {
+      "id": "musicals-010",
+      "word": "WEST SIDE STORY",
+      "tabooWords": ["Jets", "Sharks", "New York", "Romeo", "gangs"],
+      "charadesHint": "snap fingers in a gang and dance through New York streets",
+      "passwordHint": "gang snap"
+    },
+    {
+      "id": "musicals-011",
+      "word": "THE SOUND OF MUSIC",
+      "tabooWords": ["Julie Andrews", "Austria", "Do Re Mi", "nuns", "hills"],
+      "charadesHint": "spin on a mountaintop with arms wide singing about hills",
+      "passwordHint": "Do Re Mi"
+    },
+    {
+      "id": "musicals-012",
+      "word": "ANNIE",
+      "tabooWords": ["orphan", "red hair", "daddy", "sun", "tomorrow"],
+      "charadesHint": "skip around in a red curly wig singing about tomorrow",
+      "passwordHint": "tomorrow"
+    },
+    {
+      "id": "musicals-013",
+      "word": "OLIVER",
+      "tabooWords": ["Dickens", "orphan", "gruel", "please", "Artful Dodger"],
+      "charadesHint": "hold up a bowl and meekly ask for more gruel",
+      "passwordHint": "please sir"
+    },
+    {
+      "id": "musicals-014",
+      "word": "SWEENEY TODD",
+      "tabooWords": ["barber", "razor", "pie", "demon", "Fleet Street"],
+      "charadesHint": "shave someone then send them through a trapdoor into a pie",
+      "passwordHint": "demon barber"
+    },
+    {
+      "id": "musicals-015",
+      "word": "INTO THE WOODS",
+      "tabooWords": ["fairytale", "Sondheim", "forest", "witch", "wolf"],
+      "charadesHint": "wander into a dark wood meeting fairytale characters gone wrong",
+      "passwordHint": "fairytale forest"
+    },
+    {
+      "id": "musicals-016",
+      "word": "RENT",
+      "tabooWords": ["New York", "bohemian", "HIV", "seasons", "525600"],
+      "charadesHint": "count 525,600 minutes and measure a year in a New York apartment",
+      "passwordHint": "525,600 minutes"
+    },
+    {
+      "id": "musicals-017",
+      "word": "CABARET",
+      "tabooWords": ["Berlin", "Kit Kat", "Liza", "Weimar", "club"],
+      "charadesHint": "perform in a seedy Berlin nightclub as Germany falls apart around you",
+      "passwordHint": "Kit Kat Club"
+    },
+    {
+      "id": "musicals-018",
+      "word": "MY FAIR LADY",
+      "tabooWords": ["Eliza", "Higgins", "accent", "Cockney", "flower"],
+      "charadesHint": "practice elocution repeating the rain in Spain until it sounds right",
+      "passwordHint": "rain in Spain"
+    },
+    {
+      "id": "musicals-019",
+      "word": "HAIR",
+      "tabooWords": ["hippie", "60s", "musical", "peace", "Aquarius"],
+      "charadesHint": "let your hair loose and sing about peace love and the Age of Aquarius",
+      "passwordHint": "Aquarius"
+    },
+    {
+      "id": "musicals-020",
+      "word": "BILLIE ELLIOT",
+      "tabooWords": ["ballet", "mining", "boy", "Newcastle", "dance"],
+      "charadesHint": "leap and pirouette in a tough northern mining town as a young boy",
+      "passwordHint": "mining ballet"
+    },
+    {
+      "id": "musicals-021",
+      "word": "MATILDA",
+      "tabooWords": [
+        "Roald Dahl",
+        "books",
+        "school",
+        "Trunchbull",
+        "telekinesis"
+      ],
+      "charadesHint": "move objects with your mind and topple a terrifying headmistress",
+      "passwordHint": "Trunchbull"
+    },
+    {
+      "id": "musicals-022",
+      "word": "SIX",
+      "tabooWords": ["Henry VIII", "queens", "wives", "pop", "divorced"],
+      "charadesHint": "line up as one of Henry the Eighth's wives in a pop concert",
+      "passwordHint": "six wives"
+    },
+    {
+      "id": "musicals-023",
+      "word": "SPRING AWAKENING",
+      "tabooWords": [
+        "teens",
+        "Germany",
+        "rebellion",
+        "repression",
+        "coming of age"
+      ],
+      "charadesHint": "rebel against repression as a teenager in 19th century Germany",
+      "passwordHint": "teenage rebellion"
+    },
+    {
+      "id": "musicals-024",
+      "word": "DEAR EVAN HANSEN",
+      "tabooWords": ["anxiety", "teen", "letter", "social media", "lie"],
+      "charadesHint": "write a letter to yourself as an anxious teen that goes viral",
+      "passwordHint": "letter to yourself"
+    },
+    {
+      "id": "musicals-025",
+      "word": "FUN HOME",
+      "tabooWords": [
+        "graphic novel",
+        "father",
+        "identity",
+        "Bechdel",
+        "memoir"
+      ],
+      "charadesHint": "flip through a graphic novel memoir about discovering your identity",
+      "passwordHint": "graphic novel"
+    },
+    {
+      "id": "musicals-026",
+      "word": "IN THE HEIGHTS",
+      "tabooWords": [
+        "Washington Heights",
+        "Latin",
+        "community",
+        "Miranda",
+        "New York"
+      ],
+      "charadesHint": "salsa dance through a Latin New York neighbourhood in the heat",
+      "passwordHint": "Washington Heights"
+    },
+    {
+      "id": "musicals-027",
+      "word": "MISS SAIGON",
+      "tabooWords": ["Vietnam", "helicopter", "Kim", "war", "Saigon"],
+      "charadesHint": "reach up to a helicopter evacuating the last people from Saigon",
+      "passwordHint": "helicopter"
+    },
+    {
+      "id": "musicals-028",
+      "word": "STARLIGHT EXPRESS",
+      "tabooWords": ["train", "roller skates", "Webber", "race", "steam"],
+      "charadesHint": "race around on roller skates dressed as a steam train",
+      "passwordHint": "rollerskate train"
+    },
+    {
+      "id": "musicals-029",
+      "word": "EVITA",
+      "tabooWords": ["Argentina", "Peron", "Eva", "cry for me", "Buenos Aires"],
+      "charadesHint": "address the crowd from a balcony in Argentina as First Lady",
+      "passwordHint": "Buenos Aires balcony"
+    },
+    {
+      "id": "musicals-030",
+      "word": "JOSEPH AND THE AMAZING TECHNICOLOUR DREAMCOAT",
+      "tabooWords": ["coat", "colours", "Egypt", "brothers", "Andrew Lloyd"],
+      "charadesHint": "show off an impossibly multi-coloured coat to your jealous brothers",
+      "passwordHint": "multicolour coat"
+    },
+    {
+      "id": "musicals-031",
+      "word": "AVENUE Q",
+      "tabooWords": ["puppets", "adult", "Sesame Street", "internet", "racism"],
+      "charadesHint": "operate a puppet having very adult conversations about real life",
+      "passwordHint": "adult puppets"
+    },
+    {
+      "id": "musicals-032",
+      "word": "BOOK OF MORMON",
+      "tabooWords": [
+        "missionaries",
+        "Utah",
+        "Uganda",
+        "Trey Parker",
+        "South Park"
+      ],
+      "charadesHint": "knock on doors in Uganda as an enthusiastic Mormon missionary",
+      "passwordHint": "Mormon missionary"
+    },
+    {
+      "id": "musicals-033",
+      "word": "LES CAGE AUX FOLLES",
+      "tabooWords": ["drag", "French", "gay", "nightclub", "feathers"],
+      "charadesHint": "perform in a glittering drag show at a French Riviera cabaret",
+      "passwordHint": "drag cabaret"
+    },
+    {
+      "id": "musicals-034",
+      "word": "SOUTH PACIFIC",
+      "tabooWords": ["island", "war", "Rodgers", "Hammerstein", "nurse"],
+      "charadesHint": "wash a man right out of your hair on a beautiful Pacific island",
+      "passwordHint": "wash that man"
+    },
+    {
+      "id": "musicals-035",
+      "word": "GYPSY",
+      "tabooWords": [
+        "stage mother",
+        "Rose",
+        "Gypsy Rose Lee",
+        "burlesque",
+        "vaudeville"
+      ],
+      "charadesHint": "push your daughter onto the stage as the ultimate stage mother",
+      "passwordHint": "stage mother"
+    },
+    {
+      "id": "musicals-036",
+      "word": "CHESS",
+      "tabooWords": ["Cold War", "Russia", "game", "ABBA writers", "match"],
+      "charadesHint": "play a tense Cold War chess match as a pawn in political games",
+      "passwordHint": "Cold War chess"
+    },
+    {
+      "id": "musicals-037",
+      "word": "ANYTHING GOES",
+      "tabooWords": ["ship", "Cole Porter", "cruise", "Reno", "1930s"],
+      "charadesHint": "tap dance on a 1930s ocean liner as everything goes mad",
+      "passwordHint": "ocean liner tap"
+    },
+    {
+      "id": "musicals-038",
+      "word": "CAROUSEL",
+      "tabooWords": [
+        "fairground",
+        "Billy",
+        "Julie",
+        "Rodgers",
+        "You'll Never Walk"
+      ],
+      "charadesHint": "spin on a carousel singing that you'll never walk alone",
+      "passwordHint": "You'll Never Walk Alone"
+    },
+    {
+      "id": "musicals-039",
+      "word": "GUYS AND DOLLS",
+      "tabooWords": [
+        "New York",
+        "gamblers",
+        "Salvation Army",
+        "Damon Runyon",
+        "dice"
+      ],
+      "charadesHint": "roll dice in a New York sewer with gangsters and chorus girls",
+      "passwordHint": "sewer gamblers"
+    },
+    {
+      "id": "musicals-040",
+      "word": "A CHORUS LINE",
+      "tabooWords": ["audition", "dancers", "Broadway", "single", "line"],
+      "charadesHint": "stand in a long line and desperately audition to be one of the final eight",
+      "passwordHint": "audition line"
+    },
+    {
+      "id": "musicals-041",
+      "word": "SHOW BOAT",
+      "tabooWords": ["Mississippi", "river", "Ol Man River", "1920s", "race"],
+      "charadesHint": "sing about the old man river rolling along on a Mississippi show boat",
+      "passwordHint": "Ol Man River"
+    },
+    {
+      "id": "musicals-042",
+      "word": "BLOOD BROTHERS",
+      "tabooWords": [
+        "twins",
+        "Liverpool",
+        "separated",
+        "class",
+        "Willy Russell"
+      ],
+      "charadesHint": "stand opposite your unknown twin brother at the tragic end in Liverpool",
+      "passwordHint": "separated twins"
+    },
+    {
+      "id": "musicals-043",
+      "word": "JERSEY BOYS",
+      "tabooWords": [
+        "Four Seasons",
+        "Frankie Valli",
+        "New Jersey",
+        "falsetto",
+        "60s"
+      ],
+      "charadesHint": "hit an impossibly high falsetto note as a Four Seasons member from New Jersey",
+      "passwordHint": "falsetto"
+    },
+    {
+      "id": "musicals-044",
+      "word": "WE WILL ROCK YOU",
+      "tabooWords": ["Queen", "Freddie", "rock", "future", "Galileo"],
+      "charadesHint": "stamp stamp clap in a dystopian future fighting for real rock music",
+      "passwordHint": "stamp stamp clap"
+    },
+    {
+      "id": "musicals-045",
+      "word": "BEAUTIFUL",
+      "tabooWords": ["Carole King", "songwriter", "Tapestry", "60s", "pop"],
+      "charadesHint": "play piano and sing your own classic songs to a packed theatre",
+      "passwordHint": "Carole King"
+    },
+    {
+      "id": "musicals-046",
+      "word": "TOOTSIE",
+      "tabooWords": [
+        "cross dress",
+        "actress",
+        "Dustin",
+        "soap opera",
+        "musical"
+      ],
+      "charadesHint": "dress as a woman to get the acting role you always wanted",
+      "passwordHint": "dress as woman"
+    },
+    {
+      "id": "musicals-047",
+      "word": "THE PRODUCERS",
+      "tabooWords": [
+        "Max Bialystock",
+        "flop",
+        "Nazi",
+        "Springtime",
+        "Mel Brooks"
+      ],
+      "charadesHint": "deliberately make the worst musical ever to commit fraud",
+      "passwordHint": "deliberate flop"
+    },
+    {
+      "id": "musicals-048",
+      "word": "BEETLEJUICE",
+      "tabooWords": [
+        "ghost",
+        "bio-exorcist",
+        "say my name",
+        "afterlife",
+        "striped"
+      ],
+      "charadesHint": "say the name three times and unleash a chaotic striped ghost",
+      "passwordHint": "say it three times"
+    },
+    {
+      "id": "musicals-049",
+      "word": "HADESTOWN",
+      "tabooWords": [
+        "Greek myth",
+        "Orpheus",
+        "Eurydice",
+        "underworld",
+        "Hades"
+      ],
+      "charadesHint": "follow your love down into the underworld and make the fatal mistake of looking back",
+      "passwordHint": "look back"
+    },
+    {
+      "id": "musicals-050",
+      "word": "COMPANY",
+      "tabooWords": ["Sondheim", "Bobby", "marriage", "New York", "35"],
+      "charadesHint": "attend all your married friends' parties wondering why you're still single at 35",
+      "passwordHint": "Bobby"
+    },
+    {
+      "id": "musicals-051",
+      "word": "FOLLIES",
+      "tabooWords": ["Sondheim", "showgirls", "memory", "reunion", "Broadway"],
+      "charadesHint": "return to a crumbling theatre for a reunion of old showgirls",
+      "passwordHint": "showgirl reunion"
+    },
+    {
+      "id": "musicals-052",
+      "word": "THE ROCKY HORROR SHOW",
+      "tabooWords": [
+        "transvestite",
+        "Transylvania",
+        "Frank-N-Furter",
+        "Time Warp",
+        "fishnet"
+      ],
+      "charadesHint": "do the Time Warp in fishnet tights with a mad scientist from Transylvania",
+      "passwordHint": "Time Warp"
+    },
+    {
+      "id": "musicals-053",
+      "word": "SATURDAY NIGHT FEVER",
+      "tabooWords": [
+        "disco",
+        "John Travolta",
+        "Brooklyn",
+        "white suit",
+        "Bee Gees"
+      ],
+      "charadesHint": "point one finger to the ceiling in a white suit on a disco dance floor",
+      "passwordHint": "white suit disco"
+    },
+    {
+      "id": "musicals-054",
+      "word": "FOOTLOOSE",
+      "tabooWords": [
+        "dancing",
+        "banned",
+        "small town",
+        "Kevin Bacon",
+        "rebellious"
+      ],
+      "charadesHint": "rebel against a town where dancing has been banned",
+      "passwordHint": "banned dancing"
+    },
+    {
+      "id": "musicals-055",
+      "word": "DIRTY DANCING",
+      "tabooWords": [
+        "Nobody puts Baby",
+        "Patrick Swayze",
+        "lift",
+        "60s",
+        "resort"
+      ],
+      "charadesHint": "perform the iconic lift at the end of the summer camp talent show",
+      "passwordHint": "the lift"
+    },
+    {
+      "id": "musicals-056",
+      "word": "MOULIN ROUGE",
+      "tabooWords": ["Paris", "cabaret", "Nicole", "Ewan", "can-can"],
+      "charadesHint": "kick high in a can-can at a glittering Parisian cabaret club",
+      "passwordHint": "can-can"
+    },
+    {
+      "id": "musicals-057",
+      "word": "SINGIN IN THE RAIN",
+      "tabooWords": [
+        "Gene Kelly",
+        "umbrella",
+        "Hollywood",
+        "silent film",
+        "splash"
+      ],
+      "charadesHint": "twirl an umbrella and splash through puddles singing joyfully",
+      "passwordHint": "puddle splash"
+    },
+    {
+      "id": "musicals-058",
+      "word": "FUNNY GIRL",
+      "tabooWords": [
+        "Barbra Streisand",
+        "Fanny Brice",
+        "Ziegfeld",
+        "comic",
+        "Broadway"
+      ],
+      "charadesHint": "perform a hilarious comedy routine on Broadway while falling in love",
+      "passwordHint": "Fanny Brice"
+    },
+    {
+      "id": "musicals-059",
+      "word": "THE GREATEST SHOWMAN",
+      "tabooWords": [
+        "P.T. Barnum",
+        "circus",
+        "Hugh Jackman",
+        "freak show",
+        "greatest"
+      ],
+      "charadesHint": "run into a big top tent presenting the most spectacular show on earth",
+      "passwordHint": "big top"
+    },
+    {
+      "id": "musicals-060",
+      "word": "TICK TICK BOOM",
+      "tabooWords": ["Larson", "Rent", "30th birthday", "composer", "Jonathan"],
+      "charadesHint": "hear a ticking clock as you race to write your musical before turning 30",
+      "passwordHint": "30th birthday"
+    }
+  ]
+}

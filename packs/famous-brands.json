@@ -1,0 +1,496 @@
+{
+  "id": "famous-brands",
+  "name": "Famous Brands",
+  "category": "Lifestyle",
+  "description": "Iconic logos, slogans, and companies — from fashion to fast food.",
+  "difficulty": "Medium",
+  "tags": ["brands", "companies", "logos", "advertising", "business"],
+  "cards": [
+    {
+      "id": "fb-001",
+      "word": "NIKE",
+      "tabooWords": ["swoosh", "shoes", "sports", "just do it", "trainers"],
+      "charadesHint": "Act like you're sprinting to victory",
+      "passwordHint": "swoosh"
+    },
+    {
+      "id": "fb-002",
+      "word": "APPLE",
+      "tabooWords": ["iPhone", "Mac", "Steve Jobs", "computer", "technology"],
+      "charadesHint": "Mime biting into something and holding up a sleek device",
+      "passwordHint": "iPhone-maker"
+    },
+    {
+      "id": "fb-003",
+      "word": "McDONALD'S",
+      "tabooWords": [
+        "burger",
+        "fast food",
+        "fries",
+        "golden arches",
+        "Big Mac"
+      ],
+      "charadesHint": "Mime flipping a burger and serve it through a window",
+      "passwordHint": "golden-arches"
+    },
+    {
+      "id": "fb-004",
+      "word": "COCA-COLA",
+      "tabooWords": ["Coke", "soda", "drink", "fizzy", "cola"],
+      "charadesHint": "Mime opening a can and fizz spraying everywhere",
+      "passwordHint": "red-can"
+    },
+    {
+      "id": "fb-005",
+      "word": "AMAZON",
+      "tabooWords": ["shopping", "delivery", "Jeff Bezos", "online", "Prime"],
+      "charadesHint": "Mime ordering something on a phone then opening a huge cardboard box",
+      "passwordHint": "river-retailer"
+    },
+    {
+      "id": "fb-006",
+      "word": "GOOGLE",
+      "tabooWords": ["search", "internet", "engine", "YouTube", "Gmail"],
+      "charadesHint": "Mime typing furiously then pointing at a screen with an 'aha!' expression",
+      "passwordHint": "search-engine"
+    },
+    {
+      "id": "fb-007",
+      "word": "FERRARI",
+      "tabooWords": ["car", "Italian", "red", "racing", "sports car"],
+      "charadesHint": "Mime gripping a steering wheel and roaring down a track at speed",
+      "passwordHint": "prancing-horse"
+    },
+    {
+      "id": "fb-008",
+      "word": "LEGO",
+      "tabooWords": ["bricks", "plastic", "build", "toy", "blocks"],
+      "charadesHint": "Mime snapping bricks together piece by piece then showing off your creation",
+      "passwordHint": "colourful-bricks"
+    },
+    {
+      "id": "fb-009",
+      "word": "NETFLIX",
+      "tabooWords": ["streaming", "movies", "series", "watch", "subscription"],
+      "charadesHint": "Mime lying on a sofa, remote in hand, binge-watching all night",
+      "passwordHint": "streaming-giant"
+    },
+    {
+      "id": "fb-010",
+      "word": "STARBUCKS",
+      "tabooWords": ["coffee", "latte", "café", "cup", "mermaid"],
+      "charadesHint": "Mime writing a name on a cup and calling it out incorrectly",
+      "passwordHint": "misspelled-latte"
+    },
+    {
+      "id": "fb-011",
+      "word": "IKEA",
+      "tabooWords": [
+        "furniture",
+        "Swedish",
+        "flat-pack",
+        "meatballs",
+        "assembly"
+      ],
+      "charadesHint": "Mime reading a wordless instruction manual and struggling to build a shelf",
+      "passwordHint": "flat-pack"
+    },
+    {
+      "id": "fb-012",
+      "word": "ADIDAS",
+      "tabooWords": ["trainers", "three stripes", "sports", "shoes", "Yeezy"],
+      "charadesHint": "Mime lacing up sleek trainers and jogging on the spot proudly",
+      "passwordHint": "three-stripes"
+    },
+    {
+      "id": "fb-013",
+      "word": "DISNEY",
+      "tabooWords": [
+        "Mickey Mouse",
+        "cartoon",
+        "movie",
+        "theme park",
+        "princess"
+      ],
+      "charadesHint": "Mime drawing giant mouse ears on your head and waving a magic wand",
+      "passwordHint": "magic-kingdom"
+    },
+    {
+      "id": "fb-014",
+      "word": "SAMSUNG",
+      "tabooWords": ["phone", "Korean", "Galaxy", "TV", "electronics"],
+      "charadesHint": "Mime unboxing a sleek new phone and marvelling at its giant screen",
+      "passwordHint": "Galaxy-maker"
+    },
+    {
+      "id": "fb-015",
+      "word": "LOUIS VUITTON",
+      "tabooWords": ["luxury", "handbag", "fashion", "LV", "French"],
+      "charadesHint": "Mime strutting down a catwalk clutching a very expensive monogram bag",
+      "passwordHint": "LV-monogram"
+    },
+    {
+      "id": "fb-016",
+      "word": "SPOTIFY",
+      "tabooWords": ["music", "streaming", "playlist", "podcast", "songs"],
+      "charadesHint": "Mime putting headphones on and dancing to an invisible playlist",
+      "passwordHint": "music-streaming"
+    },
+    {
+      "id": "fb-017",
+      "word": "ROLEX",
+      "tabooWords": ["watch", "luxury", "Swiss", "time", "expensive"],
+      "charadesHint": "Mime checking the time on an outrageously expensive wristwatch and admiring it",
+      "passwordHint": "luxury-watch"
+    },
+    {
+      "id": "fb-018",
+      "word": "KFC",
+      "tabooWords": [
+        "chicken",
+        "fried",
+        "fast food",
+        "Colonel Sanders",
+        "bucket"
+      ],
+      "charadesHint": "Mime licking your fingers one by one with great satisfaction",
+      "passwordHint": "finger-lickin'"
+    },
+    {
+      "id": "fb-019",
+      "word": "TESLA",
+      "tabooWords": ["electric", "car", "Elon Musk", "battery", "EV"],
+      "charadesHint": "Mime silently gliding past in a car with no engine noise at all",
+      "passwordHint": "electric-car"
+    },
+    {
+      "id": "fb-020",
+      "word": "CHANEL",
+      "tabooWords": ["perfume", "fashion", "No. 5", "luxury", "French"],
+      "charadesHint": "Mime spritzing perfume elegantly and adjusting a string of pearls",
+      "passwordHint": "No-5"
+    },
+    {
+      "id": "fb-021",
+      "word": "AIRBNB",
+      "tabooWords": ["rental", "holiday", "accommodation", "travel", "host"],
+      "charadesHint": "Mime knocking on a stranger's door with a suitcase and being welcomed in",
+      "passwordHint": "home-rental"
+    },
+    {
+      "id": "fb-022",
+      "word": "RED BULL",
+      "tabooWords": [
+        "energy drink",
+        "wings",
+        "can",
+        "extreme sports",
+        "caffeine"
+      ],
+      "charadesHint": "Mime downing a tiny can and then sprouting wings and flying away",
+      "passwordHint": "gives-you-wings"
+    },
+    {
+      "id": "fb-023",
+      "word": "VIRGIN",
+      "tabooWords": ["Richard Branson", "airline", "trains", "brand", "media"],
+      "charadesHint": "Mime boarding a plane, then a train, then picking up a phone — same logo each time",
+      "passwordHint": "Branson's-empire"
+    },
+    {
+      "id": "fb-024",
+      "word": "HEINZ",
+      "tabooWords": ["ketchup", "beans", "tomato", "sauce", "57"],
+      "charadesHint": "Mime shaking a bottle upside down for ages waiting for sauce to come out",
+      "passwordHint": "57-varieties"
+    },
+    {
+      "id": "fb-025",
+      "word": "TWITTER / X",
+      "tabooWords": ["tweet", "social media", "Elon Musk", "posts", "bird"],
+      "charadesHint": "Mime typing a short furious message, hitting send, and watching chaos unfold",
+      "passwordHint": "blue-bird"
+    },
+    {
+      "id": "fb-026",
+      "word": "PRADA",
+      "tabooWords": ["fashion", "Italian", "luxury", "handbag", "designer"],
+      "charadesHint": "Mime strutting in with a sleek black bag looking supremely understated yet expensive",
+      "passwordHint": "Milan-fashion"
+    },
+    {
+      "id": "fb-027",
+      "word": "HARLEY-DAVIDSON",
+      "tabooWords": ["motorbike", "American", "chopper", "biker", "motorcycle"],
+      "charadesHint": "Mime straddling a huge roaring motorbike and cruising down a highway",
+      "passwordHint": "hog-rider"
+    },
+    {
+      "id": "fb-028",
+      "word": "PEPSI",
+      "tabooWords": ["cola", "Coke", "soda", "fizzy drink", "blue"],
+      "charadesHint": "Mime the classic blind taste test challenge, looking very uncertain",
+      "passwordHint": "cola-rival"
+    },
+    {
+      "id": "fb-029",
+      "word": "VISA",
+      "tabooWords": ["credit card", "payment", "bank", "money", "Mastercard"],
+      "charadesHint": "Mime tapping a card on a reader and sighing in relief when it works",
+      "passwordHint": "tap-to-pay"
+    },
+    {
+      "id": "fb-030",
+      "word": "LEVI'S",
+      "tabooWords": ["jeans", "denim", "501", "trousers", "clothing"],
+      "charadesHint": "Mime pulling on a pair of stiff new jeans and rolling up the cuffs",
+      "passwordHint": "denim-501s"
+    },
+    {
+      "id": "fb-031",
+      "word": "DYSON",
+      "tabooWords": ["vacuum", "hoover", "cyclone", "James Dyson", "cleaner"],
+      "charadesHint": "Mime pushing a futuristic-looking hoover around the room with great satisfaction",
+      "passwordHint": "bagless-vacuum"
+    },
+    {
+      "id": "fb-032",
+      "word": "INSTAGRAM",
+      "tabooWords": ["photos", "social media", "filter", "followers", "selfie"],
+      "charadesHint": "Mime taking a selfie, applying a filter, posting it, then anxiously watching for likes",
+      "passwordHint": "photo-filters"
+    },
+    {
+      "id": "fb-033",
+      "word": "GUCCI",
+      "tabooWords": ["fashion", "Italian", "luxury", "logo", "designer"],
+      "charadesHint": "Mime adjusting oversized sunglasses and a flashy belt with a double-G buckle",
+      "passwordHint": "double-G"
+    },
+    {
+      "id": "fb-034",
+      "word": "DOMINO'S",
+      "tabooWords": ["pizza", "delivery", "dough", "cheese", "toppings"],
+      "charadesHint": "Mime opening a door in your pyjamas and receiving a hot pizza box with delight",
+      "passwordHint": "pizza-delivery"
+    },
+    {
+      "id": "fb-035",
+      "word": "PORSCHE",
+      "tabooWords": ["car", "German", "sports car", "911", "luxury"],
+      "charadesHint": "Mime sliding into a low sports car and revving the engine with a smug grin",
+      "passwordHint": "Stuttgart-911"
+    },
+    {
+      "id": "fb-036",
+      "word": "WHATSAPP",
+      "tabooWords": ["message", "chat", "phone", "group", "text"],
+      "charadesHint": "Mime being flooded by notifications from a group chat you can't escape",
+      "passwordHint": "group-chat"
+    },
+    {
+      "id": "fb-037",
+      "word": "NESPRESSO",
+      "tabooWords": ["coffee", "pod", "espresso", "capsule", "machine"],
+      "charadesHint": "Mime inserting a tiny pod into a machine with great ceremony and savouring the result",
+      "passwordHint": "coffee-pod"
+    },
+    {
+      "id": "fb-038",
+      "word": "UBER",
+      "tabooWords": ["taxi", "ride", "app", "driver", "car"],
+      "charadesHint": "Mime standing outside looking at your phone, then getting into a stranger's car",
+      "passwordHint": "ride-hailing"
+    },
+    {
+      "id": "fb-039",
+      "word": "TESCO",
+      "tabooWords": [
+        "supermarket",
+        "grocery",
+        "Clubcard",
+        "British",
+        "shopping"
+      ],
+      "charadesHint": "Mime pushing a trolley down an enormous supermarket aisle with a loyalty card in hand",
+      "passwordHint": "Clubcard-supermarket"
+    },
+    {
+      "id": "fb-040",
+      "word": "MICROSOFT",
+      "tabooWords": ["Windows", "Bill Gates", "computer", "software", "Office"],
+      "charadesHint": "Mime the spinning wheel of doom as your computer freezes and you groan in frustration",
+      "passwordHint": "Windows-OS"
+    },
+    {
+      "id": "fb-041",
+      "word": "MARKS & SPENCER",
+      "tabooWords": ["M&S", "food", "clothing", "British", "department store"],
+      "charadesHint": "Mime picking up a beautifully packaged sandwich and reading the label approvingly",
+      "passwordHint": "M-and-S"
+    },
+    {
+      "id": "fb-042",
+      "word": "SNAPCHAT",
+      "tabooWords": ["filter", "story", "photo", "disappear", "ghost"],
+      "charadesHint": "Mime taking a selfie with dog ears then watching it vanish 10 seconds later",
+      "passwordHint": "disappearing-snaps"
+    },
+    {
+      "id": "fb-043",
+      "word": "JAGUAR",
+      "tabooWords": ["car", "British", "luxury", "leaping cat", "electric"],
+      "charadesHint": "Mime prowling like a big cat then smoothly accelerating away in a sleek vehicle",
+      "passwordHint": "leaping-cat"
+    },
+    {
+      "id": "fb-044",
+      "word": "NANDO'S",
+      "tabooWords": [
+        "chicken",
+        "peri-peri",
+        "Portuguese",
+        "restaurant",
+        "spicy"
+      ],
+      "charadesHint": "Mime ordering at a counter, grabbing your own cutlery, and fanning your mouth from the heat",
+      "passwordHint": "peri-peri"
+    },
+    {
+      "id": "fb-045",
+      "word": "CADBURY",
+      "tabooWords": ["chocolate", "Dairy Milk", "purple", "British", "sweets"],
+      "charadesHint": "Mime breaking off squares of chocolate and sharing them around with great generosity",
+      "passwordHint": "Dairy-Milk"
+    },
+    {
+      "id": "fb-046",
+      "word": "AMAZON PRIME",
+      "tabooWords": [
+        "delivery",
+        "Amazon",
+        "streaming",
+        "next day",
+        "membership"
+      ],
+      "charadesHint": "Mime pressing a button and then immediately a parcel appears at your door",
+      "passwordHint": "next-day-delivery"
+    },
+    {
+      "id": "fb-047",
+      "word": "BOOKING.COM",
+      "tabooWords": [
+        "hotel",
+        "travel",
+        "holiday",
+        "accommodation",
+        "reservation"
+      ],
+      "charadesHint": "Mime frantically booking a last-minute hotel on your phone at the airport",
+      "passwordHint": "hotel-booking"
+    },
+    {
+      "id": "fb-048",
+      "word": "PRIMARK",
+      "tabooWords": ["cheap", "clothing", "fashion", "bargain", "British"],
+      "charadesHint": "Mime emerging from a giant store with six bags, looking thrilled at how little you spent",
+      "passwordHint": "budget-fashion"
+    },
+    {
+      "id": "fb-049",
+      "word": "MASTERCARD",
+      "tabooWords": ["credit card", "payment", "Visa", "bank", "money"],
+      "charadesHint": "Mime tapping a card with two overlapping circles on every payment terminal you see",
+      "passwordHint": "overlapping-circles"
+    },
+    {
+      "id": "fb-050",
+      "word": "HUGO BOSS",
+      "tabooWords": ["fashion", "designer", "cologne", "suit", "German"],
+      "charadesHint": "Mime pulling on a perfectly tailored suit and adjusting a silk tie in the mirror",
+      "passwordHint": "Boss-cologne"
+    },
+    {
+      "id": "fb-051",
+      "word": "DELIVEROO",
+      "tabooWords": ["food delivery", "app", "restaurant", "rider", "order"],
+      "charadesHint": "Mime a cyclist arriving at your door with a giant backpack full of hot food",
+      "passwordHint": "food-courier"
+    },
+    {
+      "id": "fb-052",
+      "word": "INNOCENT DRINKS",
+      "tabooWords": ["smoothie", "juice", "healthy", "fruit", "British"],
+      "charadesHint": "Mime putting a tiny woolly hat on a bottle of smoothie and looking pleased with yourself",
+      "passwordHint": "woolly-hat-smoothie"
+    },
+    {
+      "id": "fb-053",
+      "word": "JOHN LEWIS",
+      "tabooWords": [
+        "department store",
+        "British",
+        "Christmas advert",
+        "partnership",
+        "shopping"
+      ],
+      "charadesHint": "Mime crying during a TV advert then going to buy something very expensive",
+      "passwordHint": "Christmas-advert"
+    },
+    {
+      "id": "fb-054",
+      "word": "HÄAGEN-DAZS",
+      "tabooWords": ["ice cream", "luxury", "tub", "dessert", "American"],
+      "charadesHint": "Mime curled up on a sofa eating ice cream straight from a tub with a large spoon",
+      "passwordHint": "luxury-ice-cream"
+    },
+    {
+      "id": "fb-055",
+      "word": "BANDAI",
+      "tabooWords": ["toy", "Japanese", "Tamagotchi", "game", "collectible"],
+      "charadesHint": "Mime frantically pressing tiny buttons to keep a virtual pet alive",
+      "passwordHint": "Tamagotchi-maker"
+    },
+    {
+      "id": "fb-056",
+      "word": "ALDI",
+      "tabooWords": ["supermarket", "cheap", "German", "bargain", "grocery"],
+      "charadesHint": "Mime racing to pack your bags at lightning speed as the cashier scans items furiously",
+      "passwordHint": "budget-supermarket"
+    },
+    {
+      "id": "fb-057",
+      "word": "PATAGONIA",
+      "tabooWords": ["outdoor", "clothing", "fleece", "sustainable", "hiking"],
+      "charadesHint": "Mime hiking up a mountain in a fleece jacket looking concerned about the environment",
+      "passwordHint": "eco-fleece"
+    },
+    {
+      "id": "fb-058",
+      "word": "ROLLS-ROYCE",
+      "tabooWords": [
+        "car",
+        "luxury",
+        "British",
+        "Spirit of Ecstasy",
+        "expensive"
+      ],
+      "charadesHint": "Mime being chauffeur-driven, gazing out the window as peasants stare in awe",
+      "passwordHint": "Spirit-of-Ecstasy"
+    },
+    {
+      "id": "fb-059",
+      "word": "TIKTOK",
+      "tabooWords": ["video", "social media", "dance", "viral", "short"],
+      "charadesHint": "Mime filming yourself doing a dance routine then watching it get a million views",
+      "passwordHint": "viral-videos"
+    },
+    {
+      "id": "fb-060",
+      "word": "PRINGLES",
+      "tabooWords": ["crisps", "tube", "stack", "snack", "potato"],
+      "charadesHint": "Mime getting your hand stuck in a very long tube reaching for the last crisp",
+      "passwordHint": "once-you-pop"
+    }
+  ]
+}

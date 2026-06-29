@@ -1,0 +1,431 @@
+{
+  "id": "easter",
+  "name": "Easter",
+  "category": "Seasonal",
+  "description": "Eggs, bunnies, and springtime traditions — all things Easter",
+  "difficulty": "Easy",
+  "tags": ["easter", "seasonal", "spring", "family-friendly", "kids"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "easter-001",
+      "word": "EASTER EGG",
+      "tabooWords": ["chocolate", "hunt", "Easter", "egg", "shell"],
+      "charadesHint": "mime finding and unwrapping a big chocolate egg",
+      "passwordHint": "chocolate"
+    },
+    {
+      "id": "easter-002",
+      "word": "EASTER BUNNY",
+      "tabooWords": ["rabbit", "Easter", "hops", "basket", "ears"],
+      "charadesHint": "hop around and deliver eggs from a basket",
+      "passwordHint": "hops"
+    },
+    {
+      "id": "easter-003",
+      "word": "HOT CROSS BUN",
+      "tabooWords": ["cross", "bun", "bread", "spiced", "Easter"],
+      "charadesHint": "mime pulling apart a sticky bun with a cross on top",
+      "passwordHint": "cross"
+    },
+    {
+      "id": "easter-004",
+      "word": "EGG HUNT",
+      "tabooWords": ["search", "find", "eggs", "garden", "hidden"],
+      "charadesHint": "search behind bushes and under things for hidden eggs",
+      "passwordHint": "hidden"
+    },
+    {
+      "id": "easter-005",
+      "word": "DAFFODIL",
+      "tabooWords": ["yellow", "flower", "spring", "trumpet", "bloom"],
+      "charadesHint": "cup hands like a trumpet-shaped flower in the sun",
+      "passwordHint": "yellow flower"
+    },
+    {
+      "id": "easter-006",
+      "word": "LAMB",
+      "tabooWords": ["sheep", "baby", "wool", "spring", "animal"],
+      "charadesHint": "get on all fours and wobble around like a newborn lamb",
+      "passwordHint": "spring baby"
+    },
+    {
+      "id": "easter-007",
+      "word": "RESURRECTION",
+      "tabooWords": ["Jesus", "rise", "dead", "alive", "tomb"],
+      "charadesHint": "lie flat then slowly rise up with arms wide open",
+      "passwordHint": "risen"
+    },
+    {
+      "id": "easter-008",
+      "word": "PALM SUNDAY",
+      "tabooWords": ["palm", "Sunday", "Jerusalem", "Jesus", "donkey"],
+      "charadesHint": "wave large palm leaves as someone rides past on a donkey",
+      "passwordHint": "palm"
+    },
+    {
+      "id": "easter-009",
+      "word": "GOOD FRIDAY",
+      "tabooWords": ["Friday", "cross", "crucifixion", "Jesus", "holy"],
+      "charadesHint": "bow your head solemnly on a very important Friday",
+      "passwordHint": "holy Friday"
+    },
+    {
+      "id": "easter-010",
+      "word": "CHICK",
+      "tabooWords": ["baby", "bird", "yellow", "hatch", "egg"],
+      "charadesHint": "crack out of an egg and cheep like a tiny fluffy chick",
+      "passwordHint": "hatching"
+    },
+    {
+      "id": "easter-011",
+      "word": "NEST",
+      "tabooWords": ["bird", "eggs", "twigs", "tree", "home"],
+      "charadesHint": "arrange twigs in a circle and sit protectively over eggs",
+      "passwordHint": "twigs"
+    },
+    {
+      "id": "easter-012",
+      "word": "BONNET",
+      "tabooWords": ["hat", "flowers", "Easter", "parade", "head"],
+      "charadesHint": "decorate a hat with flowers and parade it around",
+      "passwordHint": "Easter hat"
+    },
+    {
+      "id": "easter-013",
+      "word": "SIMNEL CAKE",
+      "tabooWords": ["cake", "marzipan", "fruit", "Easter", "balls"],
+      "charadesHint": "roll eleven marzipan balls and place them on a fruit cake",
+      "passwordHint": "marzipan"
+    },
+    {
+      "id": "easter-014",
+      "word": "CROSS",
+      "tabooWords": ["Jesus", "crucifixion", "wood", "symbol", "church"],
+      "charadesHint": "stretch arms out wide in the shape of a cross",
+      "passwordHint": "symbol"
+    },
+    {
+      "id": "easter-015",
+      "word": "SPRING",
+      "tabooWords": ["season", "flowers", "warm", "bloom", "new"],
+      "charadesHint": "skip through fields of blooming flowers in warm sunshine",
+      "passwordHint": "season"
+    },
+    {
+      "id": "easter-016",
+      "word": "CHOCOLATE",
+      "tabooWords": ["sweet", "cocoa", "brown", "Easter", "candy"],
+      "charadesHint": "unwrap and eat a large piece of something sweet and brown",
+      "passwordHint": "cocoa"
+    },
+    {
+      "id": "easter-017",
+      "word": "LAST SUPPER",
+      "tabooWords": ["Jesus", "disciples", "bread", "wine", "meal"],
+      "charadesHint": "sit at a long table breaking bread and sharing wine solemnly",
+      "passwordHint": "final meal"
+    },
+    {
+      "id": "easter-018",
+      "word": "TOMB",
+      "tabooWords": ["stone", "Jesus", "burial", "cave", "empty"],
+      "charadesHint": "roll away a huge stone from the entrance of a cave",
+      "passwordHint": "empty cave"
+    },
+    {
+      "id": "easter-019",
+      "word": "APOSTLE",
+      "tabooWords": ["disciple", "Jesus", "twelve", "follower", "saint"],
+      "charadesHint": "follow someone closely as one of twelve devoted followers",
+      "passwordHint": "disciple"
+    },
+    {
+      "id": "easter-020",
+      "word": "LENT",
+      "tabooWords": ["fast", "forty", "days", "sacrifice", "give up"],
+      "charadesHint": "push away food and shake your head for forty days",
+      "passwordHint": "forty days"
+    },
+    {
+      "id": "easter-021",
+      "word": "SHROVE TUESDAY",
+      "tabooWords": ["pancake", "Tuesday", "Lent", "flip", "batter"],
+      "charadesHint": "toss a pancake high in a pan before Lent begins",
+      "passwordHint": "pancake day"
+    },
+    {
+      "id": "easter-022",
+      "word": "BUTTERFLY",
+      "tabooWords": ["wings", "insect", "flutter", "colour", "spring"],
+      "charadesHint": "flutter your arms like delicate wings in the spring breeze",
+      "passwordHint": "flutter"
+    },
+    {
+      "id": "easter-023",
+      "word": "GARDEN",
+      "tabooWords": ["flowers", "outside", "green", "plants", "grow"],
+      "charadesHint": "kneel and plant seeds then watch things slowly grow",
+      "passwordHint": "bloom"
+    },
+    {
+      "id": "easter-024",
+      "word": "JUDAS",
+      "tabooWords": ["betray", "Jesus", "silver", "kiss", "disciple"],
+      "charadesHint": "greet someone with a kiss then look deeply guilty",
+      "passwordHint": "betrayal"
+    },
+    {
+      "id": "easter-025",
+      "word": "CROWN OF THORNS",
+      "tabooWords": ["thorns", "Jesus", "head", "crown", "pain"],
+      "charadesHint": "place a painful spiky crown on your head and wince",
+      "passwordHint": "thorns"
+    },
+    {
+      "id": "easter-026",
+      "word": "MARZIPAN",
+      "tabooWords": ["almond", "sweet", "paste", "cake", "sugar"],
+      "charadesHint": "mould a sweet almond paste into little shapes",
+      "passwordHint": "almond paste"
+    },
+    {
+      "id": "easter-027",
+      "word": "WILLOW",
+      "tabooWords": ["tree", "branches", "weeping", "spring", "water"],
+      "charadesHint": "droop your arms down like long weeping branches by a stream",
+      "passwordHint": "weeping tree"
+    },
+    {
+      "id": "easter-028",
+      "word": "PASSOVER",
+      "tabooWords": ["Jewish", "Exodus", "Moses", "seder", "Passover"],
+      "charadesHint": "sit at a ceremonial meal retelling the story of Exodus",
+      "passwordHint": "Jewish festival"
+    },
+    {
+      "id": "easter-029",
+      "word": "CREME EGG",
+      "tabooWords": ["Cadbury", "fondant", "chocolate", "egg", "cream"],
+      "charadesHint": "bite into a chocolate egg oozing with gooey fondant filling",
+      "passwordHint": "fondant"
+    },
+    {
+      "id": "easter-030",
+      "word": "ROBIN",
+      "tabooWords": ["bird", "red", "breast", "spring", "nest"],
+      "charadesHint": "puff out a bright red chest and chirp from a garden fence",
+      "passwordHint": "red breast"
+    },
+    {
+      "id": "easter-031",
+      "word": "TULIP",
+      "tabooWords": ["flower", "Dutch", "spring", "colourful", "bulb"],
+      "charadesHint": "cup hands into a closed bud then slowly open into full bloom",
+      "passwordHint": "spring bulb"
+    },
+    {
+      "id": "easter-032",
+      "word": "PROCESSION",
+      "tabooWords": ["march", "parade", "church", "holy", "walk"],
+      "charadesHint": "march solemnly in a line carrying candles through the streets",
+      "passwordHint": "holy march"
+    },
+    {
+      "id": "easter-033",
+      "word": "CARAMEL EGG",
+      "tabooWords": ["chocolate", "caramel", "egg", "sweet", "sticky"],
+      "charadesHint": "bite into an egg and pull out a long sticky caramel string",
+      "passwordHint": "sticky sweet"
+    },
+    {
+      "id": "easter-034",
+      "word": "HARE",
+      "tabooWords": ["rabbit", "fast", "ears", "wild", "spring"],
+      "charadesHint": "sprint across fields with enormous ears flattened back",
+      "passwordHint": "wild rabbit"
+    },
+    {
+      "id": "easter-035",
+      "word": "BLUEBELL",
+      "tabooWords": ["flower", "blue", "woodland", "bell", "spring"],
+      "charadesHint": "droop your hand like a tiny blue bell in a forest",
+      "passwordHint": "woodland flower"
+    },
+    {
+      "id": "easter-036",
+      "word": "VIGIL",
+      "tabooWords": ["watch", "night", "church", "Easter", "candle"],
+      "charadesHint": "hold a candle and keep watch through the night in silence",
+      "passwordHint": "night watch"
+    },
+    {
+      "id": "easter-037",
+      "word": "CONFETTI EGG",
+      "tabooWords": ["confetti", "egg", "party", "crack", "surprise"],
+      "charadesHint": "crack an egg over someone's head showering them in confetti",
+      "passwordHint": "surprise crack"
+    },
+    {
+      "id": "easter-038",
+      "word": "MAYPOLE",
+      "tabooWords": ["pole", "ribbon", "dance", "spring", "village"],
+      "charadesHint": "skip in a circle weaving coloured ribbons around a tall pole",
+      "passwordHint": "ribbon dance"
+    },
+    {
+      "id": "easter-039",
+      "word": "PRIMROSE",
+      "tabooWords": ["flower", "yellow", "spring", "pale", "hedgerow"],
+      "charadesHint": "point to tiny pale yellow flowers appearing along a hedgerow",
+      "passwordHint": "pale yellow flower"
+    },
+    {
+      "id": "easter-040",
+      "word": "DISCIPLES",
+      "tabooWords": ["twelve", "Jesus", "follow", "apostle", "group"],
+      "charadesHint": "follow closely behind a leader as one of a group of twelve",
+      "passwordHint": "twelve followers"
+    },
+    {
+      "id": "easter-041",
+      "word": "BREAD",
+      "tabooWords": ["loaf", "wheat", "bake", "dough", "communion"],
+      "charadesHint": "break a loaf apart and share it around the table",
+      "passwordHint": "loaf"
+    },
+    {
+      "id": "easter-042",
+      "word": "WINE",
+      "tabooWords": ["grape", "red", "drink", "communion", "Jesus"],
+      "charadesHint": "pour and raise a goblet of deep red wine",
+      "passwordHint": "goblet"
+    },
+    {
+      "id": "easter-043",
+      "word": "SUNRISE SERVICE",
+      "tabooWords": ["dawn", "church", "morning", "Easter", "service"],
+      "charadesHint": "gather outdoors at dawn and watch the sun rise over the horizon",
+      "passwordHint": "dawn church"
+    },
+    {
+      "id": "easter-044",
+      "word": "PETER",
+      "tabooWords": ["apostle", "Jesus", "deny", "rock", "fisherman"],
+      "charadesHint": "deny knowing someone three times before a cockerel crows",
+      "passwordHint": "rock"
+    },
+    {
+      "id": "easter-045",
+      "word": "CRESS",
+      "tabooWords": ["grow", "seed", "egg", "garden", "green"],
+      "charadesHint": "plant seeds in an eggshell and watch tiny green shoots grow",
+      "passwordHint": "eggshell garden"
+    },
+    {
+      "id": "easter-046",
+      "word": "MIRACLE",
+      "tabooWords": ["magic", "Jesus", "impossible", "divine", "wonder"],
+      "charadesHint": "look amazed as something completely impossible happens before you",
+      "passwordHint": "divine wonder"
+    },
+    {
+      "id": "easter-047",
+      "word": "STAINED GLASS",
+      "tabooWords": ["church", "colour", "window", "light", "Jesus"],
+      "charadesHint": "hold up coloured panels as light streams through them in a church",
+      "passwordHint": "coloured window"
+    },
+    {
+      "id": "easter-048",
+      "word": "FOIL WRAPPER",
+      "tabooWords": ["chocolate", "shiny", "egg", "unwrap", "metallic"],
+      "charadesHint": "carefully peel off a shiny metallic wrapper from an Easter egg",
+      "passwordHint": "shiny wrap"
+    },
+    {
+      "id": "easter-049",
+      "word": "CHURCH BELLS",
+      "tabooWords": ["ring", "church", "Sunday", "bell", "call"],
+      "charadesHint": "pull a rope repeatedly as huge bells ring out on Sunday morning",
+      "passwordHint": "ring"
+    },
+    {
+      "id": "easter-050",
+      "word": "FERTILITY",
+      "tabooWords": ["spring", "life", "eggs", "new", "birth"],
+      "charadesHint": "gesture to all new life blooming — eggs hatching, flowers growing",
+      "passwordHint": "new life"
+    },
+    {
+      "id": "easter-051",
+      "word": "BASKET",
+      "tabooWords": ["carry", "eggs", "wicker", "Easter", "gift"],
+      "charadesHint": "swing a wicker basket full of coloured eggs on your arm",
+      "passwordHint": "wicker"
+    },
+    {
+      "id": "easter-052",
+      "word": "HOLLOW CHOCOLATE",
+      "tabooWords": ["inside", "empty", "chocolate", "egg", "hollow"],
+      "charadesHint": "tap an egg and look surprised that it is completely empty inside",
+      "passwordHint": "empty inside"
+    },
+    {
+      "id": "easter-053",
+      "word": "BLOSSOM",
+      "tabooWords": ["flower", "tree", "pink", "spring", "bloom"],
+      "charadesHint": "stretch arms wide as pink petals burst open on every branch",
+      "passwordHint": "pink tree"
+    },
+    {
+      "id": "easter-054",
+      "word": "ROAST DINNER",
+      "tabooWords": ["lamb", "Sunday", "roast", "potatoes", "meal"],
+      "charadesHint": "carve a roast lamb surrounded by potatoes and vegetables",
+      "passwordHint": "Sunday roast"
+    },
+    {
+      "id": "easter-055",
+      "word": "LONG WEEKEND",
+      "tabooWords": ["holiday", "four days", "bank holiday", "Easter", "off"],
+      "charadesHint": "cheer loudly pointing at a calendar showing four days off work",
+      "passwordHint": "bank holiday"
+    },
+    {
+      "id": "easter-056",
+      "word": "EGG AND SPOON RACE",
+      "tabooWords": ["race", "spoon", "egg", "balance", "run"],
+      "charadesHint": "carefully balance an egg on a spoon and race without dropping it",
+      "passwordHint": "balance race"
+    },
+    {
+      "id": "easter-057",
+      "word": "EGG ROLLING",
+      "tabooWords": ["roll", "hill", "egg", "competition", "grass"],
+      "charadesHint": "send a hard-boiled egg rolling down a grassy hill",
+      "passwordHint": "roll down hill"
+    },
+    {
+      "id": "easter-058",
+      "word": "ANGEL",
+      "tabooWords": ["heaven", "wings", "halo", "tomb", "messenger"],
+      "charadesHint": "stand at an empty tomb with glowing wings and a golden halo",
+      "passwordHint": "messenger"
+    },
+    {
+      "id": "easter-059",
+      "word": "MARY MAGDALENE",
+      "tabooWords": ["Mary", "Jesus", "tomb", "woman", "disciple"],
+      "charadesHint": "arrive at an empty tomb weeping and then look up in disbelief",
+      "passwordHint": "first witness"
+    },
+    {
+      "id": "easter-060",
+      "word": "PAINTED EGGS",
+      "tabooWords": ["colour", "decorate", "dye", "eggs", "art"],
+      "charadesHint": "carefully paint intricate patterns and colours onto eggshells",
+      "passwordHint": "decorated"
+    }
+  ]
+}

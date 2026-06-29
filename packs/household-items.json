@@ -1,0 +1,431 @@
+{
+  "id": "household-items",
+  "name": "Household Items",
+  "category": "Lifestyle",
+  "description": "Everyday objects found around the home",
+  "difficulty": "Easy",
+  "tags": ["home", "objects", "family-friendly", "everyday"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "household-001",
+      "word": "VACUUM CLEANER",
+      "tabooWords": ["hoover", "suck", "carpet", "clean", "dust"],
+      "charadesHint": "push a loud machine back and forth across the floor",
+      "passwordHint": "hoover"
+    },
+    {
+      "id": "household-002",
+      "word": "TOASTER",
+      "tabooWords": ["bread", "toast", "pop", "kitchen", "slot"],
+      "charadesHint": "drop slices in and jump when they pop up",
+      "passwordHint": "pop up"
+    },
+    {
+      "id": "household-003",
+      "word": "IRONING BOARD",
+      "tabooWords": ["iron", "clothes", "flat", "board", "press"],
+      "charadesHint": "unfold a narrow board and press an iron back and forth",
+      "passwordHint": "pressing"
+    },
+    {
+      "id": "household-004",
+      "word": "WASHING MACHINE",
+      "tabooWords": ["clothes", "spin", "wash", "laundry", "drum"],
+      "charadesHint": "load clothes into a front door and spin your arm in a circle",
+      "passwordHint": "spin cycle"
+    },
+    {
+      "id": "household-005",
+      "word": "KETTLE",
+      "tabooWords": ["boil", "water", "tea", "steam", "spout"],
+      "charadesHint": "fill it up, flick a switch, and wait for the click",
+      "passwordHint": "boil"
+    },
+    {
+      "id": "household-006",
+      "word": "TOILET PLUNGER",
+      "tabooWords": ["toilet", "blocked", "plunge", "push", "rubber"],
+      "charadesHint": "plunge up and down furiously into a blocked toilet",
+      "passwordHint": "blocked"
+    },
+    {
+      "id": "household-007",
+      "word": "BOOKSHELF",
+      "tabooWords": ["books", "shelf", "wood", "library", "read"],
+      "charadesHint": "mime arranging rows of books on a tall wooden structure",
+      "passwordHint": "books"
+    },
+    {
+      "id": "household-008",
+      "word": "LAUNDRY BASKET",
+      "tabooWords": ["clothes", "dirty", "wash", "hamper", "basket"],
+      "charadesHint": "carry a heavy overflowing basket of dirty clothes",
+      "passwordHint": "dirty clothes"
+    },
+    {
+      "id": "household-009",
+      "word": "SHOWER CURTAIN",
+      "tabooWords": ["shower", "bath", "waterproof", "rings", "curtain"],
+      "charadesHint": "pull a curtain across on rings then shower behind it",
+      "passwordHint": "shower"
+    },
+    {
+      "id": "household-010",
+      "word": "DOORBELL",
+      "tabooWords": ["ring", "door", "button", "visitor", "chime"],
+      "charadesHint": "press a small button and mime a chiming sound",
+      "passwordHint": "ring ring"
+    },
+    {
+      "id": "household-011",
+      "word": "COAT HANGER",
+      "tabooWords": ["clothes", "hang", "wire", "wardrobe", "hook"],
+      "charadesHint": "hook a triangular frame and hang a jacket on it",
+      "passwordHint": "hang"
+    },
+    {
+      "id": "household-012",
+      "word": "BLENDER",
+      "tabooWords": ["mix", "smoothie", "blade", "spin", "liquid"],
+      "charadesHint": "drop fruit in a jug, press the button, and mime a loud whirring",
+      "passwordHint": "smoothie"
+    },
+    {
+      "id": "household-013",
+      "word": "CANDLE",
+      "tabooWords": ["flame", "wax", "light", "wick", "burn"],
+      "charadesHint": "light a wick and watch wax drip in the flickering glow",
+      "passwordHint": "flicker"
+    },
+    {
+      "id": "household-014",
+      "word": "REMOTE CONTROL",
+      "tabooWords": ["TV", "buttons", "channel", "click", "sofa"],
+      "charadesHint": "flop on the sofa and frantically click through channels",
+      "passwordHint": "channel surf"
+    },
+    {
+      "id": "household-015",
+      "word": "BATH TOWEL",
+      "tabooWords": ["dry", "bath", "shower", "wrap", "fluffy"],
+      "charadesHint": "step out of the shower and wrap a large fluffy cloth around you",
+      "passwordHint": "dry off"
+    },
+    {
+      "id": "household-016",
+      "word": "DUSTPAN AND BRUSH",
+      "tabooWords": ["sweep", "dust", "floor", "clean", "brush"],
+      "charadesHint": "sweep crumbs into a small pan with a tiny brush",
+      "passwordHint": "sweep"
+    },
+    {
+      "id": "household-017",
+      "word": "ALARM CLOCK",
+      "tabooWords": ["wake", "ring", "morning", "snooze", "time"],
+      "charadesHint": "sleep deeply then jolt awake at a piercing ringing noise",
+      "passwordHint": "snooze"
+    },
+    {
+      "id": "household-018",
+      "word": "TOILET BRUSH",
+      "tabooWords": ["toilet", "clean", "scrub", "bathroom", "brush"],
+      "charadesHint": "scrub vigorously around the inside of a toilet bowl",
+      "passwordHint": "scrub"
+    },
+    {
+      "id": "household-019",
+      "word": "DOORMAT",
+      "tabooWords": ["feet", "wipe", "door", "entrance", "welcome"],
+      "charadesHint": "stomp and wipe your muddy feet at the front door",
+      "passwordHint": "welcome"
+    },
+    {
+      "id": "household-020",
+      "word": "CLOTHES PEG",
+      "tabooWords": ["hang", "washing", "line", "clip", "dry"],
+      "charadesHint": "clip small fasteners along a washing line between sheets",
+      "passwordHint": "washing line"
+    },
+    {
+      "id": "household-021",
+      "word": "EXTENSION LEAD",
+      "tabooWords": ["plug", "socket", "electric", "cable", "power"],
+      "charadesHint": "uncoil a long cable and plug multiple devices into one block",
+      "passwordHint": "multi-plug"
+    },
+    {
+      "id": "household-022",
+      "word": "MIRROR",
+      "tabooWords": ["reflect", "look", "face", "glass", "image"],
+      "charadesHint": "stare at yourself and primp in a reflective surface",
+      "passwordHint": "reflection"
+    },
+    {
+      "id": "household-023",
+      "word": "BREADBIN",
+      "tabooWords": ["bread", "loaf", "kitchen", "store", "container"],
+      "charadesHint": "lift a lid and pull out a fresh loaf of bread",
+      "passwordHint": "loaf"
+    },
+    {
+      "id": "household-024",
+      "word": "OVEN GLOVES",
+      "tabooWords": ["hot", "oven", "protect", "heat", "bake"],
+      "charadesHint": "put on padded mitts and pull a hot tray from the oven",
+      "passwordHint": "hot tray"
+    },
+    {
+      "id": "household-025",
+      "word": "FRUIT BOWL",
+      "tabooWords": ["fruit", "bowl", "kitchen", "apple", "banana"],
+      "charadesHint": "arrange apples and bananas in a bowl on the counter",
+      "passwordHint": "fruit"
+    },
+    {
+      "id": "household-026",
+      "word": "TOILET ROLL",
+      "tabooWords": ["paper", "toilet", "bathroom", "wipe", "roll"],
+      "charadesHint": "unroll an endless stream of paper in the bathroom",
+      "passwordHint": "loo roll"
+    },
+    {
+      "id": "household-027",
+      "word": "WELCOME MAT",
+      "tabooWords": ["door", "mat", "entrance", "feet", "greeting"],
+      "charadesHint": "gesture grandly to a mat at your front door saying welcome",
+      "passwordHint": "entrance"
+    },
+    {
+      "id": "household-028",
+      "word": "PIGGY BANK",
+      "tabooWords": ["save", "money", "coins", "pig", "slot"],
+      "charadesHint": "drop coins one by one into a slot on top of a ceramic pig",
+      "passwordHint": "save coins"
+    },
+    {
+      "id": "household-029",
+      "word": "LAVA LAMP",
+      "tabooWords": ["wax", "glow", "blob", "light", "sixties"],
+      "charadesHint": "watch coloured blobs float slowly up and down in a glowing tube",
+      "passwordHint": "blob"
+    },
+    {
+      "id": "household-030",
+      "word": "FIRE EXTINGUISHER",
+      "tabooWords": ["fire", "spray", "red", "emergency", "foam"],
+      "charadesHint": "pull a pin, point a nozzle, and blast foam at a fire",
+      "passwordHint": "fire"
+    },
+    {
+      "id": "household-031",
+      "word": "CURTAINS",
+      "tabooWords": ["window", "fabric", "draw", "light", "hang"],
+      "charadesHint": "pull two fabric panels across a window to block the light",
+      "passwordHint": "draw"
+    },
+    {
+      "id": "household-032",
+      "word": "SOFA",
+      "tabooWords": ["sit", "couch", "living room", "cushion", "lounge"],
+      "charadesHint": "sink deeply into a soft cushioned seat in the living room",
+      "passwordHint": "couch"
+    },
+    {
+      "id": "household-033",
+      "word": "STEPLADDER",
+      "tabooWords": ["climb", "step", "height", "fold", "reach"],
+      "charadesHint": "unfold an A-frame and carefully climb each step",
+      "passwordHint": "climb"
+    },
+    {
+      "id": "household-034",
+      "word": "BREAD KNIFE",
+      "tabooWords": ["bread", "slice", "serrated", "knife", "cut"],
+      "charadesHint": "saw back and forth through a loaf with a jagged-edged blade",
+      "passwordHint": "serrated"
+    },
+    {
+      "id": "household-035",
+      "word": "COLANDER",
+      "tabooWords": ["pasta", "drain", "holes", "strainer", "bowl"],
+      "charadesHint": "pour steaming pasta into a holey bowl over the sink",
+      "passwordHint": "drain pasta"
+    },
+    {
+      "id": "household-036",
+      "word": "ROLLING PIN",
+      "tabooWords": ["dough", "roll", "bake", "flat", "pastry"],
+      "charadesHint": "roll a heavy cylinder back and forth over flat dough",
+      "passwordHint": "dough"
+    },
+    {
+      "id": "household-037",
+      "word": "RADIATOR",
+      "tabooWords": ["heat", "warm", "metal", "pipes", "central heating"],
+      "charadesHint": "feel radiating warmth from a ribbed metal panel on the wall",
+      "passwordHint": "central heating"
+    },
+    {
+      "id": "household-038",
+      "word": "LIGHT SWITCH",
+      "tabooWords": ["light", "on", "off", "wall", "electric"],
+      "charadesHint": "flick a small panel on the wall to turn lights on and off",
+      "passwordHint": "flick"
+    },
+    {
+      "id": "household-039",
+      "word": "FRIDGE MAGNET",
+      "tabooWords": ["fridge", "magnet", "souvenir", "stick", "kitchen"],
+      "charadesHint": "press a tiny decorative souvenir onto the fridge door",
+      "passwordHint": "souvenir"
+    },
+    {
+      "id": "household-040",
+      "word": "KITCHEN SCALES",
+      "tabooWords": ["weigh", "bake", "measure", "grams", "balance"],
+      "charadesHint": "carefully spoon flour onto a platform and watch the number rise",
+      "passwordHint": "weigh"
+    },
+    {
+      "id": "household-041",
+      "word": "TELEPHONE",
+      "tabooWords": ["call", "ring", "dial", "speak", "receiver"],
+      "charadesHint": "hold a receiver to your ear and dial numbers with a finger",
+      "passwordHint": "dial"
+    },
+    {
+      "id": "household-042",
+      "word": "MEDICINE CABINET",
+      "tabooWords": ["pills", "bathroom", "mirror", "medicine", "cabinet"],
+      "charadesHint": "open a mirrored bathroom cabinet and rummage for tablets",
+      "passwordHint": "pills"
+    },
+    {
+      "id": "household-043",
+      "word": "UMBRELLA STAND",
+      "tabooWords": ["umbrella", "hallway", "stand", "entrance", "wet"],
+      "charadesHint": "drip wet umbrellas into a tall container by the front door",
+      "passwordHint": "hallway"
+    },
+    {
+      "id": "household-044",
+      "word": "SPICE RACK",
+      "tabooWords": ["spices", "jars", "kitchen", "shelf", "seasoning"],
+      "charadesHint": "select tiny jars from a rack and sniff each one",
+      "passwordHint": "spices"
+    },
+    {
+      "id": "household-045",
+      "word": "CLOTHES AIRER",
+      "tabooWords": ["dry", "clothes", "fold", "indoor", "rack"],
+      "charadesHint": "unfold a freestanding rack and drape wet clothes over each bar",
+      "passwordHint": "dry clothes"
+    },
+    {
+      "id": "household-046",
+      "word": "BATH MAT",
+      "tabooWords": ["bath", "floor", "slip", "wet", "mat"],
+      "charadesHint": "step carefully onto a soft mat after getting out of the bath",
+      "passwordHint": "non-slip"
+    },
+    {
+      "id": "household-047",
+      "word": "WHISK",
+      "tabooWords": ["egg", "beat", "mix", "bake", "wire"],
+      "charadesHint": "beat eggs furiously in a bowl with a wire loop tool",
+      "passwordHint": "beat eggs"
+    },
+    {
+      "id": "household-048",
+      "word": "WINDOW BLIND",
+      "tabooWords": ["window", "pull", "roll", "light", "shade"],
+      "charadesHint": "pull a cord to lower a slatted shade over the window",
+      "passwordHint": "shade"
+    },
+    {
+      "id": "household-049",
+      "word": "MOUSETRAP",
+      "tabooWords": ["mouse", "snap", "bait", "cheese", "spring"],
+      "charadesHint": "carefully set a spring and place cheese as bait then jump back",
+      "passwordHint": "snap"
+    },
+    {
+      "id": "household-050",
+      "word": "PEELER",
+      "tabooWords": ["peel", "vegetable", "skin", "potato", "blade"],
+      "charadesHint": "drag a blade down a potato to strip the skin in long curls",
+      "passwordHint": "skin"
+    },
+    {
+      "id": "household-051",
+      "word": "SAUCEPAN",
+      "tabooWords": ["cook", "boil", "pot", "handle", "hob"],
+      "charadesHint": "fill a pan, place it on the hob, and stir with a spoon",
+      "passwordHint": "hob"
+    },
+    {
+      "id": "household-052",
+      "word": "CHOPPING BOARD",
+      "tabooWords": ["chop", "knife", "wood", "vegetables", "kitchen"],
+      "charadesHint": "place vegetables on a flat board and chop rapidly",
+      "passwordHint": "chop"
+    },
+    {
+      "id": "household-053",
+      "word": "TIN OPENER",
+      "tabooWords": ["tin", "can", "open", "blade", "turn"],
+      "charadesHint": "clamp a tool onto a tin lid and crank the handle round",
+      "passwordHint": "can"
+    },
+    {
+      "id": "household-054",
+      "word": "PICTURE FRAME",
+      "tabooWords": ["photo", "wall", "hang", "frame", "picture"],
+      "charadesHint": "hold a rectangular frame around your face and smile",
+      "passwordHint": "photo"
+    },
+    {
+      "id": "household-055",
+      "word": "MAGNIFYING GLASS",
+      "tabooWords": ["lens", "big", "look", "detective", "zoom"],
+      "charadesHint": "hold a lens to one eye and peer at tiny things on the floor",
+      "passwordHint": "detective lens"
+    },
+    {
+      "id": "household-056",
+      "word": "LADLE",
+      "tabooWords": ["soup", "scoop", "spoon", "big", "serve"],
+      "charadesHint": "dip a huge deep spoon into a pot and serve into a bowl",
+      "passwordHint": "soup scoop"
+    },
+    {
+      "id": "household-057",
+      "word": "OVEN",
+      "tabooWords": ["bake", "cook", "hot", "roast", "kitchen"],
+      "charadesHint": "open a heavy door, slide in a tray, and wait for the timer",
+      "passwordHint": "bake"
+    },
+    {
+      "id": "household-058",
+      "word": "HAND SANITISER",
+      "tabooWords": ["clean", "hands", "gel", "pump", "germ"],
+      "charadesHint": "pump gel into your palm and rub hands together vigorously",
+      "passwordHint": "gel hands"
+    },
+    {
+      "id": "household-059",
+      "word": "SOAP DISH",
+      "tabooWords": ["soap", "bathroom", "hold", "bar", "tray"],
+      "charadesHint": "place a wet bar of soap into a small flat dish by the sink",
+      "passwordHint": "soap"
+    },
+    {
+      "id": "household-060",
+      "word": "CLOCK",
+      "tabooWords": ["time", "tick", "wall", "hands", "hour"],
+      "charadesHint": "tap your wrist and point to where hands move in a circle",
+      "passwordHint": "tick tock"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "harry-potter",
+  "name": "Harry Potter",
+  "category": "Entertainment",
+  "description": "Spells, characters, creatures, and places from the wizarding world",
+  "difficulty": "Medium",
+  "tags": ["harry potter", "wizards", "magic", "hogwarts", "fantasy"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "hp-001",
+      "word": "HARRY POTTER",
+      "tabooWords": ["glasses", "scar", "lightning", "chosen", "wizard"],
+      "charadesHint": "push up round glasses and point to a lightning bolt scar",
+      "passwordHint": "lightning scar"
+    },
+    {
+      "id": "hp-002",
+      "word": "HERMIONE GRANGER",
+      "tabooWords": ["Hermione", "clever", "books", "bushy", "mudblood"],
+      "charadesHint": "shoot a hand up first and recite the answer with perfect confidence",
+      "passwordHint": "hand up first"
+    },
+    {
+      "id": "hp-003",
+      "word": "RON WEASLEY",
+      "tabooWords": ["Ron", "red", "hair", "Weasley", "chess"],
+      "charadesHint": "shrug comically with a freckled red-headed grin",
+      "passwordHint": "ginger Weasley"
+    },
+    {
+      "id": "hp-004",
+      "word": "DUMBLEDORE",
+      "tabooWords": ["headmaster", "wise", "beard", "wand", "phoenix"],
+      "charadesHint": "stroke an enormously long silver beard with great wisdom",
+      "passwordHint": "long beard"
+    },
+    {
+      "id": "hp-005",
+      "word": "VOLDEMORT",
+      "tabooWords": ["Dark Lord", "snake", "nose", "evil", "He Who Must"],
+      "charadesHint": "touch the tip of your nose — or point to where one should be",
+      "passwordHint": "no nose"
+    },
+    {
+      "id": "hp-006",
+      "word": "SNAPE",
+      "tabooWords": ["potions", "Slytherin", "greasy", "teacher", "Lily"],
+      "charadesHint": "sweep dramatically in a black cloak and whisper always",
+      "passwordHint": "always"
+    },
+    {
+      "id": "hp-007",
+      "word": "HAGRID",
+      "tabooWords": ["giant", "Hogwarts", "keeper", "beard", "Norbert"],
+      "charadesHint": "crouch down and mime being enormous with a wild beard and umbrella",
+      "passwordHint": "enormous"
+    },
+    {
+      "id": "hp-008",
+      "word": "DRACO MALFOY",
+      "tabooWords": ["Slytherin", "blonde", "bully", "pure", "blood"],
+      "charadesHint": "sneer with platinum blonde hair and flash a Slytherin badge",
+      "passwordHint": "blonde sneer"
+    },
+    {
+      "id": "hp-009",
+      "word": "DOBBY",
+      "tabooWords": ["elf", "sock", "free", "master", "tennis"],
+      "charadesHint": "grovel gratefully then gasp as you receive a sock and go free",
+      "passwordHint": "free elf"
+    },
+    {
+      "id": "hp-010",
+      "word": "NEVILLE LONGBOTTOM",
+      "tabooWords": ["Neville", "plant", "clumsy", "brave", "Trevor"],
+      "charadesHint": "trip over your own feet then draw a sword against a snake",
+      "passwordHint": "plant lover"
+    },
+    {
+      "id": "hp-011",
+      "word": "HOGWARTS",
+      "tabooWords": ["castle", "school", "magic", "Scotland", "witchcraft"],
+      "charadesHint": "push open enormous castle doors and stare at a moving staircase",
+      "passwordHint": "castle school"
+    },
+    {
+      "id": "hp-012",
+      "word": "QUIDDITCH",
+      "tabooWords": ["broom", "fly", "sport", "snitch", "Quaffle"],
+      "charadesHint": "mount a broomstick and soar while chasing a tiny golden ball",
+      "passwordHint": "broomstick sport"
+    },
+    {
+      "id": "hp-013",
+      "word": "GOLDEN SNITCH",
+      "tabooWords": ["gold", "wings", "catch", "Quidditch", "small"],
+      "charadesHint": "dart your eyes and snatch a tiny winged ball from the air",
+      "passwordHint": "golden winged ball"
+    },
+    {
+      "id": "hp-014",
+      "word": "SORTING HAT",
+      "tabooWords": ["hat", "sort", "house", "Gryffindor", "Slytherin"],
+      "charadesHint": "lower an old hat over your eyes and wait for it to shout a house",
+      "passwordHint": "house sorter"
+    },
+    {
+      "id": "hp-015",
+      "word": "EXPELLIARMUS",
+      "tabooWords": ["spell", "wand", "disarm", "defence", "Harry"],
+      "charadesHint": "point a wand and flick to send someone's wand flying away",
+      "passwordHint": "disarming spell"
+    },
+    {
+      "id": "hp-016",
+      "word": "EXPECTO PATRONUM",
+      "tabooWords": ["spell", "Patronus", "dementor", "silver", "charm"],
+      "charadesHint": "concentrate hard and send a silver animal charging at a dementor",
+      "passwordHint": "Patronus charm"
+    },
+    {
+      "id": "hp-017",
+      "word": "DEMENTOR",
+      "tabooWords": ["soul", "dark", "cloak", "happiness", "Azkaban"],
+      "charadesHint": "glide with arms out and drain all happiness from the room",
+      "passwordHint": "soul sucker"
+    },
+    {
+      "id": "hp-018",
+      "word": "PLATFORM NINE AND THREE QUARTERS",
+      "tabooWords": [
+        "train",
+        "wall",
+        "King's Cross",
+        "Hogwarts Express",
+        "trolley"
+      ],
+      "charadesHint": "run a trolley at full speed straight into a solid wall",
+      "passwordHint": "hidden platform"
+    },
+    {
+      "id": "hp-019",
+      "word": "BUTTERBEER",
+      "tabooWords": [
+        "drink",
+        "Hogsmeade",
+        "Three Broomsticks",
+        "butter",
+        "foam"
+      ],
+      "charadesHint": "sip a foamy warm butterscotch drink at a cosy pub in the snow",
+      "passwordHint": "foam drink"
+    },
+    {
+      "id": "hp-020",
+      "word": "DIAGON ALLEY",
+      "tabooWords": ["shopping", "wand", "Gringotts", "wizard", "London"],
+      "charadesHint": "browse magical shops through a brick wall entrance in London",
+      "passwordHint": "wizard shops"
+    },
+    {
+      "id": "hp-021",
+      "word": "GRINGOTTS",
+      "tabooWords": ["bank", "goblin", "gold", "vault", "dragon"],
+      "charadesHint": "ride a cart deep underground past a fire-breathing dragon",
+      "passwordHint": "goblin bank"
+    },
+    {
+      "id": "hp-022",
+      "word": "HORCRUX",
+      "tabooWords": ["soul", "dark", "split", "Voldemort", "object"],
+      "charadesHint": "hide a fragment of your soul inside an ordinary object",
+      "passwordHint": "soul fragment"
+    },
+    {
+      "id": "hp-023",
+      "word": "MARAUDERS MAP",
+      "tabooWords": ["map", "mischief", "managed", "footsteps", "secret"],
+      "charadesHint": "unfold a map showing every moving person in Hogwarts",
+      "passwordHint": "mischief managed"
+    },
+    {
+      "id": "hp-024",
+      "word": "INVISIBILITY CLOAK",
+      "tabooWords": ["invisible", "cloak", "hide", "Harry", "Deathly"],
+      "charadesHint": "pull a shimmering cloak over your body and vanish completely",
+      "passwordHint": "vanish"
+    },
+    {
+      "id": "hp-025",
+      "word": "ELDER WAND",
+      "tabooWords": [
+        "powerful",
+        "wand",
+        "Deathly Hallows",
+        "unbeatable",
+        "master"
+      ],
+      "charadesHint": "brandish the most powerful wand in existence",
+      "passwordHint": "most powerful wand"
+    },
+    {
+      "id": "hp-026",
+      "word": "RESURRECTION STONE",
+      "tabooWords": ["dead", "stone", "Deathly", "bring back", "Hallows"],
+      "charadesHint": "turn a stone three times and see the dead shimmer before you",
+      "passwordHint": "turn three times"
+    },
+    {
+      "id": "hp-027",
+      "word": "CHAMBER OF SECRETS",
+      "tabooWords": ["basilisk", "Tom Riddle", "diary", "chamber", "heir"],
+      "charadesHint": "descend through a sink pipe into a dark underground chamber",
+      "passwordHint": "basilisk lair"
+    },
+    {
+      "id": "hp-028",
+      "word": "BASILISK",
+      "tabooWords": ["snake", "eyes", "kill", "Slytherin", "monster"],
+      "charadesHint": "slither as an enormous snake and avoid looking anyone in the eyes",
+      "passwordHint": "deadly stare snake"
+    },
+    {
+      "id": "hp-029",
+      "word": "LUNA LOVEGOOD",
+      "tabooWords": [
+        "Loony",
+        "spectrespecs",
+        "Ravenclaw",
+        "dreamy",
+        "creatures"
+      ],
+      "charadesHint": "float dreamily wearing enormous colourful spectacles",
+      "passwordHint": "dreamy Ravenclaw"
+    },
+    {
+      "id": "hp-030",
+      "word": "FRED AND GEORGE WEASLEY",
+      "tabooWords": ["twins", "Weasley", "joke", "shop", "prank"],
+      "charadesHint": "finish each other's sentences and produce a prank from your robes",
+      "passwordHint": "Weasley twins"
+    },
+    {
+      "id": "hp-031",
+      "word": "MOANING MYRTLE",
+      "tabooWords": ["ghost", "bathroom", "cry", "toilet", "Myrtle"],
+      "charadesHint": "wail miserably and dive into a toilet",
+      "passwordHint": "bathroom ghost"
+    },
+    {
+      "id": "hp-032",
+      "word": "PEEVES",
+      "tabooWords": ["poltergeist", "Hogwarts", "chaos", "ghost", "mischief"],
+      "charadesHint": "zoom around causing chaos and lobbing water balloons",
+      "passwordHint": "poltergeist"
+    },
+    {
+      "id": "hp-033",
+      "word": "PROFESSOR MCGONAGALL",
+      "tabooWords": [
+        "transfiguration",
+        "cat",
+        "Scottish",
+        "strict",
+        "Gryffindor"
+      ],
+      "charadesHint": "transform from a cat into a stern Scottish witch",
+      "passwordHint": "cat transfiguration"
+    },
+    {
+      "id": "hp-034",
+      "word": "THESTRALS",
+      "tabooWords": ["invisible", "horse", "death", "skeletal", "winged"],
+      "charadesHint": "stroke a creature only you can see after witnessing death",
+      "passwordHint": "only visible after death"
+    },
+    {
+      "id": "hp-035",
+      "word": "HIPPOGRIFF",
+      "tabooWords": ["Buckbeak", "bow", "half eagle", "half horse", "ride"],
+      "charadesHint": "bow respectfully before mounting a half-eagle half-horse creature",
+      "passwordHint": "bow first"
+    },
+    {
+      "id": "hp-036",
+      "word": "MANDRAKE",
+      "tabooWords": ["plant", "scream", "earmuffs", "greenhouse", "Herbology"],
+      "charadesHint": "put on earmuffs and pull a screaming plant from the ground",
+      "passwordHint": "screaming plant"
+    },
+    {
+      "id": "hp-037",
+      "word": "FORBIDDEN FOREST",
+      "tabooWords": ["forest", "dark", "creatures", "centaur", "Hogwarts"],
+      "charadesHint": "tiptoe nervously into a dark forest full of dangerous creatures",
+      "passwordHint": "dark forest"
+    },
+    {
+      "id": "hp-038",
+      "word": "AZKABAN",
+      "tabooWords": ["prison", "dementor", "dark", "wizard", "escape"],
+      "charadesHint": "sit in a cold dark cell having all happiness sucked away",
+      "passwordHint": "wizard prison"
+    },
+    {
+      "id": "hp-039",
+      "word": "BELLATRIX LESTRANGE",
+      "tabooWords": ["Death Eater", "crazy", "Azkaban", "black", "Voldemort"],
+      "charadesHint": "cackle maniacally with wild hair as Voldemort's most devoted follower",
+      "passwordHint": "crazy Death Eater"
+    },
+    {
+      "id": "hp-040",
+      "word": "SIRIUS BLACK",
+      "tabooWords": ["godfather", "Azkaban", "dog", "innocent", "prisoner"],
+      "charadesHint": "break out of prison as a large dog to find your godson",
+      "passwordHint": "godfather dog"
+    },
+    {
+      "id": "hp-041",
+      "word": "LUPIN",
+      "tabooWords": ["werewolf", "professor", "Defence", "moon", "chocolate"],
+      "charadesHint": "hand out chocolate then howl at the full moon",
+      "passwordHint": "werewolf professor"
+    },
+    {
+      "id": "hp-042",
+      "word": "PETER PETTIGREW",
+      "tabooWords": ["rat", "Scabbers", "Wormtail", "traitor", "finger"],
+      "charadesHint": "scurry like a rat hiding a missing finger",
+      "passwordHint": "Scabbers the rat"
+    },
+    {
+      "id": "hp-043",
+      "word": "PENSIEVE",
+      "tabooWords": ["memory", "basin", "thoughts", "silver", "Dumbledore"],
+      "charadesHint": "pull a silver thread from your temple and lower it into a stone basin",
+      "passwordHint": "memory basin"
+    },
+    {
+      "id": "hp-044",
+      "word": "POLYJUICE POTION",
+      "tabooWords": ["disguise", "transform", "potion", "hair", "impersonate"],
+      "charadesHint": "gulp a disgusting potion and slowly morph into someone else",
+      "passwordHint": "shapeshifting potion"
+    },
+    {
+      "id": "hp-045",
+      "word": "TRIWIZARD TOURNAMENT",
+      "tabooWords": ["three", "champions", "tasks", "Goblet", "Fire"],
+      "charadesHint": "pull your name from a flaming goblet to compete in three deadly tasks",
+      "passwordHint": "Goblet of Fire"
+    },
+    {
+      "id": "hp-046",
+      "word": "FELIX FELICIS",
+      "tabooWords": ["luck", "potion", "golden", "liquid", "Felix"],
+      "charadesHint": "take a sip of gold liquid and stroll through the day with perfect luck",
+      "passwordHint": "liquid luck"
+    },
+    {
+      "id": "hp-047",
+      "word": "FLOO POWDER",
+      "tabooWords": ["fireplace", "travel", "green", "powder", "floo"],
+      "charadesHint": "throw green powder into a fireplace, step in, and state your destination",
+      "passwordHint": "fireplace travel"
+    },
+    {
+      "id": "hp-048",
+      "word": "ACCIO",
+      "tabooWords": ["summon", "spell", "fetch", "bring", "charm"],
+      "charadesHint": "point a wand and beckon as an object flies across the room to you",
+      "passwordHint": "summoning charm"
+    },
+    {
+      "id": "hp-049",
+      "word": "LEGILIMENCY",
+      "tabooWords": ["mind", "read", "Snape", "Occlumency", "thoughts"],
+      "charadesHint": "stare deeply into someone's eyes and root through their memories",
+      "passwordHint": "mind reading"
+    },
+    {
+      "id": "hp-050",
+      "word": "DEATHLY HALLOWS",
+      "tabooWords": ["three", "objects", "master", "death", "symbol"],
+      "charadesHint": "draw a triangle with a line through it and a circle in the centre",
+      "passwordHint": "triangle symbol"
+    },
+    {
+      "id": "hp-051",
+      "word": "NAGINI",
+      "tabooWords": [
+        "snake",
+        "Voldemort",
+        "Horcrux",
+        "serpent",
+        "Parseltongue"
+      ],
+      "charadesHint": "slither loyally at Voldemort's side as an enormous serpent",
+      "passwordHint": "Voldemort's snake"
+    },
+    {
+      "id": "hp-052",
+      "word": "PARSELTONGUE",
+      "tabooWords": ["snake", "language", "hiss", "speak", "Slytherin"],
+      "charadesHint": "hiss fluently and communicate with snakes effortlessly",
+      "passwordHint": "snake language"
+    },
+    {
+      "id": "hp-053",
+      "word": "RITA SKEETER",
+      "tabooWords": [
+        "journalist",
+        "Quick Quotes",
+        "beetle",
+        "gossip",
+        "reporter"
+      ],
+      "charadesHint": "scribble wildly while fabricating a story as a glamorous reporter",
+      "passwordHint": "gossip journalist"
+    },
+    {
+      "id": "hp-054",
+      "word": "UMBRIDGE",
+      "tabooWords": ["pink", "teacher", "Ministry", "rules", "Educational"],
+      "charadesHint": "smile sweetly in pink and announce a cruel new educational decree",
+      "passwordHint": "pink tyrant"
+    },
+    {
+      "id": "hp-055",
+      "word": "ORDER OF THE PHOENIX",
+      "tabooWords": ["Order", "Phoenix", "secret", "Voldemort", "resist"],
+      "charadesHint": "convene a secret group of wizards to resist the Dark Lord",
+      "passwordHint": "secret society"
+    },
+    {
+      "id": "hp-056",
+      "word": "BERTIE BOTTS EVERY FLAVOUR BEANS",
+      "tabooWords": ["jelly", "beans", "flavour", "disgusting", "candy"],
+      "charadesHint": "eat a jelly bean hopefully then recoil at a vomit flavour",
+      "passwordHint": "any flavour"
+    },
+    {
+      "id": "hp-057",
+      "word": "WHOMPING WILLOW",
+      "tabooWords": ["tree", "attack", "Hogwarts", "hit", "car"],
+      "charadesHint": "flail arms violently like a tree attacking everything near it",
+      "passwordHint": "attacking tree"
+    },
+    {
+      "id": "hp-058",
+      "word": "WEASLEY BURROW",
+      "tabooWords": ["Weasley", "house", "magic", "crooked", "home"],
+      "charadesHint": "mime a wonky leaning house that somehow keeps adding magical extra floors",
+      "passwordHint": "Weasley home"
+    },
+    {
+      "id": "hp-059",
+      "word": "NIMBUS 2000",
+      "tabooWords": ["broom", "fast", "Harry", "Quidditch", "fly"],
+      "charadesHint": "mount a sleek broomstick and zoom at record speed",
+      "passwordHint": "broomstick model"
+    },
+    {
+      "id": "hp-060",
+      "word": "HOGWARTS EXPRESS",
+      "tabooWords": ["train", "King's Cross", "red", "platform", "nine"],
+      "charadesHint": "board a scarlet steam train from a hidden platform",
+      "passwordHint": "red steam train"
+    }
+  ]
+}

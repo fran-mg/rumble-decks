@@ -1,0 +1,563 @@
+{
+  "id": "famous-figures",
+  "name": "Famous Figures",
+  "category": "People",
+  "description": "Legendary leaders, scientists, artists and icons who changed the world",
+  "difficulty": "Medium",
+  "tags": ["history", "famous", "people", "leaders", "icons"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "famous-figures-001",
+      "word": "NAPOLEON BONAPARTE",
+      "tabooWords": ["French", "emperor", "short", "Waterloo", "Elba"],
+      "charadesHint": "stand short with one hand tucked in your jacket surveying a battle",
+      "passwordHint": "Waterloo"
+    },
+    {
+      "id": "famous-figures-002",
+      "word": "CLEOPATRA",
+      "tabooWords": ["Egypt", "queen", "Caesar", "asp", "Nile"],
+      "charadesHint": "recline regally in Egyptian dress with heavy eye make-up on the Nile",
+      "passwordHint": "Egypt queen"
+    },
+    {
+      "id": "famous-figures-003",
+      "word": "ALBERT EINSTEIN",
+      "tabooWords": ["physics", "relativity", "genius", "German", "formula"],
+      "charadesHint": "write E equals MC squared on a board and stick out your tongue",
+      "passwordHint": "relativity"
+    },
+    {
+      "id": "famous-figures-004",
+      "word": "WILLIAM SHAKESPEARE",
+      "tabooWords": ["playwright", "English", "Globe", "sonnets", "tragedy"],
+      "charadesHint": "hold a quill and perform a dramatic soliloquy on a stage",
+      "passwordHint": "soliloquy"
+    },
+    {
+      "id": "famous-figures-005",
+      "word": "MARIE CURIE",
+      "tabooWords": ["radioactive", "scientist", "Polish", "Nobel", "radium"],
+      "charadesHint": "carefully handle glowing radioactive materials in a laboratory",
+      "passwordHint": "radium"
+    },
+    {
+      "id": "famous-figures-006",
+      "word": "NELSON MANDELA",
+      "tabooWords": [
+        "South Africa",
+        "apartheid",
+        "prison",
+        "peace",
+        "president"
+      ],
+      "charadesHint": "walk free after 27 years raising a fist for peace and equality",
+      "passwordHint": "27 years"
+    },
+    {
+      "id": "famous-figures-007",
+      "word": "WINSTON CHURCHILL",
+      "tabooWords": ["British", "war", "V sign", "cigar", "bulldog"],
+      "charadesHint": "make a V for Victory sign with a cigar clenched in your teeth",
+      "passwordHint": "V for Victory"
+    },
+    {
+      "id": "famous-figures-008",
+      "word": "GANDHI",
+      "tabooWords": ["India", "peace", "hunger strike", "salt", "independence"],
+      "charadesHint": "walk peacefully on a long salt march wearing a simple white cloth",
+      "passwordHint": "salt march"
+    },
+    {
+      "id": "famous-figures-009",
+      "word": "FLORENCE NIGHTINGALE",
+      "tabooWords": ["nurse", "lamp", "Crimea", "hospital", "medicine"],
+      "charadesHint": "walk hospital wards at night holding a lamp tending to the wounded",
+      "passwordHint": "lamp"
+    },
+    {
+      "id": "famous-figures-010",
+      "word": "JULIUS CAESAR",
+      "tabooWords": ["Roman", "emperor", "Brutus", "Ides of March", "toga"],
+      "charadesHint": "address the Senate in a toga before being betrayed on the Ides of March",
+      "passwordHint": "Et tu Brute"
+    },
+    {
+      "id": "famous-figures-011",
+      "word": "ISAAC NEWTON",
+      "tabooWords": ["apple", "gravity", "physicist", "Cambridge", "laws"],
+      "charadesHint": "sit under a tree as an apple falls and suddenly understand gravity",
+      "passwordHint": "apple"
+    },
+    {
+      "id": "famous-figures-012",
+      "word": "LEONARDO DA VINCI",
+      "tabooWords": [
+        "Mona Lisa",
+        "artist",
+        "inventor",
+        "Italian",
+        "Renaissance"
+      ],
+      "charadesHint": "sketch both the Mona Lisa and a flying machine in the same notebook",
+      "passwordHint": "Mona Lisa"
+    },
+    {
+      "id": "famous-figures-013",
+      "word": "CHARLES DARWIN",
+      "tabooWords": [
+        "evolution",
+        "Galapagos",
+        "species",
+        "natural selection",
+        "finches"
+      ],
+      "charadesHint": "observe finches on an island and realise all species slowly evolve",
+      "passwordHint": "evolution"
+    },
+    {
+      "id": "famous-figures-014",
+      "word": "ROSA PARKS",
+      "tabooWords": ["bus", "Alabama", "civil rights", "seat", "refuse"],
+      "charadesHint": "sit quietly and refuse to give up your seat on a bus",
+      "passwordHint": "refused to move"
+    },
+    {
+      "id": "famous-figures-015",
+      "word": "MARTIN LUTHER KING",
+      "tabooWords": ["dream", "civil rights", "speech", "Alabama", "marches"],
+      "charadesHint": "stand before a huge crowd and deliver a dream for equality",
+      "passwordHint": "I have a dream"
+    },
+    {
+      "id": "famous-figures-016",
+      "word": "NEIL ARMSTRONG",
+      "tabooWords": ["moon", "first", "NASA", "Apollo", "step"],
+      "charadesHint": "step from a ladder onto the surface of the moon for the first time",
+      "passwordHint": "one small step"
+    },
+    {
+      "id": "famous-figures-017",
+      "word": "AMELIA EARHART",
+      "tabooWords": ["pilot", "Atlantic", "first woman", "fly", "disappear"],
+      "charadesHint": "pull down aviation goggles and fly solo across the Atlantic",
+      "passwordHint": "first woman pilot"
+    },
+    {
+      "id": "famous-figures-018",
+      "word": "CHRISTOPHER COLUMBUS",
+      "tabooWords": ["America", "1492", "explorer", "Spain", "ships"],
+      "charadesHint": "sail west across an unknown ocean convinced you will reach Asia",
+      "passwordHint": "1492"
+    },
+    {
+      "id": "famous-figures-019",
+      "word": "MARIE ANTOINETTE",
+      "tabooWords": ["French", "queen", "cake", "guillotine", "Versailles"],
+      "charadesHint": "live in impossible luxury at Versailles while your subjects starve",
+      "passwordHint": "let them eat cake"
+    },
+    {
+      "id": "famous-figures-020",
+      "word": "HENRY VIII",
+      "tabooWords": ["wives", "six", "Tudor", "king", "beheaded"],
+      "charadesHint": "hold up six fingers and mime a royal beheading",
+      "passwordHint": "six wives"
+    },
+    {
+      "id": "famous-figures-021",
+      "word": "QUEEN ELIZABETH I",
+      "tabooWords": ["Tudor", "Virgin Queen", "Armada", "Elizabeth", "ruff"],
+      "charadesHint": "stand in an enormous ruff collar ruling England as the Virgin Queen",
+      "passwordHint": "Virgin Queen"
+    },
+    {
+      "id": "famous-figures-022",
+      "word": "JOAN OF ARC",
+      "tabooWords": ["France", "soldier", "burn", "visions", "saint"],
+      "charadesHint": "lead an army into battle after hearing divine voices guiding you",
+      "passwordHint": "voices"
+    },
+    {
+      "id": "famous-figures-023",
+      "word": "SIGMUND FREUD",
+      "tabooWords": ["psychology", "couch", "dreams", "Vienna", "unconscious"],
+      "charadesHint": "sit behind a patient on a couch asking about their childhood dreams",
+      "passwordHint": "unconscious"
+    },
+    {
+      "id": "famous-figures-024",
+      "word": "STEPHEN HAWKING",
+      "tabooWords": [
+        "physicist",
+        "wheelchair",
+        "black holes",
+        "Brief History",
+        "voice"
+      ],
+      "charadesHint": "explain the universe from a wheelchair in a robotic synthesised voice",
+      "passwordHint": "black holes"
+    },
+    {
+      "id": "famous-figures-025",
+      "word": "ALAN TURING",
+      "tabooWords": [
+        "computer",
+        "Enigma",
+        "mathematician",
+        "code",
+        "Bletchley"
+      ],
+      "charadesHint": "crack a secret Nazi code with a brilliant machine you invented",
+      "passwordHint": "Enigma"
+    },
+    {
+      "id": "famous-figures-026",
+      "word": "MICHELANGELO",
+      "tabooWords": ["Sistine", "ceiling", "sculptor", "David", "Italian"],
+      "charadesHint": "lie on your back painting a giant ceiling fresco for years",
+      "passwordHint": "Sistine ceiling"
+    },
+    {
+      "id": "famous-figures-027",
+      "word": "VINCENT VAN GOGH",
+      "tabooWords": [
+        "sunflowers",
+        "ear",
+        "Dutch",
+        "Starry Night",
+        "post-impressionist"
+      ],
+      "charadesHint": "swirl thick paint in spiralling patterns then cut off your ear",
+      "passwordHint": "ear"
+    },
+    {
+      "id": "famous-figures-028",
+      "word": "PABLO PICASSO",
+      "tabooWords": [
+        "cubism",
+        "Spanish",
+        "Guernica",
+        "abstract",
+        "multiple faces"
+      ],
+      "charadesHint": "paint someone with both eyes on the same side of their face",
+      "passwordHint": "cubism"
+    },
+    {
+      "id": "famous-figures-029",
+      "word": "BEETHOVEN",
+      "tabooWords": ["deaf", "composer", "symphony", "German", "5th"],
+      "charadesHint": "conduct a full symphony orchestra while completely unable to hear",
+      "passwordHint": "deaf composer"
+    },
+    {
+      "id": "famous-figures-030",
+      "word": "MOZART",
+      "tabooWords": [
+        "child prodigy",
+        "composer",
+        "Austrian",
+        "symphony",
+        "opera"
+      ],
+      "charadesHint": "compose a full symphony aged five with a powdered wig on your head",
+      "passwordHint": "child prodigy"
+    },
+    {
+      "id": "famous-figures-031",
+      "word": "CHARLES DICKENS",
+      "tabooWords": [
+        "Victorian",
+        "novelist",
+        "Oliver",
+        "Christmas Carol",
+        "London"
+      ],
+      "charadesHint": "write furiously about Victorian poverty and orphans by candlelight",
+      "passwordHint": "Victorian novelist"
+    },
+    {
+      "id": "famous-figures-032",
+      "word": "JANE AUSTEN",
+      "tabooWords": ["novelist", "Pride", "Prejudice", "marriage", "Regency"],
+      "charadesHint": "write wryly about marriage and manners in Regency England",
+      "passwordHint": "Pride and Prejudice"
+    },
+    {
+      "id": "famous-figures-033",
+      "word": "NIKOLA TESLA",
+      "tabooWords": [
+        "electricity",
+        "inventor",
+        "AC current",
+        "Edison",
+        "Serbian"
+      ],
+      "charadesHint": "demonstrate alternating current with bolts of electricity leaping from coils",
+      "passwordHint": "AC current"
+    },
+    {
+      "id": "famous-figures-034",
+      "word": "THOMAS EDISON",
+      "tabooWords": [
+        "light bulb",
+        "inventor",
+        "American",
+        "phonograph",
+        "electric"
+      ],
+      "charadesHint": "hold up a lit bulb after a thousand failed attempts",
+      "passwordHint": "light bulb"
+    },
+    {
+      "id": "famous-figures-035",
+      "word": "ALEXANDER THE GREAT",
+      "tabooWords": ["Macedonia", "empire", "conquer", "Greece", "young"],
+      "charadesHint": "conquer everything from Greece to India before you are thirty",
+      "passwordHint": "Macedonia"
+    },
+    {
+      "id": "famous-figures-036",
+      "word": "GENGHIS KHAN",
+      "tabooWords": ["Mongolia", "empire", "conquer", "horse", "largest"],
+      "charadesHint": "ride on horseback conquering the largest land empire in history",
+      "passwordHint": "Mongolia"
+    },
+    {
+      "id": "famous-figures-037",
+      "word": "HARRIET TUBMAN",
+      "tabooWords": [
+        "Underground Railroad",
+        "slavery",
+        "escape",
+        "America",
+        "freedom"
+      ],
+      "charadesHint": "guide escaped slaves to freedom through the Underground Railroad at night",
+      "passwordHint": "Underground Railroad"
+    },
+    {
+      "id": "famous-figures-038",
+      "word": "MALALA YOUSAFZAI",
+      "tabooWords": ["Pakistan", "education", "shot", "Taliban", "Nobel"],
+      "charadesHint": "stand up bravely for every girl's right to go to school",
+      "passwordHint": "girl education"
+    },
+    {
+      "id": "famous-figures-039",
+      "word": "MOTHER TERESA",
+      "tabooWords": ["nun", "Calcutta", "poor", "Nobel", "saint"],
+      "charadesHint": "tend to the poorest of the poor in Calcutta streets in a white habit",
+      "passwordHint": "Calcutta"
+    },
+    {
+      "id": "famous-figures-040",
+      "word": "Abraham LINCOLN",
+      "tabooWords": [
+        "American",
+        "president",
+        "slavery",
+        "top hat",
+        "Civil War"
+      ],
+      "charadesHint": "wear a tall stovepipe hat and free the slaves ending a civil war",
+      "passwordHint": "top hat"
+    },
+    {
+      "id": "famous-figures-041",
+      "word": "QUEEN VICTORIA",
+      "tabooWords": ["British", "empire", "mourning", "Albert", "Victorian"],
+      "charadesHint": "sit stony-faced in black mourning clothes ruling a vast empire",
+      "passwordHint": "not amused"
+    },
+    {
+      "id": "famous-figures-042",
+      "word": "BOUDICCA",
+      "tabooWords": ["Celtic", "warrior", "Roman", "Britain", "chariot"],
+      "charadesHint": "ride a war chariot rallying Celtic warriors against the Roman invaders",
+      "passwordHint": "chariot warrior"
+    },
+    {
+      "id": "famous-figures-043",
+      "word": "GALILEO",
+      "tabooWords": [
+        "telescope",
+        "planets",
+        "earth",
+        "Inquisition",
+        "astronomer"
+      ],
+      "charadesHint": "peer through a telescope and insist that the Earth goes round the Sun",
+      "passwordHint": "telescope"
+    },
+    {
+      "id": "famous-figures-044",
+      "word": "MARCO POLO",
+      "tabooWords": ["explorer", "China", "Venice", "Silk Road", "Kublai Khan"],
+      "charadesHint": "travel the Silk Road from Venice all the way to the court of Kublai Khan",
+      "passwordHint": "Silk Road"
+    },
+    {
+      "id": "famous-figures-045",
+      "word": "EMMELINE PANKHURST",
+      "tabooWords": ["suffragette", "vote", "women", "British", "prison"],
+      "charadesHint": "chain yourself to railings demanding votes for women",
+      "passwordHint": "suffragette"
+    },
+    {
+      "id": "famous-figures-046",
+      "word": "CHARLES DE GAULLE",
+      "tabooWords": ["French", "president", "resistance", "tall", "war"],
+      "charadesHint": "speak defiantly on radio from London calling France to resist",
+      "passwordHint": "French resistance"
+    },
+    {
+      "id": "famous-figures-047",
+      "word": "FRIDA KAHLO",
+      "tabooWords": [
+        "Mexican",
+        "artist",
+        "self-portrait",
+        "unibrow",
+        "surrealist"
+      ],
+      "charadesHint": "paint an intense self-portrait with a unibrow and flowers in your hair",
+      "passwordHint": "self-portrait"
+    },
+    {
+      "id": "famous-figures-048",
+      "word": "SALVADOR DALI",
+      "tabooWords": [
+        "surrealist",
+        "Spanish",
+        "moustache",
+        "melting clocks",
+        "dream"
+      ],
+      "charadesHint": "twist your waxed moustache and paint clocks melting over dreamlike landscapes",
+      "passwordHint": "melting clocks"
+    },
+    {
+      "id": "famous-figures-049",
+      "word": "ARCHIMEDES",
+      "tabooWords": [
+        "bath",
+        "eureka",
+        "Greek",
+        "displacement",
+        "mathematician"
+      ],
+      "charadesHint": "leap from the bath shouting eureka as you discover water displacement",
+      "passwordHint": "Eureka"
+    },
+    {
+      "id": "famous-figures-050",
+      "word": "CONFUCIUS",
+      "tabooWords": [
+        "Chinese",
+        "philosopher",
+        "wisdom",
+        "teachings",
+        "morality"
+      ],
+      "charadesHint": "stroke a long beard and deliver profound wisdom to devoted students",
+      "passwordHint": "wisdom"
+    },
+    {
+      "id": "famous-figures-051",
+      "word": "SOCRATES",
+      "tabooWords": ["Greek", "philosopher", "trial", "hemlock", "question"],
+      "charadesHint": "question every assumption and drink hemlock rather than stop philosophising",
+      "passwordHint": "hemlock"
+    },
+    {
+      "id": "famous-figures-052",
+      "word": "PLATO",
+      "tabooWords": ["Greek", "philosopher", "cave", "Socrates", "republic"],
+      "charadesHint": "describe shadows on a cave wall as the only reality people know",
+      "passwordHint": "cave shadows"
+    },
+    {
+      "id": "famous-figures-053",
+      "word": "ARISTOTLE",
+      "tabooWords": ["Greek", "philosopher", "Alexander", "logic", "science"],
+      "charadesHint": "tutor a young Alexander and classify every living creature you find",
+      "passwordHint": "Alexander's tutor"
+    },
+    {
+      "id": "famous-figures-054",
+      "word": "MARGARET THATCHER",
+      "tabooWords": [
+        "Iron Lady",
+        "British",
+        "prime minister",
+        "conservative",
+        "handbag"
+      ],
+      "charadesHint": "grip your handbag firmly and refuse to turn with an iron expression",
+      "passwordHint": "Iron Lady"
+    },
+    {
+      "id": "famous-figures-055",
+      "word": "CHE GUEVARA",
+      "tabooWords": ["revolution", "Cuba", "beret", "Argentina", "guerrilla"],
+      "charadesHint": "wear a beret with a star and lead guerrilla fighters through jungle",
+      "passwordHint": "beret"
+    },
+    {
+      "id": "famous-figures-056",
+      "word": "MAO ZEDONG",
+      "tabooWords": [
+        "China",
+        "communist",
+        "Mao",
+        "revolution",
+        "Little Red Book"
+      ],
+      "charadesHint": "wave a little red book and proclaim the founding of a new China",
+      "passwordHint": "Little Red Book"
+    },
+    {
+      "id": "famous-figures-057",
+      "word": "CHARLES LINDBERGH",
+      "tabooWords": [
+        "Atlantic",
+        "solo",
+        "flight",
+        "Spirit of St Louis",
+        "pilot"
+      ],
+      "charadesHint": "fly solo non-stop across the Atlantic in a tiny plane alone",
+      "passwordHint": "solo Atlantic"
+    },
+    {
+      "id": "famous-figures-058",
+      "word": "ERNEST SHACKLETON",
+      "tabooWords": ["Antarctic", "Endurance", "survival", "ice", "explorer"],
+      "charadesHint": "lead your stranded crew to safety across frozen Antarctic seas",
+      "passwordHint": "Endurance"
+    },
+    {
+      "id": "famous-figures-059",
+      "word": "LOUIS PASTEUR",
+      "tabooWords": ["pasteurisation", "germ", "French", "vaccine", "milk"],
+      "charadesHint": "heat milk to kill bacteria and prove germs cause disease",
+      "passwordHint": "pasteurisation"
+    },
+    {
+      "id": "famous-figures-060",
+      "word": "ALEXANDER FLEMING",
+      "tabooWords": [
+        "penicillin",
+        "mould",
+        "antibiotic",
+        "Scottish",
+        "discovery"
+      ],
+      "charadesHint": "notice mould growing on a petri dish and accidentally discover antibiotics",
+      "passwordHint": "penicillin"
+    }
+  ]
+}

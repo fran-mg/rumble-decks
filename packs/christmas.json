@@ -1,0 +1,431 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "category": "Seasonal",
+  "description": "Everything festive — from carols to crackers and Santa to stockings",
+  "difficulty": "Easy",
+  "tags": ["christmas", "festive", "holiday", "seasonal", "family-friendly"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "xmas-001",
+      "word": "SANTA CLAUS",
+      "tabooWords": ["Father Christmas", "red", "suit", "beard", "presents"],
+      "charadesHint": "pat a big belly, ho ho ho, and slide down the chimney",
+      "passwordHint": "ho ho ho"
+    },
+    {
+      "id": "xmas-002",
+      "word": "CHRISTMAS TREE",
+      "tabooWords": ["pine", "decorate", "baubles", "star", "tinsel"],
+      "charadesHint": "mime decorating a tall triangle of branches with lights and baubles",
+      "passwordHint": "baubles and lights"
+    },
+    {
+      "id": "xmas-003",
+      "word": "REINDEER",
+      "tabooWords": ["Santa", "antlers", "fly", "Rudolph", "sleigh"],
+      "charadesHint": "gallop through the sky pulling a heavy sleigh on a cold night",
+      "passwordHint": "flying antlers"
+    },
+    {
+      "id": "xmas-004",
+      "word": "CHRISTMAS CRACKER",
+      "tabooWords": ["pull", "bang", "hat", "joke", "paper"],
+      "charadesHint": "hold one end and pull with someone until it bangs",
+      "passwordHint": "pull and bang"
+    },
+    {
+      "id": "xmas-005",
+      "word": "MISTLETOE",
+      "tabooWords": ["kiss", "plant", "hang", "berries", "holiday"],
+      "charadesHint": "hold a sprig above your head and lean in for a kiss",
+      "passwordHint": "kiss under"
+    },
+    {
+      "id": "xmas-006",
+      "word": "ADVENT CALENDAR",
+      "tabooWords": ["December", "door", "countdown", "chocolate", "open"],
+      "charadesHint": "open a tiny numbered door each morning to find a chocolate",
+      "passwordHint": "countdown doors"
+    },
+    {
+      "id": "xmas-007",
+      "word": "CHRISTMAS PUDDING",
+      "tabooWords": ["pudding", "brandy", "flame", "round", "dark"],
+      "charadesHint": "set fire to a dark round pudding and carry it blazing to the table",
+      "passwordHint": "blazing pudding"
+    },
+    {
+      "id": "xmas-008",
+      "word": "MINCE PIES",
+      "tabooWords": ["pastry", "sweet", "fruit", "small", "Christmas"],
+      "charadesHint": "eat small round pastry cases filled with sweet fruity mincemeat",
+      "passwordHint": "pastry fruit"
+    },
+    {
+      "id": "xmas-009",
+      "word": "CHRISTMAS STOCKING",
+      "tabooWords": ["hang", "fireplace", "Santa", "gifts", "sock"],
+      "charadesHint": "hang an enormous sock by the fireplace for Santa to fill",
+      "passwordHint": "Santa's sock"
+    },
+    {
+      "id": "xmas-010",
+      "word": "TINSEL",
+      "tabooWords": ["sparkle", "tree", "shiny", "wrap", "decoration"],
+      "charadesHint": "drape glittering strands around a tree in long swooping loops",
+      "passwordHint": "sparkly strands"
+    },
+    {
+      "id": "xmas-011",
+      "word": "CHRISTMAS CAROL",
+      "tabooWords": ["sing", "song", "festive", "choir", "door"],
+      "charadesHint": "stand at a door in the cold singing festive songs",
+      "passwordHint": "festive song"
+    },
+    {
+      "id": "xmas-012",
+      "word": "NATIVITY",
+      "tabooWords": ["Jesus", "manger", "stable", "wise men", "Mary"],
+      "charadesHint": "stand in a stable scene around a baby in a manger",
+      "passwordHint": "manger scene"
+    },
+    {
+      "id": "xmas-013",
+      "word": "SNOWMAN",
+      "tabooWords": ["snow", "build", "carrot", "buttons", "hat"],
+      "charadesHint": "roll three balls of snow and stack them with a carrot nose",
+      "passwordHint": "three snow balls"
+    },
+    {
+      "id": "xmas-014",
+      "word": "ELF",
+      "tabooWords": ["Santa", "workshop", "pointy", "hat", "toy"],
+      "charadesHint": "scurry around wrapping toys with pointy ears and curling shoes",
+      "passwordHint": "Santa's helper"
+    },
+    {
+      "id": "xmas-015",
+      "word": "RUDOLPH",
+      "tabooWords": ["red", "nose", "reindeer", "glow", "lead"],
+      "charadesHint": "light up a glowing red nose and lead the sleigh through fog",
+      "passwordHint": "red nose"
+    },
+    {
+      "id": "xmas-016",
+      "word": "TURKEY",
+      "tabooWords": ["roast", "Christmas dinner", "bird", "stuffing", "carve"],
+      "charadesHint": "carve a huge roasted bird at the dinner table",
+      "passwordHint": "roast bird"
+    },
+    {
+      "id": "xmas-017",
+      "word": "CHRISTMAS JUMPER",
+      "tabooWords": ["sweater", "festive", "ugly", "pattern", "wool"],
+      "charadesHint": "pull on a hideously patterned woolly jumper and beam",
+      "passwordHint": "ugly sweater"
+    },
+    {
+      "id": "xmas-018",
+      "word": "WRAPPING PAPER",
+      "tabooWords": ["wrap", "present", "scissors", "roll", "tape"],
+      "charadesHint": "roll out bright paper and wrestle to wrap an oddly shaped gift",
+      "passwordHint": "present wrap"
+    },
+    {
+      "id": "xmas-019",
+      "word": "FAIRY LIGHTS",
+      "tabooWords": ["lights", "tree", "twinkle", "plug", "string"],
+      "charadesHint": "untangle a knotted string of twinkling lights",
+      "passwordHint": "twinkling string"
+    },
+    {
+      "id": "xmas-020",
+      "word": "CHRISTMAS EVE",
+      "tabooWords": ["night", "before", "Santa", "24th", "December"],
+      "charadesHint": "lie in bed unable to sleep listening for sleigh bells on the roof",
+      "passwordHint": "night before"
+    },
+    {
+      "id": "xmas-021",
+      "word": "SLEIGH",
+      "tabooWords": ["Santa", "reindeer", "ride", "snow", "bells"],
+      "charadesHint": "sit in a large sled and crack reins as reindeer pull you skyward",
+      "passwordHint": "Santa's ride"
+    },
+    {
+      "id": "xmas-022",
+      "word": "BAUBLES",
+      "tabooWords": ["tree", "sphere", "hang", "glass", "decoration"],
+      "charadesHint": "hang round shiny balls carefully from tree branches",
+      "passwordHint": "round tree decorations"
+    },
+    {
+      "id": "xmas-023",
+      "word": "STAR",
+      "tabooWords": ["top", "tree", "shine", "Bethlehem", "point"],
+      "charadesHint": "place the most important decoration right at the very top of the tree",
+      "passwordHint": "tree topper"
+    },
+    {
+      "id": "xmas-024",
+      "word": "SNOWFLAKE",
+      "tabooWords": ["snow", "unique", "crystal", "fall", "white"],
+      "charadesHint": "hold your tongue out and catch a unique crystal falling from the sky",
+      "passwordHint": "unique crystal"
+    },
+    {
+      "id": "xmas-025",
+      "word": "CHRISTMAS DINNER",
+      "tabooWords": ["turkey", "roast", "potatoes", "family", "table"],
+      "charadesHint": "sit at an enormous table loaded with roast meats and vegetables",
+      "passwordHint": "big roast"
+    },
+    {
+      "id": "xmas-026",
+      "word": "Boxing DAY",
+      "tabooWords": ["26th", "December", "leftovers", "sales", "rest"],
+      "charadesHint": "lie on the sofa eating leftovers watching TV the day after Christmas",
+      "passwordHint": "26th December"
+    },
+    {
+      "id": "xmas-027",
+      "word": "EGGNOG",
+      "tabooWords": ["drink", "egg", "cream", "nutmeg", "festive"],
+      "charadesHint": "sip a thick creamy egg-based festive drink topped with nutmeg",
+      "passwordHint": "creamy festive drink"
+    },
+    {
+      "id": "xmas-028",
+      "word": "GINGERBREAD MAN",
+      "tabooWords": ["ginger", "biscuit", "run", "icing", "cookie"],
+      "charadesHint": "run away from the baker as a biscuit man with iced buttons",
+      "passwordHint": "run run run"
+    },
+    {
+      "id": "xmas-029",
+      "word": "CANDY CANE",
+      "tabooWords": ["stripe", "red", "white", "sweet", "hook"],
+      "charadesHint": "suck on a hooked red and white striped peppermint stick",
+      "passwordHint": "striped hook sweet"
+    },
+    {
+      "id": "xmas-030",
+      "word": "NATIVITY PLAY",
+      "tabooWords": ["school", "play", "stable", "act", "children"],
+      "charadesHint": "stand awkwardly on a stage in a tea-towel headdress",
+      "passwordHint": "school nativity"
+    },
+    {
+      "id": "xmas-031",
+      "word": "CHRISTMAS CARD",
+      "tabooWords": ["card", "send", "post", "greetings", "festive"],
+      "charadesHint": "write inside a folded card and post it to everyone you know",
+      "passwordHint": "greetings card"
+    },
+    {
+      "id": "xmas-032",
+      "word": "CHIMNEY",
+      "tabooWords": ["Santa", "climb", "soot", "smoke", "roof"],
+      "charadesHint": "watch Santa squeeze down a narrow smoke-blackened stack",
+      "passwordHint": "Santa's entrance"
+    },
+    {
+      "id": "xmas-033",
+      "word": "CAROLERS",
+      "tabooWords": ["sing", "door", "cold", "carol", "group"],
+      "charadesHint": "huddle as a group on someone's doorstep singing in the cold",
+      "passwordHint": "doorstep singers"
+    },
+    {
+      "id": "xmas-034",
+      "word": "MULLED WINE",
+      "tabooWords": ["wine", "warm", "spice", "Christmas", "red"],
+      "charadesHint": "cup both hands around a warm spiced red wine and inhale",
+      "passwordHint": "warm spiced wine"
+    },
+    {
+      "id": "xmas-035",
+      "word": "MIDNIGHT MASS",
+      "tabooWords": ["church", "midnight", "Christmas", "service", "carol"],
+      "charadesHint": "attend a church service at the stroke of midnight on Christmas Eve",
+      "passwordHint": "midnight church"
+    },
+    {
+      "id": "xmas-036",
+      "word": "PRESENTS",
+      "tabooWords": ["gifts", "unwrap", "box", "ribbon", "give"],
+      "charadesHint": "tear open wrapping paper with enormous excitement",
+      "passwordHint": "tear open"
+    },
+    {
+      "id": "xmas-037",
+      "word": "CHRISTMAS MARKET",
+      "tabooWords": ["stalls", "German", "mulled wine", "crafts", "outdoor"],
+      "charadesHint": "browse wooden stalls selling crafts and hot drinks in the cold",
+      "passwordHint": "wooden stalls"
+    },
+    {
+      "id": "xmas-038",
+      "word": "SCROOGE",
+      "tabooWords": ["Dickens", "miserly", "Christmas Carol", "ghost", "Bah"],
+      "charadesHint": "hoard money grumpily and shout bah humbug at Christmas",
+      "passwordHint": "bah humbug"
+    },
+    {
+      "id": "xmas-039",
+      "word": "JINGLE BELLS",
+      "tabooWords": ["song", "carol", "bells", "sleigh", "jingle"],
+      "charadesHint": "mime ringing small bells in time to the most famous Christmas song",
+      "passwordHint": "bell carol"
+    },
+    {
+      "id": "xmas-040",
+      "word": "SILENT NIGHT",
+      "tabooWords": ["carol", "song", "holy", "night", "peaceful"],
+      "charadesHint": "mime a slow reverent carol about a peaceful holy night",
+      "passwordHint": "holy carol"
+    },
+    {
+      "id": "xmas-041",
+      "word": "SNOWBALL FIGHT",
+      "tabooWords": ["snow", "throw", "cold", "duck", "hit"],
+      "charadesHint": "pack a ball of snow and hurl it at someone who ducks",
+      "passwordHint": "snow throw"
+    },
+    {
+      "id": "xmas-042",
+      "word": "YULE LOG",
+      "tabooWords": ["log", "fire", "burn", "Christmas", "traditional"],
+      "charadesHint": "drag a great log to the fireplace and light it for Christmas warmth",
+      "passwordHint": "burning log"
+    },
+    {
+      "id": "xmas-043",
+      "word": "WREATH",
+      "tabooWords": ["door", "circle", "holly", "hang", "decoration"],
+      "charadesHint": "hang a circular arrangement of holly and berries on the front door",
+      "passwordHint": "holly circle"
+    },
+    {
+      "id": "xmas-044",
+      "word": "TWELVE DAYS OF CHRISTMAS",
+      "tabooWords": ["twelve", "lords", "ladies", "partridge", "pear"],
+      "charadesHint": "mime giving increasingly bizarre gifts over twelve days",
+      "passwordHint": "partridge and pear"
+    },
+    {
+      "id": "xmas-045",
+      "word": "CHRISTMAS LIGHTS",
+      "tabooWords": ["street", "outdoor", "sparkle", "display", "switched"],
+      "charadesHint": "flip a switch and illuminate an entire street with dazzling lights",
+      "passwordHint": "street lights"
+    },
+    {
+      "id": "xmas-046",
+      "word": "PANETTONE",
+      "tabooWords": ["Italian", "bread", "sweet", "dome", "Christmas"],
+      "charadesHint": "slice a tall domed Italian sweet bread full of dried fruit",
+      "passwordHint": "Italian Christmas bread"
+    },
+    {
+      "id": "xmas-047",
+      "word": "PAPER HAT",
+      "tabooWords": ["cracker", "crown", "tissue", "wear", "Christmas"],
+      "charadesHint": "pull from a cracker and balance a flimsy tissue paper crown",
+      "passwordHint": "cracker crown"
+    },
+    {
+      "id": "xmas-048",
+      "word": "CHRISTMAS BONUS",
+      "tabooWords": ["money", "work", "extra", "pay", "staff"],
+      "charadesHint": "open your December payslip and react with pleasant surprise",
+      "passwordHint": "December pay"
+    },
+    {
+      "id": "xmas-049",
+      "word": "GIFT WRAP",
+      "tabooWords": ["paper", "ribbon", "bow", "present", "cover"],
+      "charadesHint": "fight with curling ribbon and sticky tape to create the perfect parcel",
+      "passwordHint": "ribbon and tape"
+    },
+    {
+      "id": "xmas-050",
+      "word": "HOT CHOCOLATE",
+      "tabooWords": ["warm", "drink", "cocoa", "marshmallow", "mug"],
+      "charadesHint": "wrap hands round a mug of rich chocolate topped with marshmallows",
+      "passwordHint": "marshmallow mug"
+    },
+    {
+      "id": "xmas-051",
+      "word": "NATIVITY SCENE",
+      "tabooWords": ["manger", "baby", "Jesus", "stable", "figurines"],
+      "charadesHint": "arrange small figures around a manger in a stable setting",
+      "passwordHint": "manger figurines"
+    },
+    {
+      "id": "xmas-052",
+      "word": "ANGEL",
+      "tabooWords": ["wings", "halo", "top", "tree", "divine"],
+      "charadesHint": "place a winged glowing figure at the very top of the Christmas tree",
+      "passwordHint": "tree angel"
+    },
+    {
+      "id": "xmas-053",
+      "word": "CHRISTMAS MORNING",
+      "tabooWords": ["stockings", "presents", "early", "wake", "children"],
+      "charadesHint": "bound downstairs at 5am in pyjamas to tear open presents",
+      "passwordHint": "early presents"
+    },
+    {
+      "id": "xmas-054",
+      "word": "COLD TURKEY",
+      "tabooWords": ["leftovers", "sandwich", "Boxing Day", "cold", "meat"],
+      "charadesHint": "eat cold sliced turkey from the fridge the next day",
+      "passwordHint": "leftover turkey"
+    },
+    {
+      "id": "xmas-055",
+      "word": "CHRISTMAS TREE STAR",
+      "tabooWords": ["star", "top", "tree", "gold", "shine"],
+      "charadesHint": "carefully balance a golden star on the very tip of the tree",
+      "passwordHint": "gold topper"
+    },
+    {
+      "id": "xmas-056",
+      "word": "FROSTY THE SNOWMAN",
+      "tabooWords": ["snowman", "hat", "magic", "top", "wave"],
+      "charadesHint": "place a magic hat on a snowman and watch it come to life",
+      "passwordHint": "magic hat snowman"
+    },
+    {
+      "id": "xmas-057",
+      "word": "SECRET SANTA",
+      "tabooWords": ["gift", "anonymous", "random", "draw", "office"],
+      "charadesHint": "draw a name from a hat and secretly buy a gift for that person",
+      "passwordHint": "anonymous gift"
+    },
+    {
+      "id": "xmas-058",
+      "word": "CHRISTMAS TREE FARM",
+      "tabooWords": ["buy", "real", "fresh", "field", "choose"],
+      "charadesHint": "tramp through rows of trees in the cold to pick the perfect one",
+      "passwordHint": "pick your tree"
+    },
+    {
+      "id": "xmas-059",
+      "word": "CRANBERRY SAUCE",
+      "tabooWords": ["red", "sauce", "turkey", "cranberry", "jar"],
+      "charadesHint": "spoon bright red tart sauce alongside roast turkey",
+      "passwordHint": "red turkey sauce"
+    },
+    {
+      "id": "xmas-060",
+      "word": "CHESTNUTS ROASTING",
+      "tabooWords": ["chestnuts", "fire", "roast", "Nat King Cole", "song"],
+      "charadesHint": "pierce and roast round nuts on an open fire while humming a carol",
+      "passwordHint": "open fire nuts"
+    }
+  ]
+}

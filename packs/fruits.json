@@ -1,0 +1,449 @@
+{
+  "id": "fruits",
+  "name": "Fruits",
+  "category": "Nature",
+  "description": "Sweet, sharp and exotic — fruits from around the world",
+  "difficulty": "Easy",
+  "tags": ["fruit", "food", "nature", "family-friendly", "kids"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "fruits-001",
+      "word": "APPLE",
+      "tabooWords": ["red", "green", "core", "tree", "crunch"],
+      "charadesHint": "crunch into a shiny red round fruit and wipe the juice",
+      "passwordHint": "crunch"
+    },
+    {
+      "id": "fruits-002",
+      "word": "BANANA",
+      "tabooWords": ["yellow", "peel", "monkey", "curved", "tropical"],
+      "charadesHint": "peel back the skin of a curved yellow fruit and eat it",
+      "passwordHint": "peel"
+    },
+    {
+      "id": "fruits-003",
+      "word": "STRAWBERRY",
+      "tabooWords": ["red", "seeds", "cream", "summer", "jam"],
+      "charadesHint": "pick a small red heart-shaped fruit and dip it in cream",
+      "passwordHint": "seeds outside"
+    },
+    {
+      "id": "fruits-004",
+      "word": "MANGO",
+      "tabooWords": ["tropical", "orange", "India", "sweet", "sticky"],
+      "charadesHint": "slice around a large tropical stone fruit and scoop orange flesh",
+      "passwordHint": "tropical stone"
+    },
+    {
+      "id": "fruits-005",
+      "word": "PINEAPPLE",
+      "tabooWords": ["tropical", "spiky", "Hawaii", "crown", "juice"],
+      "charadesHint": "struggle to cut through a spiky tropical fruit with a leafy crown",
+      "passwordHint": "spiky crown"
+    },
+    {
+      "id": "fruits-006",
+      "word": "WATERMELON",
+      "tabooWords": ["green", "red", "seeds", "summer", "large"],
+      "charadesHint": "slice open a huge green fruit to reveal red flesh and spit seeds",
+      "passwordHint": "spit seeds"
+    },
+    {
+      "id": "fruits-007",
+      "word": "GRAPE",
+      "tabooWords": ["vine", "wine", "bunch", "purple", "small"],
+      "charadesHint": "pluck tiny round fruits from a hanging bunch one by one",
+      "passwordHint": "bunch"
+    },
+    {
+      "id": "fruits-008",
+      "word": "LEMON",
+      "tabooWords": ["yellow", "sour", "citrus", "juice", "zest"],
+      "charadesHint": "bite into a yellow citrus fruit and screw up your face at the sourness",
+      "passwordHint": "sour"
+    },
+    {
+      "id": "fruits-009",
+      "word": "ORANGE",
+      "tabooWords": ["citrus", "peel", "juice", "round", "vitamin C"],
+      "charadesHint": "dig your nails into thick peel and pull it away from juicy segments",
+      "passwordHint": "segments"
+    },
+    {
+      "id": "fruits-010",
+      "word": "PEACH",
+      "tabooWords": ["fuzzy", "stone", "soft", "summer", "Georgia"],
+      "charadesHint": "sink your teeth into a soft fuzzy pink fruit with a stone inside",
+      "passwordHint": "fuzzy"
+    },
+    {
+      "id": "fruits-011",
+      "word": "CHERRY",
+      "tabooWords": ["red", "stone", "stalk", "pair", "cocktail"],
+      "charadesHint": "pop a tiny deep red fruit from its stalk into your mouth",
+      "passwordHint": "stalk"
+    },
+    {
+      "id": "fruits-012",
+      "word": "KIWI",
+      "tabooWords": [
+        "brown",
+        "green inside",
+        "New Zealand",
+        "fuzzy",
+        "vitamin C"
+      ],
+      "charadesHint": "scoop bright green flesh from a fuzzy brown oval with a spoon",
+      "passwordHint": "scoop green"
+    },
+    {
+      "id": "fruits-013",
+      "word": "AVOCADO",
+      "tabooWords": ["guacamole", "green", "stone", "toast", "healthy"],
+      "charadesHint": "halve a dark pear-shaped fruit and scoop creamy green flesh onto toast",
+      "passwordHint": "toast topping"
+    },
+    {
+      "id": "fruits-014",
+      "word": "BLUEBERRY",
+      "tabooWords": ["blue", "small", "antioxidant", "muffin", "bush"],
+      "charadesHint": "pop tiny deep blue berries into your mouth one after another",
+      "passwordHint": "tiny blue"
+    },
+    {
+      "id": "fruits-015",
+      "word": "RASPBERRY",
+      "tabooWords": ["red", "bumpy", "summer", "jam", "tart"],
+      "charadesHint": "place a bumpy red berry on your fingertip and eat it",
+      "passwordHint": "bumpy red"
+    },
+    {
+      "id": "fruits-016",
+      "word": "POMEGRANATE",
+      "tabooWords": ["seeds", "jewel", "red", "crown", "juice"],
+      "charadesHint": "crack open a fruit to reveal hundreds of tiny jewel-red seeds",
+      "passwordHint": "jewel seeds"
+    },
+    {
+      "id": "fruits-017",
+      "word": "PAPAYA",
+      "tabooWords": ["tropical", "orange", "seeds", "soft", "Caribbean"],
+      "charadesHint": "scoop black seeds from a tropical orange-fleshed fruit",
+      "passwordHint": "black seeds"
+    },
+    {
+      "id": "fruits-018",
+      "word": "COCONUT",
+      "tabooWords": ["palm", "milk", "shell", "tropical", "hairy"],
+      "charadesHint": "smash a hard hairy brown shell to get to the white flesh inside",
+      "passwordHint": "hairy shell"
+    },
+    {
+      "id": "fruits-019",
+      "word": "FIG",
+      "tabooWords": ["Newton", "sweet", "Mediterranean", "dried", "purple"],
+      "charadesHint": "split open a purple fruit to reveal a pink seedy interior",
+      "passwordHint": "pink inside"
+    },
+    {
+      "id": "fruits-020",
+      "word": "PLUM",
+      "tabooWords": ["purple", "stone", "jam", "autumn", "soft"],
+      "charadesHint": "bite into a soft dark purple fruit that leaves juice on your chin",
+      "passwordHint": "purple stone"
+    },
+    {
+      "id": "fruits-021",
+      "word": "APRICOT",
+      "tabooWords": ["orange", "stone", "soft", "dried", "Mediterranean"],
+      "charadesHint": "eat a small soft orange fruit that is often dried and chewy",
+      "passwordHint": "small orange stone"
+    },
+    {
+      "id": "fruits-022",
+      "word": "PEAR",
+      "tabooWords": ["green", "soft", "core", "shape", "Williams"],
+      "charadesHint": "bite into a teardrop-shaped fruit that is gritty when unripe",
+      "passwordHint": "teardrop shape"
+    },
+    {
+      "id": "fruits-023",
+      "word": "MELON",
+      "tabooWords": ["orange", "round", "seeds", "summer", "cantaloupe"],
+      "charadesHint": "slice a large round fruit and scoop out orange flesh and seeds",
+      "passwordHint": "orange flesh"
+    },
+    {
+      "id": "fruits-024",
+      "word": "LYCHEE",
+      "tabooWords": ["Chinese", "pink", "shell", "sweet", "tropical"],
+      "charadesHint": "peel a rough pink shell off a small sweet jelly-like white fruit",
+      "passwordHint": "pink rough shell"
+    },
+    {
+      "id": "fruits-025",
+      "word": "DRAGON FRUIT",
+      "tabooWords": ["pink", "cactus", "spiky", "white inside", "exotic"],
+      "charadesHint": "slice open a vivid pink spiky fruit to reveal white flesh with black dots",
+      "passwordHint": "pink spiky"
+    },
+    {
+      "id": "fruits-026",
+      "word": "PASSION FRUIT",
+      "tabooWords": ["wrinkled", "seeds", "tropical", "juice", "pulp"],
+      "charadesHint": "cut a wrinkled purple fruit in half and scoop out yellow seedy pulp",
+      "passwordHint": "wrinkled purple"
+    },
+    {
+      "id": "fruits-027",
+      "word": "GUAVA",
+      "tabooWords": ["tropical", "pink", "seeds", "Caribbean", "sweet"],
+      "charadesHint": "bite into a small tropical fruit with pink flesh and many seeds",
+      "passwordHint": "tropical pink seeds"
+    },
+    {
+      "id": "fruits-028",
+      "word": "STARFRUIT",
+      "tabooWords": ["five", "star", "yellow", "tropical", "shape"],
+      "charadesHint": "slice a fruit crosswise to get a perfect five-pointed star slice",
+      "passwordHint": "star slice"
+    },
+    {
+      "id": "fruits-029",
+      "word": "DURIAN",
+      "tabooWords": ["smelly", "spiky", "Southeast Asia", "banned", "creamy"],
+      "charadesHint": "carry a spiky fruit that smells so bad it is banned from hotels",
+      "passwordHint": "smelly spiky"
+    },
+    {
+      "id": "fruits-030",
+      "word": "JACKFRUIT",
+      "tabooWords": ["large", "tropical", "meat substitute", "spiky", "yellow"],
+      "charadesHint": "struggle to carry the world's largest tree-grown fruit",
+      "passwordHint": "largest fruit"
+    },
+    {
+      "id": "fruits-031",
+      "word": "PERSIMMON",
+      "tabooWords": ["orange", "Asian", "autumn", "sweet", "Kaki"],
+      "charadesHint": "eat a glossy orange autumn fruit that looks like a tomato",
+      "passwordHint": "orange kaki"
+    },
+    {
+      "id": "fruits-032",
+      "word": "NECTARINE",
+      "tabooWords": ["smooth", "peach", "stone", "summer", "sweet"],
+      "charadesHint": "bite into a smooth-skinned version of a fuzzy stone fruit",
+      "passwordHint": "smooth peach"
+    },
+    {
+      "id": "fruits-033",
+      "word": "CLEMENTINE",
+      "tabooWords": ["orange", "small", "easy peel", "Christmas", "citrus"],
+      "charadesHint": "peel a tiny easy-peel orange in one piece at Christmas time",
+      "passwordHint": "easy peel orange"
+    },
+    {
+      "id": "fruits-034",
+      "word": "GRAPEFRUIT",
+      "tabooWords": ["citrus", "bitter", "large", "pink", "breakfast"],
+      "charadesHint": "grimace at a large bitter pink citrus fruit at breakfast",
+      "passwordHint": "bitter pink"
+    },
+    {
+      "id": "fruits-035",
+      "word": "LIME",
+      "tabooWords": ["green", "sour", "citrus", "cocktail", "Mexico"],
+      "charadesHint": "squeeze a small green citrus wedge into a cocktail glass",
+      "passwordHint": "cocktail squeeze"
+    },
+    {
+      "id": "fruits-036",
+      "word": "BLACKBERRY",
+      "tabooWords": ["bramble", "wild", "picking", "hedge", "purple"],
+      "charadesHint": "reach carefully into thorny brambles to pick dark juicy berries",
+      "passwordHint": "bramble"
+    },
+    {
+      "id": "fruits-037",
+      "word": "GOOSEBERRY",
+      "tabooWords": ["green", "tart", "bush", "crumble", "British"],
+      "charadesHint": "pop a tart little translucent green berry from a prickly bush",
+      "passwordHint": "tart green"
+    },
+    {
+      "id": "fruits-038",
+      "word": "CRANBERRY",
+      "tabooWords": ["red", "tart", "Christmas", "sauce", "juice"],
+      "charadesHint": "pour a deep red sauce over Christmas turkey from tiny tart berries",
+      "passwordHint": "Christmas sauce"
+    },
+    {
+      "id": "fruits-039",
+      "word": "DAMSON",
+      "tabooWords": ["plum", "dark", "jam", "gin", "small"],
+      "charadesHint": "pick tiny dark purple plum-like fruits to make jam or steep in gin",
+      "passwordHint": "dark gin plum"
+    },
+    {
+      "id": "fruits-040",
+      "word": "MULBERRY",
+      "tabooWords": ["tree", "purple", "stain", "silk", "bush"],
+      "charadesHint": "walk around a mulberry tree picking berries that stain your hands purple",
+      "passwordHint": "stain"
+    },
+    {
+      "id": "fruits-041",
+      "word": "ELDERBERRY",
+      "tabooWords": ["tree", "cordial", "dark", "flower", "wild"],
+      "charadesHint": "gather dark wild berries from a hedgerow to make cordial",
+      "passwordHint": "cordial"
+    },
+    {
+      "id": "fruits-042",
+      "word": "QUINCE",
+      "tabooWords": ["yellow", "hard", "jam", "Spanish", "aromatic"],
+      "charadesHint": "struggle to eat a hard yellow aromatic fruit that must be cooked",
+      "passwordHint": "must be cooked"
+    },
+    {
+      "id": "fruits-043",
+      "word": "BREADFRUIT",
+      "tabooWords": ["Pacific", "starchy", "large", "tropical", "Bounty"],
+      "charadesHint": "bake a large tropical fruit that has a starchy texture like bread",
+      "passwordHint": "starchy tropical"
+    },
+    {
+      "id": "fruits-044",
+      "word": "TAMARIND",
+      "tabooWords": ["sour", "pod", "Indian", "sauce", "brown"],
+      "charadesHint": "crack open a brown pod and pull out sticky sour dark pulp",
+      "passwordHint": "sour pod"
+    },
+    {
+      "id": "fruits-045",
+      "word": "RAMBUTAN",
+      "tabooWords": ["hairy", "red", "tropical", "lychee", "spiky hair"],
+      "charadesHint": "peel a small red fruit covered in soft spiky hairs",
+      "passwordHint": "hairy red"
+    },
+    {
+      "id": "fruits-046",
+      "word": "MANGOSTEEN",
+      "tabooWords": [
+        "purple",
+        "white",
+        "tropical",
+        "queen of fruits",
+        "Southeast Asia"
+      ],
+      "charadesHint": "open a dark purple rind to reveal pure white sweet segments",
+      "passwordHint": "queen of fruits"
+    },
+    {
+      "id": "fruits-047",
+      "word": "LONGAN",
+      "tabooWords": ["Chinese", "eye", "lychee", "translucent", "sweet"],
+      "charadesHint": "peel a small round fruit to find a translucent ball with a dark seed eye",
+      "passwordHint": "dragon eye"
+    },
+    {
+      "id": "fruits-048",
+      "word": "FEIJOA",
+      "tabooWords": ["New Zealand", "green", "guava", "aromatic", "soft"],
+      "charadesHint": "scoop out the soft fragrant inside of a small green oval fruit",
+      "passwordHint": "NZ green scoop"
+    },
+    {
+      "id": "fruits-049",
+      "word": "UGLI FRUIT",
+      "tabooWords": ["ugly", "citrus", "Jamaica", "hybrid", "wrinkled"],
+      "charadesHint": "peel a large wrinkled ugly-looking citrus that tastes surprisingly sweet",
+      "passwordHint": "ugly but sweet"
+    },
+    {
+      "id": "fruits-050",
+      "word": "BLOOD ORANGE",
+      "tabooWords": ["red", "orange", "citrus", "dark", "Sicily"],
+      "charadesHint": "slice an orange open to reveal shockingly dark red flesh inside",
+      "passwordHint": "red inside"
+    },
+    {
+      "id": "fruits-051",
+      "word": "KUMQUAT",
+      "tabooWords": ["small", "orange", "eat whole", "Chinese", "citrus"],
+      "charadesHint": "eat an entire tiny citrus fruit whole including the sweet skin",
+      "passwordHint": "eat whole"
+    },
+    {
+      "id": "fruits-052",
+      "word": "TANGERINE",
+      "tabooWords": ["orange", "small", "Christmas", "peel", "citrus"],
+      "charadesHint": "find a small orange in a Christmas stocking and peel it",
+      "passwordHint": "Christmas orange"
+    },
+    {
+      "id": "fruits-053",
+      "word": "PLANTAIN",
+      "tabooWords": ["banana", "cooking", "African", "fried", "starchy"],
+      "charadesHint": "fry thick slices of a large starchy banana cousin in hot oil",
+      "passwordHint": "fried banana"
+    },
+    {
+      "id": "fruits-054",
+      "word": "DATES",
+      "tabooWords": ["dried", "sweet", "Middle East", "palm", "sticky"],
+      "charadesHint": "pull a sticky brown sweet fruit from a cluster on a desert palm",
+      "passwordHint": "sticky desert"
+    },
+    {
+      "id": "fruits-055",
+      "word": "PHYSALIS",
+      "tabooWords": [
+        "cape gooseberry",
+        "papery",
+        "husk",
+        "orange",
+        "decoration"
+      ],
+      "charadesHint": "peel back a papery husk to find a tiny orange berry inside",
+      "passwordHint": "papery husk"
+    },
+    {
+      "id": "fruits-056",
+      "word": "SLOE",
+      "tabooWords": ["gin", "blackthorn", "dark", "bitter", "hedgerow"],
+      "charadesHint": "gather tiny dark bitter hedgerow berries to steep in gin for Christmas",
+      "passwordHint": "sloe gin"
+    },
+    {
+      "id": "fruits-057",
+      "word": "CLOUDBERRY",
+      "tabooWords": ["Scandinavian", "orange", "rare", "Arctic", "expensive"],
+      "charadesHint": "search Arctic tundra for rare golden berries prized across Scandinavia",
+      "passwordHint": "Arctic gold"
+    },
+    {
+      "id": "fruits-058",
+      "word": "MEDLAR",
+      "tabooWords": ["brown", "medieval", "bletted", "old", "rare"],
+      "charadesHint": "wait for a brown medieval fruit to rot slightly before eating it",
+      "passwordHint": "must rot first"
+    },
+    {
+      "id": "fruits-059",
+      "word": "ACAI",
+      "tabooWords": ["superfood", "purple", "Amazon", "bowl", "smoothie"],
+      "charadesHint": "blend deep purple Amazon berries into a smoothie bowl topped with granola",
+      "passwordHint": "superfood bowl"
+    },
+    {
+      "id": "fruits-060",
+      "word": "YUZU",
+      "tabooWords": ["Japanese", "citrus", "aromatic", "rind", "chef"],
+      "charadesHint": "zest a knobbly Japanese citrus beloved by chefs for its intense aroma",
+      "passwordHint": "Japanese citrus"
+    }
+  ]
+}

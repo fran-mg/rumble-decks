@@ -1,0 +1,436 @@
+{
+  "id": "human-body",
+  "name": "The Human Body",
+  "category": "Science",
+  "description": "From bones to organs — everything inside and outside the human body.",
+  "difficulty": "Medium",
+  "tags": ["anatomy", "body", "health", "science", "medical"],
+  "cards": [
+    {
+      "id": "hb-001",
+      "word": "KNEECAP",
+      "tabooWords": ["patella", "knee", "leg", "bone", "joint"],
+      "charadesHint": "Mime bending your leg and tapping the bony round disc at the front of your knee",
+      "passwordHint": "patella"
+    },
+    {
+      "id": "hb-002",
+      "word": "EARDRUM",
+      "tabooWords": ["ear", "hearing", "membrane", "sound", "vibrate"],
+      "charadesHint": "Mime cupping your ear as a sound waves hit and your inner drum vibrates",
+      "passwordHint": "vibrating-membrane"
+    },
+    {
+      "id": "hb-003",
+      "word": "APPENDIX",
+      "tabooWords": ["organ", "stomach", "pain", "surgery", "intestine"],
+      "charadesHint": "Mime doubling over in sharp right-sided pain and being rushed into surgery",
+      "passwordHint": "useless-organ"
+    },
+    {
+      "id": "hb-004",
+      "word": "FUNNY BONE",
+      "tabooWords": ["elbow", "nerve", "tingle", "arm", "hit"],
+      "charadesHint": "Mime banging your elbow on a table corner and doing the exaggerated funny-but-not-funny shake",
+      "passwordHint": "elbow-tingle"
+    },
+    {
+      "id": "hb-005",
+      "word": "LIVER",
+      "tabooWords": ["organ", "detox", "alcohol", "body", "blood"],
+      "charadesHint": "Mime drinking glass after glass then pointing to your right side where an exhausted organ lives",
+      "passwordHint": "detox-organ"
+    },
+    {
+      "id": "hb-006",
+      "word": "ACHILLES TENDON",
+      "tabooWords": ["heel", "tendon", "ankle", "injury", "foot"],
+      "charadesHint": "Mime sprinting then suddenly crumpling dramatically as your heel gives way",
+      "passwordHint": "heel-tendon"
+    },
+    {
+      "id": "hb-007",
+      "word": "CEREBELLUM",
+      "tabooWords": ["brain", "balance", "coordination", "cerebrum", "back"],
+      "charadesHint": "Mime walking in a perfectly straight line then walking as if you have no balance control",
+      "passwordHint": "balance-brain"
+    },
+    {
+      "id": "hb-008",
+      "word": "COLLARBONE",
+      "tabooWords": ["clavicle", "shoulder", "bone", "chest", "neck"],
+      "charadesHint": "Mime tracing your finger along the bony ridge between your shoulder and neck",
+      "passwordHint": "clavicle"
+    },
+    {
+      "id": "hb-009",
+      "word": "GOOSEBUMPS",
+      "tabooWords": ["skin", "cold", "fear", "bumps", "hair"],
+      "charadesHint": "Mime shivering as your skin prickles all over with tiny raised bumps",
+      "passwordHint": "skin-prickle"
+    },
+    {
+      "id": "hb-010",
+      "word": "PANCREAS",
+      "tabooWords": ["organ", "insulin", "digestion", "diabetes", "gland"],
+      "charadesHint": "Mime injecting insulin and pointing to where an organ behind your stomach quietly does its job",
+      "passwordHint": "insulin-gland"
+    },
+    {
+      "id": "hb-011",
+      "word": "THUMBNAIL",
+      "tabooWords": ["finger", "nail", "hand", "thumb", "small"],
+      "charadesHint": "Mime holding up your thumb and tapping the very small flat nail on top of it",
+      "passwordHint": "thumb-nail"
+    },
+    {
+      "id": "hb-012",
+      "word": "SPINE",
+      "tabooWords": ["back", "vertebrae", "backbone", "posture", "column"],
+      "charadesHint": "Mime sitting up ramrod straight and then slumping — and the difference it makes",
+      "passwordHint": "backbone"
+    },
+    {
+      "id": "hb-013",
+      "word": "IRIS",
+      "tabooWords": ["eye", "colour", "pupil", "vision", "pattern"],
+      "charadesHint": "Mime peering into someone's eyes at the coloured ring around the dark centre",
+      "passwordHint": "eye-colour-ring"
+    },
+    {
+      "id": "hb-014",
+      "word": "DIAPHRAGM",
+      "tabooWords": ["breathing", "muscle", "lung", "hiccup", "chest"],
+      "charadesHint": "Mime breathing deeply, your belly expanding, then getting hiccups from a spasming muscle",
+      "passwordHint": "breathing-muscle"
+    },
+    {
+      "id": "hb-015",
+      "word": "LYMPH NODE",
+      "tabooWords": ["gland", "immune", "swollen", "neck", "infection"],
+      "charadesHint": "Mime pressing the sides of your neck feeling for swollen lumps when you're poorly",
+      "passwordHint": "swollen-gland"
+    },
+    {
+      "id": "hb-016",
+      "word": "CORNEA",
+      "tabooWords": ["eye", "transparent", "front", "contact lens", "vision"],
+      "charadesHint": "Mime carefully placing a tiny lens over the very front surface of your eye",
+      "passwordHint": "eye-surface"
+    },
+    {
+      "id": "hb-017",
+      "word": "HAMSTRING",
+      "tabooWords": ["leg", "muscle", "back", "thigh", "injury"],
+      "charadesHint": "Mime sprinting then pulling up sharply grabbing the back of your upper leg in agony",
+      "passwordHint": "back-of-thigh"
+    },
+    {
+      "id": "hb-018",
+      "word": "TONSILS",
+      "tabooWords": ["throat", "infection", "swollen", "removed", "sore"],
+      "charadesHint": "Mime opening your mouth and a doctor peering in at two swollen lumps at the back",
+      "passwordHint": "throat-lumps"
+    },
+    {
+      "id": "hb-019",
+      "word": "BELLY BUTTON",
+      "tabooWords": ["navel", "tummy", "stomach", "indent", "cord"],
+      "charadesHint": "Mime pulling up your shirt and pointing to the little indentation in the middle of your tummy",
+      "passwordHint": "navel"
+    },
+    {
+      "id": "hb-020",
+      "word": "ADAM'S APPLE",
+      "tabooWords": ["throat", "neck", "larynx", "lump", "swallow"],
+      "charadesHint": "Mime swallowing and watching a bobbing protrusion in your throat move up and down",
+      "passwordHint": "throat-protrusion"
+    },
+    {
+      "id": "hb-021",
+      "word": "BICEP",
+      "tabooWords": ["arm", "muscle", "flex", "upper", "strong"],
+      "charadesHint": "Mime flexing your upper arm and pointing at the bulging muscle like a bodybuilder",
+      "passwordHint": "arm-flex"
+    },
+    {
+      "id": "hb-022",
+      "word": "RETINA",
+      "tabooWords": ["eye", "back", "vision", "light", "image"],
+      "charadesHint": "Mime a camera shutter capturing an image and projecting it on the very back inner wall of an eyeball",
+      "passwordHint": "eye-back-wall"
+    },
+    {
+      "id": "hb-023",
+      "word": "WISDOM TOOTH",
+      "tabooWords": ["molar", "back", "jaw", "pain", "dentist"],
+      "charadesHint": "Mime your jaw throbbing at the very back as a late arrival tooth tries to push through",
+      "passwordHint": "late-molar"
+    },
+    {
+      "id": "hb-024",
+      "word": "ADRENALINE",
+      "tabooWords": ["hormone", "rush", "fear", "excitement", "heart"],
+      "charadesHint": "Mime a sudden shock — heart pounding, senses sharpened, ready to run or fight",
+      "passwordHint": "fight-or-flight"
+    },
+    {
+      "id": "hb-025",
+      "word": "TEMPLE",
+      "tabooWords": ["head", "side", "pulse", "skull", "forehead"],
+      "charadesHint": "Mime pressing your finger to the side of your head where you can feel your pulse",
+      "passwordHint": "pulse-side-head"
+    },
+    {
+      "id": "hb-026",
+      "word": "SHIN",
+      "tabooWords": ["leg", "bone", "front", "kick", "painful"],
+      "charadesHint": "Mime walking straight into a coffee table and grabbing the front of your lower leg",
+      "passwordHint": "lower-leg-front"
+    },
+    {
+      "id": "hb-027",
+      "word": "KIDNEY",
+      "tabooWords": ["organ", "urine", "filter", "stone", "pair"],
+      "charadesHint": "Mime filtering waste from your blood like a tiny tireless machine working in your back",
+      "passwordHint": "bean-shaped-organ"
+    },
+    {
+      "id": "hb-028",
+      "word": "PORES",
+      "tabooWords": ["skin", "sweat", "tiny", "open", "clogged"],
+      "charadesHint": "Mime peering at your skin through a magnifying glass at tiny little holes everywhere",
+      "passwordHint": "skin-tiny-holes"
+    },
+    {
+      "id": "hb-029",
+      "word": "GALLBLADDER",
+      "tabooWords": ["organ", "bile", "digestion", "stones", "removed"],
+      "charadesHint": "Mime having sharp pain under your ribs on the right after a very fatty meal",
+      "passwordHint": "bile-storage"
+    },
+    {
+      "id": "hb-030",
+      "word": "JUGULAR VEIN",
+      "tabooWords": ["neck", "blood", "vein", "pulse", "vampire"],
+      "charadesHint": "Mime a vampire approaching your neck zeroing in on the most obvious vein there",
+      "passwordHint": "neck-vein"
+    },
+    {
+      "id": "hb-031",
+      "word": "GOITRE",
+      "tabooWords": ["throat", "thyroid", "swollen", "gland", "neck"],
+      "charadesHint": "Mime a visible swelling appearing at the front of someone's throat growing gradually larger",
+      "passwordHint": "thyroid-swelling"
+    },
+    {
+      "id": "hb-032",
+      "word": "TRICEP",
+      "tabooWords": ["arm", "muscle", "back", "upper", "push"],
+      "charadesHint": "Mime doing a push-up and pointing to the muscle on the back of your upper arm doing all the work",
+      "passwordHint": "back-upper-arm"
+    },
+    {
+      "id": "hb-033",
+      "word": "PUPIL",
+      "tabooWords": ["eye", "black", "centre", "dilate", "light"],
+      "charadesHint": "Mime shining a torch in someone's eye and watching the centre shrink instantly",
+      "passwordHint": "eye-centre-black"
+    },
+    {
+      "id": "hb-034",
+      "word": "STERNUM",
+      "tabooWords": ["chest", "bone", "middle", "breastbone", "ribcage"],
+      "charadesHint": "Mime tapping the flat bone running straight down the centre of your chest",
+      "passwordHint": "breastbone"
+    },
+    {
+      "id": "hb-035",
+      "word": "SPLEEN",
+      "tabooWords": ["organ", "blood", "immune", "left", "filter"],
+      "charadesHint": "Mime a runner getting a stitch on the left side of their abdomen and pressing into it",
+      "passwordHint": "blood-filter-organ"
+    },
+    {
+      "id": "hb-036",
+      "word": "CUTICLE",
+      "tabooWords": ["nail", "skin", "finger", "edge", "manicure"],
+      "charadesHint": "Mime a manicurist pushing back the tiny strip of skin at the base of each nail",
+      "passwordHint": "nail-base-skin"
+    },
+    {
+      "id": "hb-037",
+      "word": "CARTILAGE",
+      "tabooWords": ["tissue", "joint", "flexible", "nose", "ear"],
+      "charadesHint": "Mime squeezing and bending the outside of your ear — firm but flexible, no bone",
+      "passwordHint": "flexible-tissue"
+    },
+    {
+      "id": "hb-038",
+      "word": "PITUITARY GLAND",
+      "tabooWords": ["brain", "hormone", "master", "gland", "growth"],
+      "charadesHint": "Mime pressing a tiny button at the base of your brain that controls every other gland in your body",
+      "passwordHint": "master-gland"
+    },
+    {
+      "id": "hb-039",
+      "word": "SOLAR PLEXUS",
+      "tabooWords": ["stomach", "punch", "nerve", "winded", "centre"],
+      "charadesHint": "Mime taking a punch right in the middle of your abdomen and gasping for air",
+      "passwordHint": "winded-spot"
+    },
+    {
+      "id": "hb-040",
+      "word": "TIBIA",
+      "tabooWords": ["shin", "bone", "leg", "lower", "fibula"],
+      "charadesHint": "Mime a doctor pointing at the larger of the two bones in your lower leg on an x-ray",
+      "passwordHint": "shin-bone"
+    },
+    {
+      "id": "hb-041",
+      "word": "TEAR DUCT",
+      "tabooWords": ["cry", "eye", "corner", "tears", "drain"],
+      "charadesHint": "Mime crying and a tiny channel in the corner of your eye draining the tears away",
+      "passwordHint": "crying-channel"
+    },
+    {
+      "id": "hb-042",
+      "word": "GLUTE",
+      "tabooWords": ["bottom", "muscle", "buttock", "squat", "hip"],
+      "charadesHint": "Mime doing a deep squat and feeling the muscles in your backside working hard",
+      "passwordHint": "bottom-muscle"
+    },
+    {
+      "id": "hb-043",
+      "word": "FEMUR",
+      "tabooWords": ["thigh", "bone", "leg", "longest", "hip"],
+      "charadesHint": "Mime pointing to the longest and strongest bone in the body running from hip to knee",
+      "passwordHint": "thigh-bone"
+    },
+    {
+      "id": "hb-044",
+      "word": "TONGUE",
+      "tabooWords": ["mouth", "taste", "lick", "speak", "muscle"],
+      "charadesHint": "Mime sticking it out, rolling it, and using it to lick an ice cream",
+      "passwordHint": "taste-muscle"
+    },
+    {
+      "id": "hb-045",
+      "word": "EPIDERMIS",
+      "tabooWords": ["skin", "outer", "layer", "surface", "cells"],
+      "charadesHint": "Mime peeling back a thin invisible layer from your arm and examining the surface cells",
+      "passwordHint": "skin-outer-layer"
+    },
+    {
+      "id": "hb-046",
+      "word": "OPTIC NERVE",
+      "tabooWords": ["eye", "brain", "vision", "signal", "nerve"],
+      "charadesHint": "Mime your eyes collecting a picture and sending it directly along a cable to the back of your brain",
+      "passwordHint": "eye-to-brain-cable"
+    },
+    {
+      "id": "hb-047",
+      "word": "MOLAR",
+      "tabooWords": ["tooth", "back", "grind", "chew", "jaw"],
+      "charadesHint": "Mime opening wide and pointing to the large flat teeth at the very back grinding food",
+      "passwordHint": "grinding-tooth"
+    },
+    {
+      "id": "hb-048",
+      "word": "WRIST",
+      "tabooWords": ["hand", "arm", "joint", "pulse", "flex"],
+      "charadesHint": "Mime pressing two fingers to the inside of your other wrist to find your pulse",
+      "passwordHint": "pulse-joint"
+    },
+    {
+      "id": "hb-049",
+      "word": "MITOCHONDRIA",
+      "tabooWords": ["cell", "energy", "powerhouse", "biology", "ATP"],
+      "charadesHint": "Mime a tiny powerhouse generating energy inside every single cell in your body",
+      "passwordHint": "cell-powerhouse"
+    },
+    {
+      "id": "hb-050",
+      "word": "SALIVARY GLAND",
+      "tabooWords": ["spit", "mouth", "saliva", "gland", "jaw"],
+      "charadesHint": "Mime smelling something delicious and feeling your mouth immediately fill with liquid",
+      "passwordHint": "mouth-water-gland"
+    },
+    {
+      "id": "hb-051",
+      "word": "ANKLEBONE",
+      "tabooWords": ["ankle", "foot", "bone", "bump", "leg"],
+      "charadesHint": "Mime pointing to the bony protrusion sticking out on either side of your ankle",
+      "passwordHint": "ankle-bump"
+    },
+    {
+      "id": "hb-052",
+      "word": "HYPOTHALAMUS",
+      "tabooWords": ["brain", "hunger", "temperature", "hormone", "thirst"],
+      "charadesHint": "Mime being ravenously hungry and desperately thirsty — your body demanding you act on both signals",
+      "passwordHint": "hunger-thirst-brain"
+    },
+    {
+      "id": "hb-053",
+      "word": "FINGERNAIL",
+      "tabooWords": ["nail", "hand", "finger", "grow", "painted"],
+      "charadesHint": "Mime carefully painting all ten nails in precise detail and admiring the result",
+      "passwordHint": "painted-finger-top"
+    },
+    {
+      "id": "hb-054",
+      "word": "EYELID",
+      "tabooWords": ["eye", "blink", "cover", "close", "lash"],
+      "charadesHint": "Mime blinking very slowly and dramatically, lashes sweeping down over your eyes",
+      "passwordHint": "eye-cover"
+    },
+    {
+      "id": "hb-055",
+      "word": "CAPILLARY",
+      "tabooWords": ["blood vessel", "tiny", "skin", "oxygen", "small"],
+      "charadesHint": "Mime the tiniest possible pipes carrying blood right to the surface of the skin",
+      "passwordHint": "tiny-blood-vessel"
+    },
+    {
+      "id": "hb-056",
+      "word": "JAWBONE",
+      "tabooWords": ["jaw", "mandible", "face", "chew", "bone"],
+      "charadesHint": "Mime clenching your jaw tightly and then opening as wide as possible repeatedly",
+      "passwordHint": "mandible"
+    },
+    {
+      "id": "hb-057",
+      "word": "IMMUNE SYSTEM",
+      "tabooWords": [
+        "body",
+        "defence",
+        "fight",
+        "infection",
+        "white blood cells"
+      ],
+      "charadesHint": "Mime an army of tiny soldiers in your bloodstream hunting and destroying invaders",
+      "passwordHint": "body-defence"
+    },
+    {
+      "id": "hb-058",
+      "word": "HEEL",
+      "tabooWords": ["foot", "back", "bone", "shoe", "ground"],
+      "charadesHint": "Mime stamping your heel hard on the floor then hobbling because it's a bit sore",
+      "passwordHint": "foot-back"
+    },
+    {
+      "id": "hb-059",
+      "word": "ARTERY",
+      "tabooWords": ["blood", "vessel", "heart", "oxygen", "pulse"],
+      "charadesHint": "Mime blood being pumped powerfully away from a beating heart through large pulsing pipes",
+      "passwordHint": "from-heart-vessel"
+    },
+    {
+      "id": "hb-060",
+      "word": "BELLY",
+      "tabooWords": ["stomach", "tummy", "abdomen", "round", "middle"],
+      "charadesHint": "Mime patting a rounded stomach contentedly after an enormous meal",
+      "passwordHint": "tummy"
+    }
+  ]
+}

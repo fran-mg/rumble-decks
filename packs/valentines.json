@@ -1,0 +1,502 @@
+{
+  "id": "valentines",
+  "name": "Valentine's Day",
+  "category": "Occasions",
+  "description": "Love, romance, and all things Valentine's — sweet, cheesy, and perfect for couples!",
+  "difficulty": "Easy",
+  "tags": ["love", "romance", "Valentine's", "couples", "relationships"],
+  "cards": [
+    {
+      "id": "val-001",
+      "word": "FIRST KISS",
+      "tabooWords": ["lips", "romantic", "love", "kiss", "date"],
+      "charadesHint": "Mime leaning in nervously, closing your eyes, and puckering up for the very first time",
+      "passwordHint": "romantic-milestone"
+    },
+    {
+      "id": "val-002",
+      "word": "DIAMOND RING",
+      "tabooWords": [
+        "engagement",
+        "propose",
+        "jewellery",
+        "sparkle",
+        "marriage"
+      ],
+      "charadesHint": "Mime getting down on one knee and presenting something tiny and glittering",
+      "passwordHint": "proposal-ring"
+    },
+    {
+      "id": "val-003",
+      "word": "CANDLELIT DINNER",
+      "tabooWords": ["restaurant", "romantic", "food", "candle", "date"],
+      "charadesHint": "Mime sitting across from someone gazing lovingly over flickering candles",
+      "passwordHint": "romantic-dinner"
+    },
+    {
+      "id": "val-004",
+      "word": "CUPID",
+      "tabooWords": ["arrow", "bow", "love", "cherub", "Valentine"],
+      "charadesHint": "Mime flying through the air shooting tiny love arrows at unsuspecting people",
+      "passwordHint": "love-arrows"
+    },
+    {
+      "id": "val-005",
+      "word": "LOVE LETTER",
+      "tabooWords": ["write", "romantic", "words", "message", "card"],
+      "charadesHint": "Mime sitting writing feverishly, sealing with a kiss, and sliding it under a door",
+      "passwordHint": "written-romance"
+    },
+    {
+      "id": "val-006",
+      "word": "RED ROSES",
+      "tabooWords": ["flowers", "Valentine's", "bouquet", "romantic", "gift"],
+      "charadesHint": "Mime presenting a large bouquet with a big flourish and waiting for the reaction",
+      "passwordHint": "dozen-blooms"
+    },
+    {
+      "id": "val-007",
+      "word": "SERENADE",
+      "tabooWords": ["sing", "music", "romantic", "guitar", "love song"],
+      "charadesHint": "Mime standing under a window playing guitar and singing up to a balcony",
+      "passwordHint": "love-song"
+    },
+    {
+      "id": "val-008",
+      "word": "HEART-SHAPED BOX OF CHOCOLATES",
+      "tabooWords": ["chocolate", "gift", "heart", "sweet", "Valentine's"],
+      "charadesHint": "Mime opening a heart-shaped box and selecting chocolates one by one very carefully",
+      "passwordHint": "chocolate-heart"
+    },
+    {
+      "id": "val-009",
+      "word": "SPEED DATING",
+      "tabooWords": ["meeting", "romantic", "date", "talking", "single"],
+      "charadesHint": "Mime sitting opposite someone, chatting intensely for 3 seconds, then spinning to the next person",
+      "passwordHint": "rapid-romance"
+    },
+    {
+      "id": "val-010",
+      "word": "SLOW DANCE",
+      "tabooWords": ["dance", "music", "hold", "romantic", "sway"],
+      "charadesHint": "Mime swaying gently with an invisible partner, eyes closed, completely lost in the moment",
+      "passwordHint": "swaying-together"
+    },
+    {
+      "id": "val-011",
+      "word": "LOVE HEART SWEETS",
+      "tabooWords": ["candy", "message", "Valentine's", "chalky", "sweet"],
+      "charadesHint": "Mime reading tiny chalky messages on heart-shaped sweets and giggling",
+      "passwordHint": "chalky-message-sweets"
+    },
+    {
+      "id": "val-012",
+      "word": "ROMEO AND JULIET",
+      "tabooWords": [
+        "Shakespeare",
+        "love story",
+        "balcony",
+        "tragedy",
+        "star-crossed"
+      ],
+      "charadesHint": "Mime standing on a balcony speaking passionately to someone far below",
+      "passwordHint": "star-crossed-lovers"
+    },
+    {
+      "id": "val-013",
+      "word": "SURPRISE GETAWAY",
+      "tabooWords": ["holiday", "trip", "romantic", "travel", "hotel"],
+      "charadesHint": "Mime blindfolding your partner, bundling them into a car, and revealing a beautiful destination",
+      "passwordHint": "mystery-trip"
+    },
+    {
+      "id": "val-014",
+      "word": "HOLDING HANDS",
+      "tabooWords": ["touch", "romantic", "couple", "walk", "fingers"],
+      "charadesHint": "Mime interlocking fingers with someone and walking with a big contented smile",
+      "passwordHint": "fingers-intertwined"
+    },
+    {
+      "id": "val-015",
+      "word": "LOVE POTION",
+      "tabooWords": ["magic", "drink", "spell", "fall in love", "potion"],
+      "charadesHint": "Mime mixing a bubbling concoction and offering it to someone who immediately becomes besotted",
+      "passwordHint": "magic-romance-drink"
+    },
+    {
+      "id": "val-016",
+      "word": "BREAKFAST IN BED",
+      "tabooWords": ["morning", "tray", "surprise", "food", "romantic"],
+      "charadesHint": "Mime carrying a tray with great care trying not to spill anything while tiptoeing",
+      "passwordHint": "morning-tray"
+    },
+    {
+      "id": "val-017",
+      "word": "MATCH MADE IN HEAVEN",
+      "tabooWords": [
+        "perfect couple",
+        "soul mate",
+        "compatible",
+        "meant to be",
+        "love"
+      ],
+      "charadesHint": "Mime two puzzle pieces clicking together perfectly and glowing",
+      "passwordHint": "perfect-pair"
+    },
+    {
+      "id": "val-018",
+      "word": "JEALOUSY",
+      "tabooWords": [
+        "green-eyed",
+        "envy",
+        "relationship",
+        "possessive",
+        "emotion"
+      ],
+      "charadesHint": "Mime watching your partner chat to someone, your smile fading as you get increasingly tense",
+      "passwordHint": "green-eyed-monster"
+    },
+    {
+      "id": "val-019",
+      "word": "LOVE BOMBING",
+      "tabooWords": [
+        "attention",
+        "overwhelming",
+        "gifts",
+        "messages",
+        "relationship"
+      ],
+      "charadesHint": "Mime sending 50 messages, then arriving with flowers, then booking a surprise holiday — all in one minute",
+      "passwordHint": "overwhelming-affection"
+    },
+    {
+      "id": "val-020",
+      "word": "LONG-DISTANCE RELATIONSHIP",
+      "tabooWords": ["apart", "video call", "miss", "distance", "love"],
+      "charadesHint": "Mime waving goodbye tearfully then blowing kisses at a screen from your sofa",
+      "passwordHint": "video-call-love"
+    },
+    {
+      "id": "val-021",
+      "word": "HONEYMOON",
+      "tabooWords": ["holiday", "married", "newlyweds", "romantic", "travel"],
+      "charadesHint": "Mime being carried over a threshold then collapsing onto a tropical beach with a cocktail",
+      "passwordHint": "newlywed-holiday"
+    },
+    {
+      "id": "val-022",
+      "word": "FLIRTING",
+      "tabooWords": ["wink", "smile", "romance", "attraction", "charming"],
+      "charadesHint": "Mime winking, twirling your hair, and laughing excessively at everything someone says",
+      "passwordHint": "playful-advances"
+    },
+    {
+      "id": "val-023",
+      "word": "TINDER",
+      "tabooWords": ["app", "dating", "swipe", "match", "phone"],
+      "charadesHint": "Mime swiping rapidly left then suddenly right with great enthusiasm",
+      "passwordHint": "swipe-right"
+    },
+    {
+      "id": "val-024",
+      "word": "SECRET ADMIRER",
+      "tabooWords": ["anonymous", "note", "mystery", "flowers", "love"],
+      "charadesHint": "Mime leaving a note on someone's desk then hiding and watching their reaction",
+      "passwordHint": "anonymous-admirer"
+    },
+    {
+      "id": "val-025",
+      "word": "SWEETHEART",
+      "tabooWords": [
+        "darling",
+        "love",
+        "partner",
+        "term of endearment",
+        "affectionate"
+      ],
+      "charadesHint": "Mime cupping someone's face in your hands and looking at them with absolute adoration",
+      "passwordHint": "term-of-endearment"
+    },
+    {
+      "id": "val-026",
+      "word": "WEDDING ANNIVERSARY",
+      "tabooWords": [
+        "married",
+        "years together",
+        "celebrate",
+        "couple",
+        "gift"
+      ],
+      "charadesHint": "Mime flipping through a photo album and recreating wedding photos with your partner",
+      "passwordHint": "yearly-celebration"
+    },
+    {
+      "id": "val-027",
+      "word": "BUBBLE BATH FOR TWO",
+      "tabooWords": ["bath", "romantic", "bubbles", "candles", "relaxing"],
+      "charadesHint": "Mime filling a bath, lighting candles all around, then climbing in with great ceremony",
+      "passwordHint": "romantic-soak"
+    },
+    {
+      "id": "val-028",
+      "word": "LOVE SONG",
+      "tabooWords": ["music", "romantic", "lyrics", "ballad", "singer"],
+      "charadesHint": "Mime belting out a passionate ballad with your hand on your heart and eyes closed",
+      "passwordHint": "romantic-ballad"
+    },
+    {
+      "id": "val-029",
+      "word": "HEARTBREAK",
+      "tabooWords": ["sad", "breakup", "crying", "pain", "love"],
+      "charadesHint": "Mime your heart visibly shattering in your chest and crumpling dramatically to the floor",
+      "passwordHint": "broken-heart"
+    },
+    {
+      "id": "val-030",
+      "word": "THE NOTEBOOK",
+      "tabooWords": ["film", "Ryan Gosling", "romantic", "rain", "love story"],
+      "charadesHint": "Mime standing in pouring rain, arms wide open, declaring love in the most dramatic way possible",
+      "passwordHint": "rain-scene"
+    },
+    {
+      "id": "val-031",
+      "word": "LOVE AT FIRST SIGHT",
+      "tabooWords": [
+        "instant",
+        "attraction",
+        "eyes meet",
+        "romantic",
+        "feeling"
+      ],
+      "charadesHint": "Mime locking eyes with someone across a room and everything around you going in slow motion",
+      "passwordHint": "instant-attraction"
+    },
+    {
+      "id": "val-032",
+      "word": "PROPOSAL",
+      "tabooWords": ["engagement", "ring", "knee", "marry me", "romantic"],
+      "charadesHint": "Mime checking the ring is in your pocket, taking a deep breath, and getting down on one knee",
+      "passwordHint": "will-you-marry-me"
+    },
+    {
+      "id": "val-033",
+      "word": "WEDDING VOWS",
+      "tabooWords": ["promise", "marriage", "ceremony", "I do", "commitment"],
+      "charadesHint": "Mime holding hands and speaking very seriously with a trembling lip at an altar",
+      "passwordHint": "I-do"
+    },
+    {
+      "id": "val-034",
+      "word": "PINK CHAMPAGNE",
+      "tabooWords": ["drink", "celebrate", "fizzy", "romantic", "prosecco"],
+      "charadesHint": "Mime clinking pink glasses with someone by candlelight, eyes sparkling",
+      "passwordHint": "celebration-fizz"
+    },
+    {
+      "id": "val-035",
+      "word": "LOVE LOCK BRIDGE",
+      "tabooWords": ["Paris", "lock", "padlock", "bridge", "romantic"],
+      "charadesHint": "Mime snapping a padlock onto a bridge railing and throwing the key into a river",
+      "passwordHint": "padlock-bridge"
+    },
+    {
+      "id": "val-036",
+      "word": "PASSIONATE KISS",
+      "tabooWords": ["lips", "romantic", "intense", "love", "movie"],
+      "charadesHint": "Mime the dramatic movie kiss — one person dips the other back, music swells",
+      "passwordHint": "movie-kiss"
+    },
+    {
+      "id": "val-037",
+      "word": "CRUSH",
+      "tabooWords": ["like", "fancy", "admire", "feelings", "secret"],
+      "charadesHint": "Mime going red every time a specific person walks by and quickly looking away",
+      "passwordHint": "secret-like"
+    },
+    {
+      "id": "val-038",
+      "word": "EIFFEL TOWER",
+      "tabooWords": ["Paris", "France", "romantic", "landmark", "tower"],
+      "charadesHint": "Mime posing in front of an enormous metal tower for a photo with your loved one",
+      "passwordHint": "Paris-tower"
+    },
+    {
+      "id": "val-039",
+      "word": "STARGAZING",
+      "tabooWords": ["stars", "night", "sky", "romantic", "telescope"],
+      "charadesHint": "Mime lying on a blanket pointing at constellations and whispering quietly",
+      "passwordHint": "night-sky-romance"
+    },
+    {
+      "id": "val-040",
+      "word": "TEDDY BEAR",
+      "tabooWords": ["stuffed", "toy", "gift", "soft", "cuddle"],
+      "charadesHint": "Mime presenting a giant fluffy bear and then hugging it while making it wave",
+      "passwordHint": "stuffed-gift"
+    },
+    {
+      "id": "val-041",
+      "word": "MIXED TAPE",
+      "tabooWords": ["cassette", "songs", "playlist", "music", "romantic"],
+      "charadesHint": "Mime carefully pressing record, choosing songs, and labelling a cassette with hearts",
+      "passwordHint": "cassette-playlist"
+    },
+    {
+      "id": "val-042",
+      "word": "PICNIC IN THE PARK",
+      "tabooWords": ["outdoor", "food", "blanket", "romantic", "sunshine"],
+      "charadesHint": "Mime spreading a blanket, unpacking a basket, and feeding each other strawberries",
+      "passwordHint": "outdoor-romance"
+    },
+    {
+      "id": "val-043",
+      "word": "COUPLE'S MASSAGE",
+      "tabooWords": ["spa", "relax", "romantic", "massage", "treatment"],
+      "charadesHint": "Mime lying side by side on tables while someone works on your shoulders with great satisfaction",
+      "passwordHint": "spa-together"
+    },
+    {
+      "id": "val-044",
+      "word": "LOVE TRIANGLE",
+      "tabooWords": [
+        "three people",
+        "complicated",
+        "jealousy",
+        "relationships",
+        "drama"
+      ],
+      "charadesHint": "Mime standing between two people who both want your attention, looking increasingly panicked",
+      "passwordHint": "three-way-drama"
+    },
+    {
+      "id": "val-045",
+      "word": "BLIND DATE",
+      "tabooWords": ["meeting", "stranger", "romantic", "set up", "first date"],
+      "charadesHint": "Mime arriving at a restaurant, looking nervously around, and sighing with relief when your date is nice",
+      "passwordHint": "stranger-setup"
+    },
+    {
+      "id": "val-046",
+      "word": "LOVE NOTE IN A LUNCHBOX",
+      "tabooWords": ["surprise", "sweet", "hidden", "note", "lunch"],
+      "charadesHint": "Mime opening your lunch and finding a tiny love note hidden inside and beaming",
+      "passwordHint": "hidden-message"
+    },
+    {
+      "id": "val-047",
+      "word": "FAIRY TALE ROMANCE",
+      "tabooWords": [
+        "princess",
+        "prince",
+        "magical",
+        "happy ever after",
+        "castle"
+      ],
+      "charadesHint": "Mime riding a white horse to a castle, scaling a tower, and rescuing someone",
+      "passwordHint": "happily-ever-after"
+    },
+    {
+      "id": "val-048",
+      "word": "WEDDING CAKE",
+      "tabooWords": ["tier", "wedding", "icing", "cut", "celebration"],
+      "charadesHint": "Mime cutting an enormous tiered cake with a new spouse and feeding each other a slice",
+      "passwordHint": "tiered-celebration-cake"
+    },
+    {
+      "id": "val-049",
+      "word": "VALENTINES CARD",
+      "tabooWords": ["heart", "message", "anonymous", "love", "February"],
+      "charadesHint": "Mime writing in a card, adding hearts everywhere, then slipping it under a door",
+      "passwordHint": "February-card"
+    },
+    {
+      "id": "val-050",
+      "word": "ROMANTIC COMEDY",
+      "tabooWords": ["film", "romcom", "love story", "funny", "Hollywood"],
+      "charadesHint": "Mime running through an airport, catching someone before they board a plane, and kissing them",
+      "passwordHint": "romcom-ending"
+    },
+    {
+      "id": "val-051",
+      "word": "BUTTERFLIES IN YOUR STOMACH",
+      "tabooWords": ["nervous", "excited", "feeling", "love", "stomach"],
+      "charadesHint": "Mime your stomach fluttering and wings flapping inside your belly every time you see someone",
+      "passwordHint": "nervous-excitement"
+    },
+    {
+      "id": "val-052",
+      "word": "LOVE BIRDS",
+      "tabooWords": ["couple", "together", "romantic", "birds", "affectionate"],
+      "charadesHint": "Mime two birds sitting on a perch grooming each other adoringly",
+      "passwordHint": "affectionate-couple"
+    },
+    {
+      "id": "val-053",
+      "word": "CANDYFLOSS KISS",
+      "tabooWords": ["sweet", "fair", "fun", "kiss", "fluffy"],
+      "charadesHint": "Mime sharing a giant cloud of candyfloss at a funfair, faces getting sticky, then kissing",
+      "passwordHint": "fair-sweetness"
+    },
+    {
+      "id": "val-054",
+      "word": "HEART EMOJI",
+      "tabooWords": ["emoji", "phone", "text", "love", "digital"],
+      "charadesHint": "Mime texting someone and placing your hands in a heart shape at the camera",
+      "passwordHint": "red-emoji"
+    },
+    {
+      "id": "val-055",
+      "word": "GROW OLD TOGETHER",
+      "tabooWords": ["age", "commitment", "couple", "lifelong", "love"],
+      "charadesHint": "Mime holding someone's hand and walking slowly, both of you stooped, still laughing together",
+      "passwordHint": "lifelong-love"
+    },
+    {
+      "id": "val-056",
+      "word": "PARIS",
+      "tabooWords": ["France", "city", "Eiffel Tower", "romantic", "trip"],
+      "charadesHint": "Mime strolling along the Seine, croissant in hand, gazing at the Eiffel Tower with your love",
+      "passwordHint": "city-of-love"
+    },
+    {
+      "id": "val-057",
+      "word": "SAYING I LOVE YOU",
+      "tabooWords": [
+        "first time",
+        "words",
+        "feeling",
+        "expression",
+        "emotional"
+      ],
+      "charadesHint": "Mime taking a nervous deep breath, hesitating, then the words finally tumbling out",
+      "passwordHint": "three-words"
+    },
+    {
+      "id": "val-058",
+      "word": "LINGERIE",
+      "tabooWords": [
+        "underwear",
+        "lace",
+        "Valentine's gift",
+        "romantic",
+        "intimate"
+      ],
+      "charadesHint": "Mime nervously presenting a fancy ribbon-wrapped gift box and looking expectant",
+      "passwordHint": "romantic-underwear"
+    },
+    {
+      "id": "val-059",
+      "word": "DANCING IN THE RAIN",
+      "tabooWords": ["romantic", "wet", "movie", "music", "spontaneous"],
+      "charadesHint": "Mime stepping into pouring rain, arms open wide, spinning and laughing with complete joy",
+      "passwordHint": "singin-in-the-rain"
+    },
+    {
+      "id": "val-060",
+      "word": "SOUL MATE",
+      "tabooWords": ["perfect", "meant to be", "love", "partner", "destiny"],
+      "charadesHint": "Mime searching the whole world, looking in every corner, then finding one person and glowing",
+      "passwordHint": "destined-partner"
+    }
+  ]
+}

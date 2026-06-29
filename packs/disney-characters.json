@@ -1,0 +1,437 @@
+{
+  "id": "disney-characters",
+  "name": "Disney Characters",
+  "category": "Entertainment",
+  "description": "Beloved heroes, villains, and sidekicks from the world of Disney",
+  "difficulty": "Easy",
+  "tags": ["disney", "animation", "family-friendly", "kids", "movies"],
+  "cardCount": 60,
+  "cards": [
+    {
+      "id": "disney-001",
+      "word": "MICKEY MOUSE",
+      "tabooWords": ["mouse", "ears", "Disney", "cartoon", "Minnie"],
+      "charadesHint": "hold round ears on your head and wave cheerily",
+      "passwordHint": "ears"
+    },
+    {
+      "id": "disney-002",
+      "word": "SIMBA",
+      "tabooWords": ["lion", "king", "pride", "Africa", "Mufasa"],
+      "charadesHint": "crouch low then roar proudly as the future Lion King",
+      "passwordHint": "lion cub"
+    },
+    {
+      "id": "disney-003",
+      "word": "ELSA",
+      "tabooWords": ["Frozen", "ice", "snow", "Anna", "queen"],
+      "charadesHint": "fling arms out and create a palace of ice in one go",
+      "passwordHint": "Let It Go"
+    },
+    {
+      "id": "disney-004",
+      "word": "MOANA",
+      "tabooWords": ["ocean", "Hawaii", "island", "boat", "sea"],
+      "charadesHint": "sail a canoe toward the horizon guided by the ocean",
+      "passwordHint": "ocean chosen"
+    },
+    {
+      "id": "disney-005",
+      "word": "BUZZ LIGHTYEAR",
+      "tabooWords": ["space", "ranger", "Toy Story", "infinity", "beyond"],
+      "charadesHint": "press your chest button, wings pop out, and salute sharply",
+      "passwordHint": "to infinity"
+    },
+    {
+      "id": "disney-006",
+      "word": "WOODY",
+      "tabooWords": ["cowboy", "Toy Story", "hat", "sheriff", "Andy"],
+      "charadesHint": "tip a cowboy hat and reach for a lasso",
+      "passwordHint": "cowboy"
+    },
+    {
+      "id": "disney-007",
+      "word": "URSULA",
+      "tabooWords": [
+        "Little Mermaid",
+        "octopus",
+        "tentacles",
+        "sea witch",
+        "Ariel"
+      ],
+      "charadesHint": "wave multiple tentacles and cackle as a sinister sea witch",
+      "passwordHint": "sea witch"
+    },
+    {
+      "id": "disney-008",
+      "word": "DUMBO",
+      "tabooWords": ["elephant", "ears", "fly", "circus", "trunk"],
+      "charadesHint": "flap enormous ears and slowly take off into the air",
+      "passwordHint": "flying elephant"
+    },
+    {
+      "id": "disney-009",
+      "word": "GOOFY",
+      "tabooWords": ["dog", "Mickey", "clumsy", "Disney", "silly"],
+      "charadesHint": "trip over your own feet and go A-HYUCK",
+      "passwordHint": "clumsy"
+    },
+    {
+      "id": "disney-010",
+      "word": "BELLE",
+      "tabooWords": ["Beauty", "Beast", "book", "yellow", "dress"],
+      "charadesHint": "walk through a village lost in a book in a blue apron",
+      "passwordHint": "book lover"
+    },
+    {
+      "id": "disney-011",
+      "word": "TINKER BELL",
+      "tabooWords": ["fairy", "Peter Pan", "dust", "tiny", "wings"],
+      "charadesHint": "flutter tiny wings, sprinkle dust, and fly in a small loop",
+      "passwordHint": "fairy dust"
+    },
+    {
+      "id": "disney-012",
+      "word": "SCAR",
+      "tabooWords": ["Lion King", "villain", "Mufasa", "scar", "hyena"],
+      "charadesHint": "drag a claw down your cheek and sneer at your brother",
+      "passwordHint": "villain scar"
+    },
+    {
+      "id": "disney-013",
+      "word": "ALADDIN",
+      "tabooWords": ["lamp", "genie", "Agrabah", "magic", "carpet"],
+      "charadesHint": "rub a lamp then ride a flying carpet through the stars",
+      "passwordHint": "magic lamp"
+    },
+    {
+      "id": "disney-014",
+      "word": "GENIE",
+      "tabooWords": ["lamp", "three", "wishes", "Robin", "blue"],
+      "charadesHint": "burst from a lamp in a cloud of smoke and grant wishes",
+      "passwordHint": "three wishes"
+    },
+    {
+      "id": "disney-015",
+      "word": "MALEFICENT",
+      "tabooWords": ["Sleeping Beauty", "villain", "curse", "horns", "dragon"],
+      "charadesHint": "raise a staff with a glowing orb and cast a sleeping curse",
+      "passwordHint": "spinning wheel curse"
+    },
+    {
+      "id": "disney-016",
+      "word": "CINDERELLA",
+      "tabooWords": ["glass", "slipper", "ball", "midnight", "prince"],
+      "charadesHint": "rush down stairs as a clock strikes midnight losing your shoe",
+      "passwordHint": "glass slipper"
+    },
+    {
+      "id": "disney-017",
+      "word": "PETER PAN",
+      "tabooWords": ["Neverland", "fly", "lost boys", "Hook", "shadow"],
+      "charadesHint": "crow like a rooster and fly off to Neverland",
+      "passwordHint": "Neverland"
+    },
+    {
+      "id": "disney-018",
+      "word": "CRUELLA DE VIL",
+      "tabooWords": ["dalmatians", "spots", "fur", "villain", "fashion"],
+      "charadesHint": "sweep in with a cigarette holder obsessing over spotted puppies",
+      "passwordHint": "dalmatians"
+    },
+    {
+      "id": "disney-019",
+      "word": "BALOO",
+      "tabooWords": ["Jungle Book", "bear", "Mowgli", "lazy", "jungle"],
+      "charadesHint": "sway and dance singing about bare necessities",
+      "passwordHint": "bare necessities"
+    },
+    {
+      "id": "disney-020",
+      "word": "STITCH",
+      "tabooWords": ["alien", "Hawaii", "Lilo", "blue", "experiment"],
+      "charadesHint": "scuttle on all fours with big ears making alien sounds",
+      "passwordHint": "alien experiment"
+    },
+    {
+      "id": "disney-021",
+      "word": "FLOUNDER",
+      "tabooWords": ["Little Mermaid", "fish", "Ariel", "friend", "stripes"],
+      "charadesHint": "dart and swim nervously as Ariel's best fish friend",
+      "passwordHint": "Ariel's fish"
+    },
+    {
+      "id": "disney-022",
+      "word": "SEBASTIAN",
+      "tabooWords": ["crab", "Little Mermaid", "music", "Caribbean", "Ariel"],
+      "charadesHint": "conduct an undersea orchestra while waving little claws",
+      "passwordHint": "under the sea"
+    },
+    {
+      "id": "disney-023",
+      "word": "RAPUNZEL",
+      "tabooWords": ["hair", "long", "tower", "Tangled", "lanterns"],
+      "charadesHint": "swing your impossibly long hair out of a tower window",
+      "passwordHint": "long hair"
+    },
+    {
+      "id": "disney-024",
+      "word": "PASCAL",
+      "tabooWords": ["Tangled", "chameleon", "Rapunzel", "colour", "lizard"],
+      "charadesHint": "change colour and cling to a shoulder as a small chameleon",
+      "passwordHint": "chameleon"
+    },
+    {
+      "id": "disney-025",
+      "word": "MUSHU",
+      "tabooWords": ["Mulan", "dragon", "small", "red", "ancestor"],
+      "charadesHint": "puff a tiny flame as a miniature red dragon on someone's shoulder",
+      "passwordHint": "tiny dragon"
+    },
+    {
+      "id": "disney-026",
+      "word": "POCAHONTAS",
+      "tabooWords": ["Native", "American", "wind", "colours", "Smith"],
+      "charadesHint": "stand at a cliff edge with hair streaming in the wind",
+      "passwordHint": "colours of the wind"
+    },
+    {
+      "id": "disney-027",
+      "word": "HADES",
+      "tabooWords": ["Hercules", "underworld", "flame", "villain", "god"],
+      "charadesHint": "speak very fast with blue flaming hair suddenly bursting red",
+      "passwordHint": "underworld"
+    },
+    {
+      "id": "disney-028",
+      "word": "HERCULES",
+      "tabooWords": ["strong", "god", "Greece", "muscle", "Hades"],
+      "charadesHint": "flex enormous muscles and toss a column like a javelin",
+      "passwordHint": "zero to hero"
+    },
+    {
+      "id": "disney-029",
+      "word": "SNOW WHITE",
+      "tabooWords": ["seven", "dwarfs", "apple", "poison", "fairest"],
+      "charadesHint": "bite a shiny apple then fall into a deep enchanted sleep",
+      "passwordHint": "poison apple"
+    },
+    {
+      "id": "disney-030",
+      "word": "PINOCCHIO",
+      "tabooWords": ["nose", "lie", "puppet", "Gepetto", "real"],
+      "charadesHint": "tell a lie and watch your nose slowly grow longer",
+      "passwordHint": "growing nose"
+    },
+    {
+      "id": "disney-031",
+      "word": "BAMBI",
+      "tabooWords": ["deer", "forest", "mother", "fawn", "Thumper"],
+      "charadesHint": "wobble on new spindly legs as a newborn fawn in the forest",
+      "passwordHint": "baby deer"
+    },
+    {
+      "id": "disney-032",
+      "word": "THUMPER",
+      "tabooWords": ["rabbit", "Bambi", "foot", "thump", "friend"],
+      "charadesHint": "thump your foot rapidly on the ground like an excited rabbit",
+      "passwordHint": "thumping rabbit"
+    },
+    {
+      "id": "disney-033",
+      "word": "DORY",
+      "tabooWords": ["Finding Nemo", "fish", "forget", "memory", "blue"],
+      "charadesHint": "swim cheerfully then forget where you were going mid-sentence",
+      "passwordHint": "just keep swimming"
+    },
+    {
+      "id": "disney-034",
+      "word": "NEMO",
+      "tabooWords": ["clownfish", "ocean", "Marlin", "reef", "fin"],
+      "charadesHint": "swim with one smaller fin on one side looking for dad",
+      "passwordHint": "lucky fin"
+    },
+    {
+      "id": "disney-035",
+      "word": "WALL-E",
+      "tabooWords": ["robot", "Earth", "trash", "space", "EVE"],
+      "charadesHint": "compact rubbish into cubes and collect trinkets with beeping sounds",
+      "passwordHint": "rubbish robot"
+    },
+    {
+      "id": "disney-036",
+      "word": "EVE",
+      "tabooWords": ["WALL-E", "robot", "plant", "white", "probe"],
+      "charadesHint": "hover elegantly then scan for plant life with a laser",
+      "passwordHint": "plant probe"
+    },
+    {
+      "id": "disney-037",
+      "word": "REMY",
+      "tabooWords": ["Ratatouille", "rat", "cook", "Paris", "chef"],
+      "charadesHint": "pull someone's hair to steer them as a rat hidden under a hat",
+      "passwordHint": "rat chef"
+    },
+    {
+      "id": "disney-038",
+      "word": "MERIDA",
+      "tabooWords": ["Brave", "arrow", "Scotland", "curly", "hair"],
+      "charadesHint": "draw back a longbow with wild curly red hair flying",
+      "passwordHint": "Scottish archer"
+    },
+    {
+      "id": "disney-039",
+      "word": "OLAF",
+      "tabooWords": ["snowman", "Frozen", "summer", "carrot", "snow"],
+      "charadesHint": "mime being a snowman dreaming of lying on a warm sunny beach",
+      "passwordHint": "snowman summer"
+    },
+    {
+      "id": "disney-040",
+      "word": "SVEN",
+      "tabooWords": ["reindeer", "Frozen", "Kristoff", "horns", "sleigh"],
+      "charadesHint": "gallop on all fours like a reindeer pulling a sleigh",
+      "passwordHint": "reindeer"
+    },
+    {
+      "id": "disney-041",
+      "word": "ANNA",
+      "tabooWords": ["Frozen", "Elsa", "sister", "Olaf", "Arendelle"],
+      "charadesHint": "charge boldly into a blizzard shouting for your sister",
+      "passwordHint": "Elsa's sister"
+    },
+    {
+      "id": "disney-042",
+      "word": "KRONK",
+      "tabooWords": ["Emperor", "New Groove", "Yzma", "shoulder", "angel"],
+      "charadesHint": "listen to tiny angels and devils on each shoulder looking confused",
+      "passwordHint": "shoulder angel"
+    },
+    {
+      "id": "disney-043",
+      "word": "KUZCO",
+      "tabooWords": ["Emperor", "Groove", "llama", "selfish", "Peru"],
+      "charadesHint": "strut arrogantly then suddenly turn into a llama",
+      "passwordHint": "emperor llama"
+    },
+    {
+      "id": "disney-044",
+      "word": "MUFASA",
+      "tabooWords": ["Lion King", "Simba", "father", "king", "spirit"],
+      "charadesHint": "speak in a deep rumbling voice from the clouds to your son",
+      "passwordHint": "Simba's father"
+    },
+    {
+      "id": "disney-045",
+      "word": "TIMON",
+      "tabooWords": ["meerkat", "Lion King", "Pumbaa", "Hakuna", "Matata"],
+      "charadesHint": "stand on a meerkat perch singing Hakuna Matata",
+      "passwordHint": "Hakuna Matata"
+    },
+    {
+      "id": "disney-046",
+      "word": "PUMBAA",
+      "tabooWords": ["warthog", "Lion King", "Timon", "Hakuna", "gas"],
+      "charadesHint": "trot proudly as a warthog and belt out a carefree song",
+      "passwordHint": "warthog"
+    },
+    {
+      "id": "disney-047",
+      "word": "GASTON",
+      "tabooWords": ["Beauty", "Beast", "villain", "big", "handsome"],
+      "charadesHint": "flex muscles at every mirror and boast about being roughly the size of a barge",
+      "passwordHint": "no one like Gaston"
+    },
+    {
+      "id": "disney-048",
+      "word": "LUMIERE",
+      "tabooWords": ["candlestick", "Beauty", "Beast", "French", "light"],
+      "charadesHint": "hold arms up as candle flames and speak in an exaggerated French accent",
+      "passwordHint": "candlestick"
+    },
+    {
+      "id": "disney-049",
+      "word": "MRS POTTS",
+      "tabooWords": ["teapot", "Beauty", "Beast", "Chip", "tea"],
+      "charadesHint": "pour tea graciously from a round pot with a motherly smile",
+      "passwordHint": "teapot"
+    },
+    {
+      "id": "disney-050",
+      "word": "CAPTAIN HOOK",
+      "tabooWords": ["Peter Pan", "hook", "pirate", "captain", "crocodile"],
+      "charadesHint": "wave a hook where a hand should be and fear ticking clocks",
+      "passwordHint": "hook hand"
+    },
+    {
+      "id": "disney-051",
+      "word": "IAGO",
+      "tabooWords": ["Aladdin", "parrot", "Jafar", "bird", "talk"],
+      "charadesHint": "perch on a shoulder and squawk sarcastic complaints",
+      "passwordHint": "sarcastic parrot"
+    },
+    {
+      "id": "disney-052",
+      "word": "JAFAR",
+      "tabooWords": ["Aladdin", "villain", "staff", "snake", "sorcerer"],
+      "charadesHint": "twirl a tall staff topped with a snake and scheme magnificently",
+      "passwordHint": "snake staff"
+    },
+    {
+      "id": "disney-053",
+      "word": "QUASIMODO",
+      "tabooWords": ["hunchback", "Notre Dame", "bell", "tower", "Esmeralda"],
+      "charadesHint": "hunch shoulders and swing from cathedral bell ropes",
+      "passwordHint": "hunchback"
+    },
+    {
+      "id": "disney-054",
+      "word": "ESMERALDA",
+      "tabooWords": ["Hunchback", "Notre Dame", "gypsy", "dance", "Quasimodo"],
+      "charadesHint": "spin and dance with a tambourine in the plaza",
+      "passwordHint": "gypsy dancer"
+    },
+    {
+      "id": "disney-055",
+      "word": "TARZAN",
+      "tabooWords": ["jungle", "apes", "swing", "vine", "Africa"],
+      "charadesHint": "beat your chest and swing on a vine through the jungle",
+      "passwordHint": "vine swinger"
+    },
+    {
+      "id": "disney-056",
+      "word": "TIANA",
+      "tabooWords": ["Princess", "Frog", "New Orleans", "cook", "restaurant"],
+      "charadesHint": "stir a giant pot of gumbo in New Orleans as a frog",
+      "passwordHint": "frog princess"
+    },
+    {
+      "id": "disney-057",
+      "word": "BAYMAX",
+      "tabooWords": ["Big Hero", "robot", "healthcare", "fluffy", "white"],
+      "charadesHint": "waddle with arms slightly out like a big inflatable healthcare robot",
+      "passwordHint": "healthcare robot"
+    },
+    {
+      "id": "disney-058",
+      "word": "MAUI",
+      "tabooWords": ["Moana", "demigod", "hook", "tattoos", "shapeshifter"],
+      "charadesHint": "flex tattoos and swing a giant fish hook as a demigod",
+      "passwordHint": "demigod hook"
+    },
+    {
+      "id": "disney-059",
+      "word": "BING BONG",
+      "tabooWords": ["Inside Out", "imaginary", "friend", "pink", "elephant"],
+      "charadesHint": "be an imaginary friend made of cotton candy who cries candy",
+      "passwordHint": "imaginary friend"
+    },
+    {
+      "id": "disney-060",
+      "word": "MIRABEL",
+      "tabooWords": ["Encanto", "Colombia", "magic", "Madrigal", "gift"],
+      "charadesHint": "stand giftless among magical relatives in a vibrant Colombian house",
+      "passwordHint": "no gift"
+    }
+  ]
+}
