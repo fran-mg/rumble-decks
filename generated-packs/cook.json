@@ -1,0 +1,846 @@
+{
+  "id": "cook",
+  "name": "Cook",
+  "category": "Lifestyle",
+  "description": "Get ready to spice up your word-guessing skills with this culinary-themed deck!",
+  "difficulty": "Medium",
+  "tags": [
+    "food",
+    "kitchen"
+  ],
+  "cardCount": 64,
+  "cards": [
+    {
+      "id": "cook-001",
+      "word": "RECIPE",
+      "tabooWords": [
+        "book",
+        "instructions",
+        "food",
+        "cook",
+        "bake"
+      ],
+      "charadesHint": "miming writing",
+      "passwordHint": "follow to make dish"
+    },
+    {
+      "id": "cook-002",
+      "word": "KITCHEN",
+      "tabooWords": [
+        "house",
+        "room",
+        "food",
+        "cook",
+        "utensils"
+      ],
+      "charadesHint": "miming cooking",
+      "passwordHint": "place for cooking"
+    },
+    {
+      "id": "cook-003",
+      "word": "CHEF",
+      "tabooWords": [
+        "cook",
+        "kitchen",
+        "food",
+        "hat",
+        "restaurant"
+      ],
+      "charadesHint": "miming wearing a hat",
+      "passwordHint": "professional cook"
+    },
+    {
+      "id": "cook-004",
+      "word": "INGREDIENT",
+      "tabooWords": [
+        "food",
+        "item",
+        "recipe",
+        "cook",
+        "bake"
+      ],
+      "charadesHint": "miming holding a product",
+      "passwordHint": "part of a dish"
+    },
+    {
+      "id": "cook-005",
+      "word": "BAKE",
+      "tabooWords": [
+        "cook",
+        "oven",
+        "heat",
+        "food",
+        "cake"
+      ],
+      "charadesHint": "miming putting in oven",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-006",
+      "word": "OVEN",
+      "tabooWords": [
+        "heat",
+        "cook",
+        "bake",
+        "kitchen",
+        "stove"
+      ],
+      "charadesHint": "miming opening oven door",
+      "passwordHint": "cooking appliance"
+    },
+    {
+      "id": "cook-007",
+      "word": "STOVE",
+      "tabooWords": [
+        "cook",
+        "heat",
+        "kitchen",
+        "oven",
+        "burner"
+      ],
+      "charadesHint": "miming turning knobs",
+      "passwordHint": "cooking appliance"
+    },
+    {
+      "id": "cook-008",
+      "word": "FRY",
+      "tabooWords": [
+        "cook",
+        "oil",
+        "heat",
+        "food",
+        "pan"
+      ],
+      "charadesHint": "miming putting in pan",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-009",
+      "word": "GRILL",
+      "tabooWords": [
+        "cook",
+        "heat",
+        "outdoor",
+        "food",
+        "barbecue"
+      ],
+      "charadesHint": "miming turning meat",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-010",
+      "word": "BOIL",
+      "tabooWords": [
+        "cook",
+        "water",
+        "heat",
+        "food",
+        "pot"
+      ],
+      "charadesHint": "miming watching pot",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-011",
+      "word": "STEAM",
+      "tabooWords": [
+        "cook",
+        "heat",
+        "water",
+        "food",
+        "vegetable"
+      ],
+      "charadesHint": "miming steaming food",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-012",
+      "word": "ROAST",
+      "tabooWords": [
+        "cook",
+        "heat",
+        "oven",
+        "food",
+        "meat"
+      ],
+      "charadesHint": "miming putting in oven",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-013",
+      "word": "SIMMER",
+      "tabooWords": [
+        "cook",
+        "heat",
+        "water",
+        "food",
+        "low"
+      ],
+      "charadesHint": "miming watching pot",
+      "passwordHint": "method of cooking"
+    },
+    {
+      "id": "cook-014",
+      "word": "BLENDER",
+      "tabooWords": [
+        "mix",
+        "food",
+        "kitchen",
+        "appliance",
+        "smoothie"
+      ],
+      "charadesHint": "miming blending",
+      "passwordHint": "kitchen appliance"
+    },
+    {
+      "id": "cook-015",
+      "word": "TOASTER",
+      "tabooWords": [
+        "bread",
+        "heat",
+        "kitchen",
+        "appliance",
+        "breakfast"
+      ],
+      "charadesHint": "miming putting in bread",
+      "passwordHint": "kitchen appliance"
+    },
+    {
+      "id": "cook-016",
+      "word": "MIX",
+      "tabooWords": [
+        "blend",
+        "food",
+        "kitchen",
+        "recipe",
+        "bowl"
+      ],
+      "charadesHint": "miming mixing",
+      "passwordHint": "combining ingredients"
+    },
+    {
+      "id": "cook-017",
+      "word": "CHOP",
+      "tabooWords": [
+        "cut",
+        "food",
+        "kitchen",
+        "knife",
+        "vegetable"
+      ],
+      "charadesHint": "miming chopping",
+      "passwordHint": "preparing ingredients"
+    },
+    {
+      "id": "cook-018",
+      "word": "PEEL",
+      "tabooWords": [
+        "skin",
+        "food",
+        "kitchen",
+        "fruit",
+        "vegetable"
+      ],
+      "charadesHint": "miming peeling",
+      "passwordHint": "removing outer layer"
+    },
+    {
+      "id": "cook-019",
+      "word": "DICE",
+      "tabooWords": [
+        "cut",
+        "food",
+        "kitchen",
+        "knife",
+        "small"
+      ],
+      "charadesHint": "miming cutting into small pieces",
+      "passwordHint": "preparing ingredients"
+    },
+    {
+      "id": "cook-020",
+      "word": "MINCE",
+      "tabooWords": [
+        "cut",
+        "food",
+        "kitchen",
+        "knife",
+        "small"
+      ],
+      "charadesHint": "miming cutting into very small pieces",
+      "passwordHint": "preparing ingredients"
+    },
+    {
+      "id": "cook-021",
+      "word": "SAUCE",
+      "tabooWords": [
+        "condiment",
+        "food",
+        "kitchen",
+        "recipe",
+        "flavor"
+      ],
+      "charadesHint": "miming pouring sauce",
+      "passwordHint": "adding flavor to dish"
+    },
+    {
+      "id": "cook-022",
+      "word": "SPICE",
+      "tabooWords": [
+        "seasoning",
+        "food",
+        "kitchen",
+        "recipe",
+        "flavor"
+      ],
+      "charadesHint": "miming adding spice",
+      "passwordHint": "adding flavor to dish"
+    },
+    {
+      "id": "cook-023",
+      "word": "HERB",
+      "tabooWords": [
+        "plant",
+        "food",
+        "kitchen",
+        "recipe",
+        "flavor"
+      ],
+      "charadesHint": "miming picking herb",
+      "passwordHint": "adding flavor to dish"
+    },
+    {
+      "id": "cook-024",
+      "word": "MARINADE",
+      "tabooWords": [
+        "soak",
+        "food",
+        "kitchen",
+        "recipe",
+        "flavor"
+      ],
+      "charadesHint": "miming soaking food",
+      "passwordHint": "preparing ingredients"
+    },
+    {
+      "id": "cook-025",
+      "word": "BATTER",
+      "tabooWords": [
+        "mix",
+        "food",
+        "kitchen",
+        "recipe",
+        "fried"
+      ],
+      "charadesHint": "miming mixing batter",
+      "passwordHint": "coating for food"
+    },
+    {
+      "id": "cook-026",
+      "word": "DOUGH",
+      "tabooWords": [
+        "mix",
+        "food",
+        "kitchen",
+        "recipe",
+        "baked"
+      ],
+      "charadesHint": "miming kneading dough",
+      "passwordHint": "base for baked goods"
+    },
+    {
+      "id": "cook-027",
+      "word": "PASTRY",
+      "tabooWords": [
+        "baked",
+        "food",
+        "kitchen",
+        "recipe",
+        "sweet"
+      ],
+      "charadesHint": "miming making pastry",
+      "passwordHint": "type of baked good"
+    },
+    {
+      "id": "cook-028",
+      "word": "CAKE",
+      "tabooWords": [
+        "baked",
+        "food",
+        "kitchen",
+        "recipe",
+        "sweet"
+      ],
+      "charadesHint": "miming making cake",
+      "passwordHint": "type of baked good"
+    },
+    {
+      "id": "cook-029",
+      "word": "COOKIE",
+      "tabooWords": [
+        "baked",
+        "food",
+        "kitchen",
+        "recipe",
+        "sweet"
+      ],
+      "charadesHint": "miming making cookies",
+      "passwordHint": "type of baked good"
+    },
+    {
+      "id": "cook-030",
+      "word": "PUDDING",
+      "tabooWords": [
+        "dessert",
+        "food",
+        "kitchen",
+        "recipe",
+        "sweet"
+      ],
+      "charadesHint": "miming making pudding",
+      "passwordHint": "type of dessert"
+    },
+    {
+      "id": "cook-031",
+      "word": "SOUP",
+      "tabooWords": [
+        "liquid",
+        "food",
+        "kitchen",
+        "recipe",
+        "warm"
+      ],
+      "charadesHint": "miming eating soup",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-032",
+      "word": "STEW",
+      "tabooWords": [
+        "liquid",
+        "food",
+        "kitchen",
+        "recipe",
+        "warm"
+      ],
+      "charadesHint": "miming eating stew",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-033",
+      "word": "SALAD",
+      "tabooWords": [
+        "green",
+        "food",
+        "kitchen",
+        "recipe",
+        "healthy"
+      ],
+      "charadesHint": "miming making salad",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-034",
+      "word": "SANDWICH",
+      "tabooWords": [
+        "bread",
+        "food",
+        "kitchen",
+        "recipe",
+        "filling"
+      ],
+      "charadesHint": "miming making sandwich",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-035",
+      "word": "TACOS",
+      "tabooWords": [
+        "mexican",
+        "food",
+        "kitchen",
+        "recipe",
+        "shell"
+      ],
+      "charadesHint": "miming eating tacos",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-036",
+      "word": "PASTA",
+      "tabooWords": [
+        "italian",
+        "food",
+        "kitchen",
+        "recipe",
+        "noodles"
+      ],
+      "charadesHint": "miming eating pasta",
+      "passwordHint": "type of dish"
+    },
+    {
+      "id": "cook-037",
+      "word": "RICE",
+      "tabooWords": [
+        "grain",
+        "food",
+        "kitchen",
+        "recipe",
+        "side"
+      ],
+      "charadesHint": "miming eating rice",
+      "passwordHint": "type of side dish"
+    },
+    {
+      "id": "cook-038",
+      "word": "MEAT",
+      "tabooWords": [
+        "animal",
+        "food",
+        "kitchen",
+        "recipe",
+        "protein"
+      ],
+      "charadesHint": "miming eating meat",
+      "passwordHint": "type of food"
+    },
+    {
+      "id": "cook-039",
+      "word": "VEGETABLE",
+      "tabooWords": [
+        "plant",
+        "food",
+        "kitchen",
+        "recipe",
+        "healthy"
+      ],
+      "charadesHint": "miming eating vegetable",
+      "passwordHint": "type of food"
+    },
+    {
+      "id": "cook-040",
+      "word": "FRUIT",
+      "tabooWords": [
+        "plant",
+        "food",
+        "kitchen",
+        "recipe",
+        "sweet"
+      ],
+      "charadesHint": "miming eating fruit",
+      "passwordHint": "type of food"
+    },
+    {
+      "id": "cook-041",
+      "word": "DESSERT",
+      "tabooWords": [
+        "sweet",
+        "food",
+        "kitchen",
+        "recipe",
+        "treat"
+      ],
+      "charadesHint": "miming eating dessert",
+      "passwordHint": "type of course"
+    },
+    {
+      "id": "cook-042",
+      "word": "APPETIZER",
+      "tabooWords": [
+        "small",
+        "food",
+        "kitchen",
+        "recipe",
+        "start"
+      ],
+      "charadesHint": "miming eating appetizer",
+      "passwordHint": "type of course"
+    },
+    {
+      "id": "cook-043",
+      "word": "MAIN COURSE",
+      "tabooWords": [
+        "big",
+        "food",
+        "kitchen",
+        "recipe",
+        "middle"
+      ],
+      "charadesHint": "miming eating main course",
+      "passwordHint": "type of course"
+    },
+    {
+      "id": "cook-044",
+      "word": "BEVERAGE",
+      "tabooWords": [
+        "drink",
+        "liquid",
+        "kitchen",
+        "recipe",
+        "refreshing"
+      ],
+      "charadesHint": "miming drinking",
+      "passwordHint": "type of drink"
+    },
+    {
+      "id": "cook-045",
+      "word": "BREAKFAST",
+      "tabooWords": [
+        "morning",
+        "food",
+        "kitchen",
+        "recipe",
+        "start"
+      ],
+      "charadesHint": "miming eating breakfast",
+      "passwordHint": "type of meal"
+    },
+    {
+      "id": "cook-046",
+      "word": "LUNCH",
+      "tabooWords": [
+        "afternoon",
+        "food",
+        "kitchen",
+        "recipe",
+        "middle"
+      ],
+      "charadesHint": "miming eating lunch",
+      "passwordHint": "type of meal"
+    },
+    {
+      "id": "cook-047",
+      "word": "DINNER",
+      "tabooWords": [
+        "evening",
+        "food",
+        "kitchen",
+        "recipe",
+        "end"
+      ],
+      "charadesHint": "miming eating dinner",
+      "passwordHint": "type of meal"
+    },
+    {
+      "id": "cook-048",
+      "word": "SNACK",
+      "tabooWords": [
+        "small",
+        "food",
+        "kitchen",
+        "recipe",
+        "inbetween"
+      ],
+      "charadesHint": "miming eating snack",
+      "passwordHint": "type of food"
+    },
+    {
+      "id": "cook-049",
+      "word": "FEAST",
+      "tabooWords": [
+        "big",
+        "food",
+        "kitchen",
+        "recipe",
+        "celebration"
+      ],
+      "charadesHint": "miming eating feast",
+      "passwordHint": "type of meal"
+    },
+    {
+      "id": "cook-050",
+      "word": "BARBECUE",
+      "tabooWords": [
+        "outdoor",
+        "food",
+        "kitchen",
+        "recipe",
+        "grill"
+      ],
+      "charadesHint": "miming grilling",
+      "passwordHint": "type of cooking"
+    },
+    {
+      "id": "cook-051",
+      "word": "PICNIC",
+      "tabooWords": [
+        "outdoor",
+        "food",
+        "kitchen",
+        "recipe",
+        "nature"
+      ],
+      "charadesHint": "miming eating outdoors",
+      "passwordHint": "type of meal"
+    },
+    {
+      "id": "cook-052",
+      "word": "RESTAURANT",
+      "tabooWords": [
+        "eat",
+        "food",
+        "kitchen",
+        "recipe",
+        "out"
+      ],
+      "charadesHint": "miming eating out",
+      "passwordHint": "place to eat"
+    },
+    {
+      "id": "cook-053",
+      "word": "CUISINE",
+      "tabooWords": [
+        "food",
+        "kitchen",
+        "recipe",
+        "style",
+        "culture"
+      ],
+      "charadesHint": "miming cooking",
+      "passwordHint": "type of food"
+    },
+    {
+      "id": "cook-054",
+      "word": "RECIPE BOOK",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "recipe",
+        "book"
+      ],
+      "charadesHint": "miming reading book",
+      "passwordHint": "collection of recipes"
+    },
+    {
+      "id": "cook-055",
+      "word": "KITCHEN UTENSILS",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "tools",
+        "equipment"
+      ],
+      "charadesHint": "miming using utensils",
+      "passwordHint": "tools for cooking"
+    },
+    {
+      "id": "cook-056",
+      "word": "COOKING TECHNIQUE",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "method",
+        "skill"
+      ],
+      "charadesHint": "miming cooking",
+      "passwordHint": "way of preparing food"
+    },
+    {
+      "id": "cook-057",
+      "word": "FOOD SAFETY",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "safe",
+        "healthy"
+      ],
+      "charadesHint": "miming handling food safely",
+      "passwordHint": "precautions for handling food"
+    },
+    {
+      "id": "cook-058",
+      "word": "MEAL PLANNING",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "plan",
+        "organize"
+      ],
+      "charadesHint": "miming planning meals",
+      "passwordHint": "organizing meals in advance"
+    },
+    {
+      "id": "cook-059",
+      "word": "GROCERY SHOPPING",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "shop",
+        "buy"
+      ],
+      "charadesHint": "miming shopping",
+      "passwordHint": "buying food and ingredients"
+    },
+    {
+      "id": "cook-060",
+      "word": "FOOD STORAGE",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "store",
+        "keep"
+      ],
+      "charadesHint": "miming storing food",
+      "passwordHint": "keeping food fresh"
+    },
+    {
+      "id": "cook-061",
+      "word": "LEFTOVERS",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "remain",
+        "save"
+      ],
+      "charadesHint": "miming saving food",
+      "passwordHint": "saving uneaten food"
+    },
+    {
+      "id": "cook-062",
+      "word": "FOOD WASTE",
+      "tabooWords": [
+        "cook",
+        "food",
+        "kitchen",
+        "waste",
+        "throw"
+      ],
+      "charadesHint": "miming throwing away food",
+      "passwordHint": "uneaten or unwanted food"
+    },
+    {
+      "id": "cook-063",
+      "word": "DIET",
+      "tabooWords": [
+        "food",
+        "kitchen",
+        "healthy",
+        "eat",
+        "restrict"
+      ],
+      "charadesHint": "miming eating healthy",
+      "passwordHint": "restricted eating plan"
+    },
+    {
+      "id": "cook-064",
+      "word": "NUTRITION",
+      "tabooWords": [
+        "food",
+        "kitchen",
+        "healthy",
+        "eat",
+        "science"
+      ],
+      "charadesHint": "miming eating nutritious food",
+      "passwordHint": "study of healthy eating"
+    }
+  ]
+}
