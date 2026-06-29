@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "asd",
+      "name": "asd",
+      "category": "Community Generated",
+      "description": "A fun collection of words related to Asperger's syndrome, autism, and social differences",
+      "icon": "Sparkles",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/generated-packs/asd.json",
+      "cardCount": 15
+    },
+    {
       "id": "sdfsdfsdf",
       "name": "sdfsdfsdf",
       "category": "Community Generated",
