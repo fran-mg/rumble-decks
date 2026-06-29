@@ -1,0 +1,833 @@
+{
+  "id": "baseball",
+  "name": "Baseball",
+  "category": "Sports",
+  "description": "Step up to the plate and test your knowledge of America's favorite pastime",
+  "difficulty": "Medium",
+  "tags": [
+    "Sports",
+    "Baseball"
+  ],
+  "cardCount": 63,
+  "cards": [
+    {
+      "id": "baseball-001",
+      "word": "PITCHER",
+      "tabooWords": [
+        "throw",
+        "ball",
+        "baseball",
+        "player",
+        "sport"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "team member"
+    },
+    {
+      "id": "baseball-002",
+      "word": "BAT",
+      "tabooWords": [
+        "hit",
+        "wood",
+        "swing",
+        "baseball",
+        "sport"
+      ],
+      "charadesHint": "mimic swinging motion",
+      "passwordHint": "player's tool"
+    },
+    {
+      "id": "baseball-003",
+      "word": "GLOVE",
+      "tabooWords": [
+        "hand",
+        "catch",
+        "baseball",
+        "player",
+        "equipment"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "player's hand protection"
+    },
+    {
+      "id": "baseball-004",
+      "word": "HOME RUN",
+      "tabooWords": [
+        "hit",
+        "ball",
+        "out",
+        "field",
+        "score"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "exciting play"
+    },
+    {
+      "id": "baseball-005",
+      "word": "STRIKE",
+      "tabooWords": [
+        "ball",
+        "pitch",
+        "out",
+        "swing",
+        "miss"
+      ],
+      "charadesHint": "mimic umpire's motion",
+      "passwordHint": "unsuccessful swing"
+    },
+    {
+      "id": "baseball-006",
+      "word": "CATCHER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "sport"
+      ],
+      "charadesHint": "mimic crouching motion",
+      "passwordHint": "team member"
+    },
+    {
+      "id": "baseball-007",
+      "word": "UMPIRE",
+      "tabooWords": [
+        "referee",
+        "judge",
+        "baseball",
+        "game",
+        "sport"
+      ],
+      "charadesHint": "mimic making a call",
+      "passwordHint": "game official"
+    },
+    {
+      "id": "baseball-008",
+      "word": "FIELD",
+      "tabooWords": [
+        "grass",
+        "dirt",
+        "baseball",
+        "stadium",
+        "park"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "playing area"
+    },
+    {
+      "id": "baseball-009",
+      "word": "STADIUM",
+      "tabooWords": [
+        "arena",
+        "field",
+        "baseball",
+        "game",
+        "sport"
+      ],
+      "charadesHint": "mimic large structure",
+      "passwordHint": "game venue"
+    },
+    {
+      "id": "baseball-010",
+      "word": "TEAM",
+      "tabooWords": [
+        "players",
+        "baseball",
+        "sport",
+        "game",
+        "competition"
+      ],
+      "charadesHint": "mimic group of people",
+      "passwordHint": "group of players"
+    },
+    {
+      "id": "baseball-011",
+      "word": "UNIFORM",
+      "tabooWords": [
+        "clothes",
+        "jersey",
+        "baseball",
+        "player",
+        "team"
+      ],
+      "charadesHint": "mimic putting on clothes",
+      "passwordHint": "player's attire"
+    },
+    {
+      "id": "baseball-012",
+      "word": "MANAGER",
+      "tabooWords": [
+        "coach",
+        "leader",
+        "baseball",
+        "team",
+        "sport"
+      ],
+      "charadesHint": "mimic giving instructions",
+      "passwordHint": "team leader"
+    },
+    {
+      "id": "baseball-013",
+      "word": "INNING",
+      "tabooWords": [
+        "period",
+        "game",
+        "baseball",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic clock motion",
+      "passwordHint": "game segment"
+    },
+    {
+      "id": "baseball-014",
+      "word": "OUT",
+      "tabooWords": [
+        "strike",
+        "ball",
+        "play",
+        "game",
+        "baseball"
+      ],
+      "charadesHint": "mimic umpire's motion",
+      "passwordHint": "unsuccessful play"
+    },
+    {
+      "id": "baseball-015",
+      "word": "RUN",
+      "tabooWords": [
+        "score",
+        "point",
+        "baseball",
+        "game",
+        "play"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "player's score"
+    },
+    {
+      "id": "baseball-016",
+      "word": "BALLPARK",
+      "tabooWords": [
+        "stadium",
+        "field",
+        "baseball",
+        "game",
+        "sport"
+      ],
+      "charadesHint": "mimic large structure",
+      "passwordHint": "game venue"
+    },
+    {
+      "id": "baseball-017",
+      "word": "DUGOUT",
+      "tabooWords": [
+        "bench",
+        "seat",
+        "baseball",
+        "team",
+        "player"
+      ],
+      "charadesHint": "mimic sitting motion",
+      "passwordHint": "team's resting area"
+    },
+    {
+      "id": "baseball-018",
+      "word": "BULLPEN",
+      "tabooWords": [
+        "pitcher",
+        "reliever",
+        "baseball",
+        "team",
+        "game"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "pitcher's waiting area"
+    },
+    {
+      "id": "baseball-019",
+      "word": "SHORTSTOP",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "infield position"
+    },
+    {
+      "id": "baseball-020",
+      "word": "FIRST BASEMAN",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "infield position"
+    },
+    {
+      "id": "baseball-021",
+      "word": "SECOND BASEMAN",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "infield position"
+    },
+    {
+      "id": "baseball-022",
+      "word": "THIRD BASEMAN",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "infield position"
+    },
+    {
+      "id": "baseball-023",
+      "word": "LEFT FIELDER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "outfield position"
+    },
+    {
+      "id": "baseball-024",
+      "word": "CENTER FIELDER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "outfield position"
+    },
+    {
+      "id": "baseball-025",
+      "word": "RIGHT FIELDER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "field"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "outfield position"
+    },
+    {
+      "id": "baseball-026",
+      "word": "DESIGNATED HITTER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "bat"
+      ],
+      "charadesHint": "mimic hitting motion",
+      "passwordHint": "specialized player"
+    },
+    {
+      "id": "baseball-027",
+      "word": "PINCH HITTER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "bat"
+      ],
+      "charadesHint": "mimic hitting motion",
+      "passwordHint": "substitute player"
+    },
+    {
+      "id": "baseball-028",
+      "word": "PINCH RUNNER",
+      "tabooWords": [
+        "player",
+        "position",
+        "baseball",
+        "team",
+        "run"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "substitute player"
+    },
+    {
+      "id": "baseball-029",
+      "word": "RELIEF PITCHER",
+      "tabooWords": [
+        "pitcher",
+        "player",
+        "baseball",
+        "team",
+        "game"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "specialized pitcher"
+    },
+    {
+      "id": "baseball-030",
+      "word": "STARTING PITCHER",
+      "tabooWords": [
+        "pitcher",
+        "player",
+        "baseball",
+        "team",
+        "game"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "initial pitcher"
+    },
+    {
+      "id": "baseball-031",
+      "word": "CLOSER",
+      "tabooWords": [
+        "pitcher",
+        "player",
+        "baseball",
+        "team",
+        "game"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "final pitcher"
+    },
+    {
+      "id": "baseball-032",
+      "word": "BASE",
+      "tabooWords": [
+        "field",
+        "baseball",
+        "game",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "playing field feature"
+    },
+    {
+      "id": "baseball-033",
+      "word": "MOUND",
+      "tabooWords": [
+        "pitcher",
+        "baseball",
+        "game",
+        "field",
+        "play"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "pitcher's location"
+    },
+    {
+      "id": "baseball-034",
+      "word": "PLATE",
+      "tabooWords": [
+        "baseball",
+        "game",
+        "field",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic hitting motion",
+      "passwordHint": "hitter's target"
+    },
+    {
+      "id": "baseball-035",
+      "word": "SWING",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "bat"
+      ],
+      "charadesHint": "mimic swinging motion",
+      "passwordHint": "hitter's action"
+    },
+    {
+      "id": "baseball-036",
+      "word": "CATCH",
+      "tabooWords": [
+        "throw",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic catching motion",
+      "passwordHint": "fielder's action"
+    },
+    {
+      "id": "baseball-037",
+      "word": "THROW",
+      "tabooWords": [
+        "pitch",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic throwing motion",
+      "passwordHint": "fielder's action"
+    },
+    {
+      "id": "baseball-038",
+      "word": "RUN SCORED",
+      "tabooWords": [
+        "score",
+        "point",
+        "baseball",
+        "game",
+        "play"
+      ],
+      "charadesHint": "mimic running motion",
+      "passwordHint": "player's achievement"
+    },
+    {
+      "id": "baseball-039",
+      "word": "STRIKEOUT",
+      "tabooWords": [
+        "out",
+        "baseball",
+        "game",
+        "play",
+        "swing"
+      ],
+      "charadesHint": "mimic umpire's motion",
+      "passwordHint": "unsuccessful play"
+    },
+    {
+      "id": "baseball-040",
+      "word": "GROUND BALL",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic rolling motion",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-041",
+      "word": "FLY BALL",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic flying motion",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-042",
+      "word": "LINE DRIVE",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic straight motion",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-043",
+      "word": "SINGLE",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic one finger",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-044",
+      "word": "DOUBLE",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic two fingers",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-045",
+      "word": "TRIPLE",
+      "tabooWords": [
+        "hit",
+        "baseball",
+        "game",
+        "play",
+        "score"
+      ],
+      "charadesHint": "mimic three fingers",
+      "passwordHint": "type of hit"
+    },
+    {
+      "id": "baseball-046",
+      "word": "HOME RUN DERBY",
+      "tabooWords": [
+        "competition",
+        "baseball",
+        "game",
+        "play",
+        "hit"
+      ],
+      "charadesHint": "mimic hitting motion",
+      "passwordHint": "exciting event"
+    },
+    {
+      "id": "baseball-047",
+      "word": "WORLD SERIES",
+      "tabooWords": [
+        "championship",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic trophy motion",
+      "passwordHint": "prestigious tournament"
+    },
+    {
+      "id": "baseball-048",
+      "word": "ALL-STAR GAME",
+      "tabooWords": [
+        "exhibition",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic star motion",
+      "passwordHint": "special game"
+    },
+    {
+      "id": "baseball-049",
+      "word": "SPRING TRAINING",
+      "tabooWords": [
+        "preseason",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic warm-up motion",
+      "passwordHint": "preseason preparation"
+    },
+    {
+      "id": "baseball-050",
+      "word": "REGULAR SEASON",
+      "tabooWords": [
+        "schedule",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic calendar motion",
+      "passwordHint": "main season"
+    },
+    {
+      "id": "baseball-051",
+      "word": "POSTSEASON",
+      "tabooWords": [
+        "playoffs",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic trophy motion",
+      "passwordHint": "tournament season"
+    },
+    {
+      "id": "baseball-052",
+      "word": "DIVISION SERIES",
+      "tabooWords": [
+        "playoffs",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic division motion",
+      "passwordHint": "tournament round"
+    },
+    {
+      "id": "baseball-053",
+      "word": "LEAGUE CHAMPIONSHIP SERIES",
+      "tabooWords": [
+        "playoffs",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic championship motion",
+      "passwordHint": "tournament round"
+    },
+    {
+      "id": "baseball-054",
+      "word": "WILD CARD",
+      "tabooWords": [
+        "playoffs",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic card motion",
+      "passwordHint": "special spot"
+    },
+    {
+      "id": "baseball-055",
+      "word": "BASEBALL CARD",
+      "tabooWords": [
+        "collectible",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic card motion",
+      "passwordHint": "player's collectible"
+    },
+    {
+      "id": "baseball-056",
+      "word": "BASEBALL BATTING GLOVES",
+      "tabooWords": [
+        "equipment",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic glove motion",
+      "passwordHint": "player's gear"
+    },
+    {
+      "id": "baseball-057",
+      "word": "BASEBALL CLEATS",
+      "tabooWords": [
+        "shoes",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic shoe motion",
+      "passwordHint": "player's footwear"
+    },
+    {
+      "id": "baseball-058",
+      "word": "BASEBALL FIELD DIMENSIONS",
+      "tabooWords": [
+        "measurement",
+        "baseball",
+        "game",
+        "play",
+        "field"
+      ],
+      "charadesHint": "mimic measuring motion",
+      "passwordHint": "field's size"
+    },
+    {
+      "id": "baseball-059",
+      "word": "BASEBALL HALL OF FAME",
+      "tabooWords": [
+        "museum",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic hall motion",
+      "passwordHint": "legendary players' place"
+    },
+    {
+      "id": "baseball-060",
+      "word": "BASEBALL HISTORY",
+      "tabooWords": [
+        "past",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic book motion",
+      "passwordHint": "game's past"
+    },
+    {
+      "id": "baseball-061",
+      "word": "BASEBALL LINGO",
+      "tabooWords": [
+        "terminology",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic talking motion",
+      "passwordHint": "game's language"
+    },
+    {
+      "id": "baseball-062",
+      "word": "BASEBALL RULES",
+      "tabooWords": [
+        "regulations",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic book motion",
+      "passwordHint": "game's guidelines"
+    },
+    {
+      "id": "baseball-063",
+      "word": "BASEBALL STRATEGY",
+      "tabooWords": [
+        "tactics",
+        "baseball",
+        "game",
+        "play",
+        "team"
+      ],
+      "charadesHint": "mimic thinking motion",
+      "passwordHint": "game's planning"
+    }
+  ]
+}
