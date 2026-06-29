@@ -1,3 +1,14 @@
 {
-  "decks": []
+  "decks": [
+    {
+      "id": "90s-cartoons",
+      "name": "90s cartoons",
+      "category": "Community Generated",
+      "description": "Get ready for a blast from the past with this pack of 90s cartoon-themed word-guessing game cards",
+      "icon": "Sparkles",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/generated-packs/90s-cartoons.json",
+      "cardCount": 15
+    }
+  ]
 }
