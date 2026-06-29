@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "90scartoons",
+      "name": "90sCartoons",
+      "category": "Community Generated",
+      "description": "Relive the radical world of 90s cartoons with this nostalgic word-guessing game pack",
+      "icon": "Sparkles",
+      "color": "#8B5CF6",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/generated-packs/90scartoons.json",
+      "cardCount": 15
+    },
+    {
       "id": "space-exploration",
       "name": "space exploration",
       "category": "Community Generated",
