@@ -7,7 +7,7 @@
       "description": "From household pets to wild beasts — guess the creature!",
       "icon": "PawPrint",
       "color": "#22C55E",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/animals.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/animals.json",
       "cardCount": 60
     },
     {
@@ -17,7 +17,7 @@
       "description": "Actors, athletes, politicians, and legends — who are they?",
       "icon": "Star",
       "color": "#F59E0B",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-people.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/famous-people.json",
       "cardCount": 60
     },
     {
@@ -27,7 +27,7 @@
       "description": "Dishes, ingredients, cuisines, and beverages from around the world.",
       "icon": "UtensilsCrossed",
       "color": "#EF4444",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/food-and-drink.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/food-and-drink.json",
       "cardCount": 60
     },
     {
@@ -37,7 +37,7 @@
       "description": "Events, figures, and moments that shaped the world.",
       "icon": "Landmark",
       "color": "#A16207",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/history.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/history.json",
       "cardCount": 60
     },
     {
@@ -47,7 +47,7 @@
       "description": "Iconic films from every genre and era — lights, camera, guess!",
       "icon": "Film",
       "color": "#EAB308",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/movies.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/movies.json",
       "cardCount": 60
     },
     {
@@ -57,7 +57,7 @@
       "description": "Artists, bands, songs, and genres spanning decades of music.",
       "icon": "Music",
       "color": "#8B5CF6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/music.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/music.json",
       "cardCount": 60
     },
     {
@@ -67,7 +67,7 @@
       "description": "Cities, countries, landmarks, and destinations across the globe.",
       "icon": "MapPin",
       "color": "#06B6D4",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/places.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/places.json",
       "cardCount": 60
     },
     {
@@ -77,7 +77,7 @@
       "description": "Trends, celebs, shows, and moments that defined the 2000s.",
       "icon": "Tv",
       "color": "#EC4899",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/pop-culture-2000s.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/pop-culture-2000s.json",
       "cardCount": 60
     },
     {
@@ -87,7 +87,7 @@
       "description": "Inventions, discoveries, concepts, and tech that changed the world.",
       "icon": "FlaskConical",
       "color": "#3B82F6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/science-and-technology.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/science-and-technology.json",
       "cardCount": 60
     },
     {
@@ -97,7 +97,7 @@
       "description": "Athletes, teams, sports, and legendary moments in sporting history.",
       "icon": "Trophy",
       "color": "#F97316",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/sports.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/sports.json",
       "cardCount": 60
     },
     {
@@ -107,7 +107,7 @@
       "description": "Classic and modern television series everyone has watched.",
       "icon": "MonitorPlay",
       "color": "#14B8A6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/tv-shows.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/tv-shows.json",
       "cardCount": 38
     },
     {
@@ -117,7 +117,7 @@
       "description": "Characters, planets, and iconic moments from a galaxy far, far away.",
       "icon": "Sword",
       "color": "#FACC15",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/star-wars.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/star-wars.json",
       "cardCount": 60
     },
     {
@@ -127,7 +127,7 @@
       "description": "Nations of the world — flags, capitals, and cultures.",
       "icon": "Globe",
       "color": "#06B6D4",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/countries.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/countries.json",
       "cardCount": 60
     },
     {
@@ -137,7 +137,7 @@
       "description": "Heroes, aliens, robots, and futuristic worlds beyond imagination.",
       "icon": "Zap",
       "color": "#8B5CF6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/superhero-sci-fi.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/superhero-sci-fi.json",
       "cardCount": 60
     },
     {
@@ -147,7 +147,7 @@
       "description": "Legendary movies, directors, and cinematic moments across all genres.",
       "icon": "Clapperboard",
       "color": "#EAB308",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/films.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/films.json",
       "cardCount": 60
     },
     {
@@ -157,7 +157,7 @@
       "description": "Monsters, phobias, horror icons, and things that go bump in the night.",
       "icon": "Ghost",
       "color": "#6B21A8",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/scary-things.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/scary-things.json",
       "cardCount": 60
     },
     {
@@ -167,7 +167,7 @@
       "description": "Jobs and careers from every walk of life — what do they do?",
       "icon": "Briefcase",
       "color": "#0EA5E9",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/professions.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/professions.json",
       "cardCount": 60
     },
     {
@@ -177,7 +177,7 @@
       "description": "From strings to percussion — can you mime or describe the instrument?",
       "icon": "Music",
       "color": "#EC4899",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/music-instruments.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/music-instruments.json",
       "cardCount": 60
     },
     {
@@ -187,7 +187,7 @@
       "description": "Binge-worthy series, films, and originals from the Netflix universe.",
       "icon": "MonitorPlay",
       "color": "#DC2626",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/netflix.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/netflix.json",
       "cardCount": 60
     },
     {
@@ -197,7 +197,7 @@
       "description": "Batman, Superman, Wonder Woman and the wider DC universe.",
       "icon": "ShieldHalf",
       "color": "#1D4ED8",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/dc-comics.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/dc-comics.json",
       "cardCount": 60
     },
     {
@@ -207,7 +207,7 @@
       "description": "Heroes, villains, and iconic moments from the Marvel Universe.",
       "icon": "Sparkles",
       "color": "#DC2626",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/marvel.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/marvel.json",
       "cardCount": 60
     },
     {
@@ -217,7 +217,7 @@
       "description": "Fashion, accessories, and everything you wear.",
       "icon": "Shirt",
       "color": "#F472B6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/clothing.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/clothing.json",
       "cardCount": 60
     },
     {
@@ -227,7 +227,7 @@
       "description": "Everyday objects found around the home.",
       "icon": "Home",
       "color": "#84CC16",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/household-items.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/household-items.json",
       "cardCount": 60
     },
     {
@@ -237,7 +237,7 @@
       "description": "The worst presents anyone could ever receive.",
       "icon": "Gift",
       "color": "#EF4444",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/terrible-gifts.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/terrible-gifts.json",
       "cardCount": 60
     },
     {
@@ -247,7 +247,7 @@
       "description": "Famous structures, monuments, and natural wonders of the world.",
       "icon": "Landmark",
       "color": "#0EA5E9",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/landmarks.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/landmarks.json",
       "cardCount": 60
     },
     {
@@ -257,7 +257,7 @@
       "description": "Emotions, reactions, and faces — act it out with just your expression.",
       "icon": "Smile",
       "color": "#FBBF24",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/facial-expressions.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/facial-expressions.json",
       "cardCount": 60
     },
     {
@@ -267,7 +267,7 @@
       "description": "Beloved heroes, villains, and sidekicks from the world of Disney.",
       "icon": "Star",
       "color": "#3B82F6",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/disney-characters.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/disney-characters.json",
       "cardCount": 60
     },
     {
@@ -277,7 +277,7 @@
       "description": "Spells, characters, creatures, and places from the wizarding world.",
       "icon": "Wand",
       "color": "#7C3AED",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/harry-potter.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/harry-potter.json",
       "cardCount": 60
     },
     {
@@ -287,7 +287,7 @@
       "description": "Everyday foods and ingredients found in any kitchen cupboard.",
       "icon": "ShoppingBasket",
       "color": "#F59E0B",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/household-foods.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/household-foods.json",
       "cardCount": 60
     },
     {
@@ -297,7 +297,7 @@
       "description": "Everything festive — from carols to crackers and Santa to stockings.",
       "icon": "Gift",
       "color": "#DC2626",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/christmas.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/christmas.json",
       "cardCount": 60
     },
     {
@@ -307,7 +307,7 @@
       "description": "Eggs, bunnies, and springtime traditions — all things Easter.",
       "icon": "Egg",
       "color": "#86EFAC",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/easter.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/easter.json",
       "cardCount": 60
     },
     {
@@ -317,7 +317,7 @@
       "description": "Sun, sea, ice cream and holidays — everything about summer.",
       "icon": "Sun",
       "color": "#F59E0B",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/summer.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/summer.json",
       "cardCount": 60
     },
     {
@@ -327,7 +327,7 @@
       "description": "Snow, frost, cosy nights and winter wonderlands.",
       "icon": "Snowflake",
       "color": "#93C5FD",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/winter.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/winter.json",
       "cardCount": 60
     },
     {
@@ -337,7 +337,7 @@
       "description": "Iconic car manufacturers and their famous models from around the world.",
       "icon": "Car",
       "color": "#64748B",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/car-brands.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/car-brands.json",
       "cardCount": 60
     },
     {
@@ -347,7 +347,7 @@
       "description": "Songs, shows and stars from the greatest musicals on stage and screen.",
       "icon": "Music2",
       "color": "#C026D3",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/musicals.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/musicals.json",
       "cardCount": 60
     },
     {
@@ -357,7 +357,7 @@
       "description": "Sweet, sharp and exotic — fruits from around the world.",
       "icon": "Apple",
       "color": "#EF4444",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/fruits.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/fruits.json",
       "cardCount": 60
     },
     {
@@ -367,7 +367,7 @@
       "description": "Legendary leaders, scientists, artists and icons who changed the world.",
       "icon": "Crown",
       "color": "#854D0E",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-figures.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/famous-figures.json",
       "cardCount": 60
     },
     {
@@ -377,7 +377,7 @@
       "description": "Spooky costumes, monsters and trick-or-treat — all things Halloween.",
       "icon": "Ghost",
       "color": "#EA580C",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/halloween.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/halloween.json",
       "cardCount": 60
     },
     {
@@ -387,7 +387,7 @@
       "description": "Iconic logos, slogans, and companies — from fashion to fast food.",
       "icon": "ShoppingBag",
       "color": "#6366F1",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/famous-brands.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/famous-brands.json",
       "cardCount": 60
     },
     {
@@ -397,7 +397,7 @@
       "description": "All things British — royals, traditions, slang, food, and iconic moments.",
       "icon": "Crown",
       "color": "#DC2626",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/great-britain.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/great-britain.json",
       "cardCount": 60
     },
     {
@@ -407,7 +407,7 @@
       "description": "Love, romance, and all things Valentine's — sweet, cheesy, and perfect for couples!",
       "icon": "Heart",
       "color": "#F43F5E",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/valentines.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/valentines.json",
       "cardCount": 60
     },
     {
@@ -417,7 +417,7 @@
       "description": "Think fast — describe the colour without saying it! Shades, tones, and everything in between.",
       "icon": "Palette",
       "color": "#A855F7",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/colours.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/colours.json",
       "cardCount": 60
     },
     {
@@ -427,7 +427,7 @@
       "description": "From bones to organs — everything inside and outside the human body.",
       "icon": "HeartPulse",
       "color": "#EF4444",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/human-body.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/human-body.json",
       "cardCount": 60
     },
     {
@@ -437,7 +437,7 @@
       "description": "No words allowed — make the sound and let your team guess! Noises, animals, machines, and more.",
       "icon": "Volume2",
       "color": "#F97316",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/sounds-only.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/sounds-only.json",
       "cardCount": 60
     },
     {
@@ -447,7 +447,7 @@
       "description": "No talking allowed — use only your body to act out these words and phrases!",
       "icon": "PersonStanding",
       "color": "#F97316",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/act-it-out.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/act-it-out.json",
       "cardCount": 60
     },
     {
@@ -457,7 +457,7 @@
       "description": "Become someone else! Impersonate famous faces, characters, and personalities — no names allowed!",
       "icon": "Theater",
       "color": "#A855F7",
-      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/packs/impersonations.json",
+      "url": "https://raw.githubusercontent.com/fran-mg/rumble-decks/main/packs/impersonations.json",
       "cardCount": 60
     }
   ]
