@@ -1,0 +1,196 @@
+{
+  "id": "sdfsdfsdf",
+  "name": "sdfsdfsdf",
+  "category": "Community Generated",
+  "description": "A whimsical collection of nonsensical terms to challenge your vocabulary",
+  "icon": "Sparkles",
+  "color": "#8B5CF6",
+  "difficulty": "medium",
+  "tags": [
+    "ai",
+    "community"
+  ],
+  "cardCount": 15,
+  "cards": [
+    {
+      "id": "sdfsdfsdf-card-1",
+      "word": "Gibberish",
+      "tabooWords": [
+        "nonsense",
+        "jargon",
+        "babble",
+        "gabble"
+      ],
+      "charadesHint": "act out talking nonsense",
+      "passwordHint": "a type of meaningless talk"
+    },
+    {
+      "id": "sdfsdfsdf-card-2",
+      "word": "Jargon",
+      "tabooWords": [
+        "slang",
+        "terminology",
+        "lingo",
+        "vernacular"
+      ],
+      "charadesHint": "mime using technical terms",
+      "passwordHint": "specialized language"
+    },
+    {
+      "id": "sdfsdfsdf-card-3",
+      "word": "Babble",
+      "tabooWords": [
+        "prattle",
+        "chatter",
+        "gossip",
+        "blabber"
+      ],
+      "charadesHint": "act out talking excessively",
+      "passwordHint": "talking idly"
+    },
+    {
+      "id": "sdfsdfsdf-card-4",
+      "word": "Mumbojumbo",
+      "tabooWords": [
+        "nonsense",
+        "hocuspocus",
+        "abracadabra",
+        "gibberish"
+      ],
+      "charadesHint": "mime magic spells",
+      "passwordHint": "meaningless words"
+    },
+    {
+      "id": "sdfsdfsdf-card-5",
+      "word": "Gobbledygook",
+      "tabooWords": [
+        "jargon",
+        "bureaucratese",
+        "technospeak",
+        "legalese"
+      ],
+      "charadesHint": "act out using complicated language",
+      "passwordHint": "language that is hard to understand"
+    },
+    {
+      "id": "sdfsdfsdf-card-6",
+      "word": "Wug",
+      "tabooWords": [
+        "nonsense",
+        "madeup",
+        "fictional",
+        "imaginary"
+      ],
+      "charadesHint": "draw an imaginary creature",
+      "passwordHint": "a word used in linguistic experiments"
+    },
+    {
+      "id": "sdfsdfsdf-card-7",
+      "word": "Flimflam",
+      "tabooWords": [
+        "deception",
+        "swindle",
+        "scam",
+        "hoax"
+      ],
+      "charadesHint": "act out cheating someone",
+      "passwordHint": "a type of confidence trick"
+    },
+    {
+      "id": "sdfsdfsdf-card-8",
+      "word": "Hogwash",
+      "tabooWords": [
+        "nonsense",
+        "rubbish",
+        "foolishness",
+        "poppycock"
+      ],
+      "charadesHint": "mime throwing away trash",
+      "passwordHint": "something that is completely wrong"
+    },
+    {
+      "id": "sdfsdfsdf-card-9",
+      "word": "Poppycock",
+      "tabooWords": [
+        "nonsense",
+        "hogwash",
+        "bunkum",
+        "folderol"
+      ],
+      "charadesHint": "act out talking nonsense",
+      "passwordHint": "something that is completely untrue"
+    },
+    {
+      "id": "sdfsdfsdf-card-10",
+      "word": "Bunkum",
+      "tabooWords": [
+        "nonsense",
+        "hogwash",
+        "poppycock",
+        "folderol"
+      ],
+      "charadesHint": "mime speaking foolishly",
+      "passwordHint": "language that is insincere or misleading"
+    },
+    {
+      "id": "sdfsdfsdf-card-11",
+      "word": "Folderol",
+      "tabooWords": [
+        "nonsense",
+        "bunkum",
+        "poppycock",
+        "hogwash"
+      ],
+      "charadesHint": "act out wasting time",
+      "passwordHint": "something that is useless or meaningless"
+    },
+    {
+      "id": "sdfsdfsdf-card-12",
+      "word": "Whimsy",
+      "tabooWords": [
+        "fantasy",
+        "whim",
+        "caprice",
+        "fancy"
+      ],
+      "charadesHint": "mime being playful",
+      "passwordHint": "a feeling or mood of lighthearted, fanciful, or playful humor"
+    },
+    {
+      "id": "sdfsdfsdf-card-13",
+      "word": "Waffle",
+      "tabooWords": [
+        "talk",
+        "speak",
+        "prattle",
+        "babble"
+      ],
+      "charadesHint": "act out talking excessively",
+      "passwordHint": "to talk or write at length without saying much"
+    },
+    {
+      "id": "sdfsdfsdf-card-14",
+      "word": "Blabber",
+      "tabooWords": [
+        "talk",
+        "speak",
+        "prattle",
+        "gabble"
+      ],
+      "charadesHint": "mime talking too much",
+      "passwordHint": "to talk excessively and aimlessly"
+    },
+    {
+      "id": "sdfsdfsdf-card-15",
+      "word": "Gallimaufry",
+      "tabooWords": [
+        "mixture",
+        "hash",
+        "jumble",
+        "medley"
+      ],
+      "charadesHint": "act out mixing different things",
+      "passwordHint": "a dish made from a mixture of leftover food"
+    }
+  ]
+}
