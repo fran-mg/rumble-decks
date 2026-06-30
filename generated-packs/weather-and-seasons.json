@@ -1,0 +1,873 @@
+{
+  "id": "weather-and-seasons",
+  "name": "Weather And Seasons",
+  "category": "Science",
+  "description": "Explore the fascinating world of weather and seasons with this exciting word-guessing game",
+  "difficulty": "Medium",
+  "tags": [
+    "weather",
+    "seasons",
+    "climate"
+  ],
+  "cardCount": 66,
+  "cards": [
+    {
+      "id": "weather-and-seasons-001",
+      "word": "RAINBOW",
+      "tabooWords": [
+        "colors",
+        "arc",
+        "sky",
+        "beautiful",
+        "optical"
+      ],
+      "charadesHint": "act like you're seeing something colorful in the sky",
+      "passwordHint": "after the rain"
+    },
+    {
+      "id": "weather-and-seasons-002",
+      "word": "TORNADO",
+      "tabooWords": [
+        "twister",
+        "storm",
+        "wind",
+        "dangerous",
+        "destruction"
+      ],
+      "charadesHint": "mimic a spinning motion with your arms",
+      "passwordHint": "severe weather"
+    },
+    {
+      "id": "weather-and-seasons-003",
+      "word": "SNOWFLAKE",
+      "tabooWords": [
+        "winter",
+        "cold",
+        "ice",
+        "flakey",
+        "delicate"
+      ],
+      "charadesHint": "act like you're catching something fragile on your tongue",
+      "passwordHint": "unique crystal"
+    },
+    {
+      "id": "weather-and-seasons-004",
+      "word": "SUNSET",
+      "tabooWords": [
+        "evening",
+        "dusk",
+        "golden",
+        "hour",
+        "romantic"
+      ],
+      "charadesHint": "mimic the sun moving below the horizon",
+      "passwordHint": "end of the day"
+    },
+    {
+      "id": "weather-and-seasons-005",
+      "word": "HURRICANE",
+      "tabooWords": [
+        "storm",
+        "wind",
+        "rain",
+        "flood",
+        "disaster"
+      ],
+      "charadesHint": "act like you're being blown away by strong winds",
+      "passwordHint": "tropical cyclone"
+    },
+    {
+      "id": "weather-and-seasons-006",
+      "word": "CLOUDY",
+      "tabooWords": [
+        "overcast",
+        "gloomy",
+        "rainy",
+        "stormy",
+        "weather"
+      ],
+      "charadesHint": "mimic covering your eyes from the sun",
+      "passwordHint": "not sunny"
+    },
+    {
+      "id": "weather-and-seasons-007",
+      "word": "FROST",
+      "tabooWords": [
+        "cold",
+        "ice",
+        "winter",
+        "chill",
+        "frozen"
+      ],
+      "charadesHint": "act like you're shivering",
+      "passwordHint": "thin layer of ice"
+    },
+    {
+      "id": "weather-and-seasons-008",
+      "word": "SPRING",
+      "tabooWords": [
+        "season",
+        "flowers",
+        "blooming",
+        "warmth",
+        "renewal"
+      ],
+      "charadesHint": "mimic planting a seed and watching it grow",
+      "passwordHint": "time of renewal"
+    },
+    {
+      "id": "weather-and-seasons-009",
+      "word": "AVALANCHE",
+      "tabooWords": [
+        "snow",
+        "slide",
+        "mountain",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "act like you're being swept away by a wave",
+      "passwordHint": "snowy disaster"
+    },
+    {
+      "id": "weather-and-seasons-010",
+      "word": "DROUGHT",
+      "tabooWords": [
+        "dry",
+        "water",
+        "lack",
+        "parched",
+        "desert"
+      ],
+      "charadesHint": "mimic a withered plant",
+      "passwordHint": "water scarcity"
+    },
+    {
+      "id": "weather-and-seasons-011",
+      "word": "THUNDERSTORM",
+      "tabooWords": [
+        "storm",
+        "thunder",
+        "lightning",
+        "rain",
+        "loud"
+      ],
+      "charadesHint": "mimic the sound of thunder",
+      "passwordHint": "electrifying weather"
+    },
+    {
+      "id": "weather-and-seasons-012",
+      "word": "HEATWAVE",
+      "tabooWords": [
+        "hot",
+        "summer",
+        "sweltering",
+        "sunny",
+        "weather"
+      ],
+      "charadesHint": "act like you're wiping sweat from your forehead",
+      "passwordHint": "prolonged heat"
+    },
+    {
+      "id": "weather-and-seasons-013",
+      "word": "BLIZZARD",
+      "tabooWords": [
+        "snow",
+        "storm",
+        "wind",
+        "cold",
+        "winter"
+      ],
+      "charadesHint": "mimic walking in deep snow",
+      "passwordHint": "severe snowstorm"
+    },
+    {
+      "id": "weather-and-seasons-014",
+      "word": "FOG",
+      "tabooWords": [
+        "mist",
+        "haze",
+        "cloudy",
+        "obscured",
+        "visibility"
+      ],
+      "charadesHint": "mimic walking in a cloudy environment",
+      "passwordHint": "reduced visibility"
+    },
+    {
+      "id": "weather-and-seasons-015",
+      "word": "TROPICAL",
+      "tabooWords": [
+        "hot",
+        "sunny",
+        "beach",
+        "island",
+        "vacation"
+      ],
+      "charadesHint": "mimic sipping a cocktail on the beach",
+      "passwordHint": "warm and sunny"
+    },
+    {
+      "id": "weather-and-seasons-016",
+      "word": "WINTER",
+      "tabooWords": [
+        "cold",
+        "snow",
+        "ice",
+        "frosty",
+        "season"
+      ],
+      "charadesHint": "mimic shivering and rubbing your hands together",
+      "passwordHint": "coldest season"
+    },
+    {
+      "id": "weather-and-seasons-017",
+      "word": "CYCLONE",
+      "tabooWords": [
+        "storm",
+        "wind",
+        "rain",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "mimic a spinning motion with your arms",
+      "passwordHint": "rotating storm"
+    },
+    {
+      "id": "weather-and-seasons-018",
+      "word": "DEW",
+      "tabooWords": [
+        "moisture",
+        "water",
+        "grass",
+        "morning",
+        "sparkling"
+      ],
+      "charadesHint": "mimic wiping dew from a leaf",
+      "passwordHint": "morning moisture"
+    },
+    {
+      "id": "weather-and-seasons-019",
+      "word": "AUTUMN",
+      "tabooWords": [
+        "fall",
+        "leaves",
+        "harvest",
+        "cozy",
+        "season"
+      ],
+      "charadesHint": "mimic raking leaves",
+      "passwordHint": "season of change"
+    },
+    {
+      "id": "weather-and-seasons-020",
+      "word": "HAIL",
+      "tabooWords": [
+        "ice",
+        "storm",
+        "weather",
+        "damage",
+        "pebbles"
+      ],
+      "charadesHint": "mimic covering your head from falling objects",
+      "passwordHint": "frozen precipitation"
+    },
+    {
+      "id": "weather-and-seasons-021",
+      "word": "MIST",
+      "tabooWords": [
+        "fog",
+        "haze",
+        "cloudy",
+        "obscured",
+        "visibility"
+      ],
+      "charadesHint": "mimic walking in a cloudy environment",
+      "passwordHint": "thin cloud layer"
+    },
+    {
+      "id": "weather-and-seasons-022",
+      "word": "SLEET",
+      "tabooWords": [
+        "ice",
+        "rain",
+        "winter",
+        "weather",
+        "freezing"
+      ],
+      "charadesHint": "mimic slipping on ice",
+      "passwordHint": "frozen rain"
+    },
+    {
+      "id": "weather-and-seasons-023",
+      "word": "STORM",
+      "tabooWords": [
+        "weather",
+        "wind",
+        "rain",
+        "thunder",
+        "danger"
+      ],
+      "charadesHint": "mimic strong winds and loud thunder",
+      "passwordHint": "severe weather"
+    },
+    {
+      "id": "weather-and-seasons-024",
+      "word": "TEMPERATURE",
+      "tabooWords": [
+        "heat",
+        "cold",
+        "weather",
+        "climate",
+        "measurement"
+      ],
+      "charadesHint": "mimic checking a thermometer",
+      "passwordHint": "measure of heat"
+    },
+    {
+      "id": "weather-and-seasons-025",
+      "word": "WEATHER",
+      "tabooWords": [
+        "forecast",
+        "climate",
+        "atmosphere",
+        "conditions",
+        "prediction"
+      ],
+      "charadesHint": "mimic looking at a weather map",
+      "passwordHint": "state of the atmosphere"
+    },
+    {
+      "id": "weather-and-seasons-026",
+      "word": "WIND",
+      "tabooWords": [
+        "air",
+        "breeze",
+        "gust",
+        "storm",
+        "weather"
+      ],
+      "charadesHint": "mimic blowing air",
+      "passwordHint": "movement of air"
+    },
+    {
+      "id": "weather-and-seasons-027",
+      "word": "CLIMATE",
+      "tabooWords": [
+        "weather",
+        "temperature",
+        "atmosphere",
+        "conditions",
+        "region"
+      ],
+      "charadesHint": "mimic adjusting a thermostat",
+      "passwordHint": "long-term weather pattern"
+    },
+    {
+      "id": "weather-and-seasons-028",
+      "word": "ATMOSPHERE",
+      "tabooWords": [
+        "air",
+        "weather",
+        "climate",
+        "gases",
+        "layer"
+      ],
+      "charadesHint": "mimic surrounding yourself with air",
+      "passwordHint": "layer of gases"
+    },
+    {
+      "id": "weather-and-seasons-029",
+      "word": "FORECAST",
+      "tabooWords": [
+        "weather",
+        "prediction",
+        "forecasting",
+        "model",
+        "accuracy"
+      ],
+      "charadesHint": "mimic looking at a calendar",
+      "passwordHint": "prediction of weather"
+    },
+    {
+      "id": "weather-and-seasons-030",
+      "word": "BAROMETER",
+      "tabooWords": [
+        "pressure",
+        "weather",
+        "atmosphere",
+        "instrument",
+        "measurement"
+      ],
+      "charadesHint": "mimic checking air pressure",
+      "passwordHint": "device for measuring pressure"
+    },
+    {
+      "id": "weather-and-seasons-031",
+      "word": "HUMIDITY",
+      "tabooWords": [
+        "moisture",
+        "water",
+        "air",
+        "weather",
+        "climate"
+      ],
+      "charadesHint": "mimic wiping sweat from your forehead",
+      "passwordHint": "amount of moisture in the air"
+    },
+    {
+      "id": "weather-and-seasons-032",
+      "word": "METEOROLOGY",
+      "tabooWords": [
+        "weather",
+        "forecasting",
+        "atmosphere",
+        "science",
+        "study"
+      ],
+      "charadesHint": "mimic studying the sky",
+      "passwordHint": "study of the atmosphere"
+    },
+    {
+      "id": "weather-and-seasons-033",
+      "word": "SEASONAL",
+      "tabooWords": [
+        "season",
+        "weather",
+        "climate",
+        "pattern",
+        "cycle"
+      ],
+      "charadesHint": "mimic changing clothes for different seasons",
+      "passwordHint": "related to the seasons"
+    },
+    {
+      "id": "weather-and-seasons-034",
+      "word": "TYPHOON",
+      "tabooWords": [
+        "storm",
+        "wind",
+        "rain",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "mimic strong winds and heavy rain",
+      "passwordHint": "tropical cyclone"
+    },
+    {
+      "id": "weather-and-seasons-035",
+      "word": "WILDFIRE",
+      "tabooWords": [
+        "fire",
+        "flames",
+        "burning",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "mimic flames and smoke",
+      "passwordHint": "uncontrolled fire"
+    },
+    {
+      "id": "weather-and-seasons-036",
+      "word": "GEOGRAPHY",
+      "tabooWords": [
+        "location",
+        "place",
+        "earth",
+        "study",
+        "landscape"
+      ],
+      "charadesHint": "mimic looking at a map",
+      "passwordHint": "study of the earth's surface"
+    },
+    {
+      "id": "weather-and-seasons-037",
+      "word": "ECOSYSTEM",
+      "tabooWords": [
+        "environment",
+        "nature",
+        "balance",
+        "interconnected",
+        "system"
+      ],
+      "charadesHint": "mimic connecting different components",
+      "passwordHint": "community of living and non-living things"
+    },
+    {
+      "id": "weather-and-seasons-038",
+      "word": "BIODIVERSITY",
+      "tabooWords": [
+        "variety",
+        "life",
+        "species",
+        "ecosystem",
+        "conservation"
+      ],
+      "charadesHint": "mimic holding a variety of different objects",
+      "passwordHint": "variety of life on earth"
+    },
+    {
+      "id": "weather-and-seasons-039",
+      "word": "HYDROLOGY",
+      "tabooWords": [
+        "water",
+        "study",
+        "science",
+        "cycle",
+        "management"
+      ],
+      "charadesHint": "mimic flowing water",
+      "passwordHint": "study of water"
+    },
+    {
+      "id": "weather-and-seasons-040",
+      "word": "GLACIER",
+      "tabooWords": [
+        "ice",
+        "snow",
+        "mountain",
+        "slow",
+        "movement"
+      ],
+      "charadesHint": "mimic slow movement",
+      "passwordHint": "large mass of ice"
+    },
+    {
+      "id": "weather-and-seasons-041",
+      "word": "RAIN",
+      "tabooWords": [
+        "water",
+        "drop",
+        "fall",
+        "weather",
+        "storm"
+      ],
+      "charadesHint": "mimic rain falling from the sky",
+      "passwordHint": "liquid precipitation"
+    },
+    {
+      "id": "weather-and-seasons-042",
+      "word": "SHOWER",
+      "tabooWords": [
+        "rain",
+        "water",
+        "bathroom",
+        "clean",
+        "refreshing"
+      ],
+      "charadesHint": "mimic washing yourself",
+      "passwordHint": "brief period of rain"
+    },
+    {
+      "id": "weather-and-seasons-043",
+      "word": "DRIZZLE",
+      "tabooWords": [
+        "rain",
+        "light",
+        "gentle",
+        "steady",
+        "weather"
+      ],
+      "charadesHint": "mimic light rain falling",
+      "passwordHint": "light and steady rain"
+    },
+    {
+      "id": "weather-and-seasons-044",
+      "word": "DOWNPOUR",
+      "tabooWords": [
+        "rain",
+        "heavy",
+        "intense",
+        "storm",
+        "flood"
+      ],
+      "charadesHint": "mimic heavy rain falling",
+      "passwordHint": "heavy and intense rain"
+    },
+    {
+      "id": "weather-and-seasons-045",
+      "word": "SNOWFALL",
+      "tabooWords": [
+        "snow",
+        "flake",
+        "winter",
+        "cold",
+        "weather"
+      ],
+      "charadesHint": "mimic catching snowflakes on your tongue",
+      "passwordHint": "falling snow"
+    },
+    {
+      "id": "weather-and-seasons-046",
+      "word": "SLEET",
+      "tabooWords": [
+        "ice",
+        "rain",
+        "winter",
+        "weather",
+        "freezing"
+      ],
+      "charadesHint": "mimic slipping on ice",
+      "passwordHint": "frozen rain"
+    },
+    {
+      "id": "weather-and-seasons-047",
+      "word": "HAILSTORM",
+      "tabooWords": [
+        "hail",
+        "storm",
+        "weather",
+        "danger",
+        "damage"
+      ],
+      "charadesHint": "mimic covering your head from falling hail",
+      "passwordHint": "storm with hail"
+    },
+    {
+      "id": "weather-and-seasons-048",
+      "word": "DUSTSTORM",
+      "tabooWords": [
+        "dust",
+        "storm",
+        "wind",
+        "weather",
+        "visibility"
+      ],
+      "charadesHint": "mimic reduced visibility",
+      "passwordHint": "storm with dust"
+    },
+    {
+      "id": "weather-and-seasons-049",
+      "word": "FIRESTORM",
+      "tabooWords": [
+        "fire",
+        "storm",
+        "weather",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "mimic flames and smoke",
+      "passwordHint": "storm with fire"
+    },
+    {
+      "id": "weather-and-seasons-050",
+      "word": "ICE",
+      "tabooWords": [
+        "frozen",
+        "water",
+        "cold",
+        "winter",
+        "skating"
+      ],
+      "charadesHint": "mimic ice skating",
+      "passwordHint": "frozen water"
+    },
+    {
+      "id": "weather-and-seasons-051",
+      "word": "FLOOD",
+      "tabooWords": [
+        "water",
+        "overflow",
+        "danger",
+        "disaster",
+        "weather"
+      ],
+      "charadesHint": "mimic wading through water",
+      "passwordHint": "overflow of water"
+    },
+    {
+      "id": "weather-and-seasons-052",
+      "word": "DROUGHT",
+      "tabooWords": [
+        "dry",
+        "water",
+        "lack",
+        "parched",
+        "desert"
+      ],
+      "charadesHint": "mimic a withered plant",
+      "passwordHint": "water scarcity"
+    },
+    {
+      "id": "weather-and-seasons-053",
+      "word": "TSUNAMI",
+      "tabooWords": [
+        "wave",
+        "ocean",
+        "disaster",
+        "danger",
+        "destruction"
+      ],
+      "charadesHint": "mimic a large wave",
+      "passwordHint": "large ocean wave"
+    },
+    {
+      "id": "weather-and-seasons-054",
+      "word": "HURRICANE",
+      "tabooWords": [
+        "storm",
+        "wind",
+        "rain",
+        "flood",
+        "disaster"
+      ],
+      "charadesHint": "mimic strong winds and heavy rain",
+      "passwordHint": "tropical cyclone"
+    },
+    {
+      "id": "weather-and-seasons-055",
+      "word": "TORNADO",
+      "tabooWords": [
+        "twister",
+        "storm",
+        "wind",
+        "danger",
+        "destruction"
+      ],
+      "charadesHint": "mimic a spinning motion with your arms",
+      "passwordHint": "rotating column of air"
+    },
+    {
+      "id": "weather-and-seasons-056",
+      "word": "BLIZZARD",
+      "tabooWords": [
+        "snow",
+        "storm",
+        "wind",
+        "cold",
+        "winter"
+      ],
+      "charadesHint": "mimic walking in deep snow",
+      "passwordHint": "severe snowstorm"
+    },
+    {
+      "id": "weather-and-seasons-057",
+      "word": "HEATWAVE",
+      "tabooWords": [
+        "hot",
+        "summer",
+        "sweltering",
+        "sunny",
+        "weather"
+      ],
+      "charadesHint": "mimic wiping sweat from your forehead",
+      "passwordHint": "prolonged heat"
+    },
+    {
+      "id": "weather-and-seasons-058",
+      "word": "COLD",
+      "tabooWords": [
+        "winter",
+        "frosty",
+        "chilly",
+        "ice",
+        "snow"
+      ],
+      "charadesHint": "mimic shivering",
+      "passwordHint": "low temperature"
+    },
+    {
+      "id": "weather-and-seasons-059",
+      "word": "WARM",
+      "tabooWords": [
+        "summer",
+        "sunny",
+        "hot",
+        "heat",
+        "weather"
+      ],
+      "charadesHint": "mimic feeling warm",
+      "passwordHint": "pleasant temperature"
+    },
+    {
+      "id": "weather-and-seasons-060",
+      "word": "CYCLONE",
+      "tabooWords": [
+        "storm",
+        "wind",
+        "rain",
+        "danger",
+        "disaster"
+      ],
+      "charadesHint": "mimic a spinning motion with your arms",
+      "passwordHint": "rotating storm"
+    },
+    {
+      "id": "weather-and-seasons-061",
+      "word": "MONSOON",
+      "tabooWords": [
+        "rain",
+        "storm",
+        "wind",
+        "season",
+        "weather"
+      ],
+      "charadesHint": "mimic heavy rain and strong winds",
+      "passwordHint": "seasonal weather pattern"
+    },
+    {
+      "id": "weather-and-seasons-062",
+      "word": "ELNINO",
+      "tabooWords": [
+        "weather",
+        "climate",
+        "pattern",
+        "warm",
+        "ocean"
+      ],
+      "charadesHint": "mimic a warming trend",
+      "passwordHint": "complex weather pattern"
+    },
+    {
+      "id": "weather-and-seasons-063",
+      "word": "LANINA",
+      "tabooWords": [
+        "weather",
+        "climate",
+        "pattern",
+        "cool",
+        "ocean"
+      ],
+      "charadesHint": "mimic a cooling trend",
+      "passwordHint": "complex weather pattern"
+    },
+    {
+      "id": "weather-and-seasons-064",
+      "word": "CLIMATECHANGE",
+      "tabooWords": [
+        "global",
+        "warming",
+        "weather",
+        "pattern",
+        "environment"
+      ],
+      "charadesHint": "mimic a rising temperature",
+      "passwordHint": "long-term change in weather patterns"
+    },
+    {
+      "id": "weather-and-seasons-065",
+      "word": "GREENHOUSE",
+      "tabooWords": [
+        "effect",
+        "global",
+        "warming",
+        "environment",
+        "climate"
+      ],
+      "charadesHint": "mimic a warming trend",
+      "passwordHint": "trapping of heat"
+    },
+    {
+      "id": "weather-and-seasons-066",
+      "word": "OZONE",
+      "tabooWords": [
+        "layer",
+        "atmosphere",
+        "protection",
+        "environment",
+        "climate"
+      ],
+      "charadesHint": "mimic a protective shield",
+      "passwordHint": "protective layer in the atmosphere"
+    }
+  ]
+}
