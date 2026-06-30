@@ -1,0 +1,1081 @@
+{
+  "id": "brands-supermarkets-retail-and-more",
+  "name": "Brands: Supermarkets, Retail, And More",
+  "category": "Lifestyle",
+  "description": "Guess popular brands from supermarkets, retail, and more",
+  "difficulty": "Medium",
+  "tags": [
+    "shopping",
+    "retail",
+    "brands"
+  ],
+  "cardCount": 82,
+  "cards": [
+    {
+      "id": "brands-supermarkets-retail-and-more-001",
+      "word": "WALMART",
+      "tabooWords": [
+        "store",
+        "shop",
+        "retail",
+        "supermarket",
+        "grocery"
+      ],
+      "charadesHint": "mimic shopping cart",
+      "passwordHint": "big box store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-002",
+      "word": "TARGET",
+      "tabooWords": [
+        "bullseye",
+        "red",
+        "store",
+        "shop",
+        "retail"
+      ],
+      "charadesHint": "mimic throwing dart",
+      "passwordHint": "upscale discount store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-003",
+      "word": "COSTCO",
+      "tabooWords": [
+        "warehouse",
+        "bulk",
+        "store",
+        "shop",
+        "membership"
+      ],
+      "charadesHint": "mimic carrying large box",
+      "passwordHint": "bulk shopping"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-004",
+      "word": "WHOLE FOODS",
+      "tabooWords": [
+        "organic",
+        "grocery",
+        "store",
+        "shop",
+        "healthy"
+      ],
+      "charadesHint": "mimic eating salad",
+      "passwordHint": "upscale grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-005",
+      "word": "KROGER",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "supermarket",
+        "midwest"
+      ],
+      "charadesHint": "mimic pushing shopping cart",
+      "passwordHint": "midwestern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-006",
+      "word": "IKEA",
+      "tabooWords": [
+        "furniture",
+        "swedish",
+        "store",
+        "shop",
+        "assembly"
+      ],
+      "charadesHint": "mimic building furniture",
+      "passwordHint": "affordable furniture store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-007",
+      "word": "HOME DEPOT",
+      "tabooWords": [
+        "hardware",
+        "store",
+        "shop",
+        "home",
+        "improvement"
+      ],
+      "charadesHint": "mimic hammering nail",
+      "passwordHint": "home improvement store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-008",
+      "word": "LOWE'S",
+      "tabooWords": [
+        "hardware",
+        "store",
+        "shop",
+        "home",
+        "improvement"
+      ],
+      "charadesHint": "mimic painting wall",
+      "passwordHint": "home improvement store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-009",
+      "word": "MACY'S",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "fashion"
+      ],
+      "charadesHint": "mimic modeling clothes",
+      "passwordHint": "upscale department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-010",
+      "word": "NORDSTROM",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "fashion"
+      ],
+      "charadesHint": "mimic trying on shoes",
+      "passwordHint": "upscale department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-011",
+      "word": "SEARS",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "tools"
+      ],
+      "charadesHint": "mimic using drill",
+      "passwordHint": "classic department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-012",
+      "word": "JCPENNEY",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "fashion"
+      ],
+      "charadesHint": "mimic browsing catalog",
+      "passwordHint": "mid-range department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-013",
+      "word": "KOHL'S",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "fashion"
+      ],
+      "charadesHint": "mimic trying on clothes",
+      "passwordHint": "mid-range department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-014",
+      "word": "BEST BUY",
+      "tabooWords": [
+        "electronics",
+        "store",
+        "shop",
+        "gadgets",
+        "tech"
+      ],
+      "charadesHint": "mimic using smartphone",
+      "passwordHint": "electronics store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-015",
+      "word": "GAMESTOP",
+      "tabooWords": [
+        "games",
+        "store",
+        "shop",
+        "gaming",
+        "consoles"
+      ],
+      "charadesHint": "mimic playing video game",
+      "passwordHint": "video game store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-016",
+      "word": "TOYS R US",
+      "tabooWords": [
+        "toys",
+        "store",
+        "shop",
+        "kids",
+        "fun"
+      ],
+      "charadesHint": "mimic playing with toy",
+      "passwordHint": "toy store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-017",
+      "word": "BARNES & NOBLE",
+      "tabooWords": [
+        "books",
+        "store",
+        "shop",
+        "reading",
+        "literature"
+      ],
+      "charadesHint": "mimic reading book",
+      "passwordHint": "bookstore"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-018",
+      "word": "STAPLES",
+      "tabooWords": [
+        "office",
+        "supplies",
+        "store",
+        "shop",
+        "paper"
+      ],
+      "charadesHint": "mimic writing with pen",
+      "passwordHint": "office supply store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-019",
+      "word": "OFFICE DEPOT",
+      "tabooWords": [
+        "office",
+        "supplies",
+        "store",
+        "shop",
+        "paper"
+      ],
+      "charadesHint": "mimic using stapler",
+      "passwordHint": "office supply store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-020",
+      "word": "OFFICEMAX",
+      "tabooWords": [
+        "office",
+        "supplies",
+        "store",
+        "shop",
+        "paper"
+      ],
+      "charadesHint": "mimic printing document",
+      "passwordHint": "office supply store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-021",
+      "word": "TRADER JOE'S",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "unique"
+      ],
+      "charadesHint": "mimic tasting food",
+      "passwordHint": "quirky grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-022",
+      "word": "ALDI",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "discount"
+      ],
+      "charadesHint": "mimic saving money",
+      "passwordHint": "discount grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-023",
+      "word": "LIDL",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "discount"
+      ],
+      "charadesHint": "mimic shopping quickly",
+      "passwordHint": "discount grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-024",
+      "word": "SHOPRITE",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic carrying groceries",
+      "passwordHint": "regional grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-025",
+      "word": "GIANT EAGLE",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic flying eagle",
+      "passwordHint": "regional grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-026",
+      "word": "PUBLIX",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic enjoying food",
+      "passwordHint": "southern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-027",
+      "word": "SAFEWAY",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic driving car",
+      "passwordHint": "western grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-028",
+      "word": "ALBERTSONS",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic browsing aisles",
+      "passwordHint": "western grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-029",
+      "word": "WEGMANS",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic tasting wine",
+      "passwordHint": "upscale grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-030",
+      "word": "H-E-B",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic enjoying texas BBQ",
+      "passwordHint": "texas grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-031",
+      "word": "MEIJER",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic shopping at supercenter",
+      "passwordHint": "midwestern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-032",
+      "word": "HY-VEE",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic helping customer",
+      "passwordHint": "midwestern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-033",
+      "word": "STOP & SHOP",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic stopping car",
+      "passwordHint": "northeastern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-034",
+      "word": "GIANT FOOD",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic eating giant sandwich",
+      "passwordHint": "mid-atlantic grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-035",
+      "word": "SHAW'S",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic shopping at local market",
+      "passwordHint": "new england grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-036",
+      "word": "STAR MARKET",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic reaching for star",
+      "passwordHint": "new england grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-037",
+      "word": "ACME MARKETS",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic throwing acme anvil",
+      "passwordHint": "mid-atlantic grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-038",
+      "word": "PATHMARK",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic finding path",
+      "passwordHint": "northeastern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-039",
+      "word": "GRAND UNION",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic uniting people",
+      "passwordHint": "northeastern grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-040",
+      "word": "A&P",
+      "tabooWords": [
+        "grocery",
+        "store",
+        "shop",
+        "food",
+        "supermarket"
+      ],
+      "charadesHint": "mimic shopping at historic store",
+      "passwordHint": "historic grocery store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-041",
+      "word": "KMART",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "discount"
+      ],
+      "charadesHint": "mimic blue light special",
+      "passwordHint": "discount department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-042",
+      "word": "TJ MAXX",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "discount"
+      ],
+      "charadesHint": "mimic finding treasure",
+      "passwordHint": "off-price department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-043",
+      "word": "MARSHALLS",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "discount"
+      ],
+      "charadesHint": "mimic marshalling resources",
+      "passwordHint": "off-price department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-044",
+      "word": "ROSS DRESS FOR LESS",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "discount"
+      ],
+      "charadesHint": "mimic dressing up",
+      "passwordHint": "off-price department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-045",
+      "word": "BURLINGTON",
+      "tabooWords": [
+        "department",
+        "store",
+        "shop",
+        "clothing",
+        "discount"
+      ],
+      "charadesHint": "mimic coat factory",
+      "passwordHint": "off-price department store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-046",
+      "word": "SIERRA TRADING POST",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "discount"
+      ],
+      "charadesHint": "mimic hiking in sierra mountains",
+      "passwordHint": "outdoor discount store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-047",
+      "word": "REI",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "co-op"
+      ],
+      "charadesHint": "mimic rock climbing",
+      "passwordHint": "outdoor co-op store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-048",
+      "word": "CABELA'S",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "hunting"
+      ],
+      "charadesHint": "mimic hunting with rifle",
+      "passwordHint": "outdoor store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-049",
+      "word": "BASS PRO SHOPS",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "fishing"
+      ],
+      "charadesHint": "mimic fishing with rod",
+      "passwordHint": "outdoor store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-050",
+      "word": "GANDER OUTDOORS",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "hunting"
+      ],
+      "charadesHint": "mimic gandering at outdoors",
+      "passwordHint": "outdoor store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-051",
+      "word": "ACADEMY SPORTS + OUTDOORS",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "sports"
+      ],
+      "charadesHint": "mimic playing sports",
+      "passwordHint": "outdoor and sports store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-052",
+      "word": "DICK'S SPORTING GOODS",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "sports"
+      ],
+      "charadesHint": "mimic playing sports",
+      "passwordHint": "sports store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-053",
+      "word": "MODELL'S SPORTING GOODS",
+      "tabooWords": [
+        "outdoor",
+        "store",
+        "shop",
+        "gear",
+        "sports"
+      ],
+      "charadesHint": "mimic modeling sports equipment",
+      "passwordHint": "sports store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-054",
+      "word": "DSW",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "discount"
+      ],
+      "charadesHint": "mimic trying on shoes",
+      "passwordHint": "shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-055",
+      "word": "FOOT LOCKER",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "athletic"
+      ],
+      "charadesHint": "mimic locking feet",
+      "passwordHint": "athletic shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-056",
+      "word": "FINISH LINE",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "athletic"
+      ],
+      "charadesHint": "mimic crossing finish line",
+      "passwordHint": "athletic shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-057",
+      "word": "CHAMPS SPORTS",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "athletic"
+      ],
+      "charadesHint": "mimic winning championship",
+      "passwordHint": "athletic shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-058",
+      "word": "LADY FOOT LOCKER",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "women's"
+      ],
+      "charadesHint": "mimic lady locking feet",
+      "passwordHint": "women's athletic shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-059",
+      "word": "KIDS FOOT LOCKER",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "kids"
+      ],
+      "charadesHint": "mimic kid locking feet",
+      "passwordHint": "kids' athletic shoe store"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-060",
+      "word": "SKECHERS",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "comfort"
+      ],
+      "charadesHint": "mimic wearing comfortable shoes",
+      "passwordHint": "comfort shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-061",
+      "word": "CLARKS",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "comfort"
+      ],
+      "charadesHint": "mimic wearing classic shoes",
+      "passwordHint": "classic shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-062",
+      "word": "ECCO",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "danish"
+      ],
+      "charadesHint": "mimic wearing european shoes",
+      "passwordHint": "european shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-063",
+      "word": "NEW BALANCE",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "athletic"
+      ],
+      "charadesHint": "mimic finding balance",
+      "passwordHint": "athletic shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-064",
+      "word": "ASICS",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "japanese"
+      ],
+      "charadesHint": "mimic running with asics",
+      "passwordHint": "japanese athletic shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-065",
+      "word": "BROOKS",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "running"
+      ],
+      "charadesHint": "mimic running with brooks",
+      "passwordHint": "running shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-066",
+      "word": "SAUCONY",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "running"
+      ],
+      "charadesHint": "mimic running with saucony",
+      "passwordHint": "running shoe brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-067",
+      "word": "MIZUNO",
+      "tabooWords": [
+        "shoe",
+        "store",
+        "shop",
+        "footwear",
+        "japanese"
+      ],
+      "charadesHint": "mimic playing sports with mizuno",
+      "passwordHint": "japanese sports brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-068",
+      "word": "UNDER ARMOUR",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "athletic"
+      ],
+      "charadesHint": "mimic wearing under armour",
+      "passwordHint": "athletic clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-069",
+      "word": "LULULEMON",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "yoga"
+      ],
+      "charadesHint": "mimic doing yoga",
+      "passwordHint": "yoga clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-070",
+      "word": "PATAGONIA",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "outdoor"
+      ],
+      "charadesHint": "mimic exploring patagonia",
+      "passwordHint": "outdoor clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-071",
+      "word": "THE NORTH FACE",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "outdoor"
+      ],
+      "charadesHint": "mimic climbing north face",
+      "passwordHint": "outdoor clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-072",
+      "word": "COLUMBIA SPORTSWEAR",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "outdoor"
+      ],
+      "charadesHint": "mimic exploring columbia river",
+      "passwordHint": "outdoor clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-073",
+      "word": "THE GAP",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "casual"
+      ],
+      "charadesHint": "mimic wearing gap clothes",
+      "passwordHint": "casual clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-074",
+      "word": "BANANA REPUBLIC",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "professional"
+      ],
+      "charadesHint": "mimic working in office",
+      "passwordHint": "professional clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-075",
+      "word": "OLD NAVY",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "affordable"
+      ],
+      "charadesHint": "mimic sailing on old navy ship",
+      "passwordHint": "affordable clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-076",
+      "word": "ATHLETA",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "women's"
+      ],
+      "charadesHint": "mimic doing athletics",
+      "passwordHint": "women's athletic clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-077",
+      "word": "JANIE AND JACK",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic dressing up kids",
+      "passwordHint": "children's clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-078",
+      "word": "CARTER'S",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic dressing up baby",
+      "passwordHint": "children's clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-079",
+      "word": "OSHKOSH B'GOSH",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic playing with kids",
+      "passwordHint": "children's clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-080",
+      "word": "GYMBOREE",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic playing at gymboree",
+      "passwordHint": "children's clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-081",
+      "word": "CHILDREN'S PLACE",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic finding perfect place",
+      "passwordHint": "children's clothing brand"
+    },
+    {
+      "id": "brands-supermarkets-retail-and-more-082",
+      "word": "HANNA ANDERSSON",
+      "tabooWords": [
+        "clothing",
+        "store",
+        "shop",
+        "apparel",
+        "children's"
+      ],
+      "charadesHint": "mimic dressing up kids in hanna",
+      "passwordHint": "children's clothing brand"
+    }
+  ]
+}
