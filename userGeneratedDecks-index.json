@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "sayings",
+      "name": "Sayings",
+      "category": "Lifestyle",
+      "description": "Guess popular sayings and idioms from around the world",
+      "icon": "MessageCircle",
+      "color": "#8B9467",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/sayings.json",
+      "cardCount": 65
+    },
+    {
       "id": "cat-types",
       "name": "Cat Types",
       "category": "Animals",
