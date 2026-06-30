@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "italian-cuisine",
+      "name": "Italian Cuisine",
+      "category": "Lifestyle",
+      "description": "Get ready to taste the flavors of Italy with this delicious word-guessing game!",
+      "icon": "Heart",
+      "color": "#FFC080",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/italian-cuisine.json",
+      "cardCount": 58
+    },
+    {
       "id": "baseball",
       "name": "Baseball",
       "category": "Sports",
