@@ -1,0 +1,886 @@
+{
+  "id": "dog-types",
+  "name": "Dog Types",
+  "category": "Animals",
+  "description": "Guess the different breeds of man's best friend",
+  "difficulty": "Medium",
+  "tags": [
+    "Dogs",
+    "Breeds",
+    "Pets"
+  ],
+  "cardCount": 67,
+  "cards": [
+    {
+      "id": "dog-types-001",
+      "word": "POODLE",
+      "tabooWords": [
+        "French",
+        "Curly",
+        "Furry",
+        "Pet",
+        "Grooming"
+      ],
+      "charadesHint": "imitate grooming",
+      "passwordHint": "Fancy dog"
+    },
+    {
+      "id": "dog-types-002",
+      "word": "BULLDOG",
+      "tabooWords": [
+        "English",
+        "Muscular",
+        "Wrinkly",
+        "Aggressive",
+        "Strong"
+      ],
+      "charadesHint": "show strength",
+      "passwordHint": "Tough dog"
+    },
+    {
+      "id": "dog-types-003",
+      "word": "CHIHUAHUA",
+      "tabooWords": [
+        "Mexican",
+        "Small",
+        "Yappy",
+        "Tiny",
+        "Cute"
+      ],
+      "charadesHint": "hold an imaginary small dog",
+      "passwordHint": "Little dog"
+    },
+    {
+      "id": "dog-types-004",
+      "word": "GERMAN SHEPHERD",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Police",
+        "Guard",
+        "Herding"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart dog"
+    },
+    {
+      "id": "dog-types-005",
+      "word": "GOLDEN RETRIEVER",
+      "tabooWords": [
+        "Friendly",
+        "Loyal",
+        "Fluffy",
+        "Hunting",
+        "Family"
+      ],
+      "charadesHint": "imitate fetching",
+      "passwordHint": "Friendly dog"
+    },
+    {
+      "id": "dog-types-006",
+      "word": "BEAGLE",
+      "tabooWords": [
+        "Small",
+        "Hunting",
+        "Floppy",
+        "Ears",
+        "Barking"
+      ],
+      "charadesHint": "mimic barking",
+      "passwordHint": "Hunting dog"
+    },
+    {
+      "id": "dog-types-007",
+      "word": "SHIH TZU",
+      "tabooWords": [
+        "Friendly",
+        "Outgoing",
+        "Loyal",
+        "Long",
+        "Hair"
+      ],
+      "charadesHint": "stroke imaginary long hair",
+      "passwordHint": "Friendly companion"
+    },
+    {
+      "id": "dog-types-008",
+      "word": "BOXER",
+      "tabooWords": [
+        "Energetic",
+        "Playful",
+        "Loyal",
+        "Short",
+        "Nose"
+      ],
+      "charadesHint": "mimic boxing",
+      "passwordHint": "Energetic dog"
+    },
+    {
+      "id": "dog-types-009",
+      "word": "DACHSHUND",
+      "tabooWords": [
+        "Short",
+        "Long",
+        "Body",
+        "German",
+        "Hotdog"
+      ],
+      "charadesHint": "mimic short legs",
+      "passwordHint": "Unique dog"
+    },
+    {
+      "id": "dog-types-010",
+      "word": "CORGI",
+      "tabooWords": [
+        "Short",
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Royal"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Royal dog"
+    },
+    {
+      "id": "dog-types-011",
+      "word": "GREAT DANE",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Giant",
+        "Tall"
+      ],
+      "charadesHint": "stretch arms up",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-012",
+      "word": "DOBERMAN",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Athletic",
+        "Guard",
+        "Sleek"
+      ],
+      "charadesHint": "mimic running",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-013",
+      "word": "PUG",
+      "tabooWords": [
+        "Playful",
+        "Loyal",
+        "Flat",
+        "Face",
+        "Wrinkly"
+      ],
+      "charadesHint": "mimic flat face",
+      "passwordHint": "Playful companion"
+    },
+    {
+      "id": "dog-types-014",
+      "word": "ROTTWEILER",
+      "tabooWords": [
+        "Strong",
+        "Confident",
+        "Loyal",
+        "Guard",
+        "Powerful"
+      ],
+      "charadesHint": "show confidence",
+      "passwordHint": "Strong dog"
+    },
+    {
+      "id": "dog-types-015",
+      "word": "SHETLAND SHEEPDOG",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Small",
+        "Fluffy"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-016",
+      "word": "AFGHAN HOUND",
+      "tabooWords": [
+        "Silky",
+        "Long",
+        "Hair",
+        "Independent",
+        "Exotic"
+      ],
+      "charadesHint": "stroke imaginary long hair",
+      "passwordHint": "Exotic dog"
+    },
+    {
+      "id": "dog-types-017",
+      "word": "BASSET HOUND",
+      "tabooWords": [
+        "Short",
+        "Floppy",
+        "Ears",
+        "Hunting",
+        "Relaxed"
+      ],
+      "charadesHint": "mimic relaxed posture",
+      "passwordHint": "Hunting dog"
+    },
+    {
+      "id": "dog-types-018",
+      "word": "BLOODHOUND",
+      "tabooWords": [
+        "Tracking",
+        "Scent",
+        "Hunting",
+        "Large",
+        "Floppy"
+      ],
+      "charadesHint": "mimic tracking",
+      "passwordHint": "Tracking dog"
+    },
+    {
+      "id": "dog-types-019",
+      "word": "BORDER COLLIE",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Energetic",
+        "Focused"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-020",
+      "word": "COCKER SPANIEL",
+      "tabooWords": [
+        "Friendly",
+        "Gentle",
+        "Loyal",
+        "Fluffy",
+        "Ears"
+      ],
+      "charadesHint": "stroke imaginary ears",
+      "passwordHint": "Friendly dog"
+    },
+    {
+      "id": "dog-types-021",
+      "word": "COLLIE",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Scottish",
+        "Fluffy"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-022",
+      "word": "DALMATIAN",
+      "tabooWords": [
+        "Spotted",
+        "Energetic",
+        "Loyal",
+        "Firehouse",
+        "Unique"
+      ],
+      "charadesHint": "mimic firehouse dog",
+      "passwordHint": "Spotted dog"
+    },
+    {
+      "id": "dog-types-023",
+      "word": "ENGLISH SPRINGER SPANIEL",
+      "tabooWords": [
+        "Friendly",
+        "Energetic",
+        "Loyal",
+        "Fluffy",
+        "Hunting"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Friendly hunter"
+    },
+    {
+      "id": "dog-types-024",
+      "word": "GREYHOUND",
+      "tabooWords": [
+        "Fast",
+        "Racing",
+        "Athletic",
+        "Short",
+        "Sleek"
+      ],
+      "charadesHint": "mimic running",
+      "passwordHint": "Fast dog"
+    },
+    {
+      "id": "dog-types-025",
+      "word": "HAVANESE",
+      "tabooWords": [
+        "Friendly",
+        "Playful",
+        "Loyal",
+        "Fluffy",
+        "Cuba"
+      ],
+      "charadesHint": "mimic playful behavior",
+      "passwordHint": "Friendly companion"
+    },
+    {
+      "id": "dog-types-026",
+      "word": "IRISH SETTER",
+      "tabooWords": [
+        "Energetic",
+        "Loyal",
+        "Hunting",
+        "Red",
+        "Fluffy"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-027",
+      "word": "LABRADOR RETRIEVER",
+      "tabooWords": [
+        "Friendly",
+        "Loyal",
+        "Hunting",
+        "Family",
+        "Gentle"
+      ],
+      "charadesHint": "mimic fetching",
+      "passwordHint": "Friendly dog"
+    },
+    {
+      "id": "dog-types-028",
+      "word": "MALTESE",
+      "tabooWords": [
+        "White",
+        "Fluffy",
+        "Playful",
+        "Loyal",
+        "Sweet"
+      ],
+      "charadesHint": "mimic playful behavior",
+      "passwordHint": "Sweet companion"
+    },
+    {
+      "id": "dog-types-029",
+      "word": "MASTIFF",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Guard",
+        "Powerful"
+      ],
+      "charadesHint": "show size",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-030",
+      "word": "PAPILLON",
+      "tabooWords": [
+        "Butterfly",
+        "Ears",
+        "Friendly",
+        "Loyal",
+        "Delicate"
+      ],
+      "charadesHint": "mimic butterfly wings",
+      "passwordHint": "Delicate dog"
+    },
+    {
+      "id": "dog-types-031",
+      "word": "POMERANIAN",
+      "tabooWords": [
+        "Small",
+        "Fluffy",
+        "Playful",
+        "Loyal",
+        "Fox-like"
+      ],
+      "charadesHint": "mimic small size",
+      "passwordHint": "Small companion"
+    },
+    {
+      "id": "dog-types-032",
+      "word": "POODLE",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Grooming",
+        "Fancy",
+        "Curly"
+      ],
+      "charadesHint": "mimic grooming",
+      "passwordHint": "Fancy dog"
+    },
+    {
+      "id": "dog-types-033",
+      "word": "ROTTWEILER",
+      "tabooWords": [
+        "Strong",
+        "Confident",
+        "Loyal",
+        "Guard",
+        "Powerful"
+      ],
+      "charadesHint": "show confidence",
+      "passwordHint": "Strong dog"
+    },
+    {
+      "id": "dog-types-034",
+      "word": "SAMOYED",
+      "tabooWords": [
+        "White",
+        "Fluffy",
+        "Friendly",
+        "Loyal",
+        "Russian"
+      ],
+      "charadesHint": "mimic playful behavior",
+      "passwordHint": "Friendly companion"
+    },
+    {
+      "id": "dog-types-035",
+      "word": "SHIBA INU",
+      "tabooWords": [
+        "Japanese",
+        "Independent",
+        "Loyal",
+        "Fox-like",
+        "Unique"
+      ],
+      "charadesHint": "mimic fox-like behavior",
+      "passwordHint": "Unique dog"
+    },
+    {
+      "id": "dog-types-036",
+      "word": "SIBERIAN HUSKY",
+      "tabooWords": [
+        "Energetic",
+        "Loyal",
+        "Hunting",
+        "Cold",
+        "Fluffy"
+      ],
+      "charadesHint": "mimic sled pulling",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-037",
+      "word": "WEIMARANER",
+      "tabooWords": [
+        "Energetic",
+        "Loyal",
+        "Hunting",
+        "Silver",
+        "Sleek"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-038",
+      "word": "WEST HIGHLAND WHITE TERRIER",
+      "tabooWords": [
+        "Friendly",
+        "Energetic",
+        "Loyal",
+        "Small",
+        "White"
+      ],
+      "charadesHint": "mimic energetic behavior",
+      "passwordHint": "Friendly companion"
+    },
+    {
+      "id": "dog-types-039",
+      "word": "WHIPPET",
+      "tabooWords": [
+        "Fast",
+        "Racing",
+        "Athletic",
+        "Short",
+        "Sleek"
+      ],
+      "charadesHint": "mimic running",
+      "passwordHint": "Fast dog"
+    },
+    {
+      "id": "dog-types-040",
+      "word": "YORKSHIRE TERRIER",
+      "tabooWords": [
+        "Small",
+        "Spunky",
+        "Loyal",
+        "Big",
+        "Personality"
+      ],
+      "charadesHint": "mimic big personality",
+      "passwordHint": "Big personality"
+    },
+    {
+      "id": "dog-types-041",
+      "word": "AUSTRALIAN CATTLE DOG",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Energetic",
+        "Australian"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-042",
+      "word": "BELGIAN MALINOIS",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Guard",
+        "Energetic",
+        "Belgian"
+      ],
+      "charadesHint": "mimic guarding",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-043",
+      "word": "BERNESE MOUNTAIN DOG",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Hiking",
+        "Swiss"
+      ],
+      "charadesHint": "mimic hiking",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-044",
+      "word": "CANE CORSO",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Guard",
+        "Italian",
+        "Powerful"
+      ],
+      "charadesHint": "show confidence",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-045",
+      "word": "CHOW CHOW",
+      "tabooWords": [
+        "Fluffy",
+        "Loyal",
+        "Independent",
+        "Chinese",
+        "Unique"
+      ],
+      "charadesHint": "mimic independent behavior",
+      "passwordHint": "Unique dog"
+    },
+    {
+      "id": "dog-types-046",
+      "word": "ENGLISH BULLDOG",
+      "tabooWords": [
+        "Strong",
+        "Confident",
+        "Loyal",
+        "English",
+        "Wrinking"
+      ],
+      "charadesHint": "show confidence",
+      "passwordHint": "Strong dog"
+    },
+    {
+      "id": "dog-types-047",
+      "word": "FRENCH BULLDOG",
+      "tabooWords": [
+        "Playful",
+        "Adaptable",
+        "Loyal",
+        "French",
+        "Unique"
+      ],
+      "charadesHint": "mimic playful behavior",
+      "passwordHint": "Playful companion"
+    },
+    {
+      "id": "dog-types-048",
+      "word": "GERMAN SHORTHAIRED POINTER",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "Energetic",
+        "German"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-049",
+      "word": "GIANT SCHNAUZER",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Guard",
+        "Beard",
+        "German"
+      ],
+      "charadesHint": "mimic guarding",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-050",
+      "word": "GREAT PYRENEES",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Hiking",
+        "French"
+      ],
+      "charadesHint": "mimic hiking",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-051",
+      "word": "HOVAWART",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Guard",
+        "German",
+        "Rare"
+      ],
+      "charadesHint": "mimic guarding",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-052",
+      "word": "KUVASZ",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Guard",
+        "Hungarian",
+        "White"
+      ],
+      "charadesHint": "mimic guarding",
+      "passwordHint": "Guard dog"
+    },
+    {
+      "id": "dog-types-053",
+      "word": "LABRADOODLE",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Friendly",
+        "Energetic",
+        "Mixed"
+      ],
+      "charadesHint": "mimic playful behavior",
+      "passwordHint": "Friendly companion"
+    },
+    {
+      "id": "dog-types-054",
+      "word": "NEWFOUNDLAND",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Hiking",
+        "Canadian"
+      ],
+      "charadesHint": "mimic hiking",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-055",
+      "word": "OLD ENGLISH SHEEPDOG",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Fluffy",
+        "English"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-056",
+      "word": "PERUVIAN INCA ORCHID",
+      "tabooWords": [
+        "Hairless",
+        "Loyal",
+        "Peruvian",
+        "Rare",
+        "Unique"
+      ],
+      "charadesHint": "mimic unique behavior",
+      "passwordHint": "Unique dog"
+    },
+    {
+      "id": "dog-types-057",
+      "word": "PHARAOH HOUND",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "Egyptian",
+        "Rare"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-058",
+      "word": "PORTUGUESE WATER DOG",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Swimming",
+        "Portuguese",
+        "Curly"
+      ],
+      "charadesHint": "mimic swimming",
+      "passwordHint": "Energetic swimmer"
+    },
+    {
+      "id": "dog-types-059",
+      "word": "RHODESIAN RIDGEBACK",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "African",
+        "Ridge"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-060",
+      "word": "SAINT BERNARD",
+      "tabooWords": [
+        "Large",
+        "Gentle",
+        "Loyal",
+        "Hiking",
+        "Swiss"
+      ],
+      "charadesHint": "mimic hiking",
+      "passwordHint": "Gentle giant"
+    },
+    {
+      "id": "dog-types-061",
+      "word": "SWEDISH VALLHUND",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Herding",
+        "Swedish",
+        "Short"
+      ],
+      "charadesHint": "mimic herding",
+      "passwordHint": "Smart herder"
+    },
+    {
+      "id": "dog-types-062",
+      "word": "THAI RIDGEBACK",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "Thai",
+        "Ridge"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-063",
+      "word": "XOLOITZCUINTLI",
+      "tabooWords": [
+        "Hairless",
+        "Loyal",
+        "Mexican",
+        "Rare",
+        "Unique"
+      ],
+      "charadesHint": "mimic unique behavior",
+      "passwordHint": "Unique dog"
+    },
+    {
+      "id": "dog-types-064",
+      "word": "YORKIPOO",
+      "tabooWords": [
+        "Small",
+        "Spunky",
+        "Loyal",
+        "Big",
+        "Personality"
+      ],
+      "charadesHint": "mimic big personality",
+      "passwordHint": "Big personality"
+    },
+    {
+      "id": "dog-types-065",
+      "word": "AKITA",
+      "tabooWords": [
+        "Loyal",
+        "Intelligent",
+        "Japanese",
+        "Large",
+        "Fluffy"
+      ],
+      "charadesHint": "mimic loyal behavior",
+      "passwordHint": "Loyal companion"
+    },
+    {
+      "id": "dog-types-066",
+      "word": "BASENJI",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "African",
+        "Unique"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    },
+    {
+      "id": "dog-types-067",
+      "word": "CIRNECO DELL'ETNA",
+      "tabooWords": [
+        "Intelligent",
+        "Loyal",
+        "Hunting",
+        "Italian",
+        "Rare"
+      ],
+      "charadesHint": "mimic hunting",
+      "passwordHint": "Energetic hunter"
+    }
+  ]
+}
