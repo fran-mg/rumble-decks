@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "all-about-bees",
+      "name": "All About Bees",
+      "category": "Science",
+      "description": "Get ready to buzz with excitement and learn all about our tiny, but mighty, friends - the bees!",
+      "icon": "Bee",
+      "color": "#F7DC6F",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/all-about-bees.json",
+      "cardCount": 77
+    },
+    {
       "id": "brands-supermarkets-retail-and-more",
       "name": "Brands: Supermarkets, Retail, And More",
       "category": "Lifestyle",
