@@ -1,0 +1,1016 @@
+{
+  "id": "all-about-bees",
+  "name": "All About Bees",
+  "category": "Science",
+  "description": "Get ready to buzz with excitement and learn all about our tiny, but mighty, friends - the bees!",
+  "difficulty": "Medium",
+  "tags": [
+    "Nature",
+    "Insects",
+    "Environment"
+  ],
+  "cardCount": 77,
+  "cards": [
+    {
+      "id": "all-about-bees-001",
+      "word": "HONEY",
+      "tabooWords": [
+        "Sweet",
+        "Food",
+        "Golden",
+        "Syrup",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee collecting nectar",
+      "passwordHint": "Bee product"
+    },
+    {
+      "id": "all-about-bees-002",
+      "word": "HIVE",
+      "tabooWords": [
+        "Beehouse",
+        "Nest",
+        "Colony",
+        "Home",
+        "Swarm"
+      ],
+      "charadesHint": "Draw a hexagonal shape in the air",
+      "passwordHint": "Bee dwelling"
+    },
+    {
+      "id": "all-about-bees-003",
+      "word": "POLLEN",
+      "tabooWords": [
+        "Flower",
+        "Dust",
+        "Grain",
+        "Particle",
+        "Powder"
+      ],
+      "charadesHint": "Mimic a bee collecting pollen from a flower",
+      "passwordHint": "Bee food source"
+    },
+    {
+      "id": "all-about-bees-004",
+      "word": "QUEEN",
+      "tabooWords": [
+        "Bee",
+        "Monarch",
+        "Royal",
+        "Female",
+        "Ruler"
+      ],
+      "charadesHint": "Mimic a crown on your head",
+      "passwordHint": "Bee royalty"
+    },
+    {
+      "id": "all-about-bees-005",
+      "word": "STINGER",
+      "tabooWords": [
+        "Pain",
+        "Puncture",
+        "Venom",
+        "Poison",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee stinging",
+      "passwordHint": "Bee defense"
+    },
+    {
+      "id": "all-about-bees-006",
+      "word": "COLONY",
+      "tabooWords": [
+        "Group",
+        "Society",
+        "Community",
+        "Hive",
+        "Swarm"
+      ],
+      "charadesHint": "Mimic a group of bees working together",
+      "passwordHint": "Bee social structure"
+    },
+    {
+      "id": "all-about-bees-007",
+      "word": "NECTAR",
+      "tabooWords": [
+        "Sugar",
+        "Water",
+        "Flower",
+        "Drink",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee drinking from a flower",
+      "passwordHint": "Bee energy source"
+    },
+    {
+      "id": "all-about-bees-008",
+      "word": "WAX",
+      "tabooWords": [
+        "Candle",
+        "Melt",
+        "Liquid",
+        "Solid",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee shaping wax",
+      "passwordHint": "Bee building material"
+    },
+    {
+      "id": "all-about-bees-009",
+      "word": "BEEKEEPER",
+      "tabooWords": [
+        "Human",
+        "Farmer",
+        "Apiarist",
+        "Suit",
+        "Veil"
+      ],
+      "charadesHint": "Mimic a person wearing a beekeeping suit",
+      "passwordHint": "Bee caretaker"
+    },
+    {
+      "id": "all-about-bees-010",
+      "word": "APIARY",
+      "tabooWords": [
+        "Beeyard",
+        "Farm",
+        "Garden",
+        "Yard",
+        "Bees"
+      ],
+      "charadesHint": "Mimic a group of beehives",
+      "passwordHint": "Beekeeping location"
+    },
+    {
+      "id": "all-about-bees-011",
+      "word": "HONEYCOMB",
+      "tabooWords": [
+        "Hexagon",
+        "Pattern",
+        "Wax",
+        "Cell",
+        "Honey"
+      ],
+      "charadesHint": "Mimic a hexagonal pattern",
+      "passwordHint": "Bee storage structure"
+    },
+    {
+      "id": "all-about-bees-012",
+      "word": "ROYAL JELLY",
+      "tabooWords": [
+        "Food",
+        "Nutrient",
+        "Protein",
+        "Bee",
+        "Queen"
+      ],
+      "charadesHint": "Mimic a bee feeding royal jelly to a queen",
+      "passwordHint": "Bee nutrition"
+    },
+    {
+      "id": "all-about-bees-013",
+      "word": "BEE DANCE",
+      "tabooWords": [
+        "Waggle",
+        "Movement",
+        "Communication",
+        "Language",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee dancing",
+      "passwordHint": "Bee communication method"
+    },
+    {
+      "id": "all-about-bees-014",
+      "word": "HONEYBEE",
+      "tabooWords": [
+        "Western",
+        "European",
+        "Bee",
+        "Insect",
+        "Honey"
+      ],
+      "charadesHint": "Mimic a bee flying",
+      "passwordHint": "Common bee species"
+    },
+    {
+      "id": "all-about-bees-015",
+      "word": "POLLINATION",
+      "tabooWords": [
+        "Flower",
+        "Plant",
+        "Reproduction",
+        "Bee",
+        "Help"
+      ],
+      "charadesHint": "Mimic a bee transferring pollen",
+      "passwordHint": "Ecosystem process"
+    },
+    {
+      "id": "all-about-bees-016",
+      "word": "BEE HOTEL",
+      "tabooWords": [
+        "Insect",
+        "House",
+        "Nest",
+        "Solitary",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee entering a small hole",
+      "passwordHint": "Bee habitat"
+    },
+    {
+      "id": "all-about-bees-017",
+      "word": "VARROA MITE",
+      "tabooWords": [
+        "Parasite",
+        "Pest",
+        "Bee",
+        "Disease",
+        "Mite"
+      ],
+      "charadesHint": "Mimic a mite attached to a bee",
+      "passwordHint": "Bee threat"
+    },
+    {
+      "id": "all-about-bees-018",
+      "word": "COLONY COLLAPSE",
+      "tabooWords": [
+        "Disorder",
+        "Disease",
+        "Bee",
+        "Death",
+        "Mystery"
+      ],
+      "charadesHint": "Mimic a bee colony disappearing",
+      "passwordHint": "Bee health issue"
+    },
+    {
+      "id": "all-about-bees-019",
+      "word": "PHEROMONE",
+      "tabooWords": [
+        "Chemical",
+        "Signal",
+        "Bee",
+        "Communication",
+        "Smell"
+      ],
+      "charadesHint": "Mimic a bee releasing a scent",
+      "passwordHint": "Bee language"
+    },
+    {
+      "id": "all-about-bees-020",
+      "word": "NURSE BEE",
+      "tabooWords": [
+        "Bee",
+        "Care",
+        "Young",
+        "Feed",
+        "Nurture"
+      ],
+      "charadesHint": "Mimic a bee feeding a larva",
+      "passwordHint": "Bee caregiver"
+    },
+    {
+      "id": "all-about-bees-021",
+      "word": "DRONE BEE",
+      "tabooWords": [
+        "Male",
+        "Bee",
+        "Reproduce",
+        "Mate",
+        "Queen"
+      ],
+      "charadesHint": "Mimic a drone bee flying",
+      "passwordHint": "Bee male"
+    },
+    {
+      "id": "all-about-bees-022",
+      "word": "WORKER BEE",
+      "tabooWords": [
+        "Female",
+        "Bee",
+        "Labor",
+        "Task",
+        "Colony"
+      ],
+      "charadesHint": "Mimic a bee performing a task",
+      "passwordHint": "Bee female"
+    },
+    {
+      "id": "all-about-bees-023",
+      "word": "HONEY HARVEST",
+      "tabooWords": [
+        "Beekeeper",
+        "Honey",
+        "Extract",
+        "Harvest",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a beekeeper extracting honey",
+      "passwordHint": "Beekeeping process"
+    },
+    {
+      "id": "all-about-bees-024",
+      "word": "BEE BRUSH",
+      "tabooWords": [
+        "Tool",
+        "Beekeeper",
+        "Gentle",
+        "Remove",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a beekeeper using a brush",
+      "passwordHint": "Beekeeping equipment"
+    },
+    {
+      "id": "all-about-bees-025",
+      "word": "SMOKER",
+      "tabooWords": [
+        "Tool",
+        "Beekeeper",
+        "Calming",
+        "Smoke",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a beekeeper using a smoker",
+      "passwordHint": "Beekeeping equipment"
+    },
+    {
+      "id": "all-about-bees-026",
+      "word": "HIVE TOOL",
+      "tabooWords": [
+        "Equipment",
+        "Beekeeper",
+        "Open",
+        "Hive",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a beekeeper using a hive tool",
+      "passwordHint": "Beekeeping equipment"
+    },
+    {
+      "id": "all-about-bees-027",
+      "word": "BEE ESCAPE",
+      "tabooWords": [
+        "Device",
+        "Beekeeper",
+        "Honey",
+        "Extract",
+        "Bee"
+      ],
+      "charadesHint": "Mimic a bee escaping from a hive",
+      "passwordHint": "Beekeeping equipment"
+    },
+    {
+      "id": "all-about-bees-028",
+      "word": "BEE HEALTH",
+      "tabooWords": [
+        "Wellness",
+        "Bee",
+        "Disease",
+        "Pest",
+        "Threat"
+      ],
+      "charadesHint": "Mimic a bee being healthy",
+      "passwordHint": "Bee wellness"
+    },
+    {
+      "id": "all-about-bees-029",
+      "word": "BEE COMMUNICATION",
+      "tabooWords": [
+        "Language",
+        "Bee",
+        "Dance",
+        "Pheromone",
+        "Signal"
+      ],
+      "charadesHint": "Mimic a bee communicating",
+      "passwordHint": "Bee language"
+    },
+    {
+      "id": "all-about-bees-030",
+      "word": "BEE SOCIAL STRUCTURE",
+      "tabooWords": [
+        "Colony",
+        "Bee",
+        "Queen",
+        "Worker",
+        "Drone"
+      ],
+      "charadesHint": "Mimic a bee social hierarchy",
+      "passwordHint": "Bee organization"
+    },
+    {
+      "id": "all-about-bees-031",
+      "word": "BEE NAVIGATION",
+      "tabooWords": [
+        "Direction",
+        "Bee",
+        "Sun",
+        "Compass",
+        "Map"
+      ],
+      "charadesHint": "Mimic a bee navigating",
+      "passwordHint": "Bee orientation"
+    },
+    {
+      "id": "all-about-bees-032",
+      "word": "BEE LEARNING",
+      "tabooWords": [
+        "Intelligence",
+        "Bee",
+        "Memory",
+        "Experience",
+        "Teaching"
+      ],
+      "charadesHint": "Mimic a bee learning",
+      "passwordHint": "Bee cognition"
+    },
+    {
+      "id": "all-about-bees-033",
+      "word": "BEE VISION",
+      "tabooWords": [
+        "Sight",
+        "Bee",
+        "Color",
+        "Ultraviolet",
+        "See"
+      ],
+      "charadesHint": "Mimic a bee seeing",
+      "passwordHint": "Bee senses"
+    },
+    {
+      "id": "all-about-bees-034",
+      "word": "BEE HEARING",
+      "tabooWords": [
+        "Sound",
+        "Bee",
+        "Vibration",
+        "Frequency",
+        "Hear"
+      ],
+      "charadesHint": "Mimic a bee hearing",
+      "passwordHint": "Bee senses"
+    },
+    {
+      "id": "all-about-bees-035",
+      "word": "BEE SMELL",
+      "tabooWords": [
+        "Odor",
+        "Bee",
+        "Pheromone",
+        "Scent",
+        "Smell"
+      ],
+      "charadesHint": "Mimic a bee smelling",
+      "passwordHint": "Bee senses"
+    },
+    {
+      "id": "all-about-bees-036",
+      "word": "BEE TASTE",
+      "tabooWords": [
+        "Flavor",
+        "Bee",
+        "Nectar",
+        "Pollen",
+        "Taste"
+      ],
+      "charadesHint": "Mimic a bee tasting",
+      "passwordHint": "Bee senses"
+    },
+    {
+      "id": "all-about-bees-037",
+      "word": "BEE TOUCH",
+      "tabooWords": [
+        "Feel",
+        "Bee",
+        "Vibration",
+        "Texture",
+        "Touch"
+      ],
+      "charadesHint": "Mimic a bee feeling",
+      "passwordHint": "Bee senses"
+    },
+    {
+      "id": "all-about-bees-038",
+      "word": "KILLER BEE",
+      "tabooWords": [
+        "Aggressive",
+        "Bee",
+        "Dangerous",
+        "Hybrid",
+        "Attack"
+      ],
+      "charadesHint": "Mimic a bee being aggressive",
+      "passwordHint": "Bee threat"
+    },
+    {
+      "id": "all-about-bees-039",
+      "word": "CARPENTER BEE",
+      "tabooWords": [
+        "Solitary",
+        "Bee",
+        "Wood",
+        "Nest",
+        "Tunnel"
+      ],
+      "charadesHint": "Mimic a bee tunneling into wood",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-040",
+      "word": "BUMBLE BEE",
+      "tabooWords": [
+        "Fuzzy",
+        "Bee",
+        "Yellow",
+        "Black",
+        "Stripes"
+      ],
+      "charadesHint": "Mimic a bumble bee flying",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-041",
+      "word": "SWEAT BEE",
+      "tabooWords": [
+        "Small",
+        "Bee",
+        "Metallic",
+        "Color",
+        "Sweat"
+      ],
+      "charadesHint": "Mimic a sweat bee flying",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-042",
+      "word": "LEAFCUTTER BEE",
+      "tabooWords": [
+        "Solitary",
+        "Bee",
+        "Leaf",
+        "Cut",
+        "Nest"
+      ],
+      "charadesHint": "Mimic a leafcutter bee cutting a leaf",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-043",
+      "word": "MASON BEE",
+      "tabooWords": [
+        "Solitary",
+        "Bee",
+        "Mud",
+        "Nest",
+        "Cell"
+      ],
+      "charadesHint": "Mimic a mason bee building a nest",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-044",
+      "word": "DIGGER BEE",
+      "tabooWords": [
+        "Solitary",
+        "Bee",
+        "Ground",
+        "Nest",
+        "Tunnel"
+      ],
+      "charadesHint": "Mimic a digger bee digging a tunnel",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-045",
+      "word": "MINER BEE",
+      "tabooWords": [
+        "Solitary",
+        "Bee",
+        "Ground",
+        "Nest",
+        "Mine"
+      ],
+      "charadesHint": "Mimic a miner bee mining a nest",
+      "passwordHint": "Bee species"
+    },
+    {
+      "id": "all-about-bees-046",
+      "word": "BEE HOTEL MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Hotel",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a person maintaining a bee hotel",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-047",
+      "word": "BEE SWARM CONTROL",
+      "tabooWords": [
+        "Prevent",
+        "Bee",
+        "Swarm",
+        "Control",
+        "Manage"
+      ],
+      "charadesHint": "Mimic a beekeeper controlling a swarm",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-048",
+      "word": "BEE PEST MANAGEMENT",
+      "tabooWords": [
+        "Control",
+        "Bee",
+        "Pest",
+        "Manage",
+        "Prevent"
+      ],
+      "charadesHint": "Mimic a beekeeper managing pests",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-049",
+      "word": "BEE DISEASE MANAGEMENT",
+      "tabooWords": [
+        "Control",
+        "Bee",
+        "Disease",
+        "Manage",
+        "Prevent"
+      ],
+      "charadesHint": "Mimic a beekeeper managing diseases",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-050",
+      "word": "BEE NUTRITION MANAGEMENT",
+      "tabooWords": [
+        "Control",
+        "Bee",
+        "Nutrition",
+        "Manage",
+        "Provide"
+      ],
+      "charadesHint": "Mimic a beekeeper providing nutrition",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-051",
+      "word": "BEE RECORD KEEPING",
+      "tabooWords": [
+        "Track",
+        "Bee",
+        "Record",
+        "Keep",
+        "Monitor"
+      ],
+      "charadesHint": "Mimic a beekeeper keeping records",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-052",
+      "word": "BEE HIVE INSPECTION",
+      "tabooWords": [
+        "Check",
+        "Bee",
+        "Hive",
+        "Inspect",
+        "Monitor"
+      ],
+      "charadesHint": "Mimic a beekeeper inspecting a hive",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-053",
+      "word": "BEE HIVE SPLITTING",
+      "tabooWords": [
+        "Split",
+        "Bee",
+        "Hive",
+        "Colony",
+        "Manage"
+      ],
+      "charadesHint": "Mimic a beekeeper splitting a hive",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-054",
+      "word": "BEE QUEEN INTRODUCTION",
+      "tabooWords": [
+        "Introduce",
+        "Bee",
+        "Queen",
+        "Colony",
+        "Manage"
+      ],
+      "charadesHint": "Mimic a beekeeper introducing a queen",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-055",
+      "word": "BEE BROOD MANAGEMENT",
+      "tabooWords": [
+        "Manage",
+        "Bee",
+        "Brood",
+        "Colony",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper managing brood",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-056",
+      "word": "BEE SUPERS MANAGEMENT",
+      "tabooWords": [
+        "Manage",
+        "Bee",
+        "Supers",
+        "Honey",
+        "Harvest"
+      ],
+      "charadesHint": "Mimic a beekeeper managing supers",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-057",
+      "word": "BEE FRAME MANAGEMENT",
+      "tabooWords": [
+        "Manage",
+        "Bee",
+        "Frame",
+        "Hive",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper managing frames",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-058",
+      "word": "BEE FOUNDATION MANAGEMENT",
+      "tabooWords": [
+        "Manage",
+        "Bee",
+        "Foundation",
+        "Hive",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper managing foundation",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-059",
+      "word": "BEE HIVE STAND MANAGEMENT",
+      "tabooWords": [
+        "Manage",
+        "Bee",
+        "Hive",
+        "Stand",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper managing a hive stand",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-060",
+      "word": "BEE SUIT MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Suit",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a bee suit",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-061",
+      "word": "BEE SMOKER MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Smoker",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a smoker",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-062",
+      "word": "BEE HIVE TOOL MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Tool",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a hive tool",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-063",
+      "word": "BEE ESCAPE MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Escape",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a bee escape",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-064",
+      "word": "BEE BRUSH MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Brush",
+        "Maintain",
+        "Check"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a bee brush",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-065",
+      "word": "BEE FRAME GRIP MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Frame",
+        "Grip",
+        "Maintain"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a frame grip",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-066",
+      "word": "BEE HIVE ENTRANCE MAINTENANCE",
+      "tabooWords": [
+        "Clean",
+        "Bee",
+        "Hive",
+        "Entrance",
+        "Maintain"
+      ],
+      "charadesHint": "Mimic a beekeeper maintaining a hive entrance",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-067",
+      "word": "BEE HEALTH CHECK",
+      "tabooWords": [
+        "Check",
+        "Bee",
+        "Health",
+        "Monitor",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper checking bee health",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-068",
+      "word": "BEE PEST CHECK",
+      "tabooWords": [
+        "Check",
+        "Bee",
+        "Pest",
+        "Monitor",
+        "Control"
+      ],
+      "charadesHint": "Mimic a beekeeper checking for pests",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-069",
+      "word": "BEE DISEASE CHECK",
+      "tabooWords": [
+        "Check",
+        "Bee",
+        "Disease",
+        "Monitor",
+        "Control"
+      ],
+      "charadesHint": "Mimic a beekeeper checking for diseases",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-070",
+      "word": "BEE NUTRITION CHECK",
+      "tabooWords": [
+        "Check",
+        "Bee",
+        "Nutrition",
+        "Monitor",
+        "Provide"
+      ],
+      "charadesHint": "Mimic a beekeeper checking bee nutrition",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-071",
+      "word": "BEE RECORD REVIEW",
+      "tabooWords": [
+        "Review",
+        "Bee",
+        "Record",
+        "Monitor",
+        "Analyze"
+      ],
+      "charadesHint": "Mimic a beekeeper reviewing records",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-072",
+      "word": "BEE HIVE INSPECTION REPORT",
+      "tabooWords": [
+        "Report",
+        "Bee",
+        "Hive",
+        "Inspect",
+        "Monitor"
+      ],
+      "charadesHint": "Mimic a beekeeper writing an inspection report",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-073",
+      "word": "BEE COLONY MANAGEMENT PLAN",
+      "tabooWords": [
+        "Plan",
+        "Bee",
+        "Colony",
+        "Manage",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper creating a management plan",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-074",
+      "word": "BEE HEALTH MANAGEMENT PLAN",
+      "tabooWords": [
+        "Plan",
+        "Bee",
+        "Health",
+        "Manage",
+        "Care"
+      ],
+      "charadesHint": "Mimic a beekeeper creating a health plan",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-075",
+      "word": "BEE PEST MANAGEMENT PLAN",
+      "tabooWords": [
+        "Plan",
+        "Bee",
+        "Pest",
+        "Manage",
+        "Control"
+      ],
+      "charadesHint": "Mimic a beekeeper creating a pest plan",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-076",
+      "word": "BEE DISEASE MANAGEMENT PLAN",
+      "tabooWords": [
+        "Plan",
+        "Bee",
+        "Disease",
+        "Manage",
+        "Control"
+      ],
+      "charadesHint": "Mimic a beekeeper creating a disease plan",
+      "passwordHint": "Beekeeping task"
+    },
+    {
+      "id": "all-about-bees-077",
+      "word": "BEE NUTRITION MANAGEMENT PLAN",
+      "tabooWords": [
+        "Plan",
+        "Bee",
+        "Nutrition",
+        "Manage",
+        "Provide"
+      ],
+      "charadesHint": "Mimic a beekeeper creating a nutrition plan",
+      "passwordHint": "Beekeeping task"
+    }
+  ]
+}
