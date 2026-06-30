@@ -1,0 +1,768 @@
+{
+  "id": "italian-cuisine",
+  "name": "Italian Cuisine",
+  "category": "Lifestyle",
+  "description": "Get ready to taste the flavors of Italy with this delicious word-guessing game!",
+  "difficulty": "Medium",
+  "tags": [
+    "food",
+    "italy"
+  ],
+  "cardCount": 58,
+  "cards": [
+    {
+      "id": "italian-cuisine-001",
+      "word": "PASTA",
+      "tabooWords": [
+        "noodle",
+        "spaghetti",
+        "macaroni",
+        "italy",
+        "dinner"
+      ],
+      "charadesHint": "twirling motion with fork",
+      "passwordHint": "italian staple"
+    },
+    {
+      "id": "italian-cuisine-002",
+      "word": "PIZZA",
+      "tabooWords": [
+        "pie",
+        "crust",
+        "cheese",
+        "toppings",
+        "italian"
+      ],
+      "charadesHint": "making a circle with hands",
+      "passwordHint": "favorite snack"
+    },
+    {
+      "id": "italian-cuisine-003",
+      "word": "RISOTTO",
+      "tabooWords": [
+        "rice",
+        "creamy",
+        "arborio",
+        "italian",
+        "dish"
+      ],
+      "charadesHint": "stirring motion with spoon",
+      "passwordHint": "northern italy specialty"
+    },
+    {
+      "id": "italian-cuisine-004",
+      "word": "GELATO",
+      "tabooWords": [
+        "ice",
+        "cream",
+        "italian",
+        "sweet",
+        "treat"
+      ],
+      "charadesHint": "licking a cone",
+      "passwordHint": "frozen dessert"
+    },
+    {
+      "id": "italian-cuisine-005",
+      "word": "ESPRESSO",
+      "tabooWords": [
+        "coffee",
+        "strong",
+        "italian",
+        "drink",
+        "shot"
+      ],
+      "charadesHint": "making a shooting motion with hand",
+      "passwordHint": "morning pick-me-up"
+    },
+    {
+      "id": "italian-cuisine-006",
+      "word": "PROSCIUTTO",
+      "tabooWords": [
+        "ham",
+        "cured",
+        "italian",
+        "meat",
+        "thin"
+      ],
+      "charadesHint": "cutting motion with knife",
+      "passwordHint": "salad topping"
+    },
+    {
+      "id": "italian-cuisine-007",
+      "word": "MOZZARELLA",
+      "tabooWords": [
+        "cheese",
+        "italian",
+        "milk",
+        "soft",
+        "white"
+      ],
+      "charadesHint": "stretching motion with hands",
+      "passwordHint": "pizza topping"
+    },
+    {
+      "id": "italian-cuisine-008",
+      "word": "BASIL",
+      "tabooWords": [
+        "herb",
+        "green",
+        "italian",
+        "leaves",
+        "fragrant"
+      ],
+      "charadesHint": "smelling motion with hands",
+      "passwordHint": "pesto ingredient"
+    },
+    {
+      "id": "italian-cuisine-009",
+      "word": "LASAGNA",
+      "tabooWords": [
+        "pasta",
+        "layers",
+        "italian",
+        "dish",
+        "baked"
+      ],
+      "charadesHint": "building motion with hands",
+      "passwordHint": "comfort food"
+    },
+    {
+      "id": "italian-cuisine-010",
+      "word": "CANNOLI",
+      "tabooWords": [
+        "pastry",
+        "italian",
+        "sweet",
+        "fried",
+        "dessert"
+      ],
+      "charadesHint": "filling motion with spoon",
+      "passwordHint": "sicilian treat"
+    },
+    {
+      "id": "italian-cuisine-011",
+      "word": "ARANCINI",
+      "tabooWords": [
+        "rice",
+        "balls",
+        "italian",
+        "fried",
+        "snack"
+      ],
+      "charadesHint": "rolling motion with hands",
+      "passwordHint": "street food"
+    },
+    {
+      "id": "italian-cuisine-012",
+      "word": "TIRAMISU",
+      "tabooWords": [
+        "coffee",
+        "ladyfingers",
+        "italian",
+        "dessert",
+        "creamy"
+      ],
+      "charadesHint": "dipping motion with fingers",
+      "passwordHint": "coffee-infused treat"
+    },
+    {
+      "id": "italian-cuisine-013",
+      "word": "FETTUCCINE",
+      "tabooWords": [
+        "pasta",
+        "flat",
+        "italian",
+        "noodle",
+        "long"
+      ],
+      "charadesHint": "twirling motion with fork",
+      "passwordHint": "alfredo sauce partner"
+    },
+    {
+      "id": "italian-cuisine-014",
+      "word": "CAPRESE",
+      "tabooWords": [
+        "salad",
+        "tomato",
+        "mozzarella",
+        "italian",
+        "fresh"
+      ],
+      "charadesHint": "arranging motion with hands",
+      "passwordHint": "summer salad"
+    },
+    {
+      "id": "italian-cuisine-015",
+      "word": "POLLO",
+      "tabooWords": [
+        "chicken",
+        "italian",
+        "meat",
+        "dish",
+        "grilled"
+      ],
+      "charadesHint": "clucking motion with hands",
+      "passwordHint": "italian-style chicken"
+    },
+    {
+      "id": "italian-cuisine-016",
+      "word": "SAUSAGE",
+      "tabooWords": [
+        "italian",
+        "meat",
+        "spicy",
+        "grilled",
+        "sandwich"
+      ],
+      "charadesHint": "grilling motion with hands",
+      "passwordHint": "italian-style sausage"
+    },
+    {
+      "id": "italian-cuisine-017",
+      "word": "PEPPERONI",
+      "tabooWords": [
+        "italian",
+        "meat",
+        "spicy",
+        "pizza",
+        "topping"
+      ],
+      "charadesHint": "slicing motion with hands",
+      "passwordHint": "pizza favorite"
+    },
+    {
+      "id": "italian-cuisine-018",
+      "word": "MORTADELLA",
+      "tabooWords": [
+        "italian",
+        "meat",
+        "cured",
+        "sandwich",
+        "deli"
+      ],
+      "charadesHint": "slicing motion with hands",
+      "passwordHint": "italian cold cut"
+    },
+    {
+      "id": "italian-cuisine-019",
+      "word": "GNOCCHI",
+      "tabooWords": [
+        "italian",
+        "pasta",
+        "dumpling",
+        "potato",
+        "soft"
+      ],
+      "charadesHint": "rolling motion with hands",
+      "passwordHint": "northern italy specialty"
+    },
+    {
+      "id": "italian-cuisine-020",
+      "word": "BRUSCHETTA",
+      "tabooWords": [
+        "italian",
+        "bread",
+        "toast",
+        "appetizer",
+        "tomato"
+      ],
+      "charadesHint": "rubbing motion with hands",
+      "passwordHint": "italian appetizer"
+    },
+    {
+      "id": "italian-cuisine-021",
+      "word": "PANETTONE",
+      "tabooWords": [
+        "italian",
+        "bread",
+        "sweet",
+        "christmas",
+        "fruit"
+      ],
+      "charadesHint": "raising motion with hands",
+      "passwordHint": "italian holiday bread"
+    },
+    {
+      "id": "italian-cuisine-022",
+      "word": "AMARETTI",
+      "tabooWords": [
+        "italian",
+        "cookies",
+        "almond",
+        "macaroon",
+        "sweet"
+      ],
+      "charadesHint": "twisting motion with hands",
+      "passwordHint": "italian almond cookie"
+    },
+    {
+      "id": "italian-cuisine-023",
+      "word": "PANNA",
+      "tabooWords": [
+        "italian",
+        "cream",
+        "whipped",
+        "topping",
+        "dessert"
+      ],
+      "charadesHint": "whipping motion with hands",
+      "passwordHint": "italian whipped cream"
+    },
+    {
+      "id": "italian-cuisine-024",
+      "word": "BISCOTTI",
+      "tabooWords": [
+        "italian",
+        "cookies",
+        "twice",
+        "baked",
+        "crunchy"
+      ],
+      "charadesHint": "dipping motion with fingers",
+      "passwordHint": "italian dipped cookie"
+    },
+    {
+      "id": "italian-cuisine-025",
+      "word": "ZEPPOLE",
+      "tabooWords": [
+        "italian",
+        "doughnuts",
+        "fried",
+        "powdered",
+        "sweet"
+      ],
+      "charadesHint": "frying motion with hands",
+      "passwordHint": "italian doughnut"
+    },
+    {
+      "id": "italian-cuisine-026",
+      "word": "SFOGLIATELLE",
+      "tabooWords": [
+        "italian",
+        "pastry",
+        "shell",
+        "ricotta",
+        "sweet"
+      ],
+      "charadesHint": "filling motion with spoon",
+      "passwordHint": "italian shell pastry"
+    },
+    {
+      "id": "italian-cuisine-027",
+      "word": "CANNELLONI",
+      "tabooWords": [
+        "italian",
+        "pasta",
+        "tubes",
+        "filled",
+        "baked"
+      ],
+      "charadesHint": "stuffing motion with hands",
+      "passwordHint": "italian stuffed pasta"
+    },
+    {
+      "id": "italian-cuisine-028",
+      "word": "TORTELLINI",
+      "tabooWords": [
+        "italian",
+        "pasta",
+        "rings",
+        "filled",
+        "cheese"
+      ],
+      "charadesHint": "ringing motion with hands",
+      "passwordHint": "italian ring pasta"
+    },
+    {
+      "id": "italian-cuisine-029",
+      "word": "RAVIOLI",
+      "tabooWords": [
+        "italian",
+        "pasta",
+        "pockets",
+        "filled",
+        "meat"
+      ],
+      "charadesHint": "stuffing motion with hands",
+      "passwordHint": "italian filled pasta"
+    },
+    {
+      "id": "italian-cuisine-030",
+      "word": "AGLIO",
+      "tabooWords": [
+        "italian",
+        "garlic",
+        "oil",
+        "spicy",
+        "sauce"
+      ],
+      "charadesHint": "mincing motion with hands",
+      "passwordHint": "italian garlic sauce"
+    },
+    {
+      "id": "italian-cuisine-031",
+      "word": "OREGANO",
+      "tabooWords": [
+        "italian",
+        "herb",
+        "pizza",
+        "topping",
+        "flavor"
+      ],
+      "charadesHint": "sprinkling motion with hands",
+      "passwordHint": "italian herb"
+    },
+    {
+      "id": "italian-cuisine-032",
+      "word": "BASILICO",
+      "tabooWords": [
+        "italian",
+        "basil",
+        "herb",
+        "pesto",
+        "flavor"
+      ],
+      "charadesHint": "smelling motion with hands",
+      "passwordHint": "italian basil"
+    },
+    {
+      "id": "italian-cuisine-033",
+      "word": "LIMONCELLO",
+      "tabooWords": [
+        "italian",
+        "lemon",
+        "liqueur",
+        "sweet",
+        "digestif"
+      ],
+      "charadesHint": "squeezing motion with hands",
+      "passwordHint": "italian lemon liqueur"
+    },
+    {
+      "id": "italian-cuisine-034",
+      "word": "GRAPPA",
+      "tabooWords": [
+        "italian",
+        "brandy",
+        "grape",
+        "strong",
+        "digestif"
+      ],
+      "charadesHint": "drinking motion with hands",
+      "passwordHint": "italian grape brandy"
+    },
+    {
+      "id": "italian-cuisine-035",
+      "word": "CHIANTI",
+      "tabooWords": [
+        "italian",
+        "wine",
+        "red",
+        "tuscan",
+        "full-bodied"
+      ],
+      "charadesHint": "pouring motion with hands",
+      "passwordHint": "italian red wine"
+    },
+    {
+      "id": "italian-cuisine-036",
+      "word": "PARMIGIANO",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "parmesan",
+        "hard",
+        "aged"
+      ],
+      "charadesHint": "grating motion with hands",
+      "passwordHint": "italian hard cheese"
+    },
+    {
+      "id": "italian-cuisine-037",
+      "word": "GORGONZOLA",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "blue",
+        "strong",
+        "pungent"
+      ],
+      "charadesHint": "crumbling motion with hands",
+      "passwordHint": "italian blue cheese"
+    },
+    {
+      "id": "italian-cuisine-038",
+      "word": "MASCARPONE",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "cream",
+        "rich",
+        "dessert"
+      ],
+      "charadesHint": "whipping motion with hands",
+      "passwordHint": "italian cream cheese"
+    },
+    {
+      "id": "italian-cuisine-039",
+      "word": "RICOTTA",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "soft",
+        "white",
+        "dessert"
+      ],
+      "charadesHint": "spreading motion with hands",
+      "passwordHint": "italian soft cheese"
+    },
+    {
+      "id": "italian-cuisine-040",
+      "word": "ASIAGO",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "semi-hard",
+        "nutty",
+        "flavorful"
+      ],
+      "charadesHint": "grating motion with hands",
+      "passwordHint": "italian semi-hard cheese"
+    },
+    {
+      "id": "italian-cuisine-041",
+      "word": "PROVOLONE",
+      "tabooWords": [
+        "italian",
+        "cheese",
+        "semi-hard",
+        "smooth",
+        "mild"
+      ],
+      "charadesHint": "slicing motion with hands",
+      "passwordHint": "italian semi-hard cheese"
+    },
+    {
+      "id": "italian-cuisine-042",
+      "word": "FIORENTINA",
+      "tabooWords": [
+        "italian",
+        "steak",
+        "t-bone",
+        "grilled",
+        "florentine"
+      ],
+      "charadesHint": "grilling motion with hands",
+      "passwordHint": "italian steak"
+    },
+    {
+      "id": "italian-cuisine-043",
+      "word": "CARPACCIO",
+      "tabooWords": [
+        "italian",
+        "beef",
+        "raw",
+        "thinly",
+        "sliced"
+      ],
+      "charadesHint": "slicing motion with hands",
+      "passwordHint": "italian raw beef dish"
+    },
+    {
+      "id": "italian-cuisine-044",
+      "word": "OSSO",
+      "tabooWords": [
+        "italian",
+        "veal",
+        "braised",
+        "shanks",
+        "fall-off-the-bone"
+      ],
+      "charadesHint": "falling motion with hands",
+      "passwordHint": "italian braised veal"
+    },
+    {
+      "id": "italian-cuisine-045",
+      "word": "POLPETTINE",
+      "tabooWords": [
+        "italian",
+        "meatballs",
+        "small",
+        "appetizer",
+        "snack"
+      ],
+      "charadesHint": "rolling motion with hands",
+      "passwordHint": "italian meatballs"
+    },
+    {
+      "id": "italian-cuisine-046",
+      "word": "APEROL",
+      "tabooWords": [
+        "italian",
+        "liqueur",
+        "bitter",
+        "orange",
+        "aperitif"
+      ],
+      "charadesHint": "pouring motion with hands",
+      "passwordHint": "italian bitter liqueur"
+    },
+    {
+      "id": "italian-cuisine-047",
+      "word": "CAMPARI",
+      "tabooWords": [
+        "italian",
+        "liqueur",
+        "bitter",
+        "red",
+        "aperitif"
+      ],
+      "charadesHint": "pouring motion with hands",
+      "passwordHint": "italian bitter liqueur"
+    },
+    {
+      "id": "italian-cuisine-048",
+      "word": "LIMONE",
+      "tabooWords": [
+        "italian",
+        "lemon",
+        "citrus",
+        "fresh",
+        "flavor"
+      ],
+      "charadesHint": "squeezing motion with hands",
+      "passwordHint": "italian lemon"
+    },
+    {
+      "id": "italian-cuisine-049",
+      "word": "ARANCIA",
+      "tabooWords": [
+        "italian",
+        "orange",
+        "citrus",
+        "juicy",
+        "flavor"
+      ],
+      "charadesHint": "peeling motion with hands",
+      "passwordHint": "italian orange"
+    },
+    {
+      "id": "italian-cuisine-050",
+      "word": "FICO",
+      "tabooWords": [
+        "italian",
+        "fig",
+        "fruit",
+        "sweet",
+        "jam"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian fig"
+    },
+    {
+      "id": "italian-cuisine-051",
+      "word": "PERA",
+      "tabooWords": [
+        "italian",
+        "pear",
+        "fruit",
+        "sweet",
+        "juicy"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian pear"
+    },
+    {
+      "id": "italian-cuisine-052",
+      "word": "MELA",
+      "tabooWords": [
+        "italian",
+        "apple",
+        "fruit",
+        "crunchy",
+        "juicy"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian apple"
+    },
+    {
+      "id": "italian-cuisine-053",
+      "word": "CILIEGIA",
+      "tabooWords": [
+        "italian",
+        "cherry",
+        "fruit",
+        "sweet",
+        "juicy"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian cherry"
+    },
+    {
+      "id": "italian-cuisine-054",
+      "word": "PESCA",
+      "tabooWords": [
+        "italian",
+        "peach",
+        "fruit",
+        "sweet",
+        "juicy"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian peach"
+    },
+    {
+      "id": "italian-cuisine-055",
+      "word": "UVA",
+      "tabooWords": [
+        "italian",
+        "grape",
+        "fruit",
+        "purple",
+        "juicy"
+      ],
+      "charadesHint": "eating motion with hands",
+      "passwordHint": "italian grape"
+    },
+    {
+      "id": "italian-cuisine-056",
+      "word": "NOCCIOLA",
+      "tabooWords": [
+        "italian",
+        "hazelnut",
+        "nut",
+        "rich",
+        "flavor"
+      ],
+      "charadesHint": "cracking motion with hands",
+      "passwordHint": "italian hazelnut"
+    },
+    {
+      "id": "italian-cuisine-057",
+      "word": "MANDORLA",
+      "tabooWords": [
+        "italian",
+        "almond",
+        "nut",
+        "crunchy",
+        "flavor"
+      ],
+      "charadesHint": "cracking motion with hands",
+      "passwordHint": "italian almond"
+    },
+    {
+      "id": "italian-cuisine-058",
+      "word": "PISTACCHIO",
+      "tabooWords": [
+        "italian",
+        "pistachio",
+        "nut",
+        "green",
+        "flavor"
+      ],
+      "charadesHint": "cracking motion with hands",
+      "passwordHint": "italian pistachio"
+    }
+  ]
+}
