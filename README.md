@@ -33,4 +33,4 @@
 
 ## Related Projects
 
-- Core Game Engine: Check out the main multiplayer word game repository at [fran-mg/articulate-game](https://github.com).
+- Core Game Engine: Check out the main multiplayer word game repository at [fran-mg/rumble-game](https://github.com).
