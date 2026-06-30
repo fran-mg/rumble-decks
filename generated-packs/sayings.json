@@ -1,0 +1,859 @@
+{
+  "id": "sayings",
+  "name": "Sayings",
+  "category": "Lifestyle",
+  "description": "Guess popular sayings and idioms from around the world",
+  "difficulty": "Medium",
+  "tags": [
+    "idioms",
+    "phrases"
+  ],
+  "cardCount": 65,
+  "cards": [
+    {
+      "id": "sayings-001",
+      "word": "BREAK A LEG",
+      "tabooWords": [
+        "good",
+        "luck",
+        "theater",
+        "performance",
+        "wish"
+      ],
+      "charadesHint": "mimic acting on stage",
+      "passwordHint": "theater success"
+    },
+    {
+      "id": "sayings-002",
+      "word": "BITE OFF MORE THAN YOU CAN CHEW",
+      "tabooWords": [
+        "eat",
+        "food",
+        "too",
+        "much",
+        "handle"
+      ],
+      "charadesHint": "mimic taking a big bite",
+      "passwordHint": "overcommit"
+    },
+    {
+      "id": "sayings-003",
+      "word": "BEAT AROUND THE BUSH",
+      "tabooWords": [
+        "avoid",
+        "talk",
+        "around",
+        "subject",
+        "direct"
+      ],
+      "charadesHint": "mimic walking around a bush",
+      "passwordHint": "avoid direct talk"
+    },
+    {
+      "id": "sayings-004",
+      "word": "COST AN ARM AND A LEG",
+      "tabooWords": [
+        "expensive",
+        "money",
+        "pricey",
+        "costly",
+        "cheap"
+      ],
+      "charadesHint": "mimic cutting off an arm",
+      "passwordHint": "very expensive"
+    },
+    {
+      "id": "sayings-005",
+      "word": "CUT TO THE CHASE",
+      "tabooWords": [
+        "get",
+        "to",
+        "the",
+        "point",
+        "fast"
+      ],
+      "charadesHint": "mimic cutting film",
+      "passwordHint": "get to the point"
+    },
+    {
+      "id": "sayings-006",
+      "word": "GIVE SOMEONE THE COLD SHOULDER",
+      "tabooWords": [
+        "ignore",
+        "someone",
+        "cold",
+        "shoulder",
+        "reject"
+      ],
+      "charadesHint": "mimic turning your back",
+      "passwordHint": "deliberate ignore"
+    },
+    {
+      "id": "sayings-007",
+      "word": "IN A NUTSHELL",
+      "tabooWords": [
+        "summary",
+        "brief",
+        "short",
+        "simple",
+        "describe"
+      ],
+      "charadesHint": "mimic holding a nutshell",
+      "passwordHint": "brief summary"
+    },
+    {
+      "id": "sayings-008",
+      "word": "LET SLEEPING DOGS LIE",
+      "tabooWords": [
+        "avoid",
+        "conflict",
+        "past",
+        "argument",
+        "peace"
+      ],
+      "charadesHint": "mimic sleeping dog",
+      "passwordHint": "avoid conflict"
+    },
+    {
+      "id": "sayings-009",
+      "word": "MAKE A MOUNTAIN OUT OF A MOLEHILL",
+      "tabooWords": [
+        "exaggerate",
+        "problem",
+        "small",
+        "big",
+        "dramatize"
+      ],
+      "charadesHint": "mimic building a mountain",
+      "passwordHint": "exaggerate problem"
+    },
+    {
+      "id": "sayings-010",
+      "word": "ON THE SAME PAGE",
+      "tabooWords": [
+        "agree",
+        "same",
+        "understand",
+        "team",
+        "united"
+      ],
+      "charadesHint": "mimic holding a book",
+      "passwordHint": "shared understanding"
+    },
+    {
+      "id": "sayings-011",
+      "word": "PRACTICE WHAT YOU PREACH",
+      "tabooWords": [
+        "actions",
+        "match",
+        "words",
+        "hypocrisy",
+        "integrity"
+      ],
+      "charadesHint": "mimic preaching and acting",
+      "passwordHint": "integrity in actions"
+    },
+    {
+      "id": "sayings-012",
+      "word": "RAIN ON SOMEONE'S PARADE",
+      "tabooWords": [
+        "spoil",
+        "plans",
+        "fun",
+        "party",
+        "disappoint"
+      ],
+      "charadesHint": "mimic raining on a parade",
+      "passwordHint": "spoil the fun"
+    },
+    {
+      "id": "sayings-013",
+      "word": "TAKE IT WITH A GRAIN OF SALT",
+      "tabooWords": [
+        "skeptical",
+        "doubt",
+        "question",
+        "believe",
+        "salt"
+      ],
+      "charadesHint": "mimic taking a pinch of salt",
+      "passwordHint": "be skeptical"
+    },
+    {
+      "id": "sayings-014",
+      "word": "THE POT CALLING THE KETTLE BLACK",
+      "tabooWords": [
+        "hypocrisy",
+        "accuse",
+        "guilty",
+        "same",
+        "fault"
+      ],
+      "charadesHint": "mimic a pot and kettle",
+      "passwordHint": "hypocritical accusation"
+    },
+    {
+      "id": "sayings-015",
+      "word": "THINK OUTSIDE THE BOX",
+      "tabooWords": [
+        "creative",
+        "innovative",
+        "unique",
+        "solution",
+        "imagine"
+      ],
+      "charadesHint": "mimic thinking outside a box",
+      "passwordHint": "creative thinking"
+    },
+    {
+      "id": "sayings-016",
+      "word": "WHEN IN ROME, DO AS THE ROMANS DO",
+      "tabooWords": [
+        "adapt",
+        "culture",
+        "customs",
+        "fit",
+        "in"
+      ],
+      "charadesHint": "mimic Roman actions",
+      "passwordHint": "cultural adaptation"
+    },
+    {
+      "id": "sayings-017",
+      "word": "A BIRD IN THE HAND IS WORTH TWO IN THE BUSH",
+      "tabooWords": [
+        "value",
+        "what",
+        "you",
+        "have",
+        "appreciate"
+      ],
+      "charadesHint": "mimic holding a bird",
+      "passwordHint": "appreciate what you have"
+    },
+    {
+      "id": "sayings-018",
+      "word": "A PICTURE IS WORTH A THOUSAND WORDS",
+      "tabooWords": [
+        "image",
+        "describe",
+        "visual",
+        "story",
+        "powerful"
+      ],
+      "charadesHint": "mimic taking a picture",
+      "passwordHint": "visual communication"
+    },
+    {
+      "id": "sayings-019",
+      "word": "ACTIONS SPEAK LOUDER THAN WORDS",
+      "tabooWords": [
+        "actions",
+        "prove",
+        "true",
+        "intentions",
+        "character"
+      ],
+      "charadesHint": "mimic actions speaking",
+      "passwordHint": "actions reveal character"
+    },
+    {
+      "id": "sayings-020",
+      "word": "ALL'S FAIR IN LOVE AND WAR",
+      "tabooWords": [
+        "justified",
+        "means",
+        "end",
+        "justify",
+        " extremes"
+      ],
+      "charadesHint": "mimic love and war",
+      "passwordHint": "extreme measures"
+    },
+    {
+      "id": "sayings-021",
+      "word": "AN APPLE A DAY KEEPS THE DOCTOR AWAY",
+      "tabooWords": [
+        "healthy",
+        "habits",
+        "prevention",
+        "wellness",
+        "fruit"
+      ],
+      "charadesHint": "mimic eating an apple",
+      "passwordHint": "healthy habits"
+    },
+    {
+      "id": "sayings-022",
+      "word": "BLOOD IS THICKER THAN WATER",
+      "tabooWords": [
+        "family",
+        "loyalty",
+        "ties",
+        "bond",
+        "priority"
+      ],
+      "charadesHint": "mimic family bond",
+      "passwordHint": "family loyalty"
+    },
+    {
+      "id": "sayings-023",
+      "word": "DON'T COUNT YOUR CHICKENS BEFORE THEY HATCH",
+      "tabooWords": [
+        "wait",
+        "until",
+        "sure",
+        "certain",
+        "patience"
+      ],
+      "charadesHint": "mimic counting chickens",
+      "passwordHint": "wait for certainty"
+    },
+    {
+      "id": "sayings-024",
+      "word": "DON'T CRY OVER SPILLED MILK",
+      "tabooWords": [
+        "move",
+        "on",
+        "past",
+        "mistake",
+        "regret"
+      ],
+      "charadesHint": "mimic crying over spilled milk",
+      "passwordHint": "let go of regret"
+    },
+    {
+      "id": "sayings-025",
+      "word": "DON'T PUT ALL YOUR EGGS IN ONE BASKET",
+      "tabooWords": [
+        "diversify",
+        "risk",
+        "spread",
+        "out",
+        "safe"
+      ],
+      "charadesHint": "mimic putting eggs in one basket",
+      "passwordHint": "diversify risks"
+    },
+    {
+      "id": "sayings-026",
+      "word": "EASY DOES IT",
+      "tabooWords": [
+        "slow",
+        "steady",
+        "careful",
+        "patient",
+        "gentle"
+      ],
+      "charadesHint": "mimic slow and steady action",
+      "passwordHint": "take it easy"
+    },
+    {
+      "id": "sayings-027",
+      "word": "GIVE AND TAKE",
+      "tabooWords": [
+        "compromise",
+        "balance",
+        "互利",
+        "互惠",
+        "协调"
+      ],
+      "charadesHint": "mimic giving and taking",
+      "passwordHint": "mutual benefit"
+    },
+    {
+      "id": "sayings-028",
+      "word": "IN FOR A PENNY, IN FOR A POUND",
+      "tabooWords": [
+        "commit",
+        "fully",
+        "involved",
+        "all",
+        "in"
+      ],
+      "charadesHint": "mimic spending money",
+      "passwordHint": "full commitment"
+    },
+    {
+      "id": "sayings-029",
+      "word": "LET BYGONES BE BYGONES",
+      "tabooWords": [
+        "forget",
+        "past",
+        "move",
+        "on",
+        "forgive"
+      ],
+      "charadesHint": "mimic letting go of the past",
+      "passwordHint": "forgive and forget"
+    },
+    {
+      "id": "sayings-030",
+      "word": "MAKE HAY WHILE THE SUN SHINES",
+      "tabooWords": [
+        "take",
+        "advantage",
+        "opportunity",
+        "now",
+        "seize"
+      ],
+      "charadesHint": "mimic making hay",
+      "passwordHint": "seize the opportunity"
+    },
+    {
+      "id": "sayings-031",
+      "word": "NO PAIN, NO GAIN",
+      "tabooWords": [
+        "effort",
+        "hard",
+        "work",
+        "reward",
+        "sacrifice"
+      ],
+      "charadesHint": "mimic working hard",
+      "passwordHint": "hard work pays off"
+    },
+    {
+      "id": "sayings-032",
+      "word": "NO USE CRYING OVER SPILLED MILK",
+      "tabooWords": [
+        "move",
+        "on",
+        "past",
+        "mistake",
+        "regret"
+      ],
+      "charadesHint": "mimic crying over spilled milk",
+      "passwordHint": "let go of regret"
+    },
+    {
+      "id": "sayings-033",
+      "word": "PRACTICE MAKES PERFECT",
+      "tabooWords": [
+        "improve",
+        "skill",
+        "repetition",
+        "effort",
+        "master"
+      ],
+      "charadesHint": "mimic practicing a skill",
+      "passwordHint": "repetition leads to mastery"
+    },
+    {
+      "id": "sayings-034",
+      "word": "ROME WASN'T BUILT IN A DAY",
+      "tabooWords": [
+        "time",
+        "patience",
+        "effort",
+        "progress",
+        "slow"
+      ],
+      "charadesHint": "mimic building Rome",
+      "passwordHint": "progress takes time"
+    },
+    {
+      "id": "sayings-035",
+      "word": "THE EARLY BIRD CATCHES THE WORM",
+      "tabooWords": [
+        "early",
+        "riser",
+        "advantage",
+        "opportunity",
+        "prepare"
+      ],
+      "charadesHint": "mimic catching a worm",
+      "passwordHint": "early preparation leads to success"
+    },
+    {
+      "id": "sayings-036",
+      "word": "THE GRASS IS ALWAYS GREENER ON THE OTHER SIDE",
+      "tabooWords": [
+        "perception",
+        "comparison",
+        "dissatisfaction",
+        "other",
+        "side"
+      ],
+      "charadesHint": "mimic looking over a fence",
+      "passwordHint": "perception of something better elsewhere"
+    },
+    {
+      "id": "sayings-037",
+      "word": "THE SQUEAKY WHEEL GETS THE GREASE",
+      "tabooWords": [
+        "attention",
+        "complain",
+        "loud",
+        "notice",
+        "fix"
+      ],
+      "charadesHint": "mimic a squeaky wheel",
+      "passwordHint": "complaining gets attention"
+    },
+    {
+      "id": "sayings-038",
+      "word": "THERE'S NO SUCH THING AS A FREE LUNCH",
+      "tabooWords": [
+        "cost",
+        "price",
+        "nothing",
+        "free",
+        "consequence"
+      ],
+      "charadesHint": "mimic eating a free lunch",
+      "passwordHint": "nothing is truly free"
+    },
+    {
+      "id": "sayings-039",
+      "word": "WHEN THE GOING GETS TOUGH, THE TOUGH GET GOING",
+      "tabooWords": [
+        "persevere",
+        "challenge",
+        "difficult",
+        "strong",
+        "determined"
+      ],
+      "charadesHint": "mimic persevering through difficulty",
+      "passwordHint": "tough situations require determination"
+    },
+    {
+      "id": "sayings-040",
+      "word": "YOU CAN'T HAVE YOUR CAKE AND EAT IT TOO",
+      "tabooWords": [
+        "choice",
+        "sacrifice",
+        "decide",
+        "prioritize",
+        "compromise"
+      ],
+      "charadesHint": "mimic eating cake",
+      "passwordHint": "choices require sacrifice"
+    },
+    {
+      "id": "sayings-041",
+      "word": "YOU REAP WHAT YOU SOW",
+      "tabooWords": [
+        "consequence",
+        "action",
+        "result",
+        "cause",
+        "effect"
+      ],
+      "charadesHint": "mimic sowing seeds",
+      "passwordHint": "actions have consequences"
+    },
+    {
+      "id": "sayings-042",
+      "word": "A ROLLING STONE GATHERS NO MOSS",
+      "tabooWords": [
+        "stability",
+        "settled",
+        "consistent",
+        "unchanging",
+        "growth"
+      ],
+      "charadesHint": "mimic a rolling stone",
+      "passwordHint": "stability leads to growth"
+    },
+    {
+      "id": "sayings-043",
+      "word": "ABSENCE MAKES THE HEART GROW FONDER",
+      "tabooWords": [
+        "distance",
+        "love",
+        "longing",
+        "separation",
+        "affection"
+      ],
+      "charadesHint": "mimic being apart",
+      "passwordHint": "distance strengthens affection"
+    },
+    {
+      "id": "sayings-044",
+      "word": "ALL GOOD THINGS MUST COME TO AN END",
+      "tabooWords": [
+        "end",
+        "finish",
+        "conclude",
+        "completion",
+        "finality"
+      ],
+      "charadesHint": "mimic something ending",
+      "passwordHint": "all things must end"
+    },
+    {
+      "id": "sayings-045",
+      "word": "AN OUNCE OF PREVENTION IS WORTH A POUND OF CURE",
+      "tabooWords": [
+        "prevention",
+        "caution",
+        "care",
+        "avoid",
+        "prepare"
+      ],
+      "charadesHint": "mimic taking preventative measures",
+      "passwordHint": "prevention is better than cure"
+    },
+    {
+      "id": "sayings-046",
+      "word": "BEE'S KNEES",
+      "tabooWords": [
+        "excellent",
+        "wonderful",
+        "great",
+        " fantastic",
+        "exceptional"
+      ],
+      "charadesHint": "mimic a bee",
+      "passwordHint": "something excellent"
+    },
+    {
+      "id": "sayings-047",
+      "word": "BEND OVER BACKWARDS",
+      "tabooWords": [
+        "help",
+        "assist",
+        "accommodate",
+        "oblige",
+        "flexible"
+      ],
+      "charadesHint": "mimic bending over",
+      "passwordHint": "go out of your way to help"
+    },
+    {
+      "id": "sayings-048",
+      "word": "BURN THE MIDNIGHT OIL",
+      "tabooWords": [
+        "work",
+        "late",
+        "hard",
+        "dedicated",
+        "tireless"
+      ],
+      "charadesHint": "mimic working late",
+      "passwordHint": "work hard and late"
+    },
+    {
+      "id": "sayings-049",
+      "word": "CALL IT A DAY",
+      "tabooWords": [
+        "stop",
+        "finish",
+        "end",
+        "conclude",
+        "quit"
+      ],
+      "charadesHint": "mimic stopping work",
+      "passwordHint": "stop what you're doing"
+    },
+    {
+      "id": "sayings-050",
+      "word": "COST-EFFECTIVE",
+      "tabooWords": [
+        "affordable",
+        "cheap",
+        "thrifty",
+        "frugal",
+        "efficient"
+      ],
+      "charadesHint": "mimic saving money",
+      "passwordHint": "getting value for money"
+    },
+    {
+      "id": "sayings-051",
+      "word": "CUT YOUR LOSSES",
+      "tabooWords": [
+        "stop",
+        "quit",
+        "give",
+        "up",
+        "limit"
+      ],
+      "charadesHint": "mimic cutting a rope",
+      "passwordHint": "stop when it's not working"
+    },
+    {
+      "id": "sayings-052",
+      "word": "EASY AS PIE",
+      "tabooWords": [
+        "simple",
+        "effortless",
+        "straightforward",
+        "uncomplicated",
+        "manageable"
+      ],
+      "charadesHint": "mimic eating pie",
+      "passwordHint": "something easy to do"
+    },
+    {
+      "id": "sayings-053",
+      "word": "FACE THE MUSIC",
+      "tabooWords": [
+        "accept",
+        "confront",
+        "reality",
+        "truth",
+        "responsibility"
+      ],
+      "charadesHint": "mimic facing music",
+      "passwordHint": "accept the consequences"
+    },
+    {
+      "id": "sayings-054",
+      "word": "GET A WILD HAIR",
+      "tabooWords": [
+        "sudden",
+        "impulse",
+        "idea",
+        "urge",
+        "spontaneous"
+      ],
+      "charadesHint": "mimic getting a wild idea",
+      "passwordHint": "a sudden impulse"
+    },
+    {
+      "id": "sayings-055",
+      "word": "GET DOWN TO BRASS TACKS",
+      "tabooWords": [
+        "focus",
+        "essential",
+        "important",
+        "basic",
+        "practical"
+      ],
+      "charadesHint": "mimic getting down to business",
+      "passwordHint": "focus on the essentials"
+    },
+    {
+      "id": "sayings-056",
+      "word": "GIVE SOMEONE A RUN FOR THEIR MONEY",
+      "tabooWords": [
+        "challenge",
+        "competition",
+        "rival",
+        "opponent",
+        "contest"
+      ],
+      "charadesHint": "mimic running a race",
+      "passwordHint": "provide strong competition"
+    },
+    {
+      "id": "sayings-057",
+      "word": "HAVE A BLAST",
+      "tabooWords": [
+        "enjoy",
+        "fun",
+        "exciting",
+        "entertaining",
+        "thrilling"
+      ],
+      "charadesHint": "mimic having fun",
+      "passwordHint": "have a great time"
+    },
+    {
+      "id": "sayings-058",
+      "word": "IN THE SAME BOAT",
+      "tabooWords": [
+        "similar",
+        "situation",
+        "shared",
+        "experience",
+        "common"
+      ],
+      "charadesHint": "mimic being in a boat",
+      "passwordHint": "shared circumstances"
+    },
+    {
+      "id": "sayings-059",
+      "word": "LET THE CHIPS FALL WHERE THEY MAY",
+      "tabooWords": [
+        "accept",
+        "consequences",
+        "results",
+        "outcome",
+        "fate"
+      ],
+      "charadesHint": "mimic letting things happen",
+      "passwordHint": "accept the outcome"
+    },
+    {
+      "id": "sayings-060",
+      "word": "MAKE A SILK PURSE OUT OF A SOW'S EAR",
+      "tabooWords": [
+        "create",
+        "something",
+        "valuable",
+        "from",
+        "nothing"
+      ],
+      "charadesHint": "mimic making a purse",
+      "passwordHint": "create something valuable"
+    },
+    {
+      "id": "sayings-061",
+      "word": "ON A WILD GOOSE CHASE",
+      "tabooWords": [
+        "search",
+        "pursue",
+        "hunt",
+        "quest",
+        "adventure"
+      ],
+      "charadesHint": "mimic chasing a goose",
+      "passwordHint": "a wild and exciting adventure"
+    },
+    {
+      "id": "sayings-062",
+      "word": "ON THE RIGHT TRACK",
+      "tabooWords": [
+        "correct",
+        "path",
+        "direction",
+        "progress",
+        "success"
+      ],
+      "charadesHint": "mimic being on a track",
+      "passwordHint": "heading in the right direction"
+    },
+    {
+      "id": "sayings-063",
+      "word": "PAY THE PIPER",
+      "tabooWords": [
+        "consequences",
+        "price",
+        "cost",
+        "reward",
+        "punishment"
+      ],
+      "charadesHint": "mimic paying a piper",
+      "passwordHint": "face the consequences"
+    },
+    {
+      "id": "sayings-064",
+      "word": "RAINING CATS AND DOGS",
+      "tabooWords": [
+        "raining",
+        "heavily",
+        "storm",
+        "weather",
+        "downpour"
+      ],
+      "charadesHint": "mimic raining animals",
+      "passwordHint": "raining very heavily"
+    },
+    {
+      "id": "sayings-065",
+      "word": "TAKE THE BULL BY THE HORNS",
+      "tabooWords": [
+        "bold",
+        "daring",
+        "courageous",
+        "fearless",
+        "confident"
+      ],
+      "charadesHint": "mimic grabbing a bull",
+      "passwordHint": "take bold action"
+    }
+  ]
+}
