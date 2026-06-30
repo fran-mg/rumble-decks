@@ -1,0 +1,782 @@
+{
+  "id": "brands-supermarket-retail-and-more",
+  "name": "Brands: Supermarket, Retail And More",
+  "category": "Lifestyle",
+  "description": "Guess the popular brands found in supermarkets and retail stores",
+  "difficulty": "Medium",
+  "tags": [
+    "shopping",
+    "retail",
+    "brands"
+  ],
+  "cardCount": 59,
+  "cards": [
+    {
+      "id": "brands-supermarket-retail-and-more-001",
+      "word": "WALMART",
+      "tabooWords": [
+        "store",
+        "shop",
+        "retail",
+        "grocery",
+        "supermarket"
+      ],
+      "charadesHint": "mimic shopping cart",
+      "passwordHint": "big box store"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-002",
+      "word": "COCACOLA",
+      "tabooWords": [
+        "soda",
+        "fizzy",
+        "drink",
+        "pop",
+        "beverage"
+      ],
+      "charadesHint": "mimic drinking from a bottle",
+      "passwordHint": "famous soda brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-003",
+      "word": "NIKE",
+      "tabooWords": [
+        "sports",
+        "shoes",
+        "athletic",
+        "running",
+        "sneakers"
+      ],
+      "charadesHint": "mimic tying shoelaces",
+      "passwordHint": "popular shoe brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-004",
+      "word": "APPLE",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "phones"
+      ],
+      "charadesHint": "mimic using a smartphone",
+      "passwordHint": "innovative tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-005",
+      "word": "MCDONALDS",
+      "tabooWords": [
+        "fast",
+        "food",
+        "restaurant",
+        "burgers",
+        "fries"
+      ],
+      "charadesHint": "mimic eating a burger",
+      "passwordHint": "popular fast food chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-006",
+      "word": "PROCTERGAMBLE",
+      "tabooWords": [
+        "household",
+        "products",
+        "cleaning",
+        "hygiene",
+        "personal care"
+      ],
+      "charadesHint": "mimic washing hands",
+      "passwordHint": "well-known consumer goods company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-007",
+      "word": "AMAZON",
+      "tabooWords": [
+        "online",
+        "shopping",
+        "e-commerce",
+        "retail",
+        "delivery"
+      ],
+      "charadesHint": "mimic clicking a mouse",
+      "passwordHint": "giant online retailer"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-008",
+      "word": "PEPSI",
+      "tabooWords": [
+        "soda",
+        "fizzy",
+        "drink",
+        "pop",
+        "beverage"
+      ],
+      "charadesHint": "mimic drinking from a can",
+      "passwordHint": "another famous soda brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-009",
+      "word": "KFC",
+      "tabooWords": [
+        "fast",
+        "food",
+        "restaurant",
+        "chicken",
+        "fried"
+      ],
+      "charadesHint": "mimic eating chicken",
+      "passwordHint": "popular fried chicken chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-010",
+      "word": "TOYOTA",
+      "tabooWords": [
+        "cars",
+        "automotive",
+        "vehicles",
+        "driving",
+        "transportation"
+      ],
+      "charadesHint": "mimic driving a car",
+      "passwordHint": "well-known car brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-011",
+      "word": "UNILEVER",
+      "tabooWords": [
+        "household",
+        "products",
+        "cleaning",
+        "hygiene",
+        "personal care"
+      ],
+      "charadesHint": "mimic washing clothes",
+      "passwordHint": "major consumer goods company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-012",
+      "word": "SAMSUNG",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "phones"
+      ],
+      "charadesHint": "mimic using a smartphone",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-013",
+      "word": "FORD",
+      "tabooWords": [
+        "cars",
+        "automotive",
+        "vehicles",
+        "driving",
+        "transportation"
+      ],
+      "charadesHint": "mimic driving a truck",
+      "passwordHint": "well-known car brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-014",
+      "word": "GENERALMILLS",
+      "tabooWords": [
+        "food",
+        "cereal",
+        "breakfast",
+        "grains",
+        "snacks"
+      ],
+      "charadesHint": "mimic eating cereal",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-015",
+      "word": "REEBOK",
+      "tabooWords": [
+        "sports",
+        "shoes",
+        "athletic",
+        "running",
+        "sneakers"
+      ],
+      "charadesHint": "mimic running",
+      "passwordHint": "popular shoe brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-016",
+      "word": "MICROSOFT",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "software"
+      ],
+      "charadesHint": "mimic typing on a keyboard",
+      "passwordHint": "well-known tech company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-017",
+      "word": "HONDA",
+      "tabooWords": [
+        "cars",
+        "automotive",
+        "vehicles",
+        "driving",
+        "transportation"
+      ],
+      "charadesHint": "mimic driving a motorcycle",
+      "passwordHint": "popular car brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-018",
+      "word": "NESTLE",
+      "tabooWords": [
+        "food",
+        "chocolate",
+        "candy",
+        "snacks",
+        "beverages"
+      ],
+      "charadesHint": "mimic eating chocolate",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-019",
+      "word": "LG",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "home appliances"
+      ],
+      "charadesHint": "mimic using a refrigerator",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-020",
+      "word": "INTEL",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "processors"
+      ],
+      "charadesHint": "mimic building a computer",
+      "passwordHint": "well-known tech company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-021",
+      "word": "KELLOGGS",
+      "tabooWords": [
+        "food",
+        "cereal",
+        "breakfast",
+        "grains",
+        "snacks"
+      ],
+      "charadesHint": "mimic eating cereal",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-022",
+      "word": "SONY",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "entertainment"
+      ],
+      "charadesHint": "mimic using a PlayStation",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-023",
+      "word": "ADIDAS",
+      "tabooWords": [
+        "sports",
+        "shoes",
+        "athletic",
+        "running",
+        "sneakers"
+      ],
+      "charadesHint": "mimic playing soccer",
+      "passwordHint": "popular shoe brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-024",
+      "word": "COLGATE",
+      "tabooWords": [
+        "oral",
+        "care",
+        "hygiene",
+        "toothpaste",
+        "brushing"
+      ],
+      "charadesHint": "mimic brushing teeth",
+      "passwordHint": "well-known oral care brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-025",
+      "word": "DELL",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "laptops"
+      ],
+      "charadesHint": "mimic using a laptop",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-026",
+      "word": "HEINZ",
+      "tabooWords": [
+        "food",
+        "condiments",
+        "ketchup",
+        "mustard",
+        "relish"
+      ],
+      "charadesHint": "mimic eating a hot dog",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-027",
+      "word": "HP",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "printers"
+      ],
+      "charadesHint": "mimic printing a document",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-028",
+      "word": "LORÉAL",
+      "tabooWords": [
+        "beauty",
+        "cosmetics",
+        "haircare",
+        "skincare",
+        "makeup"
+      ],
+      "charadesHint": "mimic applying makeup",
+      "passwordHint": "well-known beauty brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-029",
+      "word": "MARS",
+      "tabooWords": [
+        "food",
+        "chocolate",
+        "candy",
+        "snacks",
+        "beverages"
+      ],
+      "charadesHint": "mimic eating a candy bar",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-030",
+      "word": "PFIZER",
+      "tabooWords": [
+        "healthcare",
+        "pharmaceuticals",
+        "medicines",
+        "drugs",
+        "vaccines"
+      ],
+      "charadesHint": "mimic taking medicine",
+      "passwordHint": "well-known pharmaceutical company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-031",
+      "word": "PHILIPS",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "home appliances"
+      ],
+      "charadesHint": "mimic using a coffee maker",
+      "passwordHint": "popular tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-032",
+      "word": "RECKITTBENCKISER",
+      "tabooWords": [
+        "household",
+        "products",
+        "cleaning",
+        "hygiene",
+        "personal care"
+      ],
+      "charadesHint": "mimic cleaning the floor",
+      "passwordHint": "major consumer goods company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-033",
+      "word": "SHELL",
+      "tabooWords": [
+        "energy",
+        "oil",
+        "gas",
+        "fuel",
+        "petroleum"
+      ],
+      "charadesHint": "mimic pumping gas",
+      "passwordHint": "well-known energy company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-034",
+      "word": "TIFFANYCO",
+      "tabooWords": [
+        "luxury",
+        "jewelry",
+        "diamonds",
+        "watches",
+        "accessories"
+      ],
+      "charadesHint": "mimic wearing a necklace",
+      "passwordHint": "famous luxury brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-035",
+      "word": "VODAFONE",
+      "tabooWords": [
+        "telecom",
+        "communications",
+        "phones",
+        "networks",
+        "internet"
+      ],
+      "charadesHint": "mimic making a phone call",
+      "passwordHint": "popular telecom company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-036",
+      "word": "WHIRLPOOL",
+      "tabooWords": [
+        "home",
+        "appliances",
+        "kitchen",
+        "laundry",
+        "refrigerators"
+      ],
+      "charadesHint": "mimic washing clothes",
+      "passwordHint": "major home appliances company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-037",
+      "word": "XEROX",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "printers"
+      ],
+      "charadesHint": "mimic photocopying a document",
+      "passwordHint": "well-known tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-038",
+      "word": "YUMBRANDS",
+      "tabooWords": [
+        "food",
+        "restaurants",
+        "fast food",
+        "pizza",
+        "tacos"
+      ],
+      "charadesHint": "mimic eating a pizza",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-039",
+      "word": "ZARA",
+      "tabooWords": [
+        "fashion",
+        "clothing",
+        "retail",
+        "apparel",
+        "shopping"
+      ],
+      "charadesHint": "mimic trying on clothes",
+      "passwordHint": "popular fashion brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-040",
+      "word": "BURGERKING",
+      "tabooWords": [
+        "fast",
+        "food",
+        "restaurant",
+        "burgers",
+        "fries"
+      ],
+      "charadesHint": "mimic eating a burger",
+      "passwordHint": "popular fast food chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-041",
+      "word": "CANON",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "cameras"
+      ],
+      "charadesHint": "mimic taking a photo",
+      "passwordHint": "well-known tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-042",
+      "word": "DIAGEO",
+      "tabooWords": [
+        "beverages",
+        "alcohol",
+        "drinks",
+        "spirits",
+        "wine"
+      ],
+      "charadesHint": "mimic drinking a cocktail",
+      "passwordHint": "major beverage company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-043",
+      "word": "ENERGIZER",
+      "tabooWords": [
+        "batteries",
+        "energy",
+        "power",
+        "flashlights",
+        "torches"
+      ],
+      "charadesHint": "mimic using a flashlight",
+      "passwordHint": "well-known battery brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-044",
+      "word": "FRITOLAY",
+      "tabooWords": [
+        "food",
+        "snacks",
+        "chips",
+        "crisps",
+        "popcorn"
+      ],
+      "charadesHint": "mimic eating chips",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-045",
+      "word": "GILLETTE",
+      "tabooWords": [
+        "personal",
+        "care",
+        "hygiene",
+        "shaving",
+        "razors"
+      ],
+      "charadesHint": "mimic shaving",
+      "passwordHint": "well-known personal care brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-046",
+      "word": "HERSHEYS",
+      "tabooWords": [
+        "food",
+        "chocolate",
+        "candy",
+        "snacks",
+        "beverages"
+      ],
+      "charadesHint": "mimic eating a chocolate bar",
+      "passwordHint": "major food company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-047",
+      "word": "IBM",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "software"
+      ],
+      "charadesHint": "mimic using a computer",
+      "passwordHint": "well-known tech company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-048",
+      "word": "JCPENNEY",
+      "tabooWords": [
+        "retail",
+        "department",
+        "store",
+        "clothing",
+        "apparel"
+      ],
+      "charadesHint": "mimic trying on clothes",
+      "passwordHint": "popular retail chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-049",
+      "word": "KOHLSS",
+      "tabooWords": [
+        "retail",
+        "department",
+        "store",
+        "clothing",
+        "apparel"
+      ],
+      "charadesHint": "mimic shopping",
+      "passwordHint": "popular retail chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-050",
+      "word": "LVMH",
+      "tabooWords": [
+        "luxury",
+        "fashion",
+        "clothing",
+        "accessories",
+        "cosmetics"
+      ],
+      "charadesHint": "mimic wearing luxury clothing",
+      "passwordHint": "famous luxury brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-051",
+      "word": "MATTEL",
+      "tabooWords": [
+        "toys",
+        "games",
+        "children",
+        "entertainment",
+        "fun"
+      ],
+      "charadesHint": "mimic playing with a toy",
+      "passwordHint": "major toy company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-052",
+      "word": "NOKIA",
+      "tabooWords": [
+        "tech",
+        "gadgets",
+        "electronics",
+        "computers",
+        "phones"
+      ],
+      "charadesHint": "mimic using a phone",
+      "passwordHint": "well-known tech brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-053",
+      "word": "OFFICEDEPOT",
+      "tabooWords": [
+        "office",
+        "supplies",
+        "stationery",
+        "paper",
+        "pens"
+      ],
+      "charadesHint": "mimic writing with a pen",
+      "passwordHint": "popular office supply store"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-054",
+      "word": "PANDG",
+      "tabooWords": [
+        "household",
+        "products",
+        "cleaning",
+        "hygiene",
+        "personal care"
+      ],
+      "charadesHint": "mimic washing clothes",
+      "passwordHint": "major consumer goods company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-055",
+      "word": "RALPHLAUREN",
+      "tabooWords": [
+        "fashion",
+        "clothing",
+        "apparel",
+        "luxury",
+        "style"
+      ],
+      "charadesHint": "mimic wearing luxury clothing",
+      "passwordHint": "famous fashion brand"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-056",
+      "word": "SEARS",
+      "tabooWords": [
+        "retail",
+        "department",
+        "store",
+        "clothing",
+        "apparel"
+      ],
+      "charadesHint": "mimic shopping",
+      "passwordHint": "popular retail chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-057",
+      "word": "TESCO",
+      "tabooWords": [
+        "supermarket",
+        "grocery",
+        "retail",
+        "shopping",
+        "food"
+      ],
+      "charadesHint": "mimic shopping for groceries",
+      "passwordHint": "popular supermarket chain"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-058",
+      "word": "UPS",
+      "tabooWords": [
+        "logistics",
+        "shipping",
+        "delivery",
+        "package",
+        "mail"
+      ],
+      "charadesHint": "mimic delivering a package",
+      "passwordHint": "well-known shipping company"
+    },
+    {
+      "id": "brands-supermarket-retail-and-more-059",
+      "word": "VERIZON",
+      "tabooWords": [
+        "telecom",
+        "communications",
+        "phones",
+        "networks",
+        "internet"
+      ],
+      "charadesHint": "mimic making a phone call",
+      "passwordHint": "popular telecom company"
+    }
+  ]
+}
