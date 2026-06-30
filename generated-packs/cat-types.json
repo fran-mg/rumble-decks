@@ -1,0 +1,691 @@
+{
+  "id": "cat-types",
+  "name": "Cat Types",
+  "category": "Animals",
+  "description": "Explore the fascinating world of felines with this purrfect deck of cat types",
+  "difficulty": "Medium",
+  "tags": [
+    "cats",
+    "felines",
+    "breeds"
+  ],
+  "cardCount": 52,
+  "cards": [
+    {
+      "id": "cat-types-001",
+      "word": "SIAMESE",
+      "tabooWords": [
+        "Thai",
+        "Asian",
+        "Oriental",
+        "Shorthair",
+        "Pointed"
+      ],
+      "charadesHint": "mimic a cat's meow",
+      "passwordHint": "originated in Thailand"
+    },
+    {
+      "id": "cat-types-002",
+      "word": "PERSIAN",
+      "tabooWords": [
+        "Iran",
+        "Longhair",
+        "Flatface",
+        "Brachycephalic",
+        "Middle Eastern"
+      ],
+      "charadesHint": "stroke an imaginary long coat",
+      "passwordHint": "known for flat face"
+    },
+    {
+      "id": "cat-types-003",
+      "word": "MAINE COON",
+      "tabooWords": [
+        "Large",
+        "Longhair",
+        "American",
+        "Muscle",
+        "Rugged"
+      ],
+      "charadesHint": "mimic a big cat's movements",
+      "passwordHint": "one of the largest domestic breeds"
+    },
+    {
+      "id": "cat-types-004",
+      "word": "BRITISH SHORTHAIR",
+      "tabooWords": [
+        "Stout",
+        "Broadface",
+        "Shortcoat",
+        "Easygoing",
+        "Laidback"
+      ],
+      "charadesHint": "show a sturdy build",
+      "passwordHint": "has a broad face"
+    },
+    {
+      "id": "cat-types-005",
+      "word": "SPHYNX",
+      "tabooWords": [
+        "Hairless",
+        "Wrinkled",
+        "Canadian",
+        "Curious",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat licking its skin",
+      "passwordHint": "known for lack of fur"
+    },
+    {
+      "id": "cat-types-006",
+      "word": "RAGDOLL",
+      "tabooWords": [
+        "Soft",
+        "Silky",
+        "Muscular",
+        "Laidback",
+        "Affectionate"
+      ],
+      "charadesHint": "show a limp, floppy body",
+      "passwordHint": "goes limp when picked up"
+    },
+    {
+      "id": "cat-types-007",
+      "word": "BENGAL",
+      "tabooWords": [
+        "Energetic",
+        "Intelligent",
+        "Hybrid",
+        "Spotted",
+        "Striped"
+      ],
+      "charadesHint": "mimic a wild cat's energetic movements",
+      "passwordHint": "cross between domestic and wild cat"
+    },
+    {
+      "id": "cat-types-008",
+      "word": "RUSSIAN BLUE",
+      "tabooWords": [
+        "Thickcoat",
+        "Plush",
+        "Greeneyes",
+        "Reserved",
+        "Intelligent"
+      ],
+      "charadesHint": "mimic a cat's reserved nature",
+      "passwordHint": "has a thick, plush coat"
+    },
+    {
+      "id": "cat-types-009",
+      "word": "SAVANNAH",
+      "tabooWords": [
+        "Tall",
+        "Ears",
+        "Spotted",
+        "Hybrid",
+        "Exotic"
+      ],
+      "charadesHint": "mimic a wild cat's tall ears",
+      "passwordHint": "cross between domestic and serval"
+    },
+    {
+      "id": "cat-types-010",
+      "word": "EGYPTIAN MAU",
+      "tabooWords": [
+        "Ancient",
+        "Spotted",
+        "African",
+        "Intelligent",
+        "Active"
+      ],
+      "charadesHint": "mimic an ancient Egyptian symbol",
+      "passwordHint": "one of the oldest domestic breeds"
+    },
+    {
+      "id": "cat-types-011",
+      "word": "OCICAT",
+      "tabooWords": [
+        "Wild",
+        "Spotted",
+        "American",
+        "Muscular",
+        "Playful"
+      ],
+      "charadesHint": "mimic a wild cat's spotted coat",
+      "passwordHint": "developed to resemble a wild cat"
+    },
+    {
+      "id": "cat-types-012",
+      "word": "ABYSSINIAN",
+      "tabooWords": [
+        "Tickled",
+        "Agouti",
+        "African",
+        "Energetic",
+        "Curious"
+      ],
+      "charadesHint": "mimic a cat's energetic movements",
+      "passwordHint": "known for ticked coat pattern"
+    },
+    {
+      "id": "cat-types-013",
+      "word": "BIRMAN",
+      "tabooWords": [
+        "White",
+        "Gloves",
+        "Pointed",
+        "Sacred",
+        "Mysterious"
+      ],
+      "charadesHint": "mimic a cat's white paws",
+      "passwordHint": "has white 'gloves' on paws"
+    },
+    {
+      "id": "cat-types-014",
+      "word": "HIMALAYAN",
+      "tabooWords": [
+        "Pointed",
+        "Longhair",
+        "Colorpoint",
+        "Flatface",
+        "Calm"
+      ],
+      "charadesHint": "mimic a cat's calm nature",
+      "passwordHint": "has a pointed coat pattern"
+    },
+    {
+      "id": "cat-types-015",
+      "word": "BALINESE",
+      "tabooWords": [
+        "Mediumhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's slender build",
+      "passwordHint": "has a medium-length coat"
+    },
+    {
+      "id": "cat-types-016",
+      "word": "JAVANESE",
+      "tabooWords": [
+        "Mediumhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's playful nature",
+      "passwordHint": "similar to Balinese"
+    },
+    {
+      "id": "cat-types-017",
+      "word": "COLORPOINT SHORTHAIR",
+      "tabooWords": [
+        "Pointed",
+        "Shorthair",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a short, sleek coat"
+    },
+    {
+      "id": "cat-types-018",
+      "word": "SINGAPURA",
+      "tabooWords": [
+        "Brown",
+        "Tickled",
+        "Largeeyes",
+        "Curious",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's large eyes",
+      "passwordHint": "one of the smallest domestic breeds"
+    },
+    {
+      "id": "cat-types-019",
+      "word": "DEVON REX",
+      "tabooWords": [
+        "Curly",
+        "Soft",
+        "Intelligent",
+        "Active",
+        "Mischievous"
+      ],
+      "charadesHint": "mimic a cat's curly coat",
+      "passwordHint": "has a unique, curly coat"
+    },
+    {
+      "id": "cat-types-020",
+      "word": "CORNISH REX",
+      "tabooWords": [
+        "Wavy",
+        "Soft",
+        "Intelligent",
+        "Active",
+        "Curious"
+      ],
+      "charadesHint": "mimic a cat's wavy coat",
+      "passwordHint": "has a wavy, low-shedding coat"
+    },
+    {
+      "id": "cat-types-021",
+      "word": "SCOTTISH FOLD",
+      "tabooWords": [
+        "Foldedears",
+        "Shortcoat",
+        "Playful",
+        "Intelligent",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's folded ears",
+      "passwordHint": "has folded ears"
+    },
+    {
+      "id": "cat-types-022",
+      "word": "HIGHLAND FOLD",
+      "tabooWords": [
+        "Foldedears",
+        "Longhair",
+        "Playful",
+        "Intelligent",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's folded ears",
+      "passwordHint": "longhaired version of Scottish Fold"
+    },
+    {
+      "id": "cat-types-023",
+      "word": "NORWEGIAN FOREST CAT",
+      "tabooWords": [
+        "Large",
+        "Longhair",
+        "Fluffy",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's large size",
+      "passwordHint": "has a thick, water-resistant coat"
+    },
+    {
+      "id": "cat-types-024",
+      "word": "BURMESE",
+      "tabooWords": [
+        "Muscular",
+        "Shorthair",
+        "Golden",
+        "Intelligent",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's muscular build",
+      "passwordHint": "has a golden, brown coat"
+    },
+    {
+      "id": "cat-types-025",
+      "word": "TONKINESE",
+      "tabooWords": [
+        "Pointed",
+        "Shorthair",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a short, sleek coat"
+    },
+    {
+      "id": "cat-types-026",
+      "word": "ORIENTAL SHORTHAIR",
+      "tabooWords": [
+        "Shorthair",
+        "Oriental",
+        "Slim",
+        "Energetic",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's slender build",
+      "passwordHint": "has a short, sleek coat"
+    },
+    {
+      "id": "cat-types-027",
+      "word": "ORIENTAL LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Oriental",
+        "Slim",
+        "Energetic",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's long coat",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-028",
+      "word": "SIAMESE ORIENTAL",
+      "tabooWords": [
+        "Pointed",
+        "Shorthair",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "similar to Siamese"
+    },
+    {
+      "id": "cat-types-029",
+      "word": "PETERBALD",
+      "tabooWords": [
+        "Hairless",
+        "Wrinkled",
+        "Russian",
+        "Curious",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's hairless body",
+      "passwordHint": "has a wrinkled, hairless coat"
+    },
+    {
+      "id": "cat-types-030",
+      "word": "DONSKOY",
+      "tabooWords": [
+        "Hairless",
+        "Wrinkled",
+        "Russian",
+        "Curious",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's hairless body",
+      "passwordHint": "has a wrinkled, hairless coat"
+    },
+    {
+      "id": "cat-types-031",
+      "word": "KURILIAN",
+      "tabooWords": [
+        "Longhair",
+        "Fluffy",
+        "Russian",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's long coat",
+      "passwordHint": "has a thick, fluffy coat"
+    },
+    {
+      "id": "cat-types-032",
+      "word": "NEBELUNG",
+      "tabooWords": [
+        "Longhair",
+        "Fluffy",
+        "German",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's long coat",
+      "passwordHint": "has a thick, fluffy coat"
+    },
+    {
+      "id": "cat-types-033",
+      "word": "AMERICAN CURL",
+      "tabooWords": [
+        "Curl",
+        "Ears",
+        "American",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's curled ears",
+      "passwordHint": "has curled ears"
+    },
+    {
+      "id": "cat-types-034",
+      "word": "AMERICAN WIREHAIR",
+      "tabooWords": [
+        "Wirehair",
+        "American",
+        "Intelligent",
+        "Active",
+        "Curious"
+      ],
+      "charadesHint": "mimic a cat's wire-like coat",
+      "passwordHint": "has a unique, wire-like coat"
+    },
+    {
+      "id": "cat-types-035",
+      "word": "AMERICAN SHORTHAIR",
+      "tabooWords": [
+        "Shorthair",
+        "American",
+        "Muscular",
+        "Intelligent",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's sturdy build",
+      "passwordHint": "has a short, sleek coat"
+    },
+    {
+      "id": "cat-types-036",
+      "word": "LAPERM",
+      "tabooWords": [
+        "Curly",
+        "Soft",
+        "American",
+        "Intelligent",
+        "Active"
+      ],
+      "charadesHint": "mimic a cat's curly coat",
+      "passwordHint": "has a curly, soft coat"
+    },
+    {
+      "id": "cat-types-037",
+      "word": "MUNCHKIN",
+      "tabooWords": [
+        "Dwarf",
+        "Shortlegs",
+        "American",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's short legs",
+      "passwordHint": "has short legs"
+    },
+    {
+      "id": "cat-types-038",
+      "word": "SELKIRK REX",
+      "tabooWords": [
+        "Curly",
+        "Soft",
+        "American",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's curly coat",
+      "passwordHint": "has a curly, soft coat"
+    },
+    {
+      "id": "cat-types-039",
+      "word": "PIXIE-BOB",
+      "tabooWords": [
+        "Shorttail",
+        "American",
+        "Intelligent",
+        "Active",
+        "Curious"
+      ],
+      "charadesHint": "mimic a cat's short tail",
+      "passwordHint": "has a short tail"
+    },
+    {
+      "id": "cat-types-040",
+      "word": "OJOS AZULES",
+      "tabooWords": [
+        "Blueeyes",
+        "American",
+        "Intelligent",
+        "Playful",
+        "Curious"
+      ],
+      "charadesHint": "mimic a cat's blue eyes",
+      "passwordHint": "has blue eyes"
+    },
+    {
+      "id": "cat-types-041",
+      "word": "CHAUSIE",
+      "tabooWords": [
+        "Wild",
+        "Hybrid",
+        "American",
+        "Intelligent",
+        "Active"
+      ],
+      "charadesHint": "mimic a wild cat's movements",
+      "passwordHint": "cross between domestic and jungle cat"
+    },
+    {
+      "id": "cat-types-042",
+      "word": "BAMBINO",
+      "tabooWords": [
+        "Hairless",
+        "Wrinkled",
+        "American",
+        "Curious",
+        "Affectionate"
+      ],
+      "charadesHint": "mimic a cat's hairless body",
+      "passwordHint": "has a wrinkled, hairless coat"
+    },
+    {
+      "id": "cat-types-043",
+      "word": "ASHERA",
+      "tabooWords": [
+        "Hybrid",
+        "Asian",
+        "Intelligent",
+        "Active",
+        "Playful"
+      ],
+      "charadesHint": "mimic a wild cat's movements",
+      "passwordHint": "cross between domestic and Asian leopard cat"
+    },
+    {
+      "id": "cat-types-044",
+      "word": "BENGAL LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Hybrid",
+        "American",
+        "Intelligent",
+        "Active"
+      ],
+      "charadesHint": "mimic a wild cat's long coat",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-045",
+      "word": "SAVANNAH LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Hybrid",
+        "American",
+        "Intelligent",
+        "Active"
+      ],
+      "charadesHint": "mimic a wild cat's long coat",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-046",
+      "word": "CHINCHILLA",
+      "tabooWords": [
+        "Thickcoat",
+        "Soft",
+        "Persian",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's thick coat",
+      "passwordHint": "has a thick, soft coat"
+    },
+    {
+      "id": "cat-types-047",
+      "word": "COLORPOINT LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-048",
+      "word": "JAVANESE LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-049",
+      "word": "BALINESE LONGHAIR",
+      "tabooWords": [
+        "Longhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-050",
+      "word": "ORIENTAL LONGHAIR COLORPOINT",
+      "tabooWords": [
+        "Longhair",
+        "Pointed",
+        "Oriental",
+        "Slim",
+        "Energetic"
+      ],
+      "charadesHint": "mimic a cat's pointed coat pattern",
+      "passwordHint": "has a long, flowing coat"
+    },
+    {
+      "id": "cat-types-051",
+      "word": "TURKISH VAN",
+      "tabooWords": [
+        "White",
+        "Van",
+        "Turkish",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's white coat",
+      "passwordHint": "has a white coat with colored points"
+    },
+    {
+      "id": "cat-types-052",
+      "word": "TURKISH ANGORA",
+      "tabooWords": [
+        "Longhair",
+        "Angora",
+        "Turkish",
+        "Intelligent",
+        "Playful"
+      ],
+      "charadesHint": "mimic a cat's long coat",
+      "passwordHint": "has a long, flowing coat"
+    }
+  ]
+}
