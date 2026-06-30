@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "brands-supermarkets-retail-and-more",
+      "name": "Brands: Supermarkets, Retail, And More",
+      "category": "Lifestyle",
+      "description": "Guess popular brands from supermarkets, retail, and more",
+      "icon": "Shop",
+      "color": "#3498db",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/brands-supermarkets-retail-and-more.json",
+      "cardCount": 82
+    },
+    {
       "id": "brands-supermarket-retail-and-more",
       "name": "Brands: Supermarket, Retail And More",
       "category": "Lifestyle",
