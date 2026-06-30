@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "cat-types",
+      "name": "Cat Types",
+      "category": "Animals",
+      "description": "Explore the fascinating world of felines with this purrfect deck of cat types",
+      "icon": "PawPrint",
+      "color": "#6495ED",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/cat-types.json",
+      "cardCount": 52
+    },
+    {
       "id": "dog-types",
       "name": "Dog Types",
       "category": "Animals",
