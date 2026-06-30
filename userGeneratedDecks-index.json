@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "brands-supermarket-retail-and-more",
+      "name": "Brands: Supermarket, Retail And More",
+      "category": "Lifestyle",
+      "description": "Guess the popular brands found in supermarkets and retail stores",
+      "icon": "ShoppingCart",
+      "color": "#FFC107",
+      "url": "https://raw.githubusercontent.com/fran-mg/articulate-decks/main/generated-packs/brands-supermarket-retail-and-more.json",
+      "cardCount": 59
+    },
+    {
       "id": "sayings",
       "name": "Sayings",
       "category": "Lifestyle",
